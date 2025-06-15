@@ -2415,15 +2415,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-15 22:34:21 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-06-15 22:16:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-15 22:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-15 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-15 22:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-15 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-15 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-15 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-15 22:34:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-06-15 22:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-15 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-15 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-15 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-15 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-15 22:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-15 22:41:19 +0000"
     },
     "done": true
   },

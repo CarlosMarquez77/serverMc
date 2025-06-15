@@ -88,3 +88,38 @@
 [15Jun2025 22:19:42.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.39.182.50:42529] logged in with entity id 2486 at (-2314.4711265159626, 83.0, -1004.4434625795014)
 [15Jun2025 22:19:42.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
 [15Jun2025 22:25:38.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[15Jun2025 22:34:42.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro drowned
+[15Jun2025 22:35:30.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was frozen by Ice Dragon
+[15Jun2025 22:36:36.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[15Jun2025 22:36:47.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro drowned
+[15Jun2025 22:38:59.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Disconnected
+[15Jun2025 22:38:59.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
+[15Jun2025 22:38:59.832] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jun2025 22:43:37.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[15Jun2025 22:44:47.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[15Jun2025 22:46:18.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.39.182.50:60725] logged in with entity id 8464 at (-2763.058215595785, 61.653232942063646, -1346.9263908199805)
+[15Jun2025 22:46:18.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[15Jun2025 22:52:29.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Tie me to the Mast]
+[15Jun2025 22:55:13.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lu_AizenZer0[/127.155.52.251:43887] logged in with entity id 10377 at (-4.5, 135.0, 3.5)
+[15Jun2025 22:55:13.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 joined the game
+[15Jun2025 22:55:13.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Ice and Fire]
+[15Jun2025 22:55:25.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=135, z=4}
+[15Jun2025 22:55:25.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=134, z=4}
+[15Jun2025 22:55:26.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=135, z=4}
+[15Jun2025 22:55:27.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=133, z=5}
+[15Jun2025 22:55:43.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=129, z=7}
+[15Jun2025 22:56:11.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_AizenZer0 lost connection: Disconnected
+[15Jun2025 22:56:11.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 left the game
+[15Jun2025 22:56:11.614] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jun2025 22:56:44.462] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57d9f5c9[id=<null>,name=Lu_AizenZer0,properties={},legacy=false] (/127.155.52.251:46135) lost connection: Disconnected
+[15Jun2025 22:56:57.015] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lu_AizenZer0[/127.155.52.251:42891] logged in with entity id 11281 at (-9.207100084622114, 129.0, 6.267379315958747)
+[15Jun2025 22:56:57.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 joined the game
+[15Jun2025 22:57:10.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=130, z=7}
+[15Jun2025 22:57:10.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=129, z=7}
+[15Jun2025 22:57:12.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=130, z=7}
+[15Jun2025 22:57:13.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=129, z=7}
+[15Jun2025 22:57:53.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=129, z=7}
+[15Jun2025 22:57:58.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=125, z=9}
+[15Jun2025 22:58:00.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=125, z=9}
+[15Jun2025 22:58:01.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=124, z=9}
+[15Jun2025 22:59:45.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Monster Hunter]
