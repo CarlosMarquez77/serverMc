@@ -3443,3 +3443,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Jun2025 03:19:58.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-652, y=120, z=274} BlockPos{x=-654, y=118, z=273}
 [15Jun2025 03:21:56.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 03:21:56.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 03:25:28.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[15Jun2025 03:25:50.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Best Friends Forever]
+[15Jun2025 03:26:56.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 03:26:56.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 03:28:59.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 lost connection: Disconnected
+[15Jun2025 03:28:59.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game
+[15Jun2025 03:31:56.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 03:31:56.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

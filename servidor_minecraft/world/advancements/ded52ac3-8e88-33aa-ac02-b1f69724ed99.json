@@ -32,7 +32,8 @@
       "minecraft:ocean": "2025-06-15 03:03:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-15 00:51:45 +0000",
       "minecraft:deep_dark": "2025-06-15 01:13:38 +0000",
-      "minecraft:meadow": "2025-06-15 00:42:26 +0000"
+      "minecraft:meadow": "2025-06-15 00:42:26 +0000",
+      "minecraft:plains": "2025-06-15 03:24:25 +0000"
     },
     "done": false
   },
@@ -500,7 +501,8 @@
       "minecraft:creeper": "2025-06-15 00:51:05 +0000",
       "minecraft:silverfish": "2025-06-15 01:49:53 +0000",
       "minecraft:zombie": "2025-06-15 01:00:26 +0000",
-      "minecraft:drowned": "2025-06-15 02:36:00 +0000"
+      "minecraft:drowned": "2025-06-15 02:36:00 +0000",
+      "minecraft:zombie_villager": "2025-06-15 03:26:58 +0000"
     },
     "done": false
   },
@@ -1554,9 +1556,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-15 03:25:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-06-15 02:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-15 03:25:06 +0000"
     },
     "done": true
   },
@@ -1578,6 +1592,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-06-15 03:25:06 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-06-15 02:58:12 +0000"
@@ -1587,6 +1607,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-15 03:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-15 03:25:06 +0000"
     },
     "done": true
   },
@@ -1620,6 +1646,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-15 03:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-15 03:25:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-15 03:21:14 +0000"
@@ -1644,9 +1682,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-06-15 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-15 03:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-15 03:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-15 03:25:50 +0000"
     },
     "done": true
   },
@@ -1662,9 +1718,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-15 03:25:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-06-15 03:28:24 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
     "criteria": {
       "has_brown_wool": "2025-06-15 02:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-15 03:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-15 03:25:06 +0000"
     },
     "done": true
   },
@@ -1677,6 +1757,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-06-15 02:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-15 03:28:44 +0000"
     },
     "done": true
   },

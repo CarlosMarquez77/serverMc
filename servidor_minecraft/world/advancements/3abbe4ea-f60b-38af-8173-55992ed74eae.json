@@ -28,6 +28,8 @@
       "minecraft:grove": "2025-06-14 23:24:22 +0000",
       "minecraft:forest": "2025-06-15 00:51:32 +0000",
       "minecraft:lush_caves": "2025-06-15 03:06:39 +0000",
+      "minecraft:ocean": "2025-06-15 03:31:24 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-15 03:30:30 +0000",
       "minecraft:deep_dark": "2025-06-15 01:14:57 +0000",
       "minecraft:meadow": "2025-06-14 23:40:56 +0000"
     },
@@ -1776,6 +1778,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-15 02:52:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-15 03:25:36 +0000"
     },
     "done": true
   },

@@ -21,6 +21,7 @@
     "criteria": {
       "minecraft:taiga": "2025-06-15 02:32:37 +0000",
       "minecraft:birch_forest": "2025-06-15 01:15:34 +0000",
+      "minecraft:beach": "2025-06-15 03:31:12 +0000",
       "minecraft:dark_forest": "2025-06-15 02:56:02 +0000",
       "minecraft:river": "2025-06-15 02:33:09 +0000",
       "minecraft:snowy_plains": "2025-06-15 02:28:52 +0000",
@@ -1093,6 +1094,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-15 01:53:31 +0000",
       "minecraft:spider": "2025-06-15 02:35:05 +0000",
+      "minecraft:creeper": "2025-06-15 03:31:04 +0000",
       "minecraft:witch": "2025-06-15 02:24:25 +0000",
       "minecraft:silverfish": "2025-06-15 01:49:42 +0000",
       "minecraft:enderman": "2025-06-15 03:09:19 +0000",
