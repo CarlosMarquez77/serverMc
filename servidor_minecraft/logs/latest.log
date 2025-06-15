@@ -90,3 +90,7 @@
 [15Jun2025 19:35:31.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Atuesta18[/127.56.121.146:45905] logged in with entity id 121 at (-1078.3969473887641, 60.0, -226.6076058213404)
 [15Jun2025 19:35:31.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 joined the game
 [15Jun2025 19:38:24.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1046, y=64, z=-287} BlockPos{x=-1046, y=63, z=-286}
+[15Jun2025 19:51:40.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ice Dragon
+[15Jun2025 19:59:10.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ice Dragon
+[15Jun2025 19:59:57.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 lost connection: Disconnected
+[15Jun2025 19:59:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game

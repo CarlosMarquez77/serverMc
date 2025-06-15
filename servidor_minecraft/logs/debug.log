@@ -1980,3 +1980,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Jun2025 19:46:10.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jun2025 19:51:10.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 19:51:10.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 19:51:40.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ice Dragon
+[15Jun2025 19:56:10.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 19:56:10.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 19:59:10.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ice Dragon
+[15Jun2025 19:59:57.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 lost connection: Disconnected
+[15Jun2025 19:59:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game
+[15Jun2025 20:01:10.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 20:01:10.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
