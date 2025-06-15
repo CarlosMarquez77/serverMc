@@ -133,3 +133,9 @@
 [15Jun2025 01:28:01.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Fishy Business]
 [15Jun2025 01:31:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
 [15Jun2025 01:35:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Fishy Business]
+[15Jun2025 01:46:27.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-354, y=-44, z=35} BlockPos{x=-355, y=-43, z=36}
+[15Jun2025 01:46:41.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-350, y=-49, z=15} BlockPos{x=-350, y=-51, z=16}
+[15Jun2025 01:46:42.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-350, y=-51, z=18} BlockPos{x=-350, y=-50, z=19}
+[15Jun2025 01:46:53.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-353, y=-47, z=26} BlockPos{x=-354, y=-48, z=25}
+[15Jun2025 01:47:18.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-358, y=-39, z=36} BlockPos{x=-357, y=-39, z=35}
+[15Jun2025 01:49:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Monster Hunter]
