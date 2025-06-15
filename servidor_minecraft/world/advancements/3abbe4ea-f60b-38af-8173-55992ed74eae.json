@@ -2184,15 +2184,39 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-06-15 05:43:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_luxtructosaurus": {
+    "criteria": {
+      "killed": "2025-06-15 05:41:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
       "has_item": "2025-06-15 04:48:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-15 05:36:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_chestplate": {
     "criteria": {
       "has_item": "2025-06-15 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-15 05:36:07 +0000"
     },
     "done": true
   },
@@ -2208,9 +2232,63 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2025-06-15 05:38:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_ones_become_neutral": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-15 05:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-15 05:36:07 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-06-15 04:43:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-06-15 05:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-15 05:36:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ominous_catalyst": {
+    "criteria": {
+      "nuclear_bomb": "2025-06-15 05:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-15 05:36:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/trade_with_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-15 05:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-06-15 05:35:12 +0000"
     },
     "done": true
   },
@@ -2232,6 +2310,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/deep_ones_become_helpful": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-15 05:36:41 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
       "discover": "2025-06-15 04:55:56 +0000"
@@ -2241,6 +2325,12 @@
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-06-15 04:46:01 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-06-15 05:42:57 +0000"
     },
     "done": true
   },
@@ -2262,9 +2352,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-06-15 05:36:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-06-15 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-15 05:35:31 +0000"
     },
     "done": true
   },
@@ -2276,6 +2378,7 @@
   },
   "alexscaves:alexscaves/deep_one_items": {
     "criteria": {
+      "magic_conch": "2025-06-15 05:34:39 +0000",
       "gazing_pearl": "2025-06-15 05:33:21 +0000"
     },
     "done": false
@@ -2283,6 +2386,12 @@
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2025-06-15 05:11:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_luxtructosaurus": "2025-06-15 05:41:00 +0000"
     },
     "done": true
   },
