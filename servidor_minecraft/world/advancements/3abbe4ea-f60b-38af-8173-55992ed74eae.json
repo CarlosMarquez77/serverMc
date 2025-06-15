@@ -22,20 +22,27 @@
       "minecraft:old_growth_pine_taiga": "2025-06-15 04:04:12 +0000",
       "minecraft:taiga": "2025-06-15 02:33:08 +0000",
       "minecraft:deep_ocean": "2025-06-15 05:21:48 +0000",
+      "minecraft:frozen_river": "2025-06-15 05:24:20 +0000",
       "minecraft:birch_forest": "2025-06-15 00:05:59 +0000",
+      "minecraft:wooded_badlands": "2025-06-15 05:25:32 +0000",
+      "minecraft:badlands": "2025-06-15 05:26:00 +0000",
       "minecraft:beach": "2025-06-15 03:38:39 +0000",
       "minecraft:dark_forest": "2025-06-15 02:49:31 +0000",
       "minecraft:river": "2025-06-15 00:51:39 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-15 05:24:37 +0000",
       "minecraft:stony_shore": "2025-06-15 03:55:18 +0000",
       "minecraft:dripstone_caves": "2025-06-15 00:55:33 +0000",
       "minecraft:snowy_taiga": "2025-06-15 02:31:17 +0000",
       "minecraft:grove": "2025-06-14 23:24:22 +0000",
       "minecraft:jagged_peaks": "2025-06-15 04:41:00 +0000",
+      "minecraft:cold_ocean": "2025-06-15 05:28:07 +0000",
       "minecraft:forest": "2025-06-15 00:51:32 +0000",
       "minecraft:lush_caves": "2025-06-15 03:06:39 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-15 05:28:52 +0000",
       "minecraft:frozen_ocean": "2025-06-15 05:02:42 +0000",
       "minecraft:desert": "2025-06-15 05:13:05 +0000",
       "minecraft:ocean": "2025-06-15 03:31:24 +0000",
+      "minecraft:jungle": "2025-06-15 05:24:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-15 04:03:12 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-15 05:20:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-15 03:30:30 +0000",
@@ -2237,6 +2244,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-06-15 05:29:35 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-06-15 05:04:19 +0000"
@@ -2254,6 +2267,18 @@
       "has_dragonscales_silver": "2025-06-15 04:48:56 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-06-15 05:27:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "gazing_pearl": "2025-06-15 05:33:21 +0000"
+    },
+    "done": false
   },
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {

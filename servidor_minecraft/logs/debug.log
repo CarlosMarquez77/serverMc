@@ -3708,3 +3708,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Jun2025 05:23:25.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 5.908445758188691,5.046753800539975,-7.001000632405294
 [15Jun2025 05:23:41.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 05:23:41.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 05:26:14.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[15Jun2025 05:27:07.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14949ms or 298 ticks behind
+[15Jun2025 05:27:07.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 8.93480693110132,0.0,4.541058191401817
+[15Jun2025 05:27:46.221] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:abyssal_chasm took 9781 ms
+[15Jun2025 05:27:46.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9760ms or 195 ticks behind
+[15Jun2025 05:27:46.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 10.195671175614962,0.0,-0.7200001650908234
+[15Jun2025 05:27:55.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -3839.500000, 0.000000, 11747.500000]
+[15Jun2025 05:27:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Beyond the Sea]
+[15Jun2025 05:28:18.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[15Jun2025 05:28:46.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[15Jun2025 05:29:08.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 05:29:08.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 05:29:35.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Shell City]
+[15Jun2025 05:31:55.325] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:abyssal_altar took 31 ms
+[15Jun2025 05:31:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -3799.500000, 61.448352, 12024.500000]
+[15Jun2025 05:32:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -3799.500000, -31.170983, 12024.500000]
+[15Jun2025 05:32:54.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[15Jun2025 05:34:08.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 05:34:08.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
