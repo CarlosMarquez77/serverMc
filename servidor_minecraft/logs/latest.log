@@ -278,3 +278,46 @@
 [15Jun2025 05:02:35.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12127ms or 242 ticks behind
 [15Jun2025 05:02:37.089] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:trench_ignores_stone_in (minecraft:frozen_ocean) took 146 ms
 [15Jun2025 05:02:42.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -2669.500000, 72.000000, -327.500000]
+[15Jun2025 05:04:13.086] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:primordial_caves took 1124 ms
+[15Jun2025 05:04:18.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -1005.500000, 8.000000, -2023.500000]
+[15Jun2025 05:04:19.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [The Cave That Time Forgot]
+[15Jun2025 05:05:24.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.491587041913249,-3.285913006759861,-4.249543110122431
+[15Jun2025 05:05:24.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[15Jun2025 05:05:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[15Jun2025 05:06:33.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[15Jun2025 05:07:49.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[15Jun2025 05:07:58.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[15Jun2025 05:08:17.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[15Jun2025 05:08:29.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[15Jun2025 05:10:08.518] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:forlorn_hollows took 1619 ms
+[15Jun2025 05:10:14.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -3108.500000, 59.000000, -111.500000]
+[15Jun2025 05:10:14.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2472ms or 49 ticks behind
+[15Jun2025 05:10:40.932] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:candy_cavity took 715 ms
+[15Jun2025 05:10:41.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12052ms or 241 ticks behind
+[15Jun2025 05:10:45.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -1673.500000, -9.000000, 1011.500000]
+[15Jun2025 05:10:45.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Pure Imagination]
+[15Jun2025 05:11:08.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Oh Little Town of Gingerbread]
+[15Jun2025 05:12:43.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14131ms or 282 ticks behind
+[15Jun2025 05:12:49.369] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:toxic_caves took 4424 ms
+[15Jun2025 05:12:53.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 2210.500000, 0.000000, -325.500000]
+[15Jun2025 05:12:54.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Radiation Vibe]
+[15Jun2025 05:15:37.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[15Jun2025 05:16:02.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Bath Bomb]
+[15Jun2025 05:16:12.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[15Jun2025 05:16:40.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[15Jun2025 05:16:49.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[15Jun2025 05:18:35.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14513ms or 290 ticks behind
+[15Jun2025 05:20:07.935] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:monument took 744 ms
+[15Jun2025 05:20:12.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 1280.500000, -0.796657, 272.500000]
+[15Jun2025 05:20:50.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14985ms or 299 ticks behind
+[15Jun2025 05:20:50.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 0.49841794254939487,9.187501324600696,-4.8323736086731515
+[15Jun2025 05:21:42.782] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:deep_ocean took 107 ms
+[15Jun2025 05:21:47.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 696.500000, 91.000000, 173.500000]
+[15Jun2025 05:22:12.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14960ms or 299 ticks behind
+[15Jun2025 05:22:12.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 0.0,-10.312500617038765,0.0
+[15Jun2025 05:22:45.215] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:cold_ocean took 68 ms
+[15Jun2025 05:22:56.490] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ocean took 0 ms
+[15Jun2025 05:23:08.419] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:savanna took 124 ms
+[15Jun2025 05:23:13.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 1058.500000, 81.000000, -481.500000]
+[15Jun2025 05:23:13.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
+[15Jun2025 05:23:25.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 5.908445758188691,5.046753800539975,-7.001000632405294

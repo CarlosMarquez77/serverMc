@@ -21,6 +21,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-15 04:04:12 +0000",
       "minecraft:taiga": "2025-06-15 02:33:08 +0000",
+      "minecraft:deep_ocean": "2025-06-15 05:21:48 +0000",
       "minecraft:birch_forest": "2025-06-15 00:05:59 +0000",
       "minecraft:beach": "2025-06-15 03:38:39 +0000",
       "minecraft:dark_forest": "2025-06-15 02:49:31 +0000",
@@ -32,11 +33,16 @@
       "minecraft:jagged_peaks": "2025-06-15 04:41:00 +0000",
       "minecraft:forest": "2025-06-15 00:51:32 +0000",
       "minecraft:lush_caves": "2025-06-15 03:06:39 +0000",
+      "minecraft:frozen_ocean": "2025-06-15 05:02:42 +0000",
+      "minecraft:desert": "2025-06-15 05:13:05 +0000",
       "minecraft:ocean": "2025-06-15 03:31:24 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-15 04:03:12 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-15 05:20:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-15 03:30:30 +0000",
       "minecraft:deep_dark": "2025-06-15 01:14:57 +0000",
-      "minecraft:meadow": "2025-06-14 23:40:56 +0000"
+      "minecraft:meadow": "2025-06-14 23:40:56 +0000",
+      "minecraft:savanna": "2025-06-15 05:23:13 +0000",
+      "minecraft:plains": "2025-06-15 05:23:18 +0000"
     },
     "done": false
   },
@@ -2165,6 +2171,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-06-15 05:10:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
       "has_item": "2025-06-15 04:48:56 +0000"
@@ -2195,6 +2207,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-06-15 05:12:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-06-15 04:48:56 +0000"
@@ -2219,9 +2237,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-06-15 05:04:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-06-15 05:16:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-06-15 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-06-15 05:11:08 +0000"
     },
     "done": true
   },
