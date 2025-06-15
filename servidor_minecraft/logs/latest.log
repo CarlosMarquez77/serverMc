@@ -85,3 +85,6 @@
 [15Jun2025 22:10:39.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
 [15Jun2025 22:10:58.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set the time to 1000]
 [15Jun2025 22:11:17.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro fell from a high place
+[15Jun2025 22:19:42.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.39.182.50:42529] logged in with entity id 2486 at (-2314.4711265159626, 83.0, -1004.4434625795014)
+[15Jun2025 22:19:42.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[15Jun2025 22:25:38.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
