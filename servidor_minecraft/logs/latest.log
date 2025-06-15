@@ -187,3 +187,29 @@
 [15Jun2025 02:08:29.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
 [15Jun2025 02:10:18.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
 [15Jun2025 02:10:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
+[15Jun2025 02:17:04.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Hot Stuff]
+[15Jun2025 02:21:56.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Sweet Dreams]
+[15Jun2025 02:21:57.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> ya
+[15Jun2025 02:25:44.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:56787] logged in with entity id 23429 at (-408.39746694816085, 36.0, 99.4320952042641)
+[15Jun2025 02:25:44.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[15Jun2025 02:25:52.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
+[15Jun2025 02:25:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
+[15Jun2025 02:27:55.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35c7cc44[id=<null>,name=KyoShiiro,properties={},legacy=false] (/127.155.52.251:50971) lost connection: Disconnected
+[15Jun2025 02:28:05.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:33569] logged in with entity id 24171 at (-408.39746694816085, 36.0, 99.4320952042641)
+[15Jun2025 02:28:05.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[15Jun2025 02:29:25.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[15Jun2025 02:37:16.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> go to sleep
+[15Jun2025 02:37:42.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[15Jun2025 02:38:02.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Who You Gonna Call?]
+[15Jun2025 02:38:14.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 lost connection: Timed out
+[15Jun2025 02:38:14.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game
+[15Jun2025 02:39:12.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
+[15Jun2025 02:39:12.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
+[15Jun2025 02:39:50.523] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ee3ad2a[id=<null>,name=Atuesta18,properties={},legacy=false] (/127.56.121.146:59917) lost connection: Disconnected
+[15Jun2025 02:40:47.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [It Belongs in a Museum]
+[15Jun2025 02:41:07.518] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@531c446f[id=<null>,name=KyoShiiro,properties={},legacy=false] (/127.155.52.251:50919) lost connection: Disconnected
+[15Jun2025 02:41:14.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:40291] logged in with entity id 30942 at (-1013.4603362212769, 63.0, -321.72480160433787)
+[15Jun2025 02:41:14.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[15Jun2025 02:41:36.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[15Jun2025 02:41:50.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
+[15Jun2025 02:41:50.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
