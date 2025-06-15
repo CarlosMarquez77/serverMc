@@ -25,6 +25,7 @@
       "minecraft:dark_forest": "2025-06-15 02:56:02 +0000",
       "minecraft:river": "2025-06-15 02:33:09 +0000",
       "minecraft:snowy_plains": "2025-06-15 02:28:52 +0000",
+      "minecraft:stony_shore": "2025-06-15 03:55:13 +0000",
       "minecraft:dripstone_caves": "2025-06-15 01:53:01 +0000",
       "minecraft:snowy_taiga": "2025-06-15 02:26:06 +0000",
       "minecraft:grove": "2025-06-15 01:13:26 +0000",
@@ -1260,9 +1261,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-15 03:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-15 02:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-06-15 03:48:24 +0000"
     },
     "done": true
   },
@@ -1275,6 +1288,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-15 02:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-15 03:48:24 +0000"
     },
     "done": true
   },
@@ -1374,9 +1393,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-15 03:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-15 02:21:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-06-15 03:45:43 +0000"
     },
     "done": true
   },
@@ -1404,6 +1435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-15 03:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-15 02:26:04 +0000"
@@ -1428,6 +1465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-15 03:48:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-06-15 02:50:33 +0000"
@@ -1437,6 +1480,12 @@
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-06-15 02:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-15 03:45:50 +0000"
     },
     "done": true
   },
@@ -1479,6 +1528,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-15 02:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-15 03:48:24 +0000"
     },
     "done": true
   },
@@ -1566,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-15 03:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-06-15 02:57:45 +0000"
@@ -1626,6 +1687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-15 03:48:24 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-06-15 03:09:26 +0000"
@@ -1635,6 +1702,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-15 02:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-15 03:48:24 +0000"
     },
     "done": true
   },
@@ -1716,6 +1789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-15 03:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-06-15 02:20:21 +0000"
@@ -1740,9 +1819,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-15 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-15 03:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-15 03:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-15 03:48:24 +0000"
     },
     "done": true
   },
@@ -1761,6 +1858,12 @@
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-06-15 02:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-15 03:48:24 +0000"
     },
     "done": true
   },

@@ -3455,3 +3455,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Jun2025 03:36:56.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jun2025 03:41:56.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 03:41:56.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 03:44:52.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[15Jun2025 03:45:42.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Alex's Caves]
+[15Jun2025 03:45:43.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Alex's Caves]
+[15Jun2025 03:45:46.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [It Belongs in a Museum]
+[15Jun2025 03:46:56.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 03:46:56.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 03:51:56.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 03:51:56.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 03:56:56.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 03:56:56.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 03:58:50.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Wingin' It]
+[15Jun2025 04:01:56.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:01:56.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:06:56.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:06:56.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:09:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ice Dragon
+[15Jun2025 04:11:56.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:11:56.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:12:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Dragonslayer]
