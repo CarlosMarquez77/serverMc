@@ -139,3 +139,51 @@
 [15Jun2025 01:46:53.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-353, y=-47, z=26} BlockPos{x=-354, y=-48, z=25}
 [15Jun2025 01:47:18.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-358, y=-39, z=36} BlockPos{x=-357, y=-39, z=35}
 [15Jun2025 01:49:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Monster Hunter]
+[15Jun2025 01:53:07.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [First Age]
+[15Jun2025 01:55:47.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ferrous Wroughtnaut
+[15Jun2025 01:55:58.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[15Jun2025 01:56:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ferrous Wroughtnaut
+[15Jun2025 01:56:40.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[15Jun2025 01:58:44.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Disconnected
+[15Jun2025 01:58:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
+[15Jun2025 01:58:44.470] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jun2025 01:59:29.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.39.182.50:47059] logged in with entity id 15815 at (-399.01736820155713, 32.0, 98.33519292823131)
+[15Jun2025 01:59:29.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[15Jun2025 01:59:33.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ferrous Wroughtnaut
+[15Jun2025 01:59:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ferrous Wroughtnaut
+[15Jun2025 01:59:39.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[15Jun2025 01:59:41.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ferrous Wroughtnaut
+[15Jun2025 01:59:41.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ferrous Wroughtnaut
+[15Jun2025 02:00:28.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[15Jun2025 02:00:32.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[15Jun2025 02:00:46.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has completed the challenge [Cannibal]
+[15Jun2025 02:02:18.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ferrous Wroughtnaut
+[15Jun2025 02:02:23.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[15Jun2025 02:03:49.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ferrous Wroughtnaut
+[15Jun2025 02:04:08.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[15Jun2025 02:04:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ferrous Wroughtnaut
+[15Jun2025 02:05:11.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[15Jun2025 02:05:36.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ferrous Wroughtnaut
+[15Jun2025 02:05:41.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[15Jun2025 02:05:54.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ferrous Wroughtnaut
+[15Jun2025 02:05:59.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Just a Flesh Wound]
+[15Jun2025 02:06:17.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=136, z=7}
+[15Jun2025 02:06:17.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=136, z=8}
+[15Jun2025 02:06:17.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=136, z=8}
+[15Jun2025 02:06:18.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=136, z=7}
+[15Jun2025 02:06:18.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=136, z=8}
+[15Jun2025 02:06:23.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: You logged in from another location
+[15Jun2025 02:06:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
+[15Jun2025 02:06:23.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:50301] logged in with entity id 18864 at (-400.7557824751716, 31.0, 109.9593081347362)
+[15Jun2025 02:06:23.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[15Jun2025 02:06:44.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=136, z=9}
+[15Jun2025 02:06:44.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=136, z=9}
+[15Jun2025 02:06:44.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=136, z=8}
+[15Jun2025 02:06:44.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=136, z=8}
+[15Jun2025 02:06:45.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=137, z=8}
+[15Jun2025 02:06:45.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=137, z=8}
+[15Jun2025 02:06:47.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[15Jun2025 02:08:22.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Atuesta18
+[15Jun2025 02:08:29.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[15Jun2025 02:10:18.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
+[15Jun2025 02:10:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game

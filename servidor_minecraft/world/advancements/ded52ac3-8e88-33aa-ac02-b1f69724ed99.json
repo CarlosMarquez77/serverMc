@@ -436,6 +436,7 @@
       "minecraft:skeleton": "2025-06-15 00:53:58 +0000",
       "minecraft:spider": "2025-06-15 01:09:06 +0000",
       "minecraft:creeper": "2025-06-15 00:51:05 +0000",
+      "minecraft:silverfish": "2025-06-15 01:49:53 +0000",
       "minecraft:zombie": "2025-06-15 01:00:26 +0000"
     },
     "done": false
@@ -977,6 +978,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 00:58:42 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-06-15 02:00:46 +0000"
     },
     "done": true
   },
