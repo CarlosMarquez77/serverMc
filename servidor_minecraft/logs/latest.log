@@ -213,3 +213,24 @@
 [15Jun2025 02:41:36.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
 [15Jun2025 02:41:50.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
 [15Jun2025 02:41:50.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
+[15Jun2025 02:42:35.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Atuesta18[/127.56.121.146:46707] logged in with entity id 31580 at (-545.6384933100613, 63.0, -111.53319880123247)
+[15Jun2025 02:42:35.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 joined the game
+[15Jun2025 02:43:21.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:51227] logged in with entity id 32258 at (-1118.066912938141, 69.0, -542.7751511760536)
+[15Jun2025 02:43:21.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[15Jun2025 02:43:36.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[15Jun2025 02:47:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[15Jun2025 02:49:05.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Take Aim]
+[15Jun2025 02:52:04.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Hot Stuff]
+[15Jun2025 02:54:32.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Who You Gonna Call?]
+[15Jun2025 02:55:29.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Who You Gonna Call?]
+[15Jun2025 03:02:23.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Second Age]
+[15Jun2025 03:05:58.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Learn to Fart]
+[15Jun2025 03:06:45.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Not Today, Thank You]
+[15Jun2025 03:06:51.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The Cutest Predator]
+[15Jun2025 03:09:54.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [The Cutest Predator]
+[15Jun2025 03:11:23.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[15Jun2025 03:13:24.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> penes?
+[15Jun2025 03:14:43.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[15Jun2025 03:16:11.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Local Brewery]
+[15Jun2025 03:17:15.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45625, l='ServerLevel[world]', x=-475.50, y=82.05, z=379.50] died, message: 'Villager tried to swim in lava'
+[15Jun2025 03:19:58.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-652, y=120, z=274} BlockPos{x=-654, y=118, z=273}
