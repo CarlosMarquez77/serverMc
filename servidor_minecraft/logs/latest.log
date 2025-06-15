@@ -250,3 +250,9 @@
 [15Jun2025 04:17:23.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ghost
 [15Jun2025 04:17:58.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Timed out
 [15Jun2025 04:17:58.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
+[15Jun2025 04:37:11.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: You logged in from another location
+[15Jun2025 04:37:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
+[15Jun2025 04:37:11.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:46101] logged in with entity id 81690 at (-3957.144081726282, 138.0, -1222.2506464093374)
+[15Jun2025 04:37:11.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[15Jun2025 04:38:59.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ice Dragon
+[15Jun2025 04:39:25.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set the time to 13000]
