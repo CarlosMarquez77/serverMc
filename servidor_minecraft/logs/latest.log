@@ -1,355 +1,92 @@
-[15Jun2025 00:31:27.519] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[15Jun2025 00:31:27.524] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[15Jun2025 00:31:27.855] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15Jun2025 00:31:27.905] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serverMc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15Jun2025 00:31:28.136] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jun2025 00:31:28.137] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jun2025 00:31:28.138] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jun2025 00:31:28.140] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jun2025 00:31:28.257] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[15Jun2025 00:31:30.042] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15Jun2025 00:31:30.072] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15Jun2025 00:31:36.296] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[15Jun2025 19:30:22.114] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[15Jun2025 19:30:22.118] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[15Jun2025 19:30:24.645] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15Jun2025 19:30:24.775] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serverMc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[15Jun2025 19:30:25.259] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jun2025 19:30:25.262] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jun2025 19:30:25.264] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jun2025 19:30:25.266] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jun2025 19:30:25.703] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[15Jun2025 19:30:28.501] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Jun2025 19:30:28.592] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15Jun2025 19:30:39.695] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[15Jun2025 00:31:37.009] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[15Jun2025 00:31:37.010] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[15Jun2025 00:31:39.497] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[15Jun2025 00:31:39.751] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[15Jun2025 00:31:40.023] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[15Jun2025 00:31:40.167] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[15Jun2025 00:31:40.388] [main/INFO] [journeymap/]: Initializing Packet Registries
-[15Jun2025 00:31:40.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.40 Target: 1.2.54
-[15Jun2025 00:31:40.430] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[15Jun2025 00:31:40.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.2 Target: 1.20.1
-[15Jun2025 00:31:40.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15Jun2025 00:31:40.460] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[15Jun2025 00:31:40.461] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[15Jun2025 00:31:40.461] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[15Jun2025 00:31:40.463] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[15Jun2025 00:31:40.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[15Jun2025 00:31:40.773] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[15Jun2025 00:31:41.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.15 Target: 1.20.1-1.0.23
-[15Jun2025 00:31:41.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[15Jun2025 00:31:41.983] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.0 Target: null
-[15Jun2025 00:31:41.983] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[15Jun2025 00:31:42.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
-[15Jun2025 00:31:42.367] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15Jun2025 00:31:43.618] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/assets/.mcassetsroot' uses unexpected schema
-[15Jun2025 00:31:43.618] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/data/.mcassetsroot' uses unexpected schema
-[15Jun2025 00:31:45.526] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[15Jun2025 00:31:45.664] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1929 advancements
-[15Jun2025 00:31:46.448] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[15Jun2025 00:31:46.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[15Jun2025 00:31:46.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[15Jun2025 00:31:46.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[15Jun2025 00:31:46.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[15Jun2025 00:31:46.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[15Jun2025 00:31:46.782] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[15Jun2025 00:31:46.872] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15Jun2025 00:31:46.872] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[15Jun2025 00:31:46.872] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15Jun2025 00:31:46.873] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[15Jun2025 00:31:46.888] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
-[15Jun2025 00:31:46.890] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Jun2025 00:31:46.890] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
-[15Jun2025 00:31:46.890] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
-[15Jun2025 00:31:46.891] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
-[15Jun2025 00:31:46.896] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[15Jun2025 00:31:46.897] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[15Jun2025 00:31:46.898] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[15Jun2025 00:31:47.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[15Jun2025 00:31:50.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[15Jun2025 00:31:55.165] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 00:31:55.182] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 00:31:55.190] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 00:31:55.199] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 00:31:55.204] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 00:31:55.213] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 00:31:55.225] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 00:31:55.232] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 00:31:55.234] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 00:31:55.343] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 00:31:55.841] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[15Jun2025 00:31:56.341] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[15Jun2025 00:31:56.582] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5742 ms
-[15Jun2025 00:31:56.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.696s)! For help, type "help"
-[15Jun2025 00:31:56.616] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[15Jun2025 00:31:56.671] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[15Jun2025 00:31:56.693] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[15Jun2025 00:31:56.694] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[15Jun2025 00:31:56.694] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[15Jun2025 00:31:56.736] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[15Jun2025 00:31:56.736] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[15Jun2025 00:31:56.737] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[15Jun2025 00:31:56.737] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[15Jun2025 00:32:23.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:47067] logged in with entity id 273 at (-66.30000001192093, 100.0, 25.30000001192093)
-[15Jun2025 00:32:23.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
-[15Jun2025 00:35:26.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Getting an Upgrade]
-[15Jun2025 00:42:03.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Atuesta18[/127.56.121.146:54693] logged in with entity id 1954 at (0.5, 146.0, 1.5)
-[15Jun2025 00:42:03.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 joined the game
-[15Jun2025 00:42:03.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Ice and Fire]
-[15Jun2025 00:43:34.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Stone Age]
-[15Jun2025 00:44:59.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Getting an Upgrade]
-[15Jun2025 00:47:10.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Kyoshiro a server operator
-[15Jun2025 00:47:28.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made KyoShiiro a server operator
-[15Jun2025 00:50:10.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Sweet Dreams]
-[15Jun2025 00:50:14.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Sweet Dreams]
-[15Jun2025 00:51:05.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Monster Hunter]
-[15Jun2025 00:58:42.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Acquire Hardware]
-[15Jun2025 01:00:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> cooper
-[15Jun2025 01:00:33.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> copper
-[15Jun2025 01:00:54.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Isn't It Iron Pick]
-[15Jun2025 01:01:04.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Acquire Hardware]
-[15Jun2025 01:01:12.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Isn't It Iron Pick]
-[15Jun2025 01:01:35.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Suit Up]
-[15Jun2025 01:05:27.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [First Age]
-[15Jun2025 01:12:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Hot Stuff]
-[15Jun2025 01:13:25.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.39.182.50:43667] logged in with entity id 7746 at (-8.5, 131.0, 0.5)
-[15Jun2025 01:13:25.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
-[15Jun2025 01:13:25.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Ice and Fire]
-[15Jun2025 01:14:44.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Atuesta18]
-[15Jun2025 01:14:57.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=130, z=7}
-[15Jun2025 01:14:57.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=129, z=7}
-[15Jun2025 01:14:57.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=130, z=7}
-[15Jun2025 01:14:58.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=129, z=7}
-[15Jun2025 01:15:06.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Sneak 100]
-[15Jun2025 01:15:09.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=130, z=7}
-[15Jun2025 01:15:09.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=129, z=7}
-[15Jun2025 01:15:09.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Sneak 100]
-[15Jun2025 01:17:04.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
-[15Jun2025 01:17:08.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Diamonds!]
-[15Jun2025 01:18:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Acquire Hardware]
-[15Jun2025 01:18:08.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Diamonds!]
-[15Jun2025 01:18:11.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Diamonds!]
-[15Jun2025 01:18:13.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Isn't It Iron Pick]
-[15Jun2025 01:18:16.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Stone Age]
-[15Jun2025 01:18:24.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> orlando se lo acuesta?
-[15Jun2025 01:18:30.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> depende
-[15Jun2025 01:18:33.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> ya vengo
-[15Jun2025 01:18:40.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> bre
-[15Jun2025 01:19:54.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Suit Up]
-[15Jun2025 01:27:25.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [First Age]
-[15Jun2025 01:27:49.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Suit Up]
-[15Jun2025 01:28:01.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Fishy Business]
-[15Jun2025 01:31:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
-[15Jun2025 01:35:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Fishy Business]
-[15Jun2025 01:46:27.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-354, y=-44, z=35} BlockPos{x=-355, y=-43, z=36}
-[15Jun2025 01:46:41.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-350, y=-49, z=15} BlockPos{x=-350, y=-51, z=16}
-[15Jun2025 01:46:42.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-350, y=-51, z=18} BlockPos{x=-350, y=-50, z=19}
-[15Jun2025 01:46:53.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-353, y=-47, z=26} BlockPos{x=-354, y=-48, z=25}
-[15Jun2025 01:47:18.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-358, y=-39, z=36} BlockPos{x=-357, y=-39, z=35}
-[15Jun2025 01:49:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Monster Hunter]
-[15Jun2025 01:53:07.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [First Age]
-[15Jun2025 01:55:47.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ferrous Wroughtnaut
-[15Jun2025 01:55:58.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
-[15Jun2025 01:56:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ferrous Wroughtnaut
-[15Jun2025 01:56:40.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
-[15Jun2025 01:58:44.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Disconnected
-[15Jun2025 01:58:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
-[15Jun2025 01:58:44.470] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[15Jun2025 01:59:29.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.39.182.50:47059] logged in with entity id 15815 at (-399.01736820155713, 32.0, 98.33519292823131)
-[15Jun2025 01:59:29.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
-[15Jun2025 01:59:33.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ferrous Wroughtnaut
-[15Jun2025 01:59:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ferrous Wroughtnaut
-[15Jun2025 01:59:39.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
-[15Jun2025 01:59:41.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ferrous Wroughtnaut
-[15Jun2025 01:59:41.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ferrous Wroughtnaut
-[15Jun2025 02:00:28.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
-[15Jun2025 02:00:32.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
-[15Jun2025 02:00:46.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has completed the challenge [Cannibal]
-[15Jun2025 02:02:18.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ferrous Wroughtnaut
-[15Jun2025 02:02:23.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
-[15Jun2025 02:03:49.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ferrous Wroughtnaut
-[15Jun2025 02:04:08.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
-[15Jun2025 02:04:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ferrous Wroughtnaut
-[15Jun2025 02:05:11.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
-[15Jun2025 02:05:36.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ferrous Wroughtnaut
-[15Jun2025 02:05:41.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
-[15Jun2025 02:05:54.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ferrous Wroughtnaut
-[15Jun2025 02:05:59.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Just a Flesh Wound]
-[15Jun2025 02:06:17.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=136, z=7}
-[15Jun2025 02:06:17.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=136, z=8}
-[15Jun2025 02:06:17.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=136, z=8}
-[15Jun2025 02:06:18.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=136, z=7}
-[15Jun2025 02:06:18.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=136, z=8}
-[15Jun2025 02:06:23.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: You logged in from another location
-[15Jun2025 02:06:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
-[15Jun2025 02:06:23.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:50301] logged in with entity id 18864 at (-400.7557824751716, 31.0, 109.9593081347362)
-[15Jun2025 02:06:23.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
-[15Jun2025 02:06:44.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=136, z=9}
-[15Jun2025 02:06:44.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=136, z=9}
-[15Jun2025 02:06:44.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=136, z=8}
-[15Jun2025 02:06:44.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=136, z=8}
-[15Jun2025 02:06:45.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=137, z=8}
-[15Jun2025 02:06:45.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=137, z=8}
-[15Jun2025 02:06:47.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
-[15Jun2025 02:08:22.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Atuesta18
-[15Jun2025 02:08:29.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
-[15Jun2025 02:10:18.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
-[15Jun2025 02:10:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
-[15Jun2025 02:17:04.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Hot Stuff]
-[15Jun2025 02:21:56.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Sweet Dreams]
-[15Jun2025 02:21:57.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> ya
-[15Jun2025 02:25:44.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:56787] logged in with entity id 23429 at (-408.39746694816085, 36.0, 99.4320952042641)
-[15Jun2025 02:25:44.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
-[15Jun2025 02:25:52.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
-[15Jun2025 02:25:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
-[15Jun2025 02:27:55.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35c7cc44[id=<null>,name=KyoShiiro,properties={},legacy=false] (/127.155.52.251:50971) lost connection: Disconnected
-[15Jun2025 02:28:05.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:33569] logged in with entity id 24171 at (-408.39746694816085, 36.0, 99.4320952042641)
-[15Jun2025 02:28:05.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
-[15Jun2025 02:29:25.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
-[15Jun2025 02:37:16.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> go to sleep
-[15Jun2025 02:37:42.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
-[15Jun2025 02:38:02.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Who You Gonna Call?]
-[15Jun2025 02:38:14.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 lost connection: Timed out
-[15Jun2025 02:38:14.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game
-[15Jun2025 02:39:12.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
-[15Jun2025 02:39:12.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
-[15Jun2025 02:39:50.523] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ee3ad2a[id=<null>,name=Atuesta18,properties={},legacy=false] (/127.56.121.146:59917) lost connection: Disconnected
-[15Jun2025 02:40:47.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [It Belongs in a Museum]
-[15Jun2025 02:41:07.518] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@531c446f[id=<null>,name=KyoShiiro,properties={},legacy=false] (/127.155.52.251:50919) lost connection: Disconnected
-[15Jun2025 02:41:14.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:40291] logged in with entity id 30942 at (-1013.4603362212769, 63.0, -321.72480160433787)
-[15Jun2025 02:41:14.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
-[15Jun2025 02:41:36.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
-[15Jun2025 02:41:50.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
-[15Jun2025 02:41:50.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
-[15Jun2025 02:42:35.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Atuesta18[/127.56.121.146:46707] logged in with entity id 31580 at (-545.6384933100613, 63.0, -111.53319880123247)
-[15Jun2025 02:42:35.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 joined the game
-[15Jun2025 02:43:21.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:51227] logged in with entity id 32258 at (-1118.066912938141, 69.0, -542.7751511760536)
-[15Jun2025 02:43:21.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
-[15Jun2025 02:43:36.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
-[15Jun2025 02:47:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
-[15Jun2025 02:49:05.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Take Aim]
-[15Jun2025 02:52:04.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Hot Stuff]
-[15Jun2025 02:54:32.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Who You Gonna Call?]
-[15Jun2025 02:55:29.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Who You Gonna Call?]
-[15Jun2025 03:02:23.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Second Age]
-[15Jun2025 03:05:58.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Learn to Fart]
-[15Jun2025 03:06:45.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Not Today, Thank You]
-[15Jun2025 03:06:51.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The Cutest Predator]
-[15Jun2025 03:09:54.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [The Cutest Predator]
-[15Jun2025 03:11:23.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
-[15Jun2025 03:13:24.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> penes?
-[15Jun2025 03:14:43.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
-[15Jun2025 03:16:11.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Local Brewery]
-[15Jun2025 03:17:15.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45625, l='ServerLevel[world]', x=-475.50, y=82.05, z=379.50] died, message: 'Villager tried to swim in lava'
-[15Jun2025 03:19:58.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-652, y=120, z=274} BlockPos{x=-654, y=118, z=273}
-[15Jun2025 03:25:28.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
-[15Jun2025 03:25:50.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Best Friends Forever]
-[15Jun2025 03:28:59.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 lost connection: Disconnected
-[15Jun2025 03:28:59.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game
-[15Jun2025 03:44:52.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
-[15Jun2025 03:45:42.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Alex's Caves]
-[15Jun2025 03:45:43.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Alex's Caves]
-[15Jun2025 03:45:46.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [It Belongs in a Museum]
-[15Jun2025 03:58:50.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Wingin' It]
-[15Jun2025 04:09:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ice Dragon
-[15Jun2025 04:12:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Dragonslayer]
-[15Jun2025 04:13:53.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ghost
-[15Jun2025 04:15:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ghost
-[15Jun2025 04:17:23.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ghost
-[15Jun2025 04:17:58.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Timed out
-[15Jun2025 04:17:58.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
-[15Jun2025 04:37:11.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: You logged in from another location
-[15Jun2025 04:37:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
-[15Jun2025 04:37:11.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:46101] logged in with entity id 81690 at (-3957.144081726282, 138.0, -1222.2506464093374)
-[15Jun2025 04:37:11.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
-[15Jun2025 04:38:59.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ice Dragon
-[15Jun2025 04:39:25.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set the time to 13000]
-[15Jun2025 04:43:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was blown up by Creeper
-[15Jun2025 04:46:06.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was shot by Skeleton
-[15Jun2025 04:46:18.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was frozen by Ice Dragon
-[15Jun2025 04:46:59.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Zombie
-[15Jun2025 04:47:51.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ice Dragon
-[15Jun2025 04:55:04.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
-[15Jun2025 04:55:23.414] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:alexs_caves_biomes (alexscaves:forlorn_hollows) took 212 ms
-[15Jun2025 04:55:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -3233.500000, 36.000000, -551.500000]
-[15Jun2025 04:55:56.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Forlornliest Day of My Life]
-[15Jun2025 04:57:18.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[15Jun2025 04:59:02.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
-[15Jun2025 05:00:09.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[15Jun2025 05:00:16.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
-[15Jun2025 05:00:50.278] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:alexs_caves_biomes (alexscaves:forlorn_hollows) took 0 ms
-[15Jun2025 05:01:11.288] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:has_no_ancient_cities_in (alexscaves:forlorn_hollows) took 0 ms
-[15Jun2025 05:01:18.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -3278.500000, 16.000000, -382.500000]
-[15Jun2025 05:01:42.578] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:has_underground_cabins (minecraft:grove) took 0 ms
-[15Jun2025 05:02:08.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14650ms or 293 ticks behind
-[15Jun2025 05:02:08.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -2.0132368961731117,-4.428365748452812,-8.886748134905872
-[15Jun2025 05:02:35.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12127ms or 242 ticks behind
-[15Jun2025 05:02:37.089] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:trench_ignores_stone_in (minecraft:frozen_ocean) took 146 ms
-[15Jun2025 05:02:42.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -2669.500000, 72.000000, -327.500000]
-[15Jun2025 05:04:13.086] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:primordial_caves took 1124 ms
-[15Jun2025 05:04:18.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -1005.500000, 8.000000, -2023.500000]
-[15Jun2025 05:04:19.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [The Cave That Time Forgot]
-[15Jun2025 05:05:24.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.491587041913249,-3.285913006759861,-4.249543110122431
-[15Jun2025 05:05:24.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
-[15Jun2025 05:05:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[15Jun2025 05:06:33.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
-[15Jun2025 05:07:49.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[15Jun2025 05:07:58.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
-[15Jun2025 05:08:17.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[15Jun2025 05:08:29.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
-[15Jun2025 05:10:08.518] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:forlorn_hollows took 1619 ms
-[15Jun2025 05:10:14.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -3108.500000, 59.000000, -111.500000]
-[15Jun2025 05:10:14.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2472ms or 49 ticks behind
-[15Jun2025 05:10:40.932] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:candy_cavity took 715 ms
-[15Jun2025 05:10:41.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12052ms or 241 ticks behind
-[15Jun2025 05:10:45.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -1673.500000, -9.000000, 1011.500000]
-[15Jun2025 05:10:45.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Pure Imagination]
-[15Jun2025 05:11:08.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Oh Little Town of Gingerbread]
-[15Jun2025 05:12:43.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14131ms or 282 ticks behind
-[15Jun2025 05:12:49.369] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:toxic_caves took 4424 ms
-[15Jun2025 05:12:53.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 2210.500000, 0.000000, -325.500000]
-[15Jun2025 05:12:54.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Radiation Vibe]
-[15Jun2025 05:15:37.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[15Jun2025 05:16:02.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Bath Bomb]
-[15Jun2025 05:16:12.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
-[15Jun2025 05:16:40.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[15Jun2025 05:16:49.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
-[15Jun2025 05:18:35.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14513ms or 290 ticks behind
-[15Jun2025 05:20:07.935] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:monument took 744 ms
-[15Jun2025 05:20:12.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 1280.500000, -0.796657, 272.500000]
-[15Jun2025 05:20:50.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14985ms or 299 ticks behind
-[15Jun2025 05:20:50.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 0.49841794254939487,9.187501324600696,-4.8323736086731515
-[15Jun2025 05:21:42.782] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:deep_ocean took 107 ms
-[15Jun2025 05:21:47.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 696.500000, 91.000000, 173.500000]
-[15Jun2025 05:22:12.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14960ms or 299 ticks behind
-[15Jun2025 05:22:12.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 0.0,-10.312500617038765,0.0
-[15Jun2025 05:22:45.215] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:cold_ocean took 68 ms
-[15Jun2025 05:22:56.490] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ocean took 0 ms
-[15Jun2025 05:23:08.419] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:savanna took 124 ms
-[15Jun2025 05:23:13.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 1058.500000, 81.000000, -481.500000]
-[15Jun2025 05:23:13.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
-[15Jun2025 05:23:25.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 5.908445758188691,5.046753800539975,-7.001000632405294
-[15Jun2025 05:26:14.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
-[15Jun2025 05:27:07.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14949ms or 298 ticks behind
-[15Jun2025 05:27:07.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 8.93480693110132,0.0,4.541058191401817
-[15Jun2025 05:27:46.221] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:abyssal_chasm took 9781 ms
-[15Jun2025 05:27:46.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9760ms or 195 ticks behind
-[15Jun2025 05:27:46.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 10.195671175614962,0.0,-0.7200001650908234
-[15Jun2025 05:27:55.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -3839.500000, 0.000000, 11747.500000]
-[15Jun2025 05:27:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Beyond the Sea]
-[15Jun2025 05:28:18.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[15Jun2025 05:28:46.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
-[15Jun2025 05:29:35.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Shell City]
-[15Jun2025 05:31:55.325] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:abyssal_altar took 31 ms
-[15Jun2025 05:31:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -3799.500000, 61.448352, 12024.500000]
-[15Jun2025 05:32:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -3799.500000, -31.170983, 12024.500000]
-[15Jun2025 05:32:54.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[15Jun2025 05:35:21.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [An Understanding]
-[15Jun2025 05:36:01.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Nautical Neighbors]
-[15Jun2025 05:36:41.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [All Buddies Now]
-[15Jun2025 05:37:26.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Suspicious Looking Item]
-[15Jun2025 05:37:58.509] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:primordial_caves took 3454 ms
-[15Jun2025 05:37:58.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3448ms or 68 ticks behind
-[15Jun2025 05:37:58.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 0.0,10.312500617038733,0.0
-[15Jun2025 05:38:03.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -535.500000, -41.000000, 12126.500000]
-[15Jun2025 05:38:10.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
-[15Jun2025 05:38:47.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[15Jun2025 05:38:53.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The Beginning of the End]
-[15Jun2025 05:39:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Draconic Evolution]
-[15Jun2025 05:41:00.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [The End... of the Beginning]
-[15Jun2025 05:41:00.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Re-Extinct]
-[15Jun2025 05:42:57.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Heliomancer]
-[15Jun2025 05:43:06.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Life Finds A Way]
-[15Jun2025 05:44:43.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[15Jun2025 19:30:40.676] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[15Jun2025 19:30:40.676] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[15Jun2025 19:30:43.684] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[15Jun2025 19:30:43.986] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[15Jun2025 19:30:44.363] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[15Jun2025 19:30:45.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[15Jun2025 19:30:45.266] [main/INFO] [journeymap/]: Initializing Packet Registries
+[15Jun2025 19:30:45.328] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[15Jun2025 19:30:45.329] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[15Jun2025 19:30:45.329] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[15Jun2025 19:30:45.329] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[15Jun2025 19:30:45.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.40 Target: 1.2.54
+[15Jun2025 19:30:45.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[15Jun2025 19:30:45.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.2 Target: 1.20.1
+[15Jun2025 19:30:45.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15Jun2025 19:30:45.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[15Jun2025 19:30:45.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[15Jun2025 19:30:46.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.15 Target: 1.20.1-1.0.23
+[15Jun2025 19:30:46.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[15Jun2025 19:30:46.758] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.0 Target: 5.10.3
+[15Jun2025 19:30:46.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[15Jun2025 19:30:46.828] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
+[15Jun2025 19:30:48.202] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Jun2025 19:30:50.099] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/assets/.mcassetsroot' uses unexpected schema
+[15Jun2025 19:30:50.099] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/data/.mcassetsroot' uses unexpected schema
+[15Jun2025 19:30:52.777] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[15Jun2025 19:30:52.914] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1929 advancements
+[15Jun2025 19:30:54.141] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[15Jun2025 19:30:54.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[15Jun2025 19:30:54.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Jun2025 19:30:54.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Jun2025 19:30:54.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Jun2025 19:30:54.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Jun2025 19:30:54.491] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15Jun2025 19:30:54.597] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Jun2025 19:30:54.597] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Jun2025 19:30:54.598] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Jun2025 19:30:54.598] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Jun2025 19:30:54.727] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[15Jun2025 19:30:54.728] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[15Jun2025 19:30:54.729] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[15Jun2025 19:30:54.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15Jun2025 19:30:59.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Jun2025 19:31:01.906] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:01.949] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:01.981] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:01.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:01.988] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:02.988] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:03.005] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:03.477] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:05.318] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:05.320] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:05.337] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:05.477] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:06.117] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:06.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:06.976] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:07.496] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:08.598] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:08.599] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 19:31:08.975] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[15Jun2025 19:31:09.476] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
+[15Jun2025 19:31:09.976] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[15Jun2025 19:31:10.152] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10178 ms
+[15Jun2025 19:31:10.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.435s)! For help, type "help"
+[15Jun2025 19:31:10.264] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Jun2025 19:31:10.344] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[15Jun2025 19:31:10.361] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[15Jun2025 19:31:10.361] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[15Jun2025 19:31:10.362] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[15Jun2025 19:31:10.422] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[15Jun2025 19:31:10.423] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[15Jun2025 19:31:10.424] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[15Jun2025 19:31:10.425] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[15Jun2025 19:31:24.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Sebasrex a server operator
+[15Jun2025 19:35:31.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Atuesta18[/127.56.121.146:45905] logged in with entity id 121 at (-1078.3969473887641, 60.0, -226.6076058213404)
+[15Jun2025 19:35:31.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 joined the game
+[15Jun2025 19:38:24.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1046, y=64, z=-287} BlockPos{x=-1046, y=63, z=-286}
