@@ -20,3 +20,20 @@
 [16Jun2025 00:20:46.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
 [16Jun2025 00:21:57.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
 [16Jun2025 00:26:31.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Ice Bucket Challenge]
+[16Jun2025 00:42:50.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[16Jun2025 00:45:30.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Timed out
+[16Jun2025 00:45:30.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
+[16Jun2025 00:51:54.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.39.182.50:50195] logged in with entity id 59477 at (-2348.386127540789, 70.1212968405392, -1755.5658420480374)
+[16Jun2025 00:51:54.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[16Jun2025 00:52:05.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[16Jun2025 00:52:46.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[16Jun2025 00:53:06.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[16Jun2025 00:55:54.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[16Jun2025 00:56:01.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[16Jun2025 00:56:19.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 was slain by Dread Ghoul
+[16Jun2025 00:57:05.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Dread Beast
+[16Jun2025 00:57:14.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 was slain by Dread Ghoul
+[16Jun2025 00:57:45.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [The Song of the Dragons]
+[16Jun2025 00:58:00.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Another Brick in the Wall]
+[16Jun2025 01:06:37.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[16Jun2025 01:11:28.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 was slain by Dread Knight
