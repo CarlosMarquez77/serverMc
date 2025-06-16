@@ -132,3 +132,23 @@
 [16Jun2025 02:50:00.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Enchanter]
 [16Jun2025 02:51:25.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Enchanter]
 [16Jun2025 02:53:31.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Splintering II]
+[16Jun2025 02:55:55.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_AizenZer0 lost connection: Disconnected
+[16Jun2025 02:55:55.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 left the game
+[16Jun2025 02:59:14.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.39.182.50:52671] logged in with entity id 102869 at (-2967.387759818417, -49.0, -648.3112101853981)
+[16Jun2025 02:59:14.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[16Jun2025 03:00:12.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3066, y=-50, z=-734} BlockPos{x=-3064, y=-51, z=-734}
+[16Jun2025 03:00:37.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3073, y=-51, z=-726} BlockPos{x=-3073, y=-52, z=-725}
+[16Jun2025 03:08:59.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3040, y=-39, z=-690} BlockPos{x=-3039, y=-39, z=-689}
+[16Jun2025 03:10:00.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3117, y=-48, z=-764} BlockPos{x=-3118, y=-47, z=-764}
+[16Jun2025 03:11:25.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[16Jun2025 03:12:07.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3047, y=-41, z=-803} BlockPos{x=-3045, y=-42, z=-803}
+[16Jun2025 03:12:37.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3040, y=-51, z=-797} BlockPos{x=-3037, y=-52, z=-797}
+[16Jun2025 03:13:10.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3017, y=-51, z=-794} BlockPos{x=-3017, y=-51, z=-795}
+[16Jun2025 03:13:16.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3018, y=-52, z=-793} BlockPos{x=-3017, y=-52, z=-794}
+[16Jun2025 03:13:17.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3020, y=-52, z=-790} BlockPos{x=-3019, y=-52, z=-790}
+[16Jun2025 03:13:17.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3020, y=-52, z=-790} BlockPos{x=-3019, y=-52, z=-790}
+[16Jun2025 03:13:17.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3020, y=-52, z=-790} BlockPos{x=-3019, y=-52, z=-790}
+[16Jun2025 03:14:48.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3064, y=-50, z=-737} BlockPos{x=-3063, y=-50, z=-737}
+[16Jun2025 03:15:34.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3087, y=-51, z=-700} BlockPos{x=-3087, y=-52, z=-701}
+[16Jun2025 03:16:26.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2973, y=-52, z=-624} BlockPos{x=-2973, y=-52, z=-625}
+[16Jun2025 03:16:26.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2973, y=-52, z=-624} BlockPos{x=-2973, y=-52, z=-625}
