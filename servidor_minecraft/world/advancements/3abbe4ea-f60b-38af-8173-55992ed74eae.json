@@ -2479,6 +2479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-06-16 02:04:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-15 22:41:19 +0000"
@@ -2503,6 +2509,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-06-16 02:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-06-15 23:18:12 +0000"
@@ -2512,6 +2524,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-06-15 22:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-16 02:04:02 +0000"
     },
     "done": true
   },
@@ -2611,6 +2629,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-16 02:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-16 02:04:02 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/pink_sleeping_bag": {
     "criteria": {
       "has_pink_wool": "2025-06-15 23:16:30 +0000"
@@ -2677,9 +2707,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-16 02:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2025-06-15 23:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-06-16 02:04:01 +0000"
     },
     "done": true
   },
@@ -2698,6 +2740,12 @@
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2025-06-16 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-16 02:04:02 +0000"
     },
     "done": true
   },
@@ -2722,6 +2770,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2025-06-15 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-06-16 02:04:00 +0000"
     },
     "done": true
   },

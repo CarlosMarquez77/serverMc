@@ -66,3 +66,18 @@
 [16Jun2025 01:35:18.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Survival Mode]
 [16Jun2025 01:35:39.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
 [16Jun2025 01:41:30.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has reached the goal [You Need a Mint]
+[16Jun2025 01:47:36.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Lu_AizenZer0 to KyoShiiro]
+[16Jun2025 01:54:33.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[16Jun2025 01:56:24.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Sneak 100]
+[16Jun2025 01:58:03.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Sneak 100]
+[16Jun2025 01:58:51.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Lu_AizenZer0 to KyoShiiro]
+[16Jun2025 01:59:08.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3049, y=-54, z=-861} BlockPos{x=-3050, y=-55, z=-861}
+[16Jun2025 02:02:08.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was obliterated by a sonically-charged shriek
+[16Jun2025 02:02:44.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was obliterated by a sonically-charged shriek
+[16Jun2025 02:04:00.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Cover Me with Diamonds]
+[16Jun2025 02:04:14.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was doomed to fall by Warden
+[16Jun2025 02:04:57.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3068, y=-52, z=-768} BlockPos{x=-3068, y=-52, z=-769}
+[16Jun2025 02:05:58.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was obliterated by a sonically-charged shriek
+[16Jun2025 02:08:44.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_AizenZer0 moved wrongly!
+[16Jun2025 02:10:24.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Cover Me with Diamonds]
+[16Jun2025 02:12:20.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Cover Me with Diamonds]
