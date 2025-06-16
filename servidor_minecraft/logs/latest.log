@@ -120,3 +120,15 @@
 [16Jun2025 02:27:04.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2982, y=-51, z=-640} BlockPos{x=-2982, y=-52, z=-640}
 [16Jun2025 02:27:13.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2982, y=-52, z=-633} BlockPos{x=-2987, y=-51, z=-633}
 [16Jun2025 02:27:52.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3032, y=-52, z=-595} BlockPos{x=-3033, y=-52, z=-594}
+[16Jun2025 02:34:31.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2991, y=-52, z=-592} BlockPos{x=-2990, y=-52, z=-592}
+[16Jun2025 02:34:49.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2999, y=-51, z=-595} BlockPos{x=-2998, y=-51, z=-595}
+[16Jun2025 02:35:44.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2968, y=-51, z=-588} BlockPos{x=-2967, y=-51, z=-588}
+[16Jun2025 02:37:08.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2963, y=-51, z=-624} BlockPos{x=-2964, y=-52, z=-623}
+[16Jun2025 02:37:55.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2978, y=-48, z=-643} BlockPos{x=-2980, y=-51, z=-636}
+[16Jun2025 02:37:55.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2980, y=-51, z=-636} BlockPos{x=-2980, y=-52, z=-636}
+[16Jun2025 02:41:49.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Timed out
+[16Jun2025 02:41:49.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
+[16Jun2025 02:47:51.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Lu_AizenZer0 to KyoShiiro]
+[16Jun2025 02:50:00.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Enchanter]
+[16Jun2025 02:51:25.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Enchanter]
+[16Jun2025 02:53:31.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Splintering II]
