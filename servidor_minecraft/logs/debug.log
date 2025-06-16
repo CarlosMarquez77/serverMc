@@ -3230,3 +3230,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jun2025 01:10:07.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 01:10:07.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jun2025 01:11:28.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 was slain by Dread Knight
+[16Jun2025 01:12:45.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Lu_AizenZer0]
+[16Jun2025 01:12:50.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Dread Knight
+[16Jun2025 01:13:11.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[16Jun2025 01:13:37.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Dread Thrall
+[16Jun2025 01:14:15.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[16Jun2025 01:15:07.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 01:15:07.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 01:15:18.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Lu_AizenZer0]
+[16Jun2025 01:15:22.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Lu_AizenZer0]
+[16Jun2025 01:15:45.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Lu_AizenZer0]
+[16Jun2025 01:15:51.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[16Jun2025 01:16:19.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2480, y=76, z=-1419} BlockPos{x=-2479, y=74, z=-1420}
+[16Jun2025 01:16:22.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2485, y=73, z=-1424} BlockPos{x=-2484, y=73, z=-1424}
+[16Jun2025 01:17:30.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [A Seedy Place]
+[16Jun2025 01:20:07.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 01:20:07.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 01:20:23.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [You Need a Mint]
+[16Jun2025 01:20:32.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [The Song of the Dragons]
+[16Jun2025 01:20:33.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The Song of the Dragons]

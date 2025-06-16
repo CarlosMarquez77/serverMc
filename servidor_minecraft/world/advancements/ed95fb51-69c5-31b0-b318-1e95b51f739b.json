@@ -2420,15 +2420,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-06-16 01:19:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonbone": {
     "criteria": {
       "has_dragon_bone_block": "2025-06-16 00:57:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-16 01:19:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-06-16 01:19:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone": {
     "criteria": {
       "has_item": "2025-06-16 00:55:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-06-16 01:19:21 +0000"
     },
     "done": true
   },
