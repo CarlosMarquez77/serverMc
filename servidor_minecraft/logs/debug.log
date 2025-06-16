@@ -3067,3 +3067,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jun2025 00:26:31.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Ice Bucket Challenge]
 [16Jun2025 00:30:07.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 00:30:07.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:35:07.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:35:07.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:40:07.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:40:07.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
