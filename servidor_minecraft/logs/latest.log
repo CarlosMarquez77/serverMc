@@ -1,1 +1,11 @@
 [16Jun2025 00:00:50.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [They Have a Cave Troll!]
+[16Jun2025 00:05:07.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Diamonds!]
+[16Jun2025 00:08:17.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_AizenZer0 moved too quickly! -7.588260123123973,-1.0,6.497754576032435
+[16Jun2025 00:08:33.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_AizenZer0 lost connection: Timed out
+[16Jun2025 00:08:33.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 left the game
+[16Jun2025 00:10:14.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c7f5533[id=<null>,name=Lu_AizenZer0,properties={},legacy=false] (/127.155.52.251:47859) lost connection: Disconnected
+[16Jun2025 00:10:18.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Enchanter]
+[16Jun2025 00:10:46.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lu_AizenZer0[/127.155.52.251:45387] logged in with entity id 46621 at (-565.6287501937408, -23.0, -562.2772686104269)
+[16Jun2025 00:10:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 joined the game
+[16Jun2025 00:11:10.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_AizenZer0 lost connection: Disconnected
+[16Jun2025 00:11:10.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 left the game

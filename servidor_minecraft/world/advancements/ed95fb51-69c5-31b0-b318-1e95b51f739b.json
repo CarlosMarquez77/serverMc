@@ -1940,9 +1940,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-06-16 00:06:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-06-15 22:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-16 00:03:57 +0000"
     },
     "done": true
   },
@@ -1955,6 +1967,18 @@
   "iceandfire:recipes/combat/armor_green_leggings": {
     "criteria": {
       "has_item": "2025-06-15 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-06-16 00:03:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-16 00:06:30 +0000"
     },
     "done": true
   },
@@ -1982,9 +2006,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-06-16 00:06:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
       "has_item": "2025-06-15 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-06-16 00:03:53 +0000"
     },
     "done": true
   },
@@ -2126,9 +2162,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-16 00:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-06-15 23:35:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-06-16 00:06:30 +0000"
     },
     "done": true
   },
@@ -2141,6 +2189,12 @@
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-06-15 22:49:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-06-16 00:04:03 +0000"
     },
     "done": true
   },
@@ -2204,6 +2258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-16 00:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-15 23:41:16 +0000"
@@ -2240,6 +2300,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-06-16 00:06:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-06-15 22:49:09 +0000"
@@ -2255,6 +2321,18 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-06-15 22:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-16 00:03:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-06-16 00:04:22 +0000"
     },
     "done": true
   },
