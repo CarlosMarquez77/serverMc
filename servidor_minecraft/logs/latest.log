@@ -153,3 +153,8 @@
 [16Jun2025 03:16:26.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2973, y=-52, z=-624} BlockPos{x=-2973, y=-52, z=-625}
 [16Jun2025 03:16:26.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2973, y=-52, z=-624} BlockPos{x=-2973, y=-52, z=-625}
 [16Jun2025 03:35:34.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [What a Deal!]
+[16Jun2025 03:56:15.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[16Jun2025 04:02:12.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Disconnected
+[16Jun2025 04:02:12.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
+[16Jun2025 04:02:23.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Timed out
+[16Jun2025 04:02:23.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
