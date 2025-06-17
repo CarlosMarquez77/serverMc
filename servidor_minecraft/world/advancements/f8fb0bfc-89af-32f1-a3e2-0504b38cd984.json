@@ -25,6 +25,7 @@
       "minecraft:birch_forest": "2025-06-15 22:58:30 +0000",
       "minecraft:river": "2025-06-15 23:11:02 +0000",
       "minecraft:stony_shore": "2025-06-16 01:51:56 +0000",
+      "minecraft:dripstone_caves": "2025-06-17 03:51:28 +0000",
       "minecraft:grove": "2025-06-15 22:55:14 +0000",
       "minecraft:forest": "2025-06-15 23:00:20 +0000",
       "minecraft:lush_caves": "2025-06-16 01:55:03 +0000",
@@ -237,6 +238,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-15 23:14:59 +0000",
       "minecraft:spider": "2025-06-15 22:59:45 +0000",
+      "minecraft:creeper": "2025-06-17 03:52:00 +0000",
       "minecraft:zombie": "2025-06-15 23:00:05 +0000",
       "minecraft:drowned": "2025-06-16 00:48:52 +0000",
       "minecraft:zombie_villager": "2025-06-15 23:00:00 +0000"
@@ -318,7 +320,8 @@
       "bread": "2025-06-16 01:21:00 +0000",
       "rotten_flesh": "2025-06-15 23:00:20 +0000",
       "cooked_rabbit": "2025-06-17 03:17:41 +0000",
-      "cooked_chicken": "2025-06-15 23:10:01 +0000"
+      "cooked_chicken": "2025-06-15 23:10:01 +0000",
+      "cooked_salmon": "2025-06-17 04:02:10 +0000"
     },
     "done": false
   },
@@ -2698,6 +2701,24 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-06-17 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-06-17 03:33:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-17 03:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-17 02:50:15 +0000"
@@ -2722,9 +2743,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-06-17 04:01:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-17 02:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-17 03:50:35 +0000"
     },
     "done": true
   },
@@ -2746,6 +2779,18 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-06-17 03:49:28 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol_fortune": {
+    "criteria": {
+      "steal_crystal": "2025-06-17 03:49:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-17 02:56:39 +0000"
@@ -2755,6 +2800,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-06-17 02:50:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-17 03:34:17 +0000"
     },
     "done": true
   },
@@ -2827,6 +2878,18 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-06-17 02:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-17 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-17 04:01:26 +0000"
     },
     "done": true
   },
