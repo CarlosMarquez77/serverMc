@@ -83,3 +83,12 @@
 [17Jun2025 02:22:48.593] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
 [17Jun2025 02:23:06.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:60269] logged in with entity id 115 at (-1842.527604895157, 96.25, -2264.5442865094587)
 [17Jun2025 02:23:06.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[17Jun2025 02:34:56.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Book of Monsters]
+[17Jun2025 02:35:24.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lu_AizenZer0[/127.155.52.251:40297] logged in with entity id 2596 at (-1840.7905950322554, 100.0, -2270.9241351651767)
+[17Jun2025 02:35:24.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 joined the game
+[17Jun2025 02:46:33.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has reached the goal [The Cave That Time Forgot]
+[17Jun2025 02:46:55.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Masquerade]
+[17Jun2025 02:47:48.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Town of Bedrock]
+[17Jun2025 02:51:03.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Life Finds A Way]
+[17Jun2025 02:52:55.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Lu_AizenZer0]
+[17Jun2025 02:53:09.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Town of Bedrock]
