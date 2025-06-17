@@ -92,3 +92,10 @@
 [17Jun2025 02:51:03.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Life Finds A Way]
 [17Jun2025 02:52:55.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Lu_AizenZer0]
 [17Jun2025 02:53:09.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Town of Bedrock]
+[17Jun2025 03:04:29.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Best Friends Forever]
+[17Jun2025 03:04:29.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Prehistoric Elytra]
+[17Jun2025 03:05:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Re-Extinct]
+[17Jun2025 03:05:03.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Tastes Like Chicken]
+[17Jun2025 03:16:26.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1341, y=-28, z=-2233} BlockPos{x=-1342, y=-27, z=-2233}
+[17Jun2025 03:16:27.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1341, y=-28, z=-2233} BlockPos{x=-1342, y=-28, z=-2233}
+[17Jun2025 03:18:36.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Lu_AizenZer0]
