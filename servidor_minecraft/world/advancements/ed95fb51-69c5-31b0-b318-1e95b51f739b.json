@@ -1063,6 +1063,7 @@
       "apple": "2025-06-15 02:36:05 +0000",
       "cooked_cod": "2025-06-15 01:38:09 +0000",
       "bread": "2025-06-15 23:13:03 +0000",
+      "golden_apple": "2025-06-18 22:02:31 +0000",
       "rotten_flesh": "2025-06-18 19:00:17 +0000",
       "cooked_rabbit": "2025-06-16 04:01:28 +0000"
     },
@@ -1116,6 +1117,7 @@
       "minecraft:zombified_piglin": "2025-06-18 21:02:38 +0000",
       "minecraft:witch": "2025-06-15 02:24:25 +0000",
       "minecraft:wither_skeleton": "2025-06-18 21:10:13 +0000",
+      "minecraft:husk": "2025-06-18 21:54:33 +0000",
       "minecraft:cave_spider": "2025-06-18 19:10:58 +0000",
       "minecraft:piglin": "2025-06-18 20:56:32 +0000",
       "minecraft:silverfish": "2025-06-15 01:49:42 +0000",
@@ -3492,6 +3494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-18 21:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-06-18 21:41:55 +0000"
@@ -3501,6 +3509,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-18 21:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-06-18 21:55:14 +0000"
     },
     "done": true
   },
@@ -3516,9 +3530,45 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-06-18 21:56:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-06-18 22:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-18 21:49:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-06-18 21:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-06-18 21:55:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-06-18 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-06-18 21:58:46 +0000"
     },
     "done": true
   },
