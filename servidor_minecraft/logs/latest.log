@@ -182,3 +182,10 @@
 [18Jun2025 21:32:31.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
 [18Jun2025 21:33:22.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.39.182.50:32775] logged in with entity id 51921 at (-1836.927196914328, 96.0, -2268.0103197108065)
 [18Jun2025 21:33:22.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[18Jun2025 21:46:55.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KyoShiiro) moved wrongly! 0.44841577424131174
+[18Jun2025 21:46:55.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KyoShiiro) moved wrongly! 0.6615308050708677
+[18Jun2025 21:46:55.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KyoShiiro) moved wrongly! 0.7438993178883493
+[18Jun2025 21:48:01.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Sea? Not a Problem]
+[18Jun2025 21:49:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Tie me to the Mast]
+[18Jun2025 21:53:05.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[18Jun2025 21:53:27.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The Desert Swimmers]

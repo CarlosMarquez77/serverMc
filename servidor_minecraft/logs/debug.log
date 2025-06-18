@@ -2282,3 +2282,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Jun2025 21:33:22.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.39.182.50:32775] logged in with entity id 51921 at (-1836.927196914328, 96.0, -2268.0103197108065)
 [18Jun2025 21:33:22.654] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@5322f981 into net.minecraft.network.Connection@7e20e868
 [18Jun2025 21:33:22.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[18Jun2025 21:38:14.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 21:38:14.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 21:43:14.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 21:43:14.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 21:46:55.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KyoShiiro) moved wrongly! 0.44841577424131174
+[18Jun2025 21:46:55.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KyoShiiro) moved wrongly! 0.6615308050708677
+[18Jun2025 21:46:55.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KyoShiiro) moved wrongly! 0.7438993178883493
+[18Jun2025 21:48:01.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Sea? Not a Problem]
+[18Jun2025 21:48:14.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 21:48:14.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 21:49:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Tie me to the Mast]
+[18Jun2025 21:53:05.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[18Jun2025 21:53:14.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 21:53:14.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 21:53:27.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The Desert Swimmers]
