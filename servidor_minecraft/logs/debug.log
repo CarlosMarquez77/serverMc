@@ -2483,3 +2483,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Jun2025 22:24:36.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Choc-o-Block]
 [18Jun2025 22:24:42.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Choc-o-Block]
 [18Jun2025 22:25:40.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by KyoShiiro
+[18Jun2025 22:25:46.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[18Jun2025 22:28:14.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 22:28:14.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 22:28:54.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Mother of Dragons]
+[18Jun2025 22:28:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Carbonated Swim]
+[18Jun2025 22:29:26.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [I Found the Coin Slot]
+[18Jun2025 22:31:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Caniac No More]
+[18Jun2025 22:31:51.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Unwrapped Candy]
+[18Jun2025 22:31:51.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Unwrapped Candy]
+[18Jun2025 22:32:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Where's Goopy?]
+[18Jun2025 22:32:23.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Where's Goopy?]
+[18Jun2025 22:32:43.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Caniac No More]
+[18Jun2025 22:33:14.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 22:33:14.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 22:33:45.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[18Jun2025 22:35:42.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
