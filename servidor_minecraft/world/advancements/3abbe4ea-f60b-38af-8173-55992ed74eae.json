@@ -3015,27 +3015,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_helmet": {
+  "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
-      "has_item": "2025-06-17 02:52:18 +0000"
+      "has_item": "2025-06-17 02:34:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
-      "has_sandstone": "2025-06-17 02:53:04 +0000"
+      "has_item": "2025-06-17 02:34:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "has_gold_block": "2025-06-17 02:49:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-06-17 03:30:50 +0000"
+      "bestiary": "2025-06-17 02:34:56 +0000"
     },
     "done": true
   },
@@ -3045,33 +3039,51 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/tree_star": {
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
-      "tree_star": "2025-06-17 03:38:32 +0000"
+      "has_item": "2025-06-17 02:48:37 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_leggings": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_item": "2025-06-17 03:45:42 +0000"
+      "has_gold_block": "2025-06-17 02:49:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
+  "iceandfire:recipes/combat/armor_copper_helmet": {
     "criteria": {
-      "has_diorite": "2025-06-17 03:56:14 +0000"
+      "has_item": "2025-06-17 02:52:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab": {
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
-      "has_diorite": "2025-06-17 03:56:14 +0000"
+      "has_dragonscales_copper": "2025-06-17 02:52:18 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/tame_subterranodon": {
+  "iceandfire:recipes/combat/armor_copper_boots": {
     "criteria": {
-      "killed": "2025-06-17 03:04:29 +0000"
+      "has_item": "2025-06-17 02:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-17 02:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-06-17 02:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-17 02:53:04 +0000"
     },
     "done": true
   },
@@ -3093,57 +3105,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
-    "criteria": {
-      "has_dragonscales_copper": "2025-06-17 02:52:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-17 02:53:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_boots": {
-    "criteria": {
-      "has_item": "2025-06-17 03:45:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-06-17 04:00:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
-    "criteria": {
-      "has_dragonscales_bronze": "2025-06-17 03:20:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_boots": {
-    "criteria": {
-      "has_item": "2025-06-17 02:52:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2025-06-17 04:00:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_boots": {
-    "criteria": {
-      "has_item": "2025-06-17 03:20:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_leggings": {
-    "criteria": {
-      "has_item": "2025-06-17 03:20:25 +0000"
     },
     "done": true
   },
@@ -3153,135 +3117,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_helmet": {
-    "criteria": {
-      "has_item": "2025-06-17 03:45:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-06-17 03:56:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-06-17 02:53:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-06-17 03:31:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-06-17 02:34:23 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_grottol": {
-    "criteria": {
-      "grottol": "2025-06-17 03:50:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-06-17 03:56:14 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_grottol_fortune": {
-    "criteria": {
-      "steal_crystal": "2025-06-17 03:50:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-17 03:31:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-17 03:31:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-06-17 04:11:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-06-17 02:53:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-06-17 02:34:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-17 02:52:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
-    "criteria": {
-      "has_dragonscales_white": "2025-06-17 03:45:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-06-17 03:57:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-06-17 02:48:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-06-17 03:04:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-06-17 03:57:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-06-17 03:56:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-06-17 03:30:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-17 03:45:42 +0000"
     },
     "done": true
   },
@@ -3291,45 +3129,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2025-06-17 02:34:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-17 03:31:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-17 02:53:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-06-17 03:56:14 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/limestone": {
-    "criteria": {
-      "limestone": "2025-06-17 02:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2025-06-17 03:31:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-06-17 03:56:14 +0000"
     },
     "done": true
   },
@@ -3345,15 +3147,117 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_door": {
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-17 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-06-17 02:53:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-06-17 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-06-17 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-17 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-06-17 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-06-17 03:20:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-06-17 03:20:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-06-17 03:20:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-17 03:20:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-06-17 03:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-17 03:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-17 03:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-06-17 03:31:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
+  "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
-      "has_pointed_dripstone": "2025-06-17 03:57:18 +0000"
+      "has_planks": "2025-06-17 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-17 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-17 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-06-17 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-06-17 03:31:31 +0000"
     },
     "done": true
   },
@@ -3369,33 +3273,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_bricks": {
+  "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
-      "has_packed_mud": "2025-06-17 03:18:40 +0000"
+      "has_planks": "2025-06-17 03:31:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+  "alexscaves:alexscaves/tree_star": {
     "criteria": {
-      "has_diorite": "2025-06-17 03:56:14 +0000"
+      "tree_star": "2025-06-17 03:38:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
-      "has_sandstone": "2025-06-17 02:53:04 +0000"
+      "has_item": "2025-06-17 03:45:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
-      "has_diorite": "2025-06-17 03:56:14 +0000"
+      "has_item": "2025-06-17 03:45:42 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+  "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
-      "has_item": "2025-06-17 03:20:25 +0000"
+      "has_item": "2025-06-17 03:45:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-06-17 03:45:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-17 03:45:42 +0000"
     },
     "done": true
   },
@@ -3405,27 +3321,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-06-17 03:50:55 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol_fortune": {
+    "criteria": {
+      "steal_crystal": "2025-06-17 03:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-17 03:56:14 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_helmet": {
+  "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
-      "has_item": "2025-06-17 03:20:25 +0000"
+      "has_diorite": "2025-06-17 03:56:14 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
-      "bestiary": "2025-06-17 04:12:38 +0000"
+      "has_diorite": "2025-06-17 03:56:14 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_leggings": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
-      "has_item": "2025-06-17 02:52:18 +0000"
+      "has_diorite": "2025-06-17 03:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-17 03:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-17 03:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-17 03:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-17 03:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-17 03:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-17 03:56:14 +0000"
     },
     "done": true
   },
@@ -3435,15 +3399,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_slab": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_planks": "2025-06-17 03:31:31 +0000"
+      "has_raw_copper": "2025-06-17 03:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-17 03:57:03 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-17 03:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-17 03:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-06-17 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-06-17 04:00:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-06-17 04:11:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-06-17 04:12:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-06-17 04:14:34 +0000"
     },
     "done": true
   },
