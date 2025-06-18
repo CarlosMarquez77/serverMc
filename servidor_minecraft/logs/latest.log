@@ -139,3 +139,5 @@
 [18Jun2025 19:48:21.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2182, y=-54, z=-2687} BlockPos{x=-2181, y=-55, z=-2688}
 [18Jun2025 19:48:29.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2188, y=-51, z=-2680} BlockPos{x=-2188, y=-52, z=-2680}
 [18Jun2025 19:48:53.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2183, y=-50, z=-2711} BlockPos{x=-2184, y=-51, z=-2712}
+[18Jun2025 20:08:13.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Dragon Growth Hormone]
+[18Jun2025 20:09:41.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [An Ear-Shattering Roar]
