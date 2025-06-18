@@ -3460,6 +3460,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-18 21:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-18 20:56:33 +0000"
@@ -3553,6 +3559,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-18 21:30:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-18 21:07:56 +0000"
@@ -3640,6 +3652,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-18 20:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-18 21:29:03 +0000"
     },
     "done": true
   },

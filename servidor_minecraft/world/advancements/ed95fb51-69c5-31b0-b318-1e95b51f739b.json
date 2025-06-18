@@ -1105,6 +1105,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-06-18 21:11:50 +0000",
+      "minecraft:pillager": "2025-06-18 21:30:03 +0000",
       "minecraft:skeleton": "2025-06-15 01:53:31 +0000",
       "minecraft:magma_cube": "2025-06-18 20:58:23 +0000",
       "minecraft:spider": "2025-06-15 02:35:05 +0000",

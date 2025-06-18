@@ -174,3 +174,11 @@
 [18Jun2025 21:09:30.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Into Fire]
 [18Jun2025 21:10:33.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Spooky Scary Skeleton]
 [18Jun2025 21:12:58.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Into Fire]
+[18Jun2025 21:27:20.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[18Jun2025 21:29:03.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Who is Cutting Onions?]
+[18Jun2025 21:29:37.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[18Jun2025 21:30:06.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Voluntary Exile]
+[18Jun2025 21:32:31.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Timed out
+[18Jun2025 21:32:31.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
+[18Jun2025 21:33:22.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.39.182.50:32775] logged in with entity id 51921 at (-1836.927196914328, 96.0, -2268.0103197108065)
+[18Jun2025 21:33:22.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
