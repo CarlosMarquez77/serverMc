@@ -1060,12 +1060,15 @@
       "cooked_porkchop": "2025-06-15 02:31:16 +0000",
       "cooked_mutton": "2025-06-15 02:19:20 +0000",
       "cooked_beef": "2025-06-15 03:01:22 +0000",
+      "tropical_fish": "2025-06-18 22:18:17 +0000",
       "apple": "2025-06-15 02:36:05 +0000",
       "cooked_cod": "2025-06-15 01:38:09 +0000",
       "bread": "2025-06-15 23:13:03 +0000",
       "golden_apple": "2025-06-18 22:02:31 +0000",
       "rotten_flesh": "2025-06-18 19:00:17 +0000",
-      "cooked_rabbit": "2025-06-16 04:01:28 +0000"
+      "glow_berries": "2025-06-18 22:15:28 +0000",
+      "cooked_rabbit": "2025-06-16 04:01:28 +0000",
+      "enchanted_golden_apple": "2025-06-18 22:05:32 +0000"
     },
     "done": false
   },
@@ -1123,6 +1126,7 @@
       "minecraft:silverfish": "2025-06-15 01:49:42 +0000",
       "minecraft:enderman": "2025-06-15 03:09:19 +0000",
       "minecraft:zombie": "2025-06-15 02:32:50 +0000",
+      "minecraft:drowned": "2025-06-18 22:07:40 +0000",
       "minecraft:zombie_villager": "2025-06-15 02:07:33 +0000"
     },
     "done": false
@@ -3494,19 +3498,43 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-18 21:55:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-06-18 21:41:55 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-06-18 21:41:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-18 21:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-18 21:49:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-18 21:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-18 21:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-18 21:49:17 +0000"
     },
@@ -3518,33 +3546,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_siren": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "killed_fire_dragon": "2025-06-18 21:49:02 +0000"
+      "has_smithing_trim_template": "2025-06-18 21:55:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
-      "has_prismarine_shard": "2025-06-18 21:49:17 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/uranium": {
-    "criteria": {
-      "uranium": "2025-06-18 21:56:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-06-18 22:02:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-18 21:49:17 +0000"
+      "has_dune_armor_trim_smithing_template": "2025-06-18 21:55:27 +0000"
     },
     "done": true
   },
@@ -3554,9 +3564,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+  "alexscaves:alexscaves/uranium": {
     "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-06-18 21:55:27 +0000"
+      "uranium": "2025-06-18 21:56:54 +0000"
     },
     "done": true
   },
@@ -3572,15 +3582,39 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+  "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
-      "has_brown_wool": "2025-06-18 21:41:55 +0000"
+      "has_item": "2025-06-18 22:02:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_prismarine_crystals": "2025-06-18 21:49:04 +0000"
+      "has_glow_ink_sac": "2025-06-18 22:06:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-06-18 22:21:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-06-18 22:22:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-06-18 22:21:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-06-18 22:23:05 +0000"
     },
     "done": true
   },
