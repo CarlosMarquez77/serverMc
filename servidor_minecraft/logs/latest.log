@@ -245,3 +245,4 @@
 [18Jun2025 22:32:43.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Caniac No More]
 [18Jun2025 22:33:45.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
 [18Jun2025 22:35:42.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[18Jun2025 22:45:35.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1824, y=100, z=-2232} BlockPos{x=-1824, y=100, z=-2233}
