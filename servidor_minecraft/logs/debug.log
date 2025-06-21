@@ -2029,3 +2029,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jun2025 02:32:02.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jun2025 02:32:02.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jun2025 02:35:06.081] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Jun2025 02:36:43.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.45084045790508753
+[21Jun2025 02:36:43.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.29677890126731654
+[21Jun2025 02:37:02.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:37:02.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:39:42.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.7095131017322274
+[21Jun2025 02:39:42.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.3730178934702053
+[21Jun2025 02:39:42.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.958229119783482
+[21Jun2025 02:39:42.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 2.4743854213916165
+[21Jun2025 02:40:26.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.49226919142574843
+[21Jun2025 02:40:26.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.0972738138261775
+[21Jun2025 02:40:26.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.4209997247817228
+[21Jun2025 02:40:26.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.7096985004923226
+[21Jun2025 02:40:26.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.8641754593422775
+[21Jun2025 02:42:02.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:42:02.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:42:22.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.3740784527390133
+[21Jun2025 02:42:22.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.37186816453595384
+[21Jun2025 02:42:22.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.2902610181363343
+[21Jun2025 02:42:23.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.3577540910400785
+[21Jun2025 02:42:27.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.3109070081632126
+[21Jun2025 02:42:27.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.9788369096027054
+[21Jun2025 02:42:27.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.6259379835660184
+[21Jun2025 02:44:30.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Rude Awakening]
+[21Jun2025 02:44:37.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved wrongly!
+[21Jun2025 02:47:02.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:47:02.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
