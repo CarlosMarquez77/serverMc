@@ -3657,6 +3657,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-18 22:47:27 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gelatin": {
     "criteria": {
       "gelatin": "2025-06-18 22:32:14 +0000"
@@ -3690,6 +3696,12 @@
   "travelersbackpack:recipes/misc/cow": {
     "criteria": {
       "has_milk_bucket": "2025-06-18 22:23:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-06-18 22:49:42 +0000"
     },
     "done": true
   },
