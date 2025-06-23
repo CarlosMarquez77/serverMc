@@ -1,190 +1,109 @@
-[21Jun2025 02:26:14.952] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[21Jun2025 02:26:14.958] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[21Jun2025 02:26:15.768] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[21Jun2025 02:26:15.839] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serverMc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[21Jun2025 02:26:16.183] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jun2025 02:26:16.187] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jun2025 02:26:16.189] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jun2025 02:26:16.191] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jun2025 02:26:16.426] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[21Jun2025 02:26:18.752] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[21Jun2025 02:26:18.791] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[21Jun2025 02:26:18.947] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 61 options available, 0 override(s) found
-[21Jun2025 02:26:19.765] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[21Jun2025 02:26:28.823] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[23Jun2025 23:33:02.582] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[23Jun2025 23:33:02.589] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[23Jun2025 23:33:03.402] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[23Jun2025 23:33:03.468] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serverMc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[23Jun2025 23:33:03.808] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jun2025 23:33:03.812] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jun2025 23:33:03.813] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jun2025 23:33:03.816] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverMc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jun2025 23:33:04.010] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[23Jun2025 23:33:06.268] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23Jun2025 23:33:06.302] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[23Jun2025 23:33:06.478] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 61 options available, 0 override(s) found
+[23Jun2025 23:33:07.464] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[23Jun2025 23:33:15.921] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[21Jun2025 02:26:30.041] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[21Jun2025 02:26:30.041] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[21Jun2025 02:26:33.111] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[21Jun2025 02:26:33.417] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[21Jun2025 02:26:33.767] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[21Jun2025 02:26:34.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[21Jun2025 02:26:34.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.40 Target: 1.2.54
-[21Jun2025 02:26:34.358] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[21Jun2025 02:26:34.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.2 Target: 1.20.1
-[21Jun2025 02:26:34.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[21Jun2025 02:26:34.436] [main/INFO] [journeymap/]: Initializing Packet Registries
-[21Jun2025 02:26:34.549] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[21Jun2025 02:26:34.550] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[21Jun2025 02:26:34.552] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[21Jun2025 02:26:34.553] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[21Jun2025 02:26:34.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[21Jun2025 02:26:34.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[21Jun2025 02:26:35.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.15 Target: 1.20.1-1.0.23
-[21Jun2025 02:26:35.468] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[21Jun2025 02:26:35.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.0 Target: null
-[21Jun2025 02:26:35.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[21Jun2025 02:26:35.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
-[21Jun2025 02:26:37.469] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21Jun2025 02:26:39.421] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/assets/.mcassetsroot' uses unexpected schema
-[21Jun2025 02:26:39.421] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/data/.mcassetsroot' uses unexpected schema
-[21Jun2025 02:26:41.969] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[21Jun2025 02:26:42.138] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1929 advancements
-[21Jun2025 02:26:43.539] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[21Jun2025 02:26:43.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[21Jun2025 02:26:43.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[21Jun2025 02:26:43.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[21Jun2025 02:26:43.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[21Jun2025 02:26:43.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[21Jun2025 02:26:43.904] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[21Jun2025 02:26:44.019] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21Jun2025 02:26:44.019] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[21Jun2025 02:26:44.019] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21Jun2025 02:26:44.020] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[21Jun2025 02:26:44.333] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[21Jun2025 02:26:44.334] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[21Jun2025 02:26:44.335] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[21Jun2025 02:26:44.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[21Jun2025 02:26:49.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[21Jun2025 02:26:54.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:54.948] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:54.963] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:54.979] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:54.996] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:55.009] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:55.026] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:55.036] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:55.037] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:55.056] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:55.127] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:55.146] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:55.324] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:56.804] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:57.309] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:57.312] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:57.326] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jun2025 02:26:57.823] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[21Jun2025 02:26:58.327] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
-[21Jun2025 02:26:59.130] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9807 ms
-[21Jun2025 02:26:59.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.807s)! For help, type "help"
-[21Jun2025 02:26:59.352] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[21Jun2025 02:26:59.420] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[21Jun2025 02:26:59.446] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[21Jun2025 02:26:59.447] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[21Jun2025 02:26:59.447] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[21Jun2025 02:26:59.503] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[21Jun2025 02:26:59.505] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[21Jun2025 02:26:59.505] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[21Jun2025 02:26:59.505] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[21Jun2025 02:27:10.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:46393] logged in with entity id 115 at (-1837.767205458932, 96.5625, -2270.946601333794)
-[21Jun2025 02:27:10.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
-[21Jun2025 02:27:13.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind
-[21Jun2025 02:36:43.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.45084045790508753
-[21Jun2025 02:36:43.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.29677890126731654
-[21Jun2025 02:39:42.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.7095131017322274
-[21Jun2025 02:39:42.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.3730178934702053
-[21Jun2025 02:39:42.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.958229119783482
-[21Jun2025 02:39:42.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 2.4743854213916165
-[21Jun2025 02:40:26.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.49226919142574843
-[21Jun2025 02:40:26.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.0972738138261775
-[21Jun2025 02:40:26.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.4209997247817228
-[21Jun2025 02:40:26.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.7096985004923226
-[21Jun2025 02:40:26.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.8641754593422775
-[21Jun2025 02:42:22.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.3740784527390133
-[21Jun2025 02:42:22.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.37186816453595384
-[21Jun2025 02:42:22.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.2902610181363343
-[21Jun2025 02:42:23.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.3577540910400785
-[21Jun2025 02:42:27.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.3109070081632126
-[21Jun2025 02:42:27.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.9788369096027054
-[21Jun2025 02:42:27.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.6259379835660184
-[21Jun2025 02:44:30.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Rude Awakening]
-[21Jun2025 02:44:37.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved wrongly!
-[21Jun2025 03:14:44.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.6053518729395364
-[21Jun2025 03:14:44.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.42954963945476266
-[21Jun2025 03:14:44.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.3090271887731433
-[21Jun2025 03:14:44.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.2180838477092948
-[21Jun2025 03:14:44.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.6347716323812165
-[21Jun2025 03:14:44.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.5498274748574659
-[21Jun2025 03:38:48.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.3879334280186413
-[21Jun2025 03:38:48.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.820902895414747
-[21Jun2025 03:38:48.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.000451608462754
-[21Jun2025 03:38:48.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.014612838519497
-[21Jun2025 03:41:24.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40929, l='ServerLevel[world]', x=-7404.28, y=66.50, z=-3650.37] died, message: 'Villager suffocated in a wall'
-[21Jun2025 03:42:31.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.26576692517664924
-[21Jun2025 03:42:32.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.8032790125434985
-[21Jun2025 03:42:32.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.3520081046863197
-[21Jun2025 03:42:32.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 1.9067391924418189
-[21Jun2025 03:42:32.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.29819781664355105
-[21Jun2025 03:42:32.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.30310080132767325
-[21Jun2025 03:42:32.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.8617202388704754
-[21Jun2025 03:42:32.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.307128067521262
-[21Jun2025 03:42:32.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.8679024149087127
-[21Jun2025 03:42:32.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.3082811168151238
-[21Jun2025 03:42:32.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.3084961742097221
-[21Jun2025 03:42:32.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.3086112471337401
-[21Jun2025 03:42:32.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved wrongly! 0.6512593364595887
-[21Jun2025 03:42:43.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/43297, l='ServerLevel[world]', x=-6939.28, y=114.56, z=-3431.37] died, message: 'Nitwit suffocated in a wall'
-[21Jun2025 03:42:44.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -1.0965731784781383,0.0,10.076179514825526
-[21Jun2025 03:42:44.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -1.2918328366577043,0.0,11.755737497799146
-[21Jun2025 03:42:45.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -0.8780451317297775,0.0,10.075280491717876
-[21Jun2025 03:42:45.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -0.8350433269379209,0.0,11.752639025626195
-[21Jun2025 03:42:45.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -0.7461998648223016,0.0,13.429556921980293
-[21Jun2025 03:42:45.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -0.6169240609469853,0.0,15.106086176011559
-[21Jun2025 03:42:45.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -0.6134757550535141,0.0,-10.060734416079868
-[21Jun2025 03:42:45.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -0.6134757550535141,0.0,-10.060734416079868
-[21Jun2025 03:42:45.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -0.6134757550535141,0.0,-10.060734416079868
-[21Jun2025 03:42:45.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -0.6134757550535141,0.0,-10.060734416079868
-[21Jun2025 03:42:46.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 2.522365969067323,0.0,10.04238584920131
-[21Jun2025 03:42:46.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 2.9090304819292214,0.0,11.71802674813307
-[21Jun2025 03:46:03.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[21Jun2025 03:46:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
-[21Jun2025 03:49:56.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -7.528075200485546,0.1590220090718475,-6.732531080710032
-[21Jun2025 03:50:08.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 11.618284618157304,0.0,0.7066819201663748
-[21Jun2025 03:50:11.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 9.834865697514033,0.0,-2.431865278621899
-[21Jun2025 03:50:20.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -5.7807588113400925,0.0,9.244042289267782
-[21Jun2025 03:50:20.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -6.855589194396998,0.0,10.384553471839354
-[21Jun2025 03:50:20.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -7.951061787100116,0.0,11.525386677053575
-[21Jun2025 03:50:20.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -9.064740808711576,0.0,12.666503906238177
-[21Jun2025 03:50:20.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -10.194477900619859,0.0,13.807871644564784
-[21Jun2025 03:50:20.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -11.338378210530209,0.0,14.94946033195447
-[21Jun2025 03:50:20.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -12.494770478718237,0.0,16.091243896417836
-[21Jun2025 03:50:20.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -8.93284836001294,0.0,9.129303130727749
-[21Jun2025 03:50:20.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -10.10997632955332,0.0,10.271410176323116
-[21Jun2025 03:50:20.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -11.29567539353502,0.0,11.413650932723613
-[21Jun2025 03:54:15.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 10.582800466354456,0.0,-4.528829871041125
-[21Jun2025 03:54:15.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 12.051663105087755,0.0,-5.3228054652076935
-[21Jun2025 03:54:15.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 13.513334539248717,0.0,-6.141384381947319
-[21Jun2025 03:54:15.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 14.968663330976597,0.0,-6.981663429196033
-[21Jun2025 03:54:15.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 16.418397912078035,0.0,-7.841081991554347
-[21Jun2025 03:54:15.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 17.863198399407338,0.0,-8.717381606239087
-[21Jun2025 03:54:15.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 19.33173353890834,0.0,-9.53744618671135
-[21Jun2025 03:54:15.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 20.82120264162495,0.0,-10.307911467008125
-[21Jun2025 03:54:15.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 13.223350965442478,0.0,-7.271880964123284
-[21Jun2025 03:54:15.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! 14.747568856115322,0.0,-7.960015175675835
-[21Jun2025 03:54:40.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -8.122274444903269,0.0,6.0560505552216455
-[21Jun2025 03:54:40.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -9.487846324411294,0.0,7.052296733052572
-[21Jun2025 03:54:40.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -10.855798954174134,0.0,8.04591401571679
-[21Jun2025 03:54:40.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -12.22585140566207,0.0,9.037212612843177
-[21Jun2025 03:54:40.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -13.597755899911135,0.0,10.026466129325854
-[21Jun2025 03:54:40.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -14.971293895875533,0.0,11.0139158846805
-[21Jun2025 03:54:40.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -16.346272640353163,0.0,11.999774722720304
-[21Jun2025 03:54:40.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -17.722522125019168,0.0,12.984230371688227
-[21Jun2025 03:54:40.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -19.099892402531623,0.0,13.967448407895063
-[21Jun2025 03:54:40.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -20.478251219334197,0.0,14.949574869646312
-[21Jun2025 03:54:40.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -21.857481927791014,0.0,15.930738562728038
-[21Jun2025 03:54:40.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -23.23748164468634,0.0,16.91105309384284
-[21Jun2025 03:54:40.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -24.618159627025307,0.0,17.89061866410293
-[21Jun2025 03:54:40.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -19.24003401076243,0.0,13.812699880264063
-[21Jun2025 03:54:40.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maria Antonia (vehicle of KyoShiiro) moved too quickly! -20.62183786218884,0.0,14.791022232426712
-[21Jun2025 04:06:35.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
-[21Jun2025 04:07:23.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[23Jun2025 23:33:16.774] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[23Jun2025 23:33:16.774] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[23Jun2025 23:33:20.201] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[23Jun2025 23:33:20.511] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[23Jun2025 23:33:21.128] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[23Jun2025 23:33:21.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[23Jun2025 23:33:22.019] [main/INFO] [journeymap/]: Initializing Packet Registries
+[23Jun2025 23:33:22.109] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[23Jun2025 23:33:22.109] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[23Jun2025 23:33:22.110] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[23Jun2025 23:33:22.111] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[23Jun2025 23:33:22.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.40 Target: 1.2.54
+[23Jun2025 23:33:22.215] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[23Jun2025 23:33:22.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.2 Target: 1.20.1
+[23Jun2025 23:33:22.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Jun2025 23:33:22.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[23Jun2025 23:33:22.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[23Jun2025 23:33:23.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.15 Target: 1.20.1-1.0.23
+[23Jun2025 23:33:23.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[23Jun2025 23:33:23.747] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.0 Target: 5.10.3
+[23Jun2025 23:33:23.747] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[23Jun2025 23:33:23.825] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
+[23Jun2025 23:33:24.751] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Jun2025 23:33:26.256] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/assets/.mcassetsroot' uses unexpected schema
+[23Jun2025 23:33:26.257] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverMc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/data/.mcassetsroot' uses unexpected schema
+[23Jun2025 23:33:29.066] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[23Jun2025 23:33:29.281] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1929 advancements
+[23Jun2025 23:33:30.545] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[23Jun2025 23:33:30.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[23Jun2025 23:33:30.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Jun2025 23:33:30.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Jun2025 23:33:30.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Jun2025 23:33:30.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Jun2025 23:33:30.912] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23Jun2025 23:33:30.997] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Jun2025 23:33:30.998] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Jun2025 23:33:30.998] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Jun2025 23:33:30.998] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Jun2025 23:33:31.021] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Jun2025 23:33:31.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Jun2025 23:33:36.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Jun2025 23:33:40.389] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:40.415] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:40.438] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:40.481] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:40.502] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:40.537] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:40.555] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:40.566] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:40.588] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:40.916] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:41.999] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:42.007] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:42.416] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:42.911] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:44.604] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:44.605] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:44.611] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:44.908] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 23:33:45.408] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[23Jun2025 23:33:45.908] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[23Jun2025 23:33:46.408] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
+[23Jun2025 23:33:46.548] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10141 ms
+[23Jun2025 23:33:46.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.535s)! For help, type "help"
+[23Jun2025 23:33:46.599] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Jun2025 23:33:46.654] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[23Jun2025 23:33:46.686] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[23Jun2025 23:33:46.687] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[23Jun2025 23:33:46.687] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[23Jun2025 23:33:46.739] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[23Jun2025 23:33:46.740] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[23Jun2025 23:33:46.740] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[23Jun2025 23:33:46.740] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[23Jun2025 23:35:18.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.166.24.143:36465] logged in with entity id 117 at (-1841.9267537954458, 96.0, -2268.3547753001685)
+[23Jun2025 23:35:18.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[23Jun2025 23:35:23.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:50089] logged in with entity id 381 at (-1837.5054594183048, 96.5625, -2271.335300687201)
+[23Jun2025 23:35:23.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[23Jun2025 23:42:20.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Sebasrex) moved wrongly! 0.39634832019760324
+[23Jun2025 23:42:20.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Sebasrex) moved wrongly! 0.9367136772652237
+[23Jun2025 23:42:21.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Sebasrex) moved wrongly! 1.6084407251465942
+[23Jun2025 23:42:21.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Sebasrex) moved wrongly! 2.308455191092123
+[23Jun2025 23:42:21.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Sebasrex) moved wrongly! 3.020276783038559
+[23Jun2025 23:42:21.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Sebasrex) moved wrongly! 3.7382196511955033
+[23Jun2025 23:42:21.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Sebasrex) moved wrongly! 4.457563854443759
+[23Jun2025 23:42:21.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Sebasrex) moved wrongly! 5.155005923255229
+[23Jun2025 23:42:34.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved wrongly!
+[23Jun2025 23:43:49.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> zzzzzzzzzzzzzzzzzzz
+[23Jun2025 23:43:51.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> zzzzzzzzzzzzzzz
+[23Jun2025 23:43:53.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> zzzzzzzzzzzzzzzzzzz
+[23Jun2025 23:46:07.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The Heart and the Flame]
+[23Jun2025 23:46:38.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[23Jun2025 23:47:02.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[23Jun2025 23:49:42.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Sebasrex) moved wrongly! 0.34252575039454314
+[23Jun2025 23:50:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Forged in Flame]
