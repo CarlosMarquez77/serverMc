@@ -3729,11 +3729,24 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/shadow_armor": {
+    "criteria": {
+      "helmet": "2025-06-24 00:20:37 +0000",
+      "tunic": "2025-06-24 00:20:37 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/dreadbow": {
     "criteria": {
       "dreadbow": "2025-06-24 00:12:05 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "sea_staff": "2025-06-24 00:17:47 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

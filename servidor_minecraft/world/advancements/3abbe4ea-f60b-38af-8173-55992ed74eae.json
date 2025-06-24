@@ -4309,6 +4309,13 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/shadow_armor": {
+    "criteria": {
+      "helmet": "2025-06-24 00:15:22 +0000",
+      "tunic": "2025-06-24 00:15:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
     "criteria": {
       "has_dragonsteel_ice_ingot": "2025-06-23 23:50:26 +0000"
