@@ -35,18 +35,6 @@
     },
     "done": true
   },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-07-15 22:31:15 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-07-15 22:31:15 +0000"
-    },
-    "done": true
-  },
   "dtkupd:subscribe": {
     "criteria": {
       "subscribe_0": "2025-07-15 22:31:14 +0000"
@@ -251,12 +239,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:savanna": "2025-07-15 22:31:15 +0000"
-    },
-    "done": false
-  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-07-15 22:31:14 +0000"
@@ -304,6 +286,24 @@
       "has_the_recipe": "2025-07-15 22:31:14 +0000"
     },
     "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-07-15 22:31:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-07-15 22:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2025-07-15 22:31:15 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
