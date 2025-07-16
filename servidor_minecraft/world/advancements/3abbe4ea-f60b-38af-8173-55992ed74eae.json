@@ -306,6 +306,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-16 00:41:09 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/parquets": {
     "criteria": {
       "has_item": "2025-07-16 00:18:06 +0000"
@@ -333,6 +339,12 @@
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-07-16 00:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-16 00:39:27 +0000"
     },
     "done": true
   },
@@ -378,6 +390,18 @@
       "orange": "2025-07-16 00:31:21 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2025-07-16 00:37:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-16 00:37:39 +0000"
+    },
+    "done": true
   },
   "hearth_and_home:recipes/sanded_wood": {
     "criteria": {
