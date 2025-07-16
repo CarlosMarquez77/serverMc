@@ -3958,3 +3958,62 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [16Jul2025 01:04:11.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 lost connection: Disconnected
 [16Jul2025 01:04:11.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game
 [16Jul2025 01:04:11.166] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ded52ac3-8e88-33aa-ac02-b1f69724ed99
+[16Jul2025 01:12:44.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: You logged in from another location
+[16Jul2025 01:12:44.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
+[16Jul2025 01:12:44.666] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3abbe4ea-f60b-38af-8173-55992ed74eae
+[16Jul2025 01:12:44.746] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jul2025 01:12:44.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:49813] logged in with entity id 8849 at (-217.16850334687447, 122.0, -8.63679207449339)
+[16Jul2025 01:12:44.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KyoShiiro
+[16Jul2025 01:12:44.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KyoShiiro
+[16Jul2025 01:12:44.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KyoShiiro
+[16Jul2025 01:12:44.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KyoShiiro
+[16Jul2025 01:12:44.784] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KyoShiiro
+[16Jul2025 01:12:44.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KyoShiiro
+[16Jul2025 01:12:44.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KyoShiiro
+[16Jul2025 01:12:44.803] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16Jul2025 01:12:44.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[16Jul2025 01:12:44.877] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3abbe4ea-f60b-38af-8173-55992ed74eae
+[16Jul2025 01:12:44.883] [Server thread/INFO] [Jade/]: Syncing config to KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae)
+[16Jul2025 01:12:47.893] [Server thread/INFO] [ping-wheel/]: Channel update: KyoShiiro -> default
+[16Jul2025 01:12:47.925] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[16Jul2025 01:12:47.926] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[16Jul2025 01:12:47.926] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[16Jul2025 01:12:47.926] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[16Jul2025 01:12:47.927] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[16Jul2025 01:12:47.927] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[16Jul2025 01:12:47.927] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[16Jul2025 01:12:47.927] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[16Jul2025 01:12:47.927] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[16Jul2025 01:12:47.927] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[16Jul2025 01:12:47.928] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[16Jul2025 01:12:47.928] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[16Jul2025 01:12:47.928] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[16Jul2025 01:12:47.928] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[16Jul2025 01:12:47.928] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[16Jul2025 01:12:47.928] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[16Jul2025 01:12:47.929] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[16Jul2025 01:12:47.929] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[16Jul2025 01:12:57.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Atuesta18[/127.56.121.146:39655] logged in with entity id 9083 at (10.5, 98.0, 27.5)
+[16Jul2025 01:12:57.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Atuesta18
+[16Jul2025 01:12:57.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Atuesta18
+[16Jul2025 01:12:57.399] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Atuesta18
+[16Jul2025 01:12:57.399] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Atuesta18
+[16Jul2025 01:12:57.401] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Atuesta18
+[16Jul2025 01:12:57.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Atuesta18
+[16Jul2025 01:12:57.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Atuesta18
+[16Jul2025 01:12:57.415] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16Jul2025 01:12:57.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 joined the game
+[16Jul2025 01:12:57.478] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ded52ac3-8e88-33aa-ac02-b1f69724ed99
+[16Jul2025 01:12:57.483] [Server thread/INFO] [Jade/]: Syncing config to Atuesta18 (ded52ac3-8e88-33aa-ac02-b1f69724ed99)
+[16Jul2025 01:13:31.390] [Netty Epoll Server IO #5/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Client requested 2 Files:
+[16Jul2025 01:13:31.390] [Netty Epoll Server IO #5/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.items
+[16Jul2025 01:13:31.390] [Netty Epoll Server IO #5/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.biomes
+[16Jul2025 01:13:31.391] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending 2 Files to Client:
+[16Jul2025 01:13:31.393] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.items (4.1 KiB)
+[16Jul2025 01:13:31.393] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.biomes (8.5 KiB)
+[16Jul2025 01:13:32.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
+[16Jul2025 01:13:32.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
+[16Jul2025 01:13:32.670] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3abbe4ea-f60b-38af-8173-55992ed74eae
+[16Jul2025 01:14:57.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 lost connection: Timed out
+[16Jul2025 01:14:57.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game
+[16Jul2025 01:14:57.363] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ded52ac3-8e88-33aa-ac02-b1f69724ed99

@@ -302,13 +302,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-07-15 23:12:49 +0000",
+      "minecraft:river": "2025-07-16 01:10:24 +0000",
       "minecraft:savanna": "2025-07-15 22:15:08 +0000"
     },
     "done": false
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "iron_chestplate": "2025-07-16 00:41:09 +0000"
+      "killed_by_something": "2025-07-16 00:14:31 +0000"
     },
     "done": true
   },
@@ -318,45 +319,27 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "hearth_and_home:recipes/trims": {
     "criteria": {
-      "get_stone": "2025-07-16 00:27:29 +0000"
+      "has_item": "2025-07-16 00:18:06 +0000"
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "hearth_and_home:recipes/lattices": {
     "criteria": {
-      "stone_pickaxe": "2025-07-16 00:27:45 +0000"
+      "has_item": "2025-07-16 00:18:06 +0000"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
+  "hearth_and_home:recipes/sanded_wood": {
     "criteria": {
-      "scrubland": "2025-07-16 00:25:47 +0000"
+      "has_item": "2025-07-16 00:18:06 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/acacia_blossom": {
+  "minecraft:story/root": {
     "criteria": {
-      "acacia_blossom": "2025-07-16 00:25:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-07-16 00:39:27 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "scrubland": "2025-07-16 00:25:47 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-07-16 00:14:31 +0000"
+      "crafting_table": "2025-07-16 00:18:11 +0000"
     },
     "done": true
   },
@@ -374,15 +357,33 @@
     },
     "done": true
   },
-  "hearth_and_home:recipes/trims": {
+  "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
-      "has_item": "2025-07-16 00:18:06 +0000"
+      "acacia_blossom": "2025-07-16 00:25:35 +0000"
     },
     "done": true
   },
-  "hearth_and_home:recipes/lattices": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "has_item": "2025-07-16 00:18:06 +0000"
+      "scrubland": "2025-07-16 00:25:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2025-07-16 00:25:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-16 00:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-16 00:27:45 +0000"
     },
     "done": true
   },
@@ -391,12 +392,6 @@
       "orange": "2025-07-16 00:31:21 +0000"
     },
     "done": false
-  },
-  "hearth_and_home:recipes/polished_calcite": {
-    "criteria": {
-      "has_item": "2025-07-16 00:48:53 +0000"
-    },
-    "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
@@ -412,15 +407,21 @@
     },
     "done": true
   },
-  "hearth_and_home:recipes/sanded_wood": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "has_item": "2025-07-16 00:18:06 +0000"
+      "iron": "2025-07-16 00:39:27 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "crafting_table": "2025-07-16 00:18:11 +0000"
+      "iron_chestplate": "2025-07-16 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-07-16 00:48:53 +0000"
     },
     "done": true
   },
