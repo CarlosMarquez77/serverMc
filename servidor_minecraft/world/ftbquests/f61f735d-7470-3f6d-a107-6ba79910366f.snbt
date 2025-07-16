@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f61f735d74703f6da1076ba79910366f"
+	name: "Jeison_117#f61f735d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
