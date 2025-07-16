@@ -1,0 +1,17 @@
+{
+	id: "3abbe4ea-f60b-38af-8173-55992ed74eae"
+	type: "player"
+	player_name: "KyoShiiro"
+	ranks: {
+		3abbe4ea-f60b-38af-8173-55992ed74eae: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "KyoShiiro"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5997FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

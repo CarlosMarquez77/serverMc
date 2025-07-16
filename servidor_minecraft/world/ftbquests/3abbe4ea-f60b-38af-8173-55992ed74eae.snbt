@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3abbe4eaf60b38af817355992ed74eae"
+	name: "KyoShiiro#3abbe4ea"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

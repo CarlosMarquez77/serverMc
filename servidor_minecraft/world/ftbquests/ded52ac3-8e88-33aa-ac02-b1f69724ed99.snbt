@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "ded52ac38e8833aaac02b1f69724ed99"
+	name: "Atuesta18#ded52ac3"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
