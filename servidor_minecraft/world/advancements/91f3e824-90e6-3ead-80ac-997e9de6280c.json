@@ -343,6 +343,12 @@
     },
     "done": false
   },
+  "hearth_and_home:recipes/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-07-17 01:42:11 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-07-17 01:12:53 +0000"

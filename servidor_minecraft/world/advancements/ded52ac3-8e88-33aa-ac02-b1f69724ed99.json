@@ -303,6 +303,7 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-07-17 01:23:27 +0000",
       "minecraft:river": "2025-07-17 01:29:15 +0000",
+      "minecraft:deep_dark": "2025-07-17 01:46:22 +0000",
       "minecraft:savanna": "2025-07-15 22:31:15 +0000"
     },
     "done": false
@@ -310,6 +311,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-07-16 01:23:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-07-17 01:46:22 +0000"
     },
     "done": true
   },
@@ -372,6 +379,12 @@
       "orange": "2025-07-17 01:39:25 +0000"
     },
     "done": false
+  },
+  "hearth_and_home:recipes/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-07-17 01:42:05 +0000"
+    },
+    "done": true
   },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {

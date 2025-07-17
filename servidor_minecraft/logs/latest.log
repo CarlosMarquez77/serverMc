@@ -4019,3 +4019,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [17Jul2025 01:38:40.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by PAIK_WS08
 [17Jul2025 01:38:48.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
 [17Jul2025 01:38:54.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[17Jul2025 01:45:02.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was blown up by Creeper
+[17Jul2025 01:45:06.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Atuesta18]
+[17Jul2025 01:45:37.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was shot by Skeleton
+[17Jul2025 01:45:46.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[17Jul2025 01:46:28.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Diamonds!]
+[17Jul2025 01:46:36.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was shot by Skeleton
+[17Jul2025 01:46:58.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[17Jul2025 01:47:55.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Sneak 100]
+[17Jul2025 01:50:24.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Take Aim]
+[17Jul2025 01:50:52.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Getting an Upgrade]
+[17Jul2025 01:51:07.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
