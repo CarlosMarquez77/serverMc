@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-17 02:43:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-07-17 01:12:53 +0000"
@@ -266,7 +272,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2025-07-17 02:03:43 +0000",
-      "dryland": "2025-07-17 02:28:40 +0000"
+      "mediterranean_forest": "2025-07-17 02:42:14 +0000",
+      "dryland": "2025-07-17 02:28:40 +0000",
+      "wasteland": "2025-07-17 02:42:33 +0000",
+      "lush_desert": "2025-07-17 02:37:48 +0000"
     },
     "done": false
   },
@@ -339,6 +348,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-07-17 02:35:06 +0000",
       "minecraft:savanna_plateau": "2025-07-17 01:16:13 +0000",
       "minecraft:river": "2025-07-17 01:28:01 +0000",
       "minecraft:stony_shore": "2025-07-17 02:27:16 +0000",
