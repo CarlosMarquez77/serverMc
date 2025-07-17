@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-07-17 01:51:11 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-07-17 01:12:53 +0000"
@@ -303,6 +309,7 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-07-17 01:16:13 +0000",
       "minecraft:river": "2025-07-17 01:28:01 +0000",
+      "minecraft:deep_dark": "2025-07-17 01:51:11 +0000",
       "minecraft:savanna": "2025-07-17 01:12:54 +0000"
     },
     "done": false

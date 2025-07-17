@@ -4030,3 +4030,25 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [17Jul2025 01:50:24.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Take Aim]
 [17Jul2025 01:50:52.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Getting an Upgrade]
 [17Jul2025 01:51:07.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[17Jul2025 01:56:17.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Forgotten
+[17Jul2025 01:56:21.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Atuesta18]
+[17Jul2025 01:56:22.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was slain by Forgotten
+[17Jul2025 01:56:32.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [This Belongs in a Museum]
+[17Jul2025 01:56:36.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[17Jul2025 01:56:55.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was shot by Skeleton
+[17Jul2025 01:57:02.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[17Jul2025 01:58:55.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was doomed to fall by Zombie
+[17Jul2025 01:59:06.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[17Jul2025 01:59:29.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Not Today, Thank You]
+[17Jul2025 01:59:55.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Zombie
+[17Jul2025 02:00:20.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=103, z=27} BlockPos{x=-22, y=101, z=27}
+[17Jul2025 02:00:20.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=103, z=27} BlockPos{x=-22, y=101, z=27}
+[17Jul2025 02:00:20.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=103, z=27} BlockPos{x=-22, y=101, z=27}
+[17Jul2025 02:00:24.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to PAIK_WS08]
+[17Jul2025 02:00:28.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[17Jul2025 02:01:01.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was blown up by Creeper
+[17Jul2025 02:01:09.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=99, z=34}
+[17Jul2025 02:01:10.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=100, z=32}
+[17Jul2025 02:01:10.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[17Jul2025 02:01:50.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Suit Up]
+[17Jul2025 02:02:36.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
