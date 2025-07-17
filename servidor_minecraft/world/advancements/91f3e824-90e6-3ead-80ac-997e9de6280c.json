@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-07-17 01:23:09 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:main/root": {
     "criteria": {
       "seeds": "2025-07-17 01:12:53 +0000"
@@ -173,6 +179,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-07-17 01:36:40 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-07-17 01:12:53 +0000"
@@ -227,6 +239,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-17 01:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-17 01:26:22 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-07-17 01:12:53 +0000"
@@ -269,9 +293,16 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-17 01:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-07-17 01:16:13 +0000",
+      "minecraft:river": "2025-07-17 01:28:01 +0000",
       "minecraft:savanna": "2025-07-17 01:12:54 +0000"
     },
     "done": false
@@ -306,15 +337,39 @@
     },
     "done": true
   },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "orange": "2025-07-17 01:39:45 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-07-17 01:12:53 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-07-17 01:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2025-07-17 01:29:38 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-07-17 01:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-17 01:29:38 +0000"
     },
     "done": true
   },
