@@ -3916,3 +3916,50 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [17Jul2025 00:58:16.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 lost connection: Timed out
 [17Jul2025 00:58:16.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game
 [17Jul2025 00:58:16.768] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ded52ac3-8e88-33aa-ac02-b1f69724ed99
+[17Jul2025 01:09:53.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Atuesta18[/127.56.121.146:46761] logged in with entity id 2166 at (10.5, 98.0, 27.5)
+[17Jul2025 01:09:53.704] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Atuesta18
+[17Jul2025 01:09:53.704] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Atuesta18
+[17Jul2025 01:09:53.705] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Atuesta18
+[17Jul2025 01:09:53.705] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Atuesta18
+[17Jul2025 01:09:53.707] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Atuesta18
+[17Jul2025 01:09:53.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Atuesta18
+[17Jul2025 01:09:53.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Atuesta18
+[17Jul2025 01:09:53.726] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17Jul2025 01:09:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 joined the game
+[17Jul2025 01:09:53.808] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ded52ac3-8e88-33aa-ac02-b1f69724ed99
+[17Jul2025 01:09:53.813] [Server thread/INFO] [Jade/]: Syncing config to Atuesta18 (ded52ac3-8e88-33aa-ac02-b1f69724ed99)
+[17Jul2025 01:11:53.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 lost connection: Timed out
+[17Jul2025 01:11:53.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game
+[17Jul2025 01:11:53.719] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ded52ac3-8e88-33aa-ac02-b1f69724ed99
+[17Jul2025 01:12:53.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAIK_WS08[/127.41.202.231:36635] logged in with entity id 2506 at (0.5, 107.0, 30.5)
+[17Jul2025 01:12:53.179] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PAIK_WS08
+[17Jul2025 01:12:53.179] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PAIK_WS08
+[17Jul2025 01:12:53.180] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PAIK_WS08
+[17Jul2025 01:12:53.180] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PAIK_WS08
+[17Jul2025 01:12:53.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PAIK_WS08
+[17Jul2025 01:12:53.184] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PAIK_WS08
+[17Jul2025 01:12:53.184] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PAIK_WS08
+[17Jul2025 01:12:53.195] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17Jul2025 01:12:53.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 joined the game
+[17Jul2025 01:12:53.294] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 91f3e824-90e6-3ead-80ac-997e9de6280c
+[17Jul2025 01:12:53.311] [Server thread/INFO] [Jade/]: Syncing config to PAIK_WS08 (91f3e824-90e6-3ead-80ac-997e9de6280c)
+[17Jul2025 01:12:53.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Subscribe]
+[17Jul2025 01:12:55.920] [Server thread/INFO] [ping-wheel/]: Channel update: PAIK_WS08 -> default
+[17Jul2025 01:12:55.920] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[17Jul2025 01:12:55.920] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[17Jul2025 01:12:55.921] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[17Jul2025 01:12:55.921] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[17Jul2025 01:12:55.921] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[17Jul2025 01:12:55.921] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[17Jul2025 01:12:55.921] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[17Jul2025 01:12:55.921] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[17Jul2025 01:12:55.921] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[17Jul2025 01:12:55.921] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[17Jul2025 01:12:55.921] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[17Jul2025 01:12:55.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[17Jul2025 01:12:55.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[17Jul2025 01:12:55.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[17Jul2025 01:12:55.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[17Jul2025 01:12:55.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[17Jul2025 01:12:55.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[17Jul2025 01:12:55.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)

@@ -1,0 +1,17 @@
+{
+	id: "91f3e824-90e6-3ead-80ac-997e9de6280c"
+	type: "player"
+	player_name: "PAIK_WS08"
+	ranks: {
+		91f3e824-90e6-3ead-80ac-997e9de6280c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PAIK_WS08"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9BFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
