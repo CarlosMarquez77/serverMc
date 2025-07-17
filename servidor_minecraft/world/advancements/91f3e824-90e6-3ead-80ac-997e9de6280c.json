@@ -265,7 +265,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "scrubland": "2025-07-17 02:03:43 +0000"
+      "scrubland": "2025-07-17 02:03:43 +0000",
+      "dryland": "2025-07-17 02:28:40 +0000"
     },
     "done": false
   },
@@ -283,6 +284,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-17 02:26:30 +0000",
       "minecraft:zombie": "2025-07-17 01:26:22 +0000"
     },
     "done": false
@@ -339,6 +341,7 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-07-17 01:16:13 +0000",
       "minecraft:river": "2025-07-17 01:28:01 +0000",
+      "minecraft:stony_shore": "2025-07-17 02:27:16 +0000",
       "minecraft:deep_dark": "2025-07-17 01:51:11 +0000",
       "minecraft:savanna": "2025-07-17 01:12:54 +0000"
     },

@@ -303,6 +303,8 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-07-17 01:23:27 +0000",
       "minecraft:river": "2025-07-17 01:29:15 +0000",
+      "minecraft:stony_shore": "2025-07-17 02:27:12 +0000",
+      "minecraft:warm_ocean": "2025-07-17 02:28:03 +0000",
       "minecraft:deep_dark": "2025-07-17 01:46:22 +0000",
       "minecraft:savanna": "2025-07-15 22:31:15 +0000"
     },
@@ -362,6 +364,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-07-17 02:29:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "scrubland": "2025-07-17 02:09:06 +0000"
@@ -388,13 +396,15 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "scrubland": "2025-07-17 02:09:06 +0000"
+      "scrubland": "2025-07-17 02:09:06 +0000",
+      "dryland": "2025-07-17 02:28:45 +0000"
     },
     "done": false
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-17 02:07:27 +0000",
+      "minecraft:creeper": "2025-07-17 02:20:56 +0000",
       "minecraft:witch": "2025-07-17 02:08:08 +0000",
       "minecraft:cave_spider": "2025-07-17 01:50:33 +0000",
       "minecraft:zombie": "2025-07-17 01:26:07 +0000"

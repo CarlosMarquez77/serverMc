@@ -4062,3 +4062,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [17Jul2025 02:12:43.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Take Aim]
 [17Jul2025 02:23:27.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
 [17Jul2025 02:23:29.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[17Jul2025 02:27:11.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[17Jul2025 02:27:15.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[17Jul2025 02:29:41.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Crops of the Wild]
+[17Jul2025 02:29:44.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Crops of the Wild]
+[17Jul2025 02:30:48.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was blown up by Creeper
+[17Jul2025 02:31:04.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
