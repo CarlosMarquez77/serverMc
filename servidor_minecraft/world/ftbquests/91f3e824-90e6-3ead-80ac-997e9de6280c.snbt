@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "91f3e82490e63ead80ac997e9de6280c"
+	name: "PAIK_WS08#91f3e824"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

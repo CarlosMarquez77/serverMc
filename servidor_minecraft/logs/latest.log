@@ -3963,3 +3963,47 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [17Jul2025 01:12:55.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [17Jul2025 01:12:55.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [17Jul2025 01:12:55.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[17Jul2025 01:14:41.434] [Worker-Main-19/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[17Jul2025 01:14:41.607] [Worker-Main-19/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 173ms
+[17Jul2025 01:16:22.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Stone Age]
+[17Jul2025 01:16:29.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made KyoShiiro a server operator
+[17Jul2025 01:16:34.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to PAIK_WS08]
+[17Jul2025 01:17:50.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Isn't It Iron Pick]
+[17Jul2025 01:18:10.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Getting an Upgrade]
+[17Jul2025 01:18:18.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Voluntary Exile]
+[17Jul2025 01:20:49.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Atuesta18[/127.56.121.146:32801] logged in with entity id 4304 at (10.5, 98.0, 27.5)
+[17Jul2025 01:20:49.647] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Atuesta18
+[17Jul2025 01:20:49.647] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Atuesta18
+[17Jul2025 01:20:49.648] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Atuesta18
+[17Jul2025 01:20:49.649] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Atuesta18
+[17Jul2025 01:20:49.651] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Atuesta18
+[17Jul2025 01:20:49.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Atuesta18
+[17Jul2025 01:20:49.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Atuesta18
+[17Jul2025 01:20:49.663] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17Jul2025 01:20:49.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 joined the game
+[17Jul2025 01:20:49.735] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ded52ac3-8e88-33aa-ac02-b1f69724ed99
+[17Jul2025 01:20:49.740] [Server thread/INFO] [Jade/]: Syncing config to Atuesta18 (ded52ac3-8e88-33aa-ac02-b1f69724ed99)
+[17Jul2025 01:20:56.201] [Server thread/INFO] [ping-wheel/]: Channel update: Atuesta18 -> default
+[17Jul2025 01:20:56.242] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[17Jul2025 01:20:56.243] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[17Jul2025 01:20:56.243] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[17Jul2025 01:20:56.243] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[17Jul2025 01:20:56.243] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[17Jul2025 01:20:56.244] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[17Jul2025 01:20:56.244] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[17Jul2025 01:20:56.244] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[17Jul2025 01:20:56.244] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[17Jul2025 01:20:56.244] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[17Jul2025 01:20:56.244] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[17Jul2025 01:20:56.244] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[17Jul2025 01:20:56.244] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[17Jul2025 01:20:56.244] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[17Jul2025 01:20:56.244] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[17Jul2025 01:20:56.244] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[17Jul2025 01:20:56.245] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[17Jul2025 01:20:56.245] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[17Jul2025 01:22:53.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=100, z=32}
+[17Jul2025 01:22:55.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has reached the goal [Flowers of the Savanna]
+[17Jul2025 01:23:07.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=98, z=39}
+[17Jul2025 01:23:09.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [It's an Emu!!!]
+[17Jul2025 01:23:17.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was slain by Emu
