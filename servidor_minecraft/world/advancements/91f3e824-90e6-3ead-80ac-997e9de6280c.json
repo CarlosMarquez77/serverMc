@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-17 02:08:35 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-07-17 01:12:53 +0000"
@@ -173,6 +179,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "scrubland": "2025-07-17 02:03:43 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-07-17 01:12:53 +0000"
@@ -200,6 +212,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-07-17 01:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-17 02:06:49 +0000"
     },
     "done": true
   },
@@ -238,6 +256,12 @@
       "has_the_recipe": "2025-07-17 01:12:53 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2025-07-17 02:03:43 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_orange": {
     "criteria": {
@@ -370,6 +394,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-07-17 02:07:20 +0000",
       "cooked_chicken": "2025-07-17 01:29:38 +0000"
     },
     "done": false
