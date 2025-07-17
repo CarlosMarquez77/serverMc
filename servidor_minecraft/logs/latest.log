@@ -4077,3 +4077,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [17Jul2025 02:43:20.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Grizzly Bear
 [17Jul2025 02:43:29.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to PAIK_WS08]
 [17Jul2025 02:43:56.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Atuesta18]
+[17Jul2025 02:49:12.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[17Jul2025 02:49:23.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
