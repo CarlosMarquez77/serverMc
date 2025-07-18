@@ -382,6 +382,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-18 00:21:46 +0000",
+      "cooked_beef": "2025-07-18 00:55:39 +0000",
       "baked_potato": "2025-07-17 02:07:20 +0000",
       "cooked_chicken": "2025-07-17 01:29:38 +0000"
     },
@@ -469,6 +470,18 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-18 00:56:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-07-18 00:56:23 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-07-18 00:43:10 +0000"
@@ -478,6 +491,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-18 00:48:19 +0000"
+    },
+    "done": true
+  },
+  "dtkupd:made_in_heaven": {
+    "criteria": {
+      "made_in_heaven_0": "2025-07-18 00:51:23 +0000"
     },
     "done": true
   },
