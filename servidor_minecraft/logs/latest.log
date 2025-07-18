@@ -4211,3 +4211,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 02:12:37.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=619, y=72, z=-407} BlockPos{x=618, y=71, z=-405}
 [18Jul2025 02:16:17.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Wingin' It]
 [18Jul2025 02:22:26.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=622, y=73, z=-419} BlockPos{x=620, y=72, z=-420}
+[18Jul2025 02:26:14.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=604, y=73, z=-413} BlockPos{x=603, y=71, z=-414}
+[18Jul2025 02:26:46.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=608, y=73, z=-423} BlockPos{x=608, y=72, z=-424}
