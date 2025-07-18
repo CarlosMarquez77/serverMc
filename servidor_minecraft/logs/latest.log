@@ -3904,3 +3904,128 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 23:13:08.253] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
 [18Jul2025 23:13:08.255] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
 [18Jul2025 23:13:08.257] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[18Jul2025 23:21:08.283] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[18Jul2025 23:21:08.391] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/pine_stonecutter removed now.
+[18Jul2025 23:21:08.393] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether_redux/crystal_stonecutter removed now.
+[18Jul2025 23:21:08.393] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:netherexp/claret_stonecutter removed now.
+[18Jul2025 23:21:08.394] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/redwood_stonecutter removed now.
+[18Jul2025 23:21:08.395] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/palm_stonecutter removed now.
+[18Jul2025 23:21:08.395] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deep_aether/conberry_stonecutter removed now.
+[18Jul2025 23:21:08.396] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deeperdarker/echo_stonecutter removed now.
+[18Jul2025 23:21:08.396] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/empyreal_stonecutter removed now.
+[18Jul2025 23:21:08.397] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:eldritch_end/primordial_stonecutter removed now.
+[18Jul2025 23:21:08.397] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deep_aether/yagroot_stonecutter removed now.
+[18Jul2025 23:21:08.398] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/mahogany_stonecutter removed now.
+[18Jul2025 23:21:08.398] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether_redux/fieldsproot_stonecutter removed now.
+[18Jul2025 23:21:08.399] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/bluebright_stonecutter removed now.
+[18Jul2025 23:21:08.399] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether/skyroot_stonecutter removed now.
+[18Jul2025 23:21:08.400] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/frostbright_stonecutter removed now.
+[18Jul2025 23:21:08.400] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:gardens_of_the_dead/soulblight_stonecutter removed now.
+[18Jul2025 23:21:08.400] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/lunar_stonecutter removed now.
+[18Jul2025 23:21:08.401] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether_redux/cloudcap_stonecutter removed now.
+[18Jul2025 23:21:08.401] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/hellbark_stonecutter removed now.
+[18Jul2025 23:21:08.402] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deep_aether/cruderoot_stonecutter removed now.
+[18Jul2025 23:21:08.402] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/maple_stonecutter removed now.
+[18Jul2025 23:21:08.404] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/magic_stonecutter removed now.
+[18Jul2025 23:21:08.404] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/canopy_stonecutter removed now.
+[18Jul2025 23:21:08.405] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/twilight_oak_stonecutter removed now.
+[18Jul2025 23:21:08.405] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/comet_stonecutter removed now.
+[18Jul2025 23:21:08.405] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/transformation_stonecutter removed now.
+[18Jul2025 23:21:08.405] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/fir_stonecutter removed now.
+[18Jul2025 23:21:08.406] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:gardens_of_the_dead/whistlecane_stonecutter removed now.
+[18Jul2025 23:21:08.406] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/dark_stonecutter removed now.
+[18Jul2025 23:21:08.407] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/sorting_stonecutter removed now.
+[18Jul2025 23:21:08.407] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:dtkupd/pale_oak_stonecutter removed now.
+[18Jul2025 23:21:08.408] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/umbran_stonecutter removed now.
+[18Jul2025 23:21:08.408] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/time_stonecutter removed now.
+[18Jul2025 23:21:08.409] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/maple_stonecutter removed now.
+[18Jul2025 23:21:08.409] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:cataclysm/chorus_stonecutter removed now.
+[18Jul2025 23:21:08.410] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/crystallized_stonecutter removed now.
+[18Jul2025 23:21:08.410] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deep_aether/sunroot_stonecutter removed now.
+[18Jul2025 23:21:08.410] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/starlit_stonecutter removed now.
+[18Jul2025 23:21:08.411] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/dusk_stonecutter removed now.
+[18Jul2025 23:21:08.412] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/dead_stonecutter removed now.
+[18Jul2025 23:21:08.412] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/mining_stonecutter removed now.
+[18Jul2025 23:21:08.412] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deep_aether/roseroot_stonecutter removed now.
+[18Jul2025 23:21:08.412] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether_redux/glacia_stonecutter removed now.
+[18Jul2025 23:21:08.413] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether_redux/blightwillow_stonecutter removed now.
+[18Jul2025 23:21:08.413] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/willow_stonecutter removed now.
+[18Jul2025 23:21:08.413] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/jacaranda_stonecutter removed now.
+[18Jul2025 23:21:08.414] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/pine_stonecutter removed now.
+[18Jul2025 23:21:08.415] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether_redux/crystal_stonecutter removed now.
+[18Jul2025 23:21:08.415] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:netherexp/claret_stonecutter removed now.
+[18Jul2025 23:21:08.416] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/redwood_stonecutter removed now.
+[18Jul2025 23:21:08.416] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/palm_stonecutter removed now.
+[18Jul2025 23:21:08.417] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deep_aether/conberry_stonecutter removed now.
+[18Jul2025 23:21:08.417] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deeperdarker/echo_stonecutter removed now.
+[18Jul2025 23:21:08.417] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/empyreal_stonecutter removed now.
+[18Jul2025 23:21:08.418] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:eldritch_end/primordial_stonecutter removed now.
+[18Jul2025 23:21:08.418] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deep_aether/yagroot_stonecutter removed now.
+[18Jul2025 23:21:08.419] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/mahogany_stonecutter removed now.
+[18Jul2025 23:21:08.419] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether_redux/fieldsproot_stonecutter removed now.
+[18Jul2025 23:21:08.419] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/bluebright_stonecutter removed now.
+[18Jul2025 23:21:08.419] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether/skyroot_stonecutter removed now.
+[18Jul2025 23:21:08.420] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/frostbright_stonecutter removed now.
+[18Jul2025 23:21:08.420] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:gardens_of_the_dead/soulblight_stonecutter removed now.
+[18Jul2025 23:21:08.420] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/lunar_stonecutter removed now.
+[18Jul2025 23:21:08.421] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether_redux/cloudcap_stonecutter removed now.
+[18Jul2025 23:21:08.421] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/hellbark_stonecutter removed now.
+[18Jul2025 23:21:08.422] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deep_aether/cruderoot_stonecutter removed now.
+[18Jul2025 23:21:08.422] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/maple_stonecutter removed now.
+[18Jul2025 23:21:08.424] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/magic_stonecutter removed now.
+[18Jul2025 23:21:08.424] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/canopy_stonecutter removed now.
+[18Jul2025 23:21:08.424] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/twilight_oak_stonecutter removed now.
+[18Jul2025 23:21:08.425] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/comet_stonecutter removed now.
+[18Jul2025 23:21:08.425] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/transformation_stonecutter removed now.
+[18Jul2025 23:21:08.425] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/fir_stonecutter removed now.
+[18Jul2025 23:21:08.425] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:gardens_of_the_dead/whistlecane_stonecutter removed now.
+[18Jul2025 23:21:08.425] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/dark_stonecutter removed now.
+[18Jul2025 23:21:08.426] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/sorting_stonecutter removed now.
+[18Jul2025 23:21:08.426] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:dtkupd/pale_oak_stonecutter removed now.
+[18Jul2025 23:21:08.427] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/umbran_stonecutter removed now.
+[18Jul2025 23:21:08.427] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/time_stonecutter removed now.
+[18Jul2025 23:21:08.428] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/maple_stonecutter removed now.
+[18Jul2025 23:21:08.428] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:cataclysm/chorus_stonecutter removed now.
+[18Jul2025 23:21:08.429] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/crystallized_stonecutter removed now.
+[18Jul2025 23:21:08.429] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deep_aether/sunroot_stonecutter removed now.
+[18Jul2025 23:21:08.429] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/starlit_stonecutter removed now.
+[18Jul2025 23:21:08.430] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:blue_skies/dusk_stonecutter removed now.
+[18Jul2025 23:21:08.430] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/dead_stonecutter removed now.
+[18Jul2025 23:21:08.431] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:twilightforest/mining_stonecutter removed now.
+[18Jul2025 23:21:08.431] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:deep_aether/roseroot_stonecutter removed now.
+[18Jul2025 23:21:08.431] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether_redux/glacia_stonecutter removed now.
+[18Jul2025 23:21:08.431] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:aether_redux/blightwillow_stonecutter removed now.
+[18Jul2025 23:21:08.432] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/willow_stonecutter removed now.
+[18Jul2025 23:21:08.432] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomesoplenty/jacaranda_stonecutter removed now.
+[18Jul2025 23:21:08.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:49995] logged in with entity id 79 at (621.5029689515795, 80.0, -407.1050530981406)
+[18Jul2025 23:21:10.612] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KyoShiiro
+[18Jul2025 23:21:10.614] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KyoShiiro
+[18Jul2025 23:21:10.614] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KyoShiiro
+[18Jul2025 23:21:10.615] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KyoShiiro
+[18Jul2025 23:21:10.618] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KyoShiiro
+[18Jul2025 23:21:10.621] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KyoShiiro
+[18Jul2025 23:21:10.622] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KyoShiiro
+[18Jul2025 23:21:10.661] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Jul2025 23:21:10.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[18Jul2025 23:21:10.836] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3abbe4ea-f60b-38af-8173-55992ed74eae
+[18Jul2025 23:21:10.886] [Server thread/INFO] [Jade/]: Syncing config to KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae)
+[18Jul2025 23:21:11.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[18Jul2025 23:21:11.800] [Server thread/INFO] [ping-wheel/]: Channel update: KyoShiiro -> default
+[18Jul2025 23:21:11.877] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 23:21:11.880] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 23:21:11.883] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 23:21:11.883] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 23:21:11.885] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 23:21:11.886] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 23:21:11.887] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 23:21:11.887] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 23:21:11.892] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 23:21:11.892] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 23:21:11.892] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 23:21:11.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 23:21:11.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 23:21:11.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 23:21:11.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 23:21:11.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 23:21:11.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 23:21:11.897] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
