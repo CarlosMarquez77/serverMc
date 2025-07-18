@@ -4033,3 +4033,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 23:34:44.645] [Worker-Main-71/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [18Jul2025 23:34:44.840] [Worker-Main-71/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 195ms
 [18Jul2025 23:42:33.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 632.500000, 73.500000, -410.500000]
+[18Jul2025 23:54:22.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[18Jul2025 23:54:41.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
