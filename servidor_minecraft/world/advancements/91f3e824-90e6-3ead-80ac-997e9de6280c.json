@@ -371,6 +371,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-17 02:26:30 +0000",
       "minecraft:spider": "2025-07-18 00:39:39 +0000",
+      "minecraft:creeper": "2025-07-18 01:53:04 +0000",
       "minecraft:phantom": "2025-07-18 00:43:10 +0000",
       "minecraft:zombie": "2025-07-17 01:26:22 +0000",
       "minecraft:drowned": "2025-07-18 01:04:21 +0000"
@@ -513,6 +514,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-18 01:18:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-18 01:51:55 +0000"
     },
     "done": true
   },
