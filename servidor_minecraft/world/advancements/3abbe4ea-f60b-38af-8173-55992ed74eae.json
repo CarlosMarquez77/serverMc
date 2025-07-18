@@ -507,5 +507,23 @@
     },
     "done": true
   },
+  "crabbersdelight:main/reach_for_the_sea_stars": {
+    "criteria": {
+      "crab_claw": "2025-07-18 00:31:03 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-07-18 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "dtkupd:made_in_heaven": {
+    "criteria": {
+      "made_in_heaven_0": "2025-07-18 00:34:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
