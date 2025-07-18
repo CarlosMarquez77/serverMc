@@ -4000,3 +4000,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 00:59:51.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [It's just a biome, right?]
 [18Jul2025 00:59:56.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [It's just a biome, right?]
 [18Jul2025 01:01:51.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Pic-A-Nic Basket?]
+[18Jul2025 01:03:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was impaled by Drowned
+[18Jul2025 01:04:06.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 908.500000, 60.500000, 425.500000]
+[18Jul2025 01:09:08.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Hot Stuff]
+[18Jul2025 01:09:18.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Hot Stuff]
+[18Jul2025 01:09:30.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Hot Stuff]
