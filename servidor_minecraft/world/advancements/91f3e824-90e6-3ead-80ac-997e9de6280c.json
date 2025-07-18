@@ -373,6 +373,7 @@
       "minecraft:spider": "2025-07-18 00:39:39 +0000",
       "minecraft:creeper": "2025-07-18 01:53:04 +0000",
       "minecraft:phantom": "2025-07-18 00:43:10 +0000",
+      "minecraft:enderman": "2025-07-18 02:11:35 +0000",
       "minecraft:zombie": "2025-07-17 01:26:22 +0000",
       "minecraft:drowned": "2025-07-18 01:04:21 +0000"
     },
@@ -487,42 +488,6 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-18 01:09:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-07-18 00:56:43 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2025-07-18 01:38:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-07-18 00:56:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-07-18 01:18:08 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-07-18 01:51:55 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-07-18 00:43:10 +0000"
@@ -535,15 +500,51 @@
     },
     "done": true
   },
+  "dtkupd:made_in_heaven": {
+    "criteria": {
+      "made_in_heaven_0": "2025-07-18 00:51:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-07-18 00:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-18 00:56:43 +0000"
+    },
+    "done": true
+  },
   "dtkupd:go_to_pale_garden": {
     "criteria": {
       "go_to_pale_garden_0": "2025-07-18 00:59:56 +0000"
     },
     "done": true
   },
-  "dtkupd:made_in_heaven": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "made_in_heaven_0": "2025-07-18 00:51:23 +0000"
+      "lava_bucket": "2025-07-18 01:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-18 01:18:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-07-18 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-18 01:51:55 +0000"
     },
     "done": true
   },
