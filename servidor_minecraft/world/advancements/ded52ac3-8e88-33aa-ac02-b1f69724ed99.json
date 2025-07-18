@@ -318,39 +318,9 @@
     },
     "done": true
   },
-  "crabbersdelight:main/reach_for_the_sea_stars": {
+  "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
-      "crab_claw": "2025-07-17 02:56:16 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-07-17 01:46:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2025-07-17 02:01:50 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthana_raptor": {
-    "criteria": {
-      "umvuthana_raptor": "2025-07-17 01:38:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-07-17 02:08:58 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed_by": "2025-07-17 01:24:56 +0000"
+      "acacia_blossom": "2025-07-17 01:22:55 +0000"
     },
     "done": true
   },
@@ -360,63 +330,35 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "hearth_and_home:recipes/trims": {
     "criteria": {
-      "get_stone": "2025-07-17 01:28:22 +0000"
+      "has_item": "2025-07-17 01:22:58 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/grizzly_bear": {
+  "hearth_and_home:recipes/lattices": {
     "criteria": {
-      "killed_by": "2025-07-17 02:43:07 +0000"
+      "has_item": "2025-07-17 01:22:58 +0000"
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "hearth_and_home:recipes/sanded_wood": {
     "criteria": {
-      "stone_pickaxe": "2025-07-17 01:50:52 +0000"
+      "has_item": "2025-07-17 01:22:58 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/get_fd_seed": {
+  "minecraft:story/root": {
     "criteria": {
-      "tomato_seeds": "2025-07-17 02:29:41 +0000"
+      "crafting_table": "2025-07-17 01:23:03 +0000"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
+  "alexsmobs:alexsmobs/emu": {
     "criteria": {
-      "scrubland": "2025-07-17 02:09:06 +0000"
+      "killed_by": "2025-07-17 01:24:56 +0000"
     },
     "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-07-17 01:22:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-07-17 02:12:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-07-17 02:08:45 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "scrubland": "2025-07-17 02:09:06 +0000",
-      "mediterranean_forest": "2025-07-17 02:42:05 +0000",
-      "dryland": "2025-07-17 02:28:45 +0000",
-      "wasteland": "2025-07-17 02:42:18 +0000",
-      "lush_desert": "2025-07-17 02:37:45 +0000"
-    },
-    "done": false
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
@@ -435,36 +377,6 @@
     },
     "done": true
   },
-  "hearth_and_home:recipes/trims": {
-    "criteria": {
-      "has_item": "2025-07-17 01:22:58 +0000"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/lattices": {
-    "criteria": {
-      "has_item": "2025-07-17 01:22:58 +0000"
-    },
-    "done": true
-  },
-  "quark:get_all_blossom_saplings": {
-    "criteria": {
-      "orange": "2025-07-17 01:39:25 +0000"
-    },
-    "done": false
-  },
-  "hearth_and_home:recipes/polished_calcite": {
-    "criteria": {
-      "has_item": "2025-07-17 01:42:05 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "killed_by": "2025-07-17 01:36:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-07-17 01:58:09 +0000",
@@ -480,21 +392,121 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-17 01:28:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-07-17 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-07-17 01:38:38 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "orange": "2025-07-17 01:39:25 +0000"
+    },
+    "done": false
+  },
+  "hearth_and_home:recipes/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-07-17 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-07-17 01:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-17 01:50:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-07-17 01:52:14 +0000"
     },
     "done": false
   },
-  "hearth_and_home:recipes/sanded_wood": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_item": "2025-07-17 01:22:58 +0000"
+      "iron_leggings": "2025-07-17 02:01:50 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "crafting_table": "2025-07-17 01:23:03 +0000"
+      "iron": "2025-07-17 02:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-17 02:08:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "scrubland": "2025-07-17 02:09:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2025-07-17 02:09:06 +0000",
+      "mediterranean_forest": "2025-07-17 02:42:05 +0000",
+      "dryland": "2025-07-17 02:28:45 +0000",
+      "wasteland": "2025-07-17 02:42:18 +0000",
+      "lush_desert": "2025-07-17 02:37:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-17 02:12:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-07-17 02:29:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-17 02:43:07 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/reach_for_the_sea_stars": {
+    "criteria": {
+      "crab_claw": "2025-07-17 02:56:16 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/polished_calcite_slab": {
+    "criteria": {
+      "has_item": "2025-07-18 00:48:27 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/polished_calcite_stairs": {
+    "criteria": {
+      "has_item": "2025-07-18 00:48:27 +0000"
     },
     "done": true
   },

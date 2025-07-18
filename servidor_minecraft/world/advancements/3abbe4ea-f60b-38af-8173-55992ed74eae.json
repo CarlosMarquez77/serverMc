@@ -354,6 +354,7 @@
       "minecraft:spider": "2025-07-16 01:01:52 +0000",
       "minecraft:creeper": "2025-07-17 01:29:14 +0000",
       "quark:forgotten": "2025-07-17 01:56:31 +0000",
+      "minecraft:phantom": "2025-07-18 00:43:24 +0000",
       "minecraft:witch": "2025-07-17 02:04:56 +0000",
       "minecraft:zombie": "2025-07-16 00:34:08 +0000",
       "minecraft:zombie_villager": "2025-07-16 00:18:37 +0000"
@@ -507,6 +508,12 @@
     },
     "done": true
   },
+  "hearth_and_home:recipes/polished_calcite_slab": {
+    "criteria": {
+      "has_item": "2025-07-18 00:47:10 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:main/reach_for_the_sea_stars": {
     "criteria": {
       "crab_claw": "2025-07-18 00:31:03 +0000"
@@ -518,6 +525,18 @@
       "naga": "2025-07-18 00:29:54 +0000"
     },
     "done": true
+  },
+  "hearth_and_home:recipes/polished_calcite_stairs": {
+    "criteria": {
+      "has_item": "2025-07-18 00:47:10 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-07-18 00:43:24 +0000"
+    },
+    "done": false
   },
   "dtkupd:made_in_heaven": {
     "criteria": {

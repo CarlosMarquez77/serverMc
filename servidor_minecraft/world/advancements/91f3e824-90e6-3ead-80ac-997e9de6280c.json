@@ -367,6 +367,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-17 02:26:30 +0000",
+      "minecraft:spider": "2025-07-18 00:39:39 +0000",
+      "minecraft:phantom": "2025-07-18 00:43:10 +0000",
       "minecraft:zombie": "2025-07-17 01:26:22 +0000"
     },
     "done": false
@@ -464,6 +466,18 @@
   "crabbersdelight:main/reach_for_the_sea_stars": {
     "criteria": {
       "crab_claw": "2025-07-17 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-07-18 00:43:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-18 00:48:19 +0000"
     },
     "done": true
   },
