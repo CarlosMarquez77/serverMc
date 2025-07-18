@@ -4080,3 +4080,17 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 01:32:12.340] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
 [18Jul2025 01:32:58.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to PAIK_WS08]
 [18Jul2025 01:33:05.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 485.500000, -7.500000, 828.500000]
+[18Jul2025 01:33:45.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Leafcutter Ant
+[18Jul2025 01:34:07.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to PAIK_WS08]
+[18Jul2025 01:36:06.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[18Jul2025 01:37:06.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was shot by Skeleton
+[18Jul2025 01:37:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 440.500000, -6.500000, 861.500000]
+[18Jul2025 01:38:04.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Zombie
+[18Jul2025 01:38:40.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Ant Farm]
+[18Jul2025 01:39:05.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 442.500000, -6.500000, 862.500000]
+[18Jul2025 01:39:22.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Zombie
+[18Jul2025 01:40:06.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 495.500000, 103.500000, 788.500000]
+[18Jul2025 01:40:13.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 439.500000, -6.500000, 860.500000]
+[18Jul2025 01:40:58.592] [Worker-Main-44/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[18Jul2025 01:41:44.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=652, y=97, z=593} BlockPos{x=651, y=95, z=593}
+[18Jul2025 01:41:48.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to PAIK_WS08]

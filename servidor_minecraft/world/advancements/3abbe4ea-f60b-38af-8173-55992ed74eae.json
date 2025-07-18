@@ -521,9 +521,9 @@
     },
     "done": true
   },
-  "hearth_and_home:recipes/polished_calcite_slab": {
+  "mowziesmobs:kill_naga": {
     "criteria": {
-      "has_item": "2025-07-18 00:47:10 +0000"
+      "naga": "2025-07-18 00:29:54 +0000"
     },
     "done": true
   },
@@ -533,39 +533,9 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "dtkupd:made_in_heaven": {
     "criteria": {
-      "lava_bucket": "2025-07-18 01:09:18 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-07-18 01:01:51 +0000"
-    },
-    "done": true
-  },
-  "quark:get_all_corundum": {
-    "criteria": {
-      "violet": "2025-07-18 01:25:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-07-18 01:18:03 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_naga": {
-    "criteria": {
-      "naga": "2025-07-18 00:29:54 +0000"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/polished_calcite_stairs": {
-    "criteria": {
-      "has_item": "2025-07-18 00:47:10 +0000"
+      "made_in_heaven_0": "2025-07-18 00:34:01 +0000"
     },
     "done": true
   },
@@ -575,9 +545,15 @@
     },
     "done": false
   },
-  "hearth_and_home:recipes/paper_lanterns": {
+  "hearth_and_home:recipes/polished_calcite_slab": {
     "criteria": {
-      "has_item": "2025-07-18 01:13:53 +0000"
+      "has_item": "2025-07-18 00:47:10 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/polished_calcite_stairs": {
+    "criteria": {
+      "has_item": "2025-07-18 00:47:10 +0000"
     },
     "done": true
   },
@@ -587,11 +563,35 @@
     },
     "done": true
   },
-  "dtkupd:made_in_heaven": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "made_in_heaven_0": "2025-07-18 00:34:01 +0000"
+      "killed_by": "2025-07-18 01:01:51 +0000"
     },
     "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-18 01:09:18 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/paper_lanterns": {
+    "criteria": {
+      "has_item": "2025-07-18 01:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-18 01:18:03 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "violet": "2025-07-18 01:25:01 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

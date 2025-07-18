@@ -492,6 +492,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-07-18 01:38:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-07-18 00:56:23 +0000"
