@@ -4005,3 +4005,78 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 01:09:08.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Hot Stuff]
 [18Jul2025 01:09:18.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Hot Stuff]
 [18Jul2025 01:09:30.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Hot Stuff]
+[18Jul2025 01:15:28.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Diamonds!]
+[18Jul2025 01:18:03.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Sweet Dreams]
+[18Jul2025 01:18:08.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Sweet Dreams]
+[18Jul2025 01:19:06.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Sweet Dreams]
+[18Jul2025 01:21:34.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Gorilla
+[18Jul2025 01:21:42.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to PAIK_WS08]
+[18Jul2025 01:22:27.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to PAIK_WS08]
+[18Jul2025 01:25:52.765] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.91608f,range:8,source:{pos:[I;-178,-59,-363],type:"minecraft:block"}}]
+[18Jul2025 01:25:52.766] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.91608f,range:8,source:{pos:[I;-174,-59,-369],type:"minecraft:block"}}]
+[18Jul2025 01:25:52.766] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-174,-59,-356],type:"minecraft:block"}}]
+[18Jul2025 01:25:52.827] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.5970345f,range:8,source:{pos:[I;-187,-59,-379],type:"minecraft:block"}}]
+[18Jul2025 01:25:52.827] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.3011737f,range:8,source:{pos:[I;-180,-59,-376],type:"minecraft:block"}}]
+[18Jul2025 01:25:52.827] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.063859f,range:8,source:{pos:[I;-175,-59,-379],type:"minecraft:block"}}]
+[18Jul2025 01:25:56.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Best Friends Forever]
+[18Jul2025 01:26:23.149] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.660372f,range:8,source:{pos:[I;-158,-53,-362],type:"minecraft:block"}}]
+[18Jul2025 01:26:23.149] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.9118114f,range:8,source:{pos:[I;-160,-49,-366],type:"minecraft:block"}}]
+[18Jul2025 01:26:23.150] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.0f,range:8,source:{pos:[I;-158,-48,-366],type:"minecraft:block"}}]
+[18Jul2025 01:26:23.201] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.3484693f,range:8,source:{pos:[I;-170,-58,-380],type:"minecraft:block"}}]
+[18Jul2025 01:26:23.201] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.7416575f,range:8,source:{pos:[I;-170,-57,-377],type:"minecraft:block"}}]
+[18Jul2025 01:26:23.204] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.3052635f,range:8,source:{pos:[I;-160,-52,-370],type:"minecraft:block"}}]
+[18Jul2025 01:26:33.107] [Worker-Main-21/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.8740077f,range:8,source:{pos:[I;-150,-54,-359],type:"minecraft:block"}}]
+[18Jul2025 01:26:33.108] [Worker-Main-21/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.826741f,range:8,source:{pos:[I;-154,-53,-365],type:"minecraft:block"}}]
+[18Jul2025 01:26:33.130] [Worker-Main-19/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.6380615f,range:8,source:{pos:[I;-153,-58,-371],type:"minecraft:block"}}]
+[18Jul2025 01:26:33.130] [Worker-Main-19/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.802702f,range:8,source:{pos:[I;-154,-53,-378],type:"minecraft:block"}}]
+[18Jul2025 01:26:33.130] [Worker-Main-19/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.527325f,range:8,source:{pos:[I;-153,-53,-374],type:"minecraft:block"}}]
+[18Jul2025 01:26:33.131] [Worker-Main-19/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:1.0f,range:8,source:{pos:[I;-152,-53,-371],type:"minecraft:block"}}]
+[18Jul2025 01:26:33.131] [Worker-Main-19/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.061569f,range:8,source:{pos:[I;-152,-53,-370],type:"minecraft:block"}}]
+[18Jul2025 01:26:33.131] [Worker-Main-19/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.152014f,range:8,source:{pos:[I;-157,-51,-371],type:"minecraft:block"}}]
+[18Jul2025 01:26:55.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Ant-Agonizer]
+[18Jul2025 01:28:01.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 tried to swim in lava
+[18Jul2025 01:28:37.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to PAIK_WS08]
+[18Jul2025 01:29:10.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was blown up by Creeper
+[18Jul2025 01:29:25.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 484.500000, -7.500000, 820.500000]
+[18Jul2025 01:29:39.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Ant Farm]
+[18Jul2025 01:29:51.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 484.500000, -7.500000, 820.500000]
+[18Jul2025 01:30:21.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Leafcutter Ant
+[18Jul2025 01:30:56.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was shot by Skeleton
+[18Jul2025 01:31:20.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Zombie
+[18Jul2025 01:31:33.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Zombie
+[18Jul2025 01:32:05.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: You logged in from another location
+[18Jul2025 01:32:05.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
+[18Jul2025 01:32:05.640] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3abbe4ea-f60b-38af-8173-55992ed74eae
+[18Jul2025 01:32:05.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:50089] logged in with entity id 20649 at (-7.044526062867546, 101.0, 27.90361187472853)
+[18Jul2025 01:32:05.730] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KyoShiiro
+[18Jul2025 01:32:05.731] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KyoShiiro
+[18Jul2025 01:32:05.731] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KyoShiiro
+[18Jul2025 01:32:05.731] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KyoShiiro
+[18Jul2025 01:32:05.733] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KyoShiiro
+[18Jul2025 01:32:05.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KyoShiiro
+[18Jul2025 01:32:05.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KyoShiiro
+[18Jul2025 01:32:05.745] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Jul2025 01:32:05.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[18Jul2025 01:32:05.827] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3abbe4ea-f60b-38af-8173-55992ed74eae
+[18Jul2025 01:32:05.831] [Server thread/INFO] [Jade/]: Syncing config to KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae)
+[18Jul2025 01:32:12.297] [Server thread/INFO] [ping-wheel/]: Channel update: KyoShiiro -> default
+[18Jul2025 01:32:12.338] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 01:32:12.338] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 01:32:12.338] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 01:32:12.338] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 01:32:12.339] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 01:32:12.339] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 01:32:12.339] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 01:32:12.339] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 01:32:12.339] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 01:32:12.339] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 01:32:12.339] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 01:32:12.339] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 01:32:12.339] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 01:32:12.339] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 01:32:12.340] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 01:32:12.340] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 01:32:12.340] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 01:32:12.340] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jul2025 01:32:58.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to PAIK_WS08]
+[18Jul2025 01:33:05.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 485.500000, -7.500000, 828.500000]
