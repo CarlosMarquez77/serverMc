@@ -548,17 +548,17 @@
     },
     "done": true
   },
-  "quark:get_all_corundum": {
-    "criteria": {
-      "violet": "2025-07-18 02:16:34 +0000"
-    },
-    "done": false
-  },
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2025-07-18 02:16:17 +0000"
     },
     "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "violet": "2025-07-18 02:16:34 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
