@@ -126,3 +126,5 @@
 [19Jul2025 00:25:38.183] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [19Jul2025 00:25:38.183] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
 [19Jul2025 00:25:49.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 suffocated in a wall
+[19Jul2025 01:16:59.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[19Jul2025 01:18:39.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]

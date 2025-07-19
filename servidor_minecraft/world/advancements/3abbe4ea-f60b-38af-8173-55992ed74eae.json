@@ -596,5 +596,11 @@
     },
     "done": false
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_door": "2025-07-19 01:18:26 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
