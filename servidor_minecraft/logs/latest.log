@@ -159,3 +159,71 @@
 [19Jul2025 02:55:13.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
 [19Jul2025 02:55:13.332] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3abbe4ea-f60b-38af-8173-55992ed74eae
 [19Jul2025 02:55:13.402] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 03:01:07.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 lost connection: Disconnected
+[19Jul2025 03:01:07.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 left the game
+[19Jul2025 03:01:07.531] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 91f3e824-90e6-3ead-80ac-997e9de6280c
+[19Jul2025 03:01:22.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAIK_WS08[/127.41.202.231:32771] logged in with entity id 67805 at (612.75846924563, 73.0, -401.69999998807907)
+[19Jul2025 03:01:22.407] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PAIK_WS08
+[19Jul2025 03:01:22.407] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PAIK_WS08
+[19Jul2025 03:01:22.408] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PAIK_WS08
+[19Jul2025 03:01:22.408] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PAIK_WS08
+[19Jul2025 03:01:22.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PAIK_WS08
+[19Jul2025 03:01:22.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PAIK_WS08
+[19Jul2025 03:01:22.412] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PAIK_WS08
+[19Jul2025 03:01:22.422] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Jul2025 03:01:22.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 joined the game
+[19Jul2025 03:01:22.453] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 91f3e824-90e6-3ead-80ac-997e9de6280c
+[19Jul2025 03:01:22.459] [Server thread/INFO] [Jade/]: Syncing config to PAIK_WS08 (91f3e824-90e6-3ead-80ac-997e9de6280c)
+[19Jul2025 03:01:22.791] [Server thread/INFO] [ping-wheel/]: Channel update: PAIK_WS08 -> default
+[19Jul2025 03:01:22.792] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Jul2025 03:01:22.792] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Jul2025 03:01:22.792] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Jul2025 03:01:22.793] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Jul2025 03:01:22.793] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Jul2025 03:01:22.793] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Jul2025 03:01:22.793] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Jul2025 03:01:22.794] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Jul2025 03:01:22.794] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Jul2025 03:01:22.794] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Jul2025 03:01:22.794] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Jul2025 03:01:22.794] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Jul2025 03:01:22.794] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Jul2025 03:01:22.794] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Jul2025 03:01:22.794] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Jul2025 03:01:22.796] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Jul2025 03:01:22.796] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Jul2025 03:01:22.796] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Jul2025 03:02:00.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 lost connection: Disconnected
+[19Jul2025 03:02:00.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 left the game
+[19Jul2025 03:02:00.183] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 91f3e824-90e6-3ead-80ac-997e9de6280c
+[19Jul2025 03:02:44.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAIK_WS08[/127.41.202.231:60617] logged in with entity id 68047 at (614.7043462830516, 73.0, -400.35635884693625)
+[19Jul2025 03:02:44.553] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PAIK_WS08
+[19Jul2025 03:02:44.553] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PAIK_WS08
+[19Jul2025 03:02:44.554] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PAIK_WS08
+[19Jul2025 03:02:44.554] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PAIK_WS08
+[19Jul2025 03:02:44.555] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PAIK_WS08
+[19Jul2025 03:02:44.557] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PAIK_WS08
+[19Jul2025 03:02:44.558] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PAIK_WS08
+[19Jul2025 03:02:44.567] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Jul2025 03:02:44.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 joined the game
+[19Jul2025 03:02:44.596] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 91f3e824-90e6-3ead-80ac-997e9de6280c
+[19Jul2025 03:02:44.601] [Server thread/INFO] [Jade/]: Syncing config to PAIK_WS08 (91f3e824-90e6-3ead-80ac-997e9de6280c)
+[19Jul2025 03:02:44.974] [Server thread/INFO] [ping-wheel/]: Channel update: PAIK_WS08 -> default
+[19Jul2025 03:02:44.975] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Jul2025 03:02:44.975] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Jul2025 03:02:44.976] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Jul2025 03:02:44.976] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Jul2025 03:02:44.976] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Jul2025 03:02:44.976] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Jul2025 03:02:44.976] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Jul2025 03:02:44.976] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Jul2025 03:02:44.976] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Jul2025 03:02:44.976] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Jul2025 03:02:44.976] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Jul2025 03:02:44.977] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Jul2025 03:02:44.977] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Jul2025 03:02:44.977] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Jul2025 03:02:44.977] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Jul2025 03:02:44.977] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Jul2025 03:02:44.977] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Jul2025 03:02:44.977] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
