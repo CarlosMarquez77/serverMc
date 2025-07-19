@@ -606,6 +606,7 @@
     "criteria": {
       "canopy_door": "2025-07-19 01:18:26 +0000",
       "twilight_oak_log": "2025-07-19 02:00:30 +0000",
+      "liveroot": "2025-07-19 02:23:36 +0000",
       "twilight_oak_sapling": "2025-07-19 02:00:30 +0000"
     },
     "done": false
@@ -643,6 +644,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-07-19 01:38:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-07-19 02:20:55 +0000"
     },
     "done": true
   },

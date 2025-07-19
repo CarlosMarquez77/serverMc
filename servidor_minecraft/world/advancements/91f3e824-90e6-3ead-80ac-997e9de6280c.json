@@ -585,6 +585,12 @@
     },
     "done": true
   },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-07-19 02:22:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_lich": {
     "criteria": {
       "kill_naga": "2025-07-19 02:11:46 +0000"
