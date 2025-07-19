@@ -146,3 +146,16 @@
 [19Jul2025 02:24:12.116] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
 [19Jul2025 02:28:20.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
 [19Jul2025 02:39:01.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[19Jul2025 02:40:21.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was slain by Redcap
+[19Jul2025 02:40:36.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[19Jul2025 02:41:35.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[19Jul2025 02:42:15.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Best Friends Forever]
+[19Jul2025 02:42:38.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Best Friends Forever]
+[19Jul2025 02:45:11.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Bug Stomper]
+[19Jul2025 02:45:15.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Bug Stomper]
+[19Jul2025 02:48:45.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4515ms or 90 ticks behind
+[19Jul2025 02:49:40.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [A Howling Discovery]
+[19Jul2025 02:55:13.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Disconnected
+[19Jul2025 02:55:13.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
+[19Jul2025 02:55:13.332] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3abbe4ea-f60b-38af-8173-55992ed74eae
+[19Jul2025 02:55:13.402] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
