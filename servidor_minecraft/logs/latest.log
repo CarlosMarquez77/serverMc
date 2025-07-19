@@ -130,3 +130,6 @@
 [19Jul2025 01:18:39.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
 [19Jul2025 01:26:06.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KyoShiiro> PIPE
 [19Jul2025 01:26:14.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KyoShiiro> aca ponga dos bloques
+[19Jul2025 01:34:43.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=609, y=72, z=-432} BlockPos{x=610, y=72, z=-431}
+[19Jul2025 01:38:31.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=595, y=74, z=-384} BlockPos{x=594, y=72, z=-383}
+[19Jul2025 01:38:52.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The Parrots and the Bats]
