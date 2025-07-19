@@ -596,6 +596,12 @@
     },
     "done": false
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "boar": "2025-07-19 01:52:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "canopy_door": "2025-07-19 01:18:26 +0000"
