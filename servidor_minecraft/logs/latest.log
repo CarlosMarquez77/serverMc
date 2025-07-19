@@ -227,3 +227,6 @@
 [19Jul2025 03:02:44.977] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [19Jul2025 03:02:44.977] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [19Jul2025 03:02:44.977] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Jul2025 03:25:18.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 lost connection: Disconnected
+[19Jul2025 03:25:18.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 left the game
+[19Jul2025 03:25:18.178] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 91f3e824-90e6-3ead-80ac-997e9de6280c
