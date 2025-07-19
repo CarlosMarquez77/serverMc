@@ -608,6 +608,12 @@
     },
     "done": false
   },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-07-19 01:44:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-07-19 01:32:56 +0000"

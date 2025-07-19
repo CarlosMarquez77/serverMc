@@ -133,3 +133,6 @@
 [19Jul2025 01:34:43.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=609, y=72, z=-432} BlockPos{x=610, y=72, z=-431}
 [19Jul2025 01:38:31.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=595, y=74, z=-384} BlockPos{x=594, y=72, z=-383}
 [19Jul2025 01:38:52.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The Parrots and the Bats]
+[19Jul2025 01:49:02.081] [Worker-Main-71/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[19Jul2025 01:49:02.090] [Worker-Main-71/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 8ms
+[19Jul2025 01:49:07.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5429ms or 108 ticks behind
