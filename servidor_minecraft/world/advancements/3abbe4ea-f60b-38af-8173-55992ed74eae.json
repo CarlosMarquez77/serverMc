@@ -542,6 +542,7 @@
   "twilightforest:twilight_dinner": {
     "criteria": {
       "meef_stroganoff": "2025-07-21 02:04:34 +0000",
+      "maze_wafer": "2025-07-21 23:31:22 +0000",
       "cooked_meef": "2025-07-21 04:09:41 +0000",
       "cooked_venison": "2025-07-19 02:11:02 +0000"
     },
@@ -6580,6 +6581,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-07-21 23:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-21 22:27:23 +0000"
@@ -6943,6 +6950,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-21 22:42:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_3": {
+    "criteria": {
+      "has_item": "2025-07-21 23:31:13 +0000"
     },
     "done": true
   },
