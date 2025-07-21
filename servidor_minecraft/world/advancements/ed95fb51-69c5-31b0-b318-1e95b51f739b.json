@@ -122,6 +122,7 @@
       "scrubland": "2025-07-21 02:30:53 +0000",
       "mediterranean_forest": "2025-07-21 00:10:35 +0000",
       "dryland": "2025-07-21 02:30:54 +0000",
+      "wasteland": "2025-07-21 03:17:07 +0000",
       "wasteland_steppe": "2025-07-21 02:32:55 +0000"
     },
     "done": false
@@ -4162,6 +4163,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-07-21 03:07:38 +0000"
@@ -4183,6 +4196,18 @@
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-07-21 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/dead_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/dead_banister": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
     },
     "done": true
   },
@@ -4210,9 +4235,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-21 02:50:18 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_dead_log": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
     },
     "done": true
   },
@@ -4222,15 +4259,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-21 03:11:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-21 03:08:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-21 03:11:58 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2025-07-21 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_flower_box": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/biomesoplenty/dead_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
     },
     "done": true
   },
@@ -4246,9 +4313,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-07-21 03:17:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_slab": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
     },
     "done": true
   },
@@ -4270,9 +4349,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_table": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_shutter": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_crab": {
     "criteria": {
       "has_any_ingredient": "2025-07-21 02:57:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_fence": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
     },
     "done": true
   },
@@ -4282,9 +4385,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-21 03:11:58 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_sign": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
     },
     "done": true
   },
@@ -4318,9 +4439,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/bp/biomesoplenty/dead_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/biomesoplenty/dead_beehive": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_chair": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
     },
     "done": true
   },
@@ -4333,6 +4472,36 @@
   "another_furniture:recipes/oak_table": {
     "criteria": {
       "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-07-21 03:17:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_door": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/kelp_shake": {
+    "criteria": {
+      "has_kelp": "2025-07-21 03:11:58 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_bench": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
     },
     "done": true
   },

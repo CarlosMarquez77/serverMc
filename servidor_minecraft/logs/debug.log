@@ -19590,3 +19590,343 @@ ModdedBiomeSource (62353f57)
 [21Jul2025 03:09:22.476] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
 [21Jul2025 03:09:26.733] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
 [21Jul2025 03:09:26.733] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 03:09:29.124] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 03:09:34.557] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[21Jul2025 03:09:39.074] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:armadillo
+[21Jul2025 03:09:45.599] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:10:00.593] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 03:10:00.600] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[21Jul2025 03:13:51.952] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[21Jul2025 03:13:51.953] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[21Jul2025 03:13:51.954] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[21Jul2025 03:13:51.954] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[21Jul2025 03:13:52.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 03:13:52.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 03:14:18.234] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:toretoise
+[21Jul2025 03:14:18.234] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:cockroach
+[21Jul2025 03:14:26.694] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:toretoise
+[21Jul2025 03:14:26.694] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:forgotten
+[21Jul2025 03:14:47.565] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in deeperdarker:otherside
+[21Jul2025 03:14:55.580] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 03:14:55.580] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 03:14:55.580] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 03:14:55.580] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 03:15:17.565] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in blue_skies:everbright
+[21Jul2025 03:15:50.847] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[21Jul2025 03:15:50.873] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:15:51.053] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=717, y=14, z=-745} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:15:51.053] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=717, y=14, z=-745}
+[21Jul2025 03:15:57.568] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:15:57.569] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:raccoon
+[21Jul2025 03:15:57.569] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:raccoon
+[21Jul2025 03:15:57.569] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:raccoon
+[21Jul2025 03:15:57.570] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:raccoon
+[21Jul2025 03:15:57.570] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:15:57.575] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:15:57.579] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:15:57.747] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=689, y=-16, z=-755} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:15:57.747] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=689, y=-16, z=-755}
+[21Jul2025 03:15:57.747] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=688, y=21, z=-753} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:15:57.747] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=688, y=21, z=-753}
+[21Jul2025 03:16:02.048] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:16:02.052] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:16:06.772] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[21Jul2025 03:16:06.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=672, y=19, z=-793} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:06.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=672, y=19, z=-793}
+[21Jul2025 03:16:06.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=680, y=13, z=-798} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:06.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=680, y=13, z=-798}
+[21Jul2025 03:16:06.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=680, y=13, z=-796} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:06.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=680, y=13, z=-796}
+[21Jul2025 03:16:06.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=681, y=13, z=-796} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:06.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=681, y=13, z=-796}
+[21Jul2025 03:16:11.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=539, y=-16, z=-803} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:11.750] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=539, y=-16, z=-803}
+[21Jul2025 03:16:11.750] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=535, y=-6, z=-814} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:11.750] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=535, y=-6, z=-814}
+[21Jul2025 03:16:11.825] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=504, y=-23, z=-801} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:11.825] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=504, y=-23, z=-801}
+[21Jul2025 03:16:11.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=611, y=6, z=-816} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:11.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=611, y=6, z=-816}
+[21Jul2025 03:16:12.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=648, y=-15, z=-806} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:12.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=648, y=-15, z=-806}
+[21Jul2025 03:16:12.194] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=483, y=27, z=-809} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:12.195] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=483, y=27, z=-809}
+[21Jul2025 03:16:12.195] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=482, y=27, z=-808} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:12.195] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=482, y=27, z=-808}
+[21Jul2025 03:16:12.430] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=657, y=-18, z=-810} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:12.430] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=657, y=-18, z=-810}
+[21Jul2025 03:16:12.546] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=607, y=8, z=-814} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:12.546] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=607, y=8, z=-814}
+[21Jul2025 03:16:12.742] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=355, y=-27, z=-806} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:12.742] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=355, y=-27, z=-806}
+[21Jul2025 03:16:12.742] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=352, y=-27, z=-808} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:12.742] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=352, y=-27, z=-808}
+[21Jul2025 03:16:12.744] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=384, y=-26, z=-805} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:12.744] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=384, y=-26, z=-805}
+[21Jul2025 03:16:12.745] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=389, y=-25, z=-801} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:12.745] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=389, y=-25, z=-801}
+[21Jul2025 03:16:12.745] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=395, y=-28, z=-807} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:12.745] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=395, y=-28, z=-807}
+[21Jul2025 03:16:18.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=611, y=6, z=-817} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:18.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=611, y=6, z=-817}
+[21Jul2025 03:16:18.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=613, y=6, z=-818} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:16:18.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=613, y=6, z=-818}
+[21Jul2025 03:16:33.034] [Worker-Main-253/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/graveyard_large is being run through DFU (hash 92ba7a2ed2018cc5582221d545d60179cbff2907518b264f62c1241e3288022c), this will cause launch time delays
+[21Jul2025 03:16:33.173] [Worker-Main-253/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[21Jul2025 03:16:33.820] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_4
+[21Jul2025 03:16:39.806] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[21Jul2025 03:16:40.764] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_3
+[21Jul2025 03:16:47.558] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[21Jul2025 03:16:47.572] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/mine/start is being run through DFU (hash 1ae041e1e4690d7a542f8eacfede4a94b8fcc48229c9fab3d76cd499eb10a9fa), this will cause launch time delays
+[21Jul2025 03:16:47.750] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/desert/rock_house1 is being run through DFU (hash c5b6416286c8d10df6dc3ef5cbeb7fb485aa9d51870f3b46337d0ee685b0faee), this will cause launch time delays
+[21Jul2025 03:16:47.789] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/mossy_ruin/main is being run through DFU (hash 5756eba6d66e376554e7cde213a1b31ade0cbb63ae974a94e3cf9177cd9ac78e), this will cause launch time delays
+[21Jul2025 03:16:47.808] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[21Jul2025 03:16:47.813] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/2/top is being run through DFU (hash d9c00df651a9b021aa6ac1d31f47829c424db9b97513acab75bb8ea4afa18f29), this will cause launch time delays
+[21Jul2025 03:16:47.829] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[21Jul2025 03:16:49.880] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[21Jul2025 03:16:55.122] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_3
+[21Jul2025 03:17:04.412] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[21Jul2025 03:17:13.031] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[21Jul2025 03:17:13.135] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[21Jul2025 03:17:38.694] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=558, y=85, z=-798}) doesn't have enough leaves around top most log
+[21Jul2025 03:17:39.699] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=558, y=86, z=-798}) doesn't have enough leaves around top most log
+[21Jul2025 03:17:40.498] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=558, y=87, z=-798}) doesn't have enough leaves around top most log
+[21Jul2025 03:17:41.219] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=558, y=88, z=-798}) doesn't have enough leaves around top most log
+[21Jul2025 03:17:41.898] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=558, y=89, z=-798}) doesn't have enough leaves around top most log
+[21Jul2025 03:17:56.277] [Worker-Main-253/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[21Jul2025 03:17:56.298] [Worker-Main-253/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[21Jul2025 03:17:56.310] [Worker-Main-253/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[21Jul2025 03:17:56.320] [Worker-Main-253/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[21Jul2025 03:17:56.328] [Worker-Main-253/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[21Jul2025 03:17:59.206] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=351, y=-27, z=-806} but found not block entity block Block{minecraft:water}[level=7] at location
+[21Jul2025 03:17:59.206] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=7] but failed at location BlockPos{x=351, y=-27, z=-806}
+[21Jul2025 03:17:59.206] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=343, y=-15, z=-806} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:17:59.206] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=343, y=-15, z=-806}
+[21Jul2025 03:17:59.243] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:17:59.244] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:18:06.086] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_6
+[21Jul2025 03:18:06.088] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:18:06.089] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 03:18:06.089] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[21Jul2025 03:18:06.089] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[21Jul2025 03:18:06.089] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[21Jul2025 03:18:06.089] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[21Jul2025 03:18:06.089] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[21Jul2025 03:18:06.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=320, y=-31, z=-817} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:06.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=320, y=-31, z=-817}
+[21Jul2025 03:18:06.486] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=321, y=-30, z=-811} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:06.487] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=321, y=-30, z=-811}
+[21Jul2025 03:18:06.487] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=327, y=-30, z=-816} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:06.487] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=327, y=-30, z=-816}
+[21Jul2025 03:18:06.487] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=324, y=-30, z=-816} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:06.487] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=324, y=-30, z=-816}
+[21Jul2025 03:18:06.487] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=322, y=-30, z=-814} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:06.487] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=322, y=-30, z=-814}
+[21Jul2025 03:18:09.823] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=309, y=-14, z=-811} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:09.823] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=309, y=-14, z=-811}
+[21Jul2025 03:18:09.823] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=307, y=-28, z=-802} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:09.823] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=307, y=-28, z=-802}
+[21Jul2025 03:18:23.401] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[21Jul2025 03:18:23.642] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:18:23.904] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=294, y=-31, z=-813} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:23.904] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=294, y=-31, z=-813}
+[21Jul2025 03:18:23.904] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=293, y=-31, z=-812} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:23.904] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=293, y=-31, z=-812}
+[21Jul2025 03:18:23.904] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=288, y=-30, z=-812} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:23.905] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=288, y=-30, z=-812}
+[21Jul2025 03:18:23.933] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=294, y=-31, z=-817} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:23.934] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=294, y=-31, z=-817}
+[21Jul2025 03:18:27.913] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[21Jul2025 03:18:27.917] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[21Jul2025 03:18:27.922] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[21Jul2025 03:18:27.926] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[21Jul2025 03:18:27.931] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[21Jul2025 03:18:27.934] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[21Jul2025 03:18:27.938] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[21Jul2025 03:18:27.942] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[21Jul2025 03:18:27.947] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[21Jul2025 03:18:27.950] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[21Jul2025 03:18:27.953] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[21Jul2025 03:18:27.956] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[21Jul2025 03:18:28.341] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=274, y=-9, z=-816} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:28.341] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=274, y=-9, z=-816}
+[21Jul2025 03:18:31.956] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1616, l='ServerLevel[world]', x=377.07, y=117.00, z=-619.93, removed=DISCARDED]
+[21Jul2025 03:18:35.750] [Worker-Main-253/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[21Jul2025 03:18:49.739] [Worker-Main-253/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[21Jul2025 03:18:51.955] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[21Jul2025 03:18:51.956] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[21Jul2025 03:18:52.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 03:18:52.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 03:18:54.274] [Worker-Main-253/DEBUG] [ModernFix/]: Structure mvs:other_decoration/fire_camp is being run through DFU (hash ef1de8b73ff6362aaa4a2322c2abb04097cafb4bead88c26b4c4b6077de706de), this will cause launch time delays
+[21Jul2025 03:18:54.797] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=210, y=-40, z=-765} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:18:54.797] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=210, y=-40, z=-765}
+[21Jul2025 03:19:00.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=206, y=-44, z=-746} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:19:00.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=206, y=-44, z=-746}
+[21Jul2025 03:19:00.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=206, y=-44, z=-743} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:19:00.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=206, y=-44, z=-743}
+[21Jul2025 03:19:01.185] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin3
+[21Jul2025 03:19:16.018] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[21Jul2025 03:19:16.036] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[21Jul2025 03:19:16.045] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[21Jul2025 03:19:16.051] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[21Jul2025 03:19:16.058] [Worker-Main-233/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3 is being run through DFU (hash 20080de75a183b30b4ea9d8c8d66a26f5a3ee8593a0c4c58b6e712bdacb0aaf6), this will cause launch time delays
+[21Jul2025 03:19:16.081] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[21Jul2025 03:19:16.087] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[21Jul2025 03:19:16.092] [Worker-Main-233/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1 is being run through DFU (hash 55f9831fdf8d35df8191e3e13ab17e546d65a10fafbb3fdb700f14809a4bd08a), this will cause launch time delays
+[21Jul2025 03:19:16.179] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[21Jul2025 03:19:16.192] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[21Jul2025 03:19:16.207] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[21Jul2025 03:19:16.221] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[21Jul2025 03:19:16.227] [Worker-Main-233/DEBUG] [ModernFix/]: Structure kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1 is being run through DFU (hash 005119925e1887e9c2c04f781c51502193d36d6dee555df4703e7333056eac58), this will cause launch time delays
+[21Jul2025 03:19:16.237] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[21Jul2025 03:19:16.241] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[21Jul2025 03:19:16.247] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[21Jul2025 03:19:16.251] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[21Jul2025 03:19:16.254] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[21Jul2025 03:19:16.262] [Worker-Main-233/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/base_plate is being run through DFU (hash 0f79c597cd698f620e1aa221757014730fe867fed381df9c0ea0afc82a4d720e), this will cause launch time delays
+[21Jul2025 03:19:16.312] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[21Jul2025 03:19:16.347] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[21Jul2025 03:19:16.367] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[21Jul2025 03:19:16.896] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
