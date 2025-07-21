@@ -3061,3 +3061,8 @@ ModdedBiomeSource (3c8cd6df)
 [21Jul2025 22:26:06.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 4697.500000, 5.500000, -3228.500000]
 [21Jul2025 22:26:12.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Larito to KyoShiiro]
 [21Jul2025 22:27:15.400] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id easyanvils:anvil
+[21Jul2025 22:27:57.744] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4628, y=117, z=-2828} but found not block entity block Block{minecraft:damaged_anvil}[facing=east] at location
+[21Jul2025 22:27:57.744] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:damaged_anvil}[facing=east] but failed at location BlockPos{x=4628, y=117, z=-2828}
+[21Jul2025 22:32:52.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 4697.500000, 5.500000, -3228.500000]
+[21Jul2025 22:34:50.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Larito moved too quickly! -2.9929254852872873,0.8156999805212024,9.680379362898293
+[21Jul2025 22:37:51.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito has made the advancement [Sweet Dreams]
