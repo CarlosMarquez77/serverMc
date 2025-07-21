@@ -5018,6 +5018,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-21 05:30:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
     "criteria": {
       "has_purple_dye": "2025-07-21 05:24:40 +0000"
@@ -5045,6 +5051,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-21 05:30:03 +0000"
     },
     "done": true
   },
@@ -5243,6 +5255,12 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-21 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2025-07-21 05:32:12 +0000"
     },
     "done": true
   },
@@ -5465,6 +5483,12 @@
   "netherchested:recipes/decorations/nether_chest": {
     "criteria": {
       "has_netherite_scrap": "2025-07-21 05:12:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-07-21 05:30:03 +0000"
     },
     "done": true
   },
