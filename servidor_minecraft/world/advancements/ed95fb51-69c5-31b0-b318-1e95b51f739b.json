@@ -1972,6 +1972,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-21 00:55:44 +0000",
+      "minecraft:hoglin": "2025-07-21 04:06:07 +0000",
       "minecraft:spider": "2025-07-21 03:01:56 +0000",
       "minecraft:creeper": "2025-07-21 03:02:28 +0000",
       "minecraft:cave_spider": "2025-07-21 01:41:28 +0000",
@@ -4162,459 +4163,9 @@
     },
     "done": true
   },
-  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/bisque": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-21 02:57:53 +0000"
-    },
-    "done": true
-  },
-  "bclib:recipes/decorations/tag_shulker_box": {
-    "criteria": {
-      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/dead_button": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "betternether:all_the_biomes": {
-    "criteria": {
-      "betternether:old_warped_woods": "2025-07-21 03:57:56 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-07-21 03:58:15 +0000"
-    },
-    "done": false
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/dead_shelf": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-07-21 03:19:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-07-21 03:29:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-07-21 03:07:38 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/campfire/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-07-21 02:52:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/crab_cakes": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-21 02:57:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-07-21 02:51:04 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/oak_shutter": {
-    "criteria": {
-      "has_slab": "2025-07-21 03:37:53 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/fd/biomesoplenty/dead_cabinet": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/biomesoplenty/dead_banister": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:main/reach_for_the_sea_stars": {
-    "criteria": {
-      "crab_claw": "2025-07-21 02:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:08:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-07-21 03:56:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:08:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-07-21 03:07:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/dead_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "bygonenether:root": {
-    "criteria": {
-      "entered_nether": "2025-07-21 03:57:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-21 02:50:18 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_dead_log": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/smelting/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-07-21 02:52:24 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/infusion_pedestal": {
-    "criteria": {
-      "has_obsidian": "2025-07-21 03:41:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-07-21 03:11:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:08:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-07-21 03:11:58 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cooking/jelly_bottle": {
-    "criteria": {
-      "has_sweet_fruit": "2025-07-21 02:51:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-07-21 03:57:42 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/dead_flower_box": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-07-21 03:37:53 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
-    },
-    "done": true
-  },
-  "backpacked:recipes/misc/backpack": {
-    "criteria": {
-      "has_hide": "2025-07-21 03:20:47 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/vp/biomesoplenty/dead_horticulturist_table": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/dead_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/oak_shelf": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:08:04 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/smoking/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-07-21 02:52:24 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_slab_from_smooth_black_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-07-21 03:41:30 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/dead_planks": {
-    "criteria": {
-      "has_logs": "2025-07-21 03:17:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:08:04 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/dead_slab": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
-    "criteria": {
-      "has_ginger": "2025-07-21 02:51:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/rubeus_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-21 03:53:56 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/stalagnate_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:08:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/crimson_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/oak_chair": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:08:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/dead_table": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-07-21 03:19:49 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/dead_shutter": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_crab": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-21 02:57:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/dead_fence": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/building_blocks/crab_barrel": {
-    "criteria": {
-      "has_crab": "2025-07-21 02:57:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-07-21 03:11:58 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/dead_drawer": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-07-21 03:20:47 +0000"
-    },
-    "done": true
-  },
-  "betternether:enter_nether": {
-    "criteria": {
-      "entered_nether": "2025-07-21 03:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:08:04 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/dead_sign": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-07-21 03:41:30 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/oak_bench": {
-    "criteria": {
-      "has_slab": "2025-07-21 03:37:53 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/wart_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-07-21 02:59:38 +0000"
     },
     "done": true
   },
@@ -4624,21 +4175,39 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_slab": {
+  "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
-      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
+      "has_apple": "2025-07-21 02:51:04 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/oak_flower_box": {
+  "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
-      "has_slab": "2025-07-21 03:37:53 +0000"
+      "has_sweet_fruit": "2025-07-21 02:51:04 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_stairs_from_smooth_black_sandstone_stonecutting": {
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
     "criteria": {
-      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
+      "has_ginger": "2025-07-21 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/campfire/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-07-21 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smelting/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-07-21 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smoking/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-07-21 02:52:24 +0000"
     },
     "done": true
   },
@@ -4648,39 +4217,105 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+  "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+      "has_acorn": "2025-07-21 02:52:24 +0000"
     },
     "done": true
   },
-  "betternether:recipes/transportation/nether_reed_chest_boat": {
+  "farmersdelight:recipes/cooking/bisque": {
     "criteria": {
-      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+      "has_any_ingredient": "2025-07-21 02:57:53 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+  "farmersdelight:recipes/cooking/crab_cakes": {
     "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+      "has_any_ingredient": "2025-07-21 02:57:53 +0000"
     },
     "done": true
   },
-  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+  "farmersdelight:recipes/cooking/cooked_crab": {
     "criteria": {
-      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+      "has_any_ingredient": "2025-07-21 02:57:53 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/oak_banister": {
+  "crabbersdelight:recipes/building_blocks/crab_barrel": {
     "criteria": {
-      "has_item": "2025-07-21 03:37:53 +0000"
+      "has_crab": "2025-07-21 02:57:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+  "crabbersdelight:main/reach_for_the_sea_stars": {
     "criteria": {
-      "has_rabbit": "2025-07-21 03:19:49 +0000"
+      "crab_claw": "2025-07-21 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-07-21 02:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 03:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 03:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
     },
     "done": true
   },
@@ -4696,9 +4331,147 @@
     },
     "done": true
   },
-  "friendsandfoes:adventure/it_bites": {
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
-      "killed_mauler": "2025-07-21 03:19:37 +0000"
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_table": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-21 03:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-21 03:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-21 03:11:58 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/kelp_shake": {
+    "criteria": {
+      "has_kelp": "2025-07-21 03:11:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-07-21 03:17:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-07-21 03:17:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/dead_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/dead_banister": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_dead_log": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_flower_box": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/biomesoplenty/dead_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_slab": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_table": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_shutter": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_fence": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_sign": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:17:49 +0000"
     },
     "done": true
   },
@@ -4714,81 +4487,9 @@
     },
     "done": true
   },
-  "adorabuild_structures:nether_structures": {
-    "criteria": {
-      "example": "2025-07-21 03:57:42 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/anchor_tree_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:08:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-07-21 03:27:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile": {
-    "criteria": {
-      "has_obsidian": "2025-07-21 03:41:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-07-21 03:57:42 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/af/biomesoplenty/dead_chair": {
     "criteria": {
       "has_planks": "2025-07-21 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-21 03:27:19 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/storage/acorn_storage_block": {
-    "criteria": {
-      "has_acorn": "2025-07-21 02:52:24 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/oak_table": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:08:04 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/dead_wood": {
-    "criteria": {
-      "has_log": "2025-07-21 03:17:39 +0000"
     },
     "done": true
   },
@@ -4798,21 +4499,135 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/trough": {
-    "criteria": {
-      "has_item": "2025-07-21 03:37:53 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/dead_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-21 03:17:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "everycomp:recipes/decorations/af/biomesoplenty/dead_bench": {
     "criteria": {
-      "has_obsidian": "2025-07-21 03:41:30 +0000"
+      "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2025-07-21 03:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-07-21 03:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-07-21 03:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-07-21 03:19:49 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/misc/backpack": {
+    "criteria": {
+      "has_hide": "2025-07-21 03:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-07-21 03:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-21 03:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-21 03:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-21 03:29:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
     },
     "done": true
   },
@@ -4822,15 +4637,267 @@
     },
     "done": true
   },
-  "crabbersdelight:recipes/food/kelp_shake": {
+  "another_furniture:recipes/oak_shutter": {
     "criteria": {
-      "has_kelp": "2025-07-21 03:11:58 +0000"
+      "has_slab": "2025-07-21 03:37:53 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/af/biomesoplenty/dead_bench": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_planks": "2025-07-21 03:17:49 +0000"
+      "has_wood_slab": "2025-07-21 03:37:53 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-07-21 03:37:53 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-21 03:37:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-07-21 03:37:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-07-21 03:37:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_slab_from_smooth_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_slab": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_stairs_from_smooth_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-21 03:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-21 03:56:33 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-07-21 03:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-21 03:57:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-21 03:57:42 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-07-21 03:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-21 03:57:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:old_warped_woods": "2025-07-21 03:57:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-21 03:58:15 +0000"
+    },
+    "done": false
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-07-21 03:59:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-07-21 03:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-21 03:59:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-07-21 03:59:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-07-21 03:59:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-07-21 03:59:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-07-21 04:02:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-07-21 04:06:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-07-21 04:06:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-07-21 04:06:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-07-21 04:06:17 +0000"
     },
     "done": true
   },

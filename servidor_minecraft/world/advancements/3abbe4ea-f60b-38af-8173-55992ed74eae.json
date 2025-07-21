@@ -313,11 +313,13 @@
     "criteria": {
       "minecraft:pillager": "2025-07-17 01:18:25 +0000",
       "minecraft:skeleton": "2025-07-16 01:25:40 +0000",
+      "minecraft:hoglin": "2025-07-21 04:00:07 +0000",
       "minecraft:spider": "2025-07-16 01:01:52 +0000",
       "minecraft:creeper": "2025-07-17 01:29:14 +0000",
       "minecraft:phantom": "2025-07-18 00:43:24 +0000",
       "minecraft:witch": "2025-07-17 02:04:56 +0000",
       "minecraft:cave_spider": "2025-07-18 01:14:24 +0000",
+      "minecraft:piglin": "2025-07-21 04:06:05 +0000",
       "minecraft:enderman": "2025-07-18 00:55:32 +0000",
       "minecraft:zombie": "2025-07-16 00:34:08 +0000",
       "minecraft:zombie_villager": "2025-07-16 00:18:37 +0000"
@@ -4803,6 +4805,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-07-21 04:00:05 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/cooking/fiery_snakes_block": {
     "criteria": {
       "has_fiery_blood": "2025-07-21 02:11:26 +0000"
@@ -4917,9 +4925,21 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-07-21 04:06:20 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/campfire/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-21 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-07-21 04:00:05 +0000"
     },
     "done": true
   },
@@ -4953,6 +4973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-21 04:00:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-07-21 01:47:09 +0000"
@@ -4962,6 +4988,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/cooking/animal_oil_bottle": {
+    "criteria": {
+      "has_animal_fat": "2025-07-21 04:01:29 +0000"
     },
     "done": true
   },
@@ -5004,6 +5036,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2025-07-21 04:00:08 +0000"
     },
     "done": true
   },
@@ -5073,6 +5111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-21 04:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-21 02:48:45 +0000"
@@ -5082,6 +5126,18 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-07-21 04:00:05 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/transportation/hoglin_trophy": {
+    "criteria": {
+      "has_hoglin_hide": "2025-07-21 04:00:08 +0000"
     },
     "done": true
   },
@@ -5169,6 +5225,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-21 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-07-21 04:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-21 02:30:25 +0000"
@@ -5199,6 +5267,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-21 04:06:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-07-21 02:04:34 +0000"
@@ -5214,6 +5288,12 @@
   "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
     "criteria": {
       "has_item": "2025-07-21 02:11:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-07-21 04:00:48 +0000"
     },
     "done": true
   },
@@ -5265,6 +5345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-21 04:06:57 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/allurite_lamp": {
     "criteria": {
       "has_glowstone": "2025-07-21 03:48:13 +0000"
@@ -5307,6 +5393,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-07-21 04:05:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 02:57:50 +0000"
@@ -5337,9 +5429,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-21 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-21 04:00:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-07-21 01:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-21 04:00:48 +0000"
     },
     "done": true
   },
@@ -5373,6 +5483,12 @@
     },
     "done": true
   },
+  "delightful:recipes/candle_from_animal_fat": {
+    "criteria": {
+      "has_fat": "2025-07-21 04:01:29 +0000"
+    },
+    "done": true
+  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-07-21 03:57:56 +0000"
@@ -5394,6 +5510,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-07-21 04:00:05 +0000"
     },
     "done": true
   },
@@ -5433,6 +5555,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-07-21 04:06:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_framed_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
@@ -5442,6 +5570,12 @@
   "betterend:recipes/misc/thallasium_bulb_lantern_purple": {
     "criteria": {
       "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-07-21 04:00:05 +0000"
     },
     "done": true
   },
@@ -5560,6 +5694,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/raw_stuffed_hoglin": {
+    "criteria": {
+      "has_hoglin_hide": "2025-07-21 04:00:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-07-21 01:46:57 +0000"
@@ -5620,6 +5760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-21 04:00:48 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/terminite_bulb_lantern_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
@@ -5635,6 +5781,12 @@
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2025-07-21 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-07-21 04:02:47 +0000"
     },
     "done": true
   },
@@ -5677,6 +5829,12 @@
   "betterend:recipes/misc/iron_bulb_lantern_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-07-21 04:00:08 +0000"
     },
     "done": true
   },
