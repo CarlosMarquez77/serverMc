@@ -3375,3 +3375,17 @@ ModdedBiomeSource (62353f57)
 [21Jul2025 04:28:54.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 208.500000, 71.500000, 246.500000]
 [21Jul2025 04:29:04.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
 [21Jul2025 04:29:17.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 162.500000, 62.500000, 253.500000]
+[21Jul2025 04:35:13.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Wither Skeleton
+[21Jul2025 04:35:18.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[21Jul2025 04:35:28.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 284.500000, 87.500000, 288.500000]
+[21Jul2025 04:35:57.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was burnt to a crisp whilst fighting Blaze
+[21Jul2025 04:36:12.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[21Jul2025 04:36:20.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 632.500000, 73.500000, -410.500000]
+[21Jul2025 04:36:35.619] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[21Jul2025 04:36:40.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[21Jul2025 04:36:48.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 163.500000, 62.500000, 252.500000]
+[21Jul2025 04:36:57.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[21Jul2025 04:38:44.896] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[21Jul2025 04:39:41.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was fireballed by Blaze
+[21Jul2025 04:39:57.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[21Jul2025 04:40:03.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 264.500000, 87.500000, 300.500000]

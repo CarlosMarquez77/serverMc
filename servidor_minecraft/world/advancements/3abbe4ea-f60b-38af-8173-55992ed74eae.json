@@ -314,6 +314,7 @@
       "minecraft:pillager": "2025-07-17 01:18:25 +0000",
       "minecraft:blaze": "2025-07-21 04:13:53 +0000",
       "minecraft:skeleton": "2025-07-16 01:25:40 +0000",
+      "minecraft:ghast": "2025-07-21 04:30:06 +0000",
       "minecraft:hoglin": "2025-07-21 04:00:07 +0000",
       "minecraft:magma_cube": "2025-07-21 04:14:51 +0000",
       "minecraft:spider": "2025-07-16 01:01:52 +0000",
@@ -4947,9 +4948,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2025-07-21 04:33:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-07-21 03:39:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:31:42 +0000"
     },
     "done": true
   },
@@ -5115,6 +5128,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:31:42 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_pane_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
@@ -5151,6 +5170,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-21 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2025-07-21 04:31:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 02:57:50 +0000"
@@ -5169,6 +5200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-21 04:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
@@ -5181,15 +5218,33 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:31:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-21 03:57:56 +0000"
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-07-21 04:31:18 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
     "criteria": {
       "has_item": "2025-07-21 04:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-07-21 04:32:36 +0000"
     },
     "done": true
   },
@@ -5202,6 +5257,18 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:31:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:31:42 +0000"
     },
     "done": true
   },
@@ -5319,6 +5386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-21 04:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-07-21 02:30:20 +0000"
@@ -5391,6 +5464,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:31:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-07-21 01:46:57 +0000"
@@ -5412,6 +5491,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-07-21 04:06:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:31:42 +0000"
     },
     "done": true
   },
@@ -5454,6 +5539,12 @@
   "betterend:recipes/misc/terminite_bulb_lantern_red": {
     "criteria": {
       "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-21 04:31:32 +0000"
     },
     "done": true
   },
@@ -5541,6 +5632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-21 04:31:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
@@ -5556,6 +5653,12 @@
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-21 04:31:32 +0000"
     },
     "done": true
   },
@@ -5583,6 +5686,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/glow_jelly_bottle": {
+    "criteria": {
+      "has_glow_berries": "2025-07-21 04:34:41 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/terminite_bulb_lantern_purple": {
     "criteria": {
       "has_purple_dye": "2025-07-21 02:30:25 +0000"
@@ -5598,6 +5707,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:31:42 +0000"
     },
     "done": true
   },
@@ -5622,6 +5737,12 @@
   "betternether:recipes/decorations/quartz_glass_framed_pane_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-07-21 04:31:42 +0000"
     },
     "done": true
   },
@@ -5794,6 +5915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-21 04:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-07-21 03:53:42 +0000"
@@ -5812,6 +5939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-21 04:31:18 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_bench": {
     "criteria": {
       "has_slab": "2025-07-21 03:04:09 +0000"
@@ -5821,6 +5954,12 @@
   "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
     "criteria": {
       "has_item": "2025-07-21 02:11:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:31:42 +0000"
     },
     "done": true
   },
@@ -5929,6 +6068,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-07-21 04:31:18 +0000"
     },
     "done": true
   },
