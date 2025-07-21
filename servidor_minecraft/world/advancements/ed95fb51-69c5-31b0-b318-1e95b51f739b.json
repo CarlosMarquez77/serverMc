@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-21 01:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-21 00:12:41 +0000"
@@ -1336,6 +1342,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-21 01:21:33 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/brown_sofa": {
     "criteria": {
       "has_wool": "2025-07-21 00:23:22 +0000"
@@ -1732,6 +1744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-21 01:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-21 00:56:07 +0000",
@@ -1908,6 +1926,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-21 01:21:33 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_drawer": {
     "criteria": {
       "has_planks": "2025-07-21 00:12:41 +0000"
@@ -1968,6 +1992,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-21 01:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-21 00:28:07 +0000"
@@ -1995,6 +2025,12 @@
   "betterend:recipes/misc/piercing_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-21 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-21 01:19:46 +0000"
     },
     "done": true
   },
@@ -2768,6 +2804,12 @@
     },
     "done": false
   },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-21 01:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-07-21 00:23:22 +0000"
@@ -2825,6 +2867,12 @@
   "betternether:recipes/decorations/nether_sakura_chair": {
     "criteria": {
       "has_stick": "2025-07-21 00:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-21 01:21:33 +0000"
     },
     "done": true
   },
@@ -3440,6 +3488,12 @@
       "minecraft:savanna": "2025-07-21 00:09:18 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-21 01:19:46 +0000"
+    },
+    "done": true
   },
   "betternether:recipes/decorations/anchor_tree_ladder": {
     "criteria": {
