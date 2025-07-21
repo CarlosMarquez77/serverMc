@@ -2970,3 +2970,21 @@ ModdedBiomeSource (62353f57)
 [21Jul2025 02:16:28.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 4697.500000, 5.500000, -3228.500000]
 [21Jul2025 02:16:31.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
 [21Jul2025 02:18:21.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Hunt and Gather]
+[21Jul2025 02:27:16.874] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 02:27:16.874] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:27:16.880] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:27:16.884] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[21Jul2025 02:27:16.884] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:27:31.704] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:28:03.016] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 02:28:10.840] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 02:28:10.840] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 02:28:10.840] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 02:28:10.840] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 02:28:10.840] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 02:28:11.329] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:28:14.673] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:cockroach
+[21Jul2025 02:28:29.089] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:cockroach
+[21Jul2025 02:28:52.677] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 02:28:52.678] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rhinoceros
+[21Jul2025 02:28:52.678] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rhinoceros
