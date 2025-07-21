@@ -507,7 +507,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "potato": "2025-07-19 01:32:56 +0000"
+      "brown_mushroom": "2025-07-21 22:46:31 +0000",
+      "potato": "2025-07-19 01:32:56 +0000",
+      "red_mushroom": "2025-07-21 22:46:27 +0000",
+      "carrot": "2025-07-21 22:41:23 +0000"
     },
     "done": false
   },
@@ -6552,6 +6555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-21 22:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-07-21 21:31:08 +0000"
@@ -6609,6 +6618,12 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-07-21 22:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-21 22:38:59 +0000"
     },
     "done": true
   },
@@ -6903,6 +6918,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2025-07-21 22:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-21 22:42:35 +0000"
     },
     "done": true
   },
