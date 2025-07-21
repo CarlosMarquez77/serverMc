@@ -4979,6 +4979,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/green_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-07-21 04:06:20 +0000"
@@ -5081,6 +5087,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/red_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-21 03:03:59 +0000"
@@ -5123,9 +5135,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/orange_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "smoked_ham": "2025-07-21 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
     },
     "done": true
   },
@@ -5162,6 +5186,12 @@
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-07-21 03:57:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
     },
     "done": true
   },
@@ -5243,6 +5273,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/cyan_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/farmland": {
     "criteria": {
       "has_netherrack": "2025-07-21 04:00:05 +0000"
@@ -5273,6 +5309,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/purple_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-07-21 04:31:42 +0000"
@@ -5282,6 +5324,12 @@
   "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
     "criteria": {
       "has_item": "2025-07-21 04:49:53 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
     },
     "done": true
   },
@@ -5435,6 +5483,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/blue_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
@@ -5534,6 +5588,12 @@
   "betternether:recipes/building_blocks/quartz_glass_purple": {
     "criteria": {
       "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
     },
     "done": true
   },
@@ -5897,6 +5957,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/pink_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/netherrack_furnace": {
     "criteria": {
       "has_netherrack": "2025-07-21 04:00:05 +0000"
@@ -6156,6 +6222,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/lime_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:temples": {
     "criteria": {
       "in_temple_nether_wasteland": "2025-07-21 05:05:01 +0000"
@@ -6189,6 +6261,12 @@
   "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
     "criteria": {
       "has_item": "2025-07-21 02:11:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
     },
     "done": true
   },
@@ -6249,6 +6327,12 @@
   "betterend:recipes/misc/terminite_bulb_lantern_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
     },
     "done": true
   },
@@ -6354,6 +6438,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/brown_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_bulb_lantern_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
@@ -6381,6 +6471,12 @@
   "netherexp:recipes/basalt/wall": {
     "criteria": {
       "has_item": "2025-07-21 05:13:22 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:41:37 +0000"
     },
     "done": true
   },
