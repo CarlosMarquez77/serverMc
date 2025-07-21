@@ -4886,6 +4886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-21 05:11:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-07-21 04:38:01 +0000"
@@ -4907,6 +4913,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-21 05:12:46 +0000"
     },
     "done": true
   },
@@ -4934,6 +4946,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-21 04:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-21 04:46:48 +0000"
@@ -4949,6 +4967,12 @@
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-07-21 04:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-21 05:12:00 +0000"
     },
     "done": true
   },
@@ -4991,6 +5015,12 @@
   "nethersdelight:recipes/decorations/nether_brick_smoker": {
     "criteria": {
       "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-21 04:53:55 +0000"
     },
     "done": true
   },
@@ -5045,6 +5075,12 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-07-21 04:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-21 05:12:06 +0000"
     },
     "done": true
   },
@@ -5126,6 +5162,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-21 05:14:06 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2025-07-21 04:46:48 +0000"
@@ -5141,6 +5183,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-07-21 04:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-21 05:12:46 +0000"
     },
     "done": true
   },
@@ -5183,6 +5231,12 @@
   "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-21 04:53:55 +0000"
     },
     "done": true
   },
@@ -5243,6 +5297,12 @@
   "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-21 05:11:37 +0000"
     },
     "done": true
   },
@@ -5324,9 +5384,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-21 05:11:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-21 05:12:00 +0000"
     },
     "done": true
   },

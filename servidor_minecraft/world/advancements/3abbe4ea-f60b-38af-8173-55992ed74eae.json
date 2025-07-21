@@ -4870,6 +4870,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-21 05:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-07-21 03:58:25 +0000"
@@ -4984,6 +4990,30 @@
     },
     "done": true
   },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2025-07-21 05:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-21 05:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-21 04:49:53 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-07-21 05:13:22 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_fire_bowl": {
     "criteria": {
       "has_netherrack": "2025-07-21 04:00:05 +0000"
@@ -5011,6 +5041,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-21 05:13:22 +0000"
     },
     "done": true
   },
@@ -5098,6 +5134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-21 04:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-07-21 03:48:13 +0000"
@@ -5170,6 +5212,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-21 05:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-21 02:48:45 +0000"
@@ -5230,6 +5278,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-07-21 04:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-21 03:57:56 +0000"
@@ -5251,6 +5305,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-07-21 04:32:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_slab_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-21 05:13:22 +0000"
     },
     "done": true
   },
@@ -5299,6 +5359,12 @@
   "betternether:recipes/building_blocks/quartz_glass_red": {
     "criteria": {
       "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-21 05:08:09 +0000"
     },
     "done": true
   },
@@ -5422,6 +5488,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-21 05:08:09 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-07-21 05:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-07-21 04:17:59 +0000"
@@ -5482,6 +5560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-21 04:53:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_pot": {
     "criteria": {
       "has_soul_sand": "2025-07-21 04:17:59 +0000"
@@ -5506,6 +5590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-21 05:08:09 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/allurite_lamp": {
     "criteria": {
       "has_glowstone": "2025-07-21 03:48:13 +0000"
@@ -5515,6 +5605,12 @@
   "netherexp:recipes/misc/soul_jack_o_lantern": {
     "criteria": {
       "has_item": "2025-07-21 04:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-21 05:09:08 +0000"
     },
     "done": true
   },
@@ -5548,6 +5644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-21 05:08:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-21 04:31:32 +0000"
@@ -5557,6 +5659,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-07-21 04:49:53 +0000"
     },
     "done": true
   },
@@ -5596,6 +5704,18 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_nether": "2025-07-21 05:00:31 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-21 05:13:22 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/hydra_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-07-21 02:11:23 +0000"
@@ -5620,15 +5740,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-21 05:08:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-07-21 01:47:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-21 05:08:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-21 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/basalt_furnace": {
+    "criteria": {
+      "has_basalt": "2025-07-21 05:13:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_basalt_slab": {
+    "criteria": {
+      "has_basalt": "2025-07-21 05:13:22 +0000"
     },
     "done": true
   },
@@ -5641,6 +5785,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-21 04:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-21 05:13:22 +0000"
     },
     "done": true
   },
@@ -5734,6 +5884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-21 05:08:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2025-07-21 02:30:20 +0000"
@@ -5743,6 +5899,18 @@
   "betternether:recipes/decorations/quartz_glass_framed_pane_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-21 05:06:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-07-21 04:49:53 +0000"
     },
     "done": true
   },
@@ -5791,6 +5959,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-07-21 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-21 05:13:22 +0000"
     },
     "done": true
   },
@@ -5921,6 +6095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-21 05:08:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-21 04:33:12 +0000"
@@ -5932,6 +6112,12 @@
       "has_brick": "2025-07-21 03:53:42 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2025-07-21 05:05:01 +0000"
+    },
+    "done": false
   },
   "nethersdelight:recipes/food/raw_stuffed_hoglin": {
     "criteria": {
@@ -6023,6 +6209,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-07-21 05:08:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-21 04:17:27 +0000"
@@ -6077,6 +6269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-21 05:13:22 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/herbal_medicine": {
     "criteria": {
       "has_nether_wart": "2025-07-21 04:31:18 +0000"
@@ -6113,9 +6311,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-21 04:49:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/honey_glazed_ham_block": {
     "criteria": {
       "has_smoked_ham": "2025-07-21 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-21 04:49:53 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-07-21 05:13:22 +0000"
     },
     "done": true
   },
