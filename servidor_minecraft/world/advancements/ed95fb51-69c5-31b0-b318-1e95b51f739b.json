@@ -790,6 +790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-21 01:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-07-21 00:10:34 +0000"
@@ -1453,6 +1459,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-07-21 00:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-21 01:37:56 +0000"
     },
     "done": true
   },
@@ -2289,6 +2301,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-21 00:55:44 +0000",
+      "minecraft:cave_spider": "2025-07-21 01:41:28 +0000",
       "minecraft:enderman": "2025-07-21 00:19:34 +0000",
       "minecraft:zombie": "2025-07-21 00:29:27 +0000"
     },
@@ -3527,6 +3540,12 @@
   "betternether:recipes/decorations/rubeus_fence": {
     "criteria": {
       "has_stick": "2025-07-21 00:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-21 01:37:56 +0000"
     },
     "done": true
   },
