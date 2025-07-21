@@ -2943,3 +2943,8 @@ ModdedBiomeSource (3c8cd6df)
 [21Jul2025 21:42:05.319] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [21Jul2025 21:42:05.319] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [21Jul2025 21:42:05.319] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[21Jul2025 21:53:01.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=559, y=72, z=-426} BlockPos{x=560, y=72, z=-427}
+[21Jul2025 21:53:34.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=572, y=73, z=-372} BlockPos{x=572, y=71, z=-371}
+[21Jul2025 21:53:34.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=572, y=73, z=-372} BlockPos{x=572, y=71, z=-371}
+[21Jul2025 21:53:34.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=572, y=73, z=-372} BlockPos{x=572, y=71, z=-371}
+[21Jul2025 21:53:48.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito has reached the goal [Bring Out Your Dead]

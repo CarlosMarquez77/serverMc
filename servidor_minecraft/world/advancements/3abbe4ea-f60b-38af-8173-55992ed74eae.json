@@ -6540,6 +6540,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-21 21:46:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-07-21 21:31:08 +0000"
@@ -6594,6 +6600,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-07-21 21:46:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-21 21:31:08 +0000"
@@ -6603,6 +6615,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-21 21:31:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-21 21:46:59 +0000"
     },
     "done": true
   },
@@ -6618,9 +6636,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-07-21 21:46:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-07-21 21:31:08 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/crab_from_barrel": {
+    "criteria": {
+      "has_crab_barrel": "2025-07-21 21:51:48 +0000"
     },
     "done": true
   },
