@@ -125,7 +125,8 @@
       "mediterranean_forest": "2025-07-21 00:10:35 +0000",
       "dryland": "2025-07-21 02:30:54 +0000",
       "wasteland": "2025-07-21 03:17:07 +0000",
-      "wasteland_steppe": "2025-07-21 02:32:55 +0000"
+      "wasteland_steppe": "2025-07-21 02:32:55 +0000",
+      "undergrowth": "2025-07-21 03:57:45 +0000"
     },
     "done": false
   },
@@ -1866,6 +1867,7 @@
   "twilightforest:twilight_dinner": {
     "criteria": {
       "meef_stroganoff": "2025-07-21 02:04:32 +0000",
+      "maze_wafer": "2025-07-21 03:53:09 +0000",
       "cooked_meef": "2025-07-21 03:28:37 +0000",
       "cooked_venison": "2025-07-21 00:17:20 +0000"
     },
@@ -4184,6 +4186,18 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:old_warped_woods": "2025-07-21 03:57:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-21 03:58:15 +0000"
+    },
+    "done": false
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/dead_shelf": {
     "criteria": {
       "has_planks": "2025-07-21 03:17:49 +0000"
@@ -4256,6 +4270,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-21 03:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-07-21 03:08:04 +0000"
@@ -4271,6 +4291,12 @@
   "biomesoplenty:recipes/redstone/dead_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-07-21 03:57:42 +0000"
     },
     "done": true
   },
@@ -4325,6 +4351,12 @@
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2025-07-21 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-21 03:57:42 +0000"
     },
     "done": true
   },
@@ -4442,6 +4474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-21 03:53:56 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
@@ -4529,6 +4567,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-07-21 03:20:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-21 03:57:42 +0000"
     },
     "done": true
   },
@@ -4670,6 +4714,12 @@
     },
     "done": true
   },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-07-21 03:57:42 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/anchor_tree_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
@@ -4697,6 +4747,12 @@
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-21 03:57:42 +0000"
     },
     "done": true
   },
