@@ -3055,3 +3055,9 @@ ModdedBiomeSource (3c8cd6df)
 [21Jul2025 22:11:07.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 4900.500000, 6.500000, -2470.500000]
 [21Jul2025 22:11:25.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 4844.500000, 6.500000, -2196.500000]
 [21Jul2025 22:11:30.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Larito to KyoShiiro]
+[21Jul2025 22:22:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito was slain by Zombie
+[21Jul2025 22:22:12.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Larito to KyoShiiro]
+[21Jul2025 22:24:17.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito has made the advancement [The Silence of the Forest]
+[21Jul2025 22:26:06.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 4697.500000, 5.500000, -3228.500000]
+[21Jul2025 22:26:12.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Larito to KyoShiiro]
+[21Jul2025 22:27:15.400] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id easyanvils:anvil
