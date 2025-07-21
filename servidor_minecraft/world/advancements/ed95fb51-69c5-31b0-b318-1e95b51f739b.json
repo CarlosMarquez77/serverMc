@@ -1886,7 +1886,8 @@
     "criteria": {
       "cooked_porkchop": "2025-07-21 00:56:07 +0000",
       "cooked_mutton": "2025-07-21 00:23:04 +0000",
-      "rotten_flesh": "2025-07-21 00:52:32 +0000"
+      "rotten_flesh": "2025-07-21 00:52:32 +0000",
+      "cooked_chicken": "2025-07-21 02:00:56 +0000"
     },
     "done": false
   },
