@@ -6546,6 +6546,18 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-21 21:33:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-07-21 21:33:45 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_chair": {
     "criteria": {
       "has_planks": "2025-07-21 21:31:08 +0000"
@@ -6561,6 +6573,18 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-07-21 21:31:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2025-07-21 21:33:45 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-21 21:33:45 +0000"
     },
     "done": true
   },
