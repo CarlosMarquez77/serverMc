@@ -4808,6 +4808,12 @@
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_framed_purple": {
     "criteria": {
       "has_purple_dye": "2025-07-21 02:30:25 +0000"
@@ -4880,6 +4886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-21 02:30:19 +0000"
@@ -4916,6 +4928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
     "criteria": {
       "has_item": "2025-07-21 02:11:26 +0000"
@@ -4934,6 +4952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_pane_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
@@ -4946,9 +4970,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
     },
     "done": true
   },
@@ -5024,9 +5066,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_purple": {
     "criteria": {
       "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
     },
     "done": true
   },
@@ -5048,6 +5102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_bulb_lantern_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
@@ -5063,6 +5123,18 @@
   "betterend:recipes/misc/terminite_bulb_lantern_red": {
     "criteria": {
       "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
     },
     "done": true
   },
@@ -5087,6 +5159,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
     },
     "done": true
   },
@@ -5150,6 +5228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_framed_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
@@ -5186,6 +5270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
@@ -5195,6 +5285,24 @@
   "betternether:recipes/misc/wall_red_brown": {
     "criteria": {
       "has_red_mushroom": "2025-07-21 01:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-21 02:48:45 +0000"
     },
     "done": true
   },
@@ -5262,6 +5370,12 @@
   "betternether:recipes/building_blocks/quartz_glass_framed_red": {
     "criteria": {
       "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-21 02:48:45 +0000"
     },
     "done": true
   },
