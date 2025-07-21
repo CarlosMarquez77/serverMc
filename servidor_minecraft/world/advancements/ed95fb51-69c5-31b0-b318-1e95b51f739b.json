@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-21 01:47:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-07-21 00:26:55 +0000"
@@ -3192,6 +3198,12 @@
   "another_furniture:recipes/brown_lamp": {
     "criteria": {
       "has_wool": "2025-07-21 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-21 01:47:48 +0000"
     },
     "done": true
   },
