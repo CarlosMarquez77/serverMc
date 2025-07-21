@@ -4412,33 +4412,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "twilightforest:twilight_hunter": {
     "criteria": {
-      "has_glass": "2025-07-21 22:46:12 +0000"
+      "death_tome": "2025-07-21 22:24:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_glass": "2025-07-21 22:46:12 +0000"
+      "killed_something": "2025-07-21 22:24:17 +0000"
     },
     "done": true
   },
-  "crabbersdelight:recipes/food/surf_and_turf": {
+  "twilightforest:twilight_dinner": {
     "criteria": {
-      "has_baked_potato": "2025-07-21 22:35:11 +0000"
+      "torchberries": "2025-07-21 22:25:36 +0000"
+    },
+    "done": false
+  },
+  "crabbersdelight:recipes/tools/bucket_of_clam_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-21 22:28:13 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "slept_in_bed": "2025-07-21 22:37:51 +0000"
+      "has_bone_meal": "2025-07-21 22:28:13 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "betterend:recipes/misc/sulphur_gunpowder": {
     "criteria": {
-      "voluntary_exile": "2025-07-21 23:03:29 +0000"
+      "has_bone_meal": "2025-07-21 22:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-21 22:28:13 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-21 22:28:13 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_clawster_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-21 22:28:13 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_crab_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-21 22:28:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-07-21 22:29:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-07-21 22:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-21 22:29:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-07-21 22:29:03 +0000"
     },
     "done": true
   },
@@ -4449,9 +4503,69 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "crabbersdelight:recipes/food/surf_and_turf": {
     "criteria": {
-      "has_oxeye_daisy": "2025-07-21 22:53:37 +0000"
+      "has_baked_potato": "2025-07-21 22:35:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-21 22:35:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-21 22:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-21 22:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-21 22:37:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-21 22:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-21 22:37:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-21 22:41:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-21 22:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-21 22:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-21 22:46:12 +0000"
     },
     "done": true
   },
@@ -4467,45 +4581,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-07-21 22:37:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "death_tome": "2025-07-21 22:24:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 22:46:12 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/shadow_berry_jelly": {
-    "criteria": {
-      "has_tag_c_water_bottles": "2025-07-21 22:29:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 22:46:12 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/tools/bucket_of_clam_chum": {
-    "criteria": {
-      "has_bonemeal": "2025-07-21 22:28:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-07-21 23:03:21 +0000"
     },
     "done": true
   },
@@ -4527,47 +4611,11 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-07-21 22:41:50 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/blossom_berry_jelly": {
-    "criteria": {
-      "has_tag_c_water_bottles": "2025-07-21 22:29:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 22:46:12 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:pillager": "2025-07-21 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-07-21 22:35:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-07-21 22:28:13 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_dinner": {
-    "criteria": {
-      "torchberries": "2025-07-21 22:25:36 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
@@ -4587,87 +4635,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-07-21 22:37:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-07-21 23:03:29 +0000"
-    },
-    "done": false
-  },
-  "betterend:recipes/misc/sulphur_gunpowder": {
-    "criteria": {
-      "has_bone_meal": "2025-07-21 22:28:13 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
-    "criteria": {
-      "has_torch": "2025-07-21 22:52:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 22:46:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-07-21 22:29:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-07-21 22:24:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-07-21 22:28:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-07-21 22:41:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 22:46:12 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
-    "criteria": {
-      "has_bonemeal": "2025-07-21 22:28:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-07-21 22:37:13 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/tools/bucket_of_clawster_chum": {
-    "criteria": {
-      "has_bonemeal": "2025-07-21 22:28:13 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-07-21 23:03:21 +0000"
     },
     "done": true
   },
@@ -4689,27 +4665,21 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/sweet_berry_jelly": {
-    "criteria": {
-      "has_tag_c_water_bottles": "2025-07-21 22:29:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 22:46:12 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
     "criteria": {
-      "has_baked_potato": "2025-07-21 22:35:11 +0000"
+      "has_torch": "2025-07-21 22:52:35 +0000"
     },
     "done": true
   },
-  "crabbersdelight:recipes/tools/bucket_of_crab_chum": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_bonemeal": "2025-07-21 22:28:13 +0000"
+      "has_oxeye_daisy": "2025-07-21 22:53:37 +0000"
     },
     "done": true
   },
@@ -4718,6 +4688,36 @@
       "has_oxeye_daisy": "2025-07-21 22:53:37 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-21 23:03:21 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-07-21 23:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-21 23:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-07-21 23:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-07-21 23:03:29 +0000"
+    },
+    "done": false
   },
   "galosphere:recipes/misc/silver_ingot_from_nuggets": {
     "criteria": {
