@@ -597,6 +597,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-07-21 00:55:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_taburet": {
     "criteria": {
       "has_stick": "2025-07-21 00:12:41 +0000"
@@ -972,6 +978,12 @@
   "betterend:recipes/misc/shadow_berry_jelly": {
     "criteria": {
       "has_tag_c_water_bottles": "2025-07-21 00:17:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2025-07-21 00:55:02 +0000"
     },
     "done": true
   },
@@ -1691,6 +1703,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-21 00:56:07 +0000",
       "cooked_mutton": "2025-07-21 00:23:04 +0000",
       "rotten_flesh": "2025-07-21 00:52:32 +0000"
     },
@@ -2064,6 +2077,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-21 00:55:44 +0000",
       "minecraft:enderman": "2025-07-21 00:19:34 +0000",
       "minecraft:zombie": "2025-07-21 00:29:27 +0000"
     },
