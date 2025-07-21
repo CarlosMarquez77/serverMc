@@ -3254,3 +3254,23 @@ ModdedBiomeSource (62353f57)
 [21Jul2025 03:19:00.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=206, y=-44, z=-746}
 [21Jul2025 03:19:00.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=206, y=-44, z=-743} but found not block entity block Block{minecraft:air} at location
 [21Jul2025 03:19:00.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=206, y=-44, z=-743}
+[21Jul2025 03:19:37.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [It Bites]
+[21Jul2025 03:21:21.077] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[21Jul2025 03:21:49.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex drowned
+[21Jul2025 03:21:50.677] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=12, y=-30, z=-646} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:21:50.678] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=12, y=-30, z=-646}
+[21Jul2025 03:21:50.897] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-17, y=-28, z=-643} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:21:50.897] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-17, y=-28, z=-643}
+[21Jul2025 03:22:09.808] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=809, y=-40, z=-661} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:22:09.809] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=809, y=-40, z=-661}
+[21Jul2025 03:22:09.809] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=800, y=-12, z=-677} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:22:09.809] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=800, y=-12, z=-677}
+[21Jul2025 03:22:09.809] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=800, y=-12, z=-674} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:22:09.809] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=800, y=-12, z=-674}
+[21Jul2025 03:22:09.810] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=801, y=-12, z=-675} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 03:22:09.810] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=801, y=-12, z=-675}
+[21Jul2025 03:22:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[21Jul2025 03:22:57.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Sebasrex a server operator
+[21Jul2025 03:23:30.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to -36.500000, 55.500000, -873.500000]
+[21Jul2025 03:23:47.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[21Jul2025 03:29:27.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Voluntary Exile]
