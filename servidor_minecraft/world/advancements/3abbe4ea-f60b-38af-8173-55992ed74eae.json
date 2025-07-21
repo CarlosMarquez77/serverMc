@@ -4892,6 +4892,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-07-21 03:04:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_bulb_lantern_red": {
     "criteria": {
       "has_red_dye": "2025-07-21 02:30:20 +0000"
@@ -4925,6 +4931,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-21 03:03:59 +0000"
     },
     "done": true
   },
@@ -5354,6 +5366,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-21 03:04:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-07-21 01:47:09 +0000"
@@ -5433,6 +5451,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2025-07-21 03:04:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
     "criteria": {
       "has_item": "2025-07-21 02:11:26 +0000"
@@ -5448,6 +5472,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-21 03:04:09 +0000"
     },
     "done": true
   },

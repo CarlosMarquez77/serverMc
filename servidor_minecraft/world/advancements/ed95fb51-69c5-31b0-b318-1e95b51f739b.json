@@ -75,6 +75,8 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-07-21 00:10:20 +0000",
       "minecraft:river": "2025-07-21 02:29:53 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-21 03:07:33 +0000",
+      "minecraft:stony_shore": "2025-07-21 03:07:21 +0000",
       "minecraft:savanna": "2025-07-21 00:09:18 +0000"
     },
     "done": false
@@ -1964,6 +1966,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-21 00:55:44 +0000",
+      "minecraft:spider": "2025-07-21 03:01:56 +0000",
+      "minecraft:creeper": "2025-07-21 03:02:28 +0000",
       "minecraft:cave_spider": "2025-07-21 01:41:28 +0000",
       "minecraft:enderman": "2025-07-21 00:19:34 +0000",
       "minecraft:zombie": "2025-07-21 00:29:27 +0000"
@@ -4158,6 +4162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 03:07:38 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/campfire/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-21 02:52:24 +0000"
@@ -4182,6 +4192,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 03:07:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-21 02:50:18 +0000"
@@ -4194,9 +4222,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2025-07-21 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
     },
     "done": true
   },
@@ -4206,9 +4246,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
     "criteria": {
       "has_ginger": "2025-07-21 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
     },
     "done": true
   },
@@ -4224,6 +4282,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-07-21 02:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-07-21 02:50:18 +0000"
@@ -4236,9 +4306,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2025-07-21 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_table": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:08:04 +0000"
     },
     "done": true
   },

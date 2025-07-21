@@ -3120,3 +3120,19 @@ ModdedBiomeSource (62353f57)
 [21Jul2025 02:45:54.919] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
 [21Jul2025 02:46:35.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
 [21Jul2025 02:58:15.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has reached the goal [Reach For The Sea-Stars!]
+[21Jul2025 03:07:03.882] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:07:15.751] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:crow
+[21Jul2025 03:07:15.752] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:cachalot_whale
+[21Jul2025 03:07:15.752] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:07:15.753] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:seagull
+[21Jul2025 03:07:15.753] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:penguin
+[21Jul2025 03:07:15.753] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:penguin
+[21Jul2025 03:07:15.753] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:penguin
+[21Jul2025 03:07:15.754] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:penguin
+[21Jul2025 03:07:15.767] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:07:27.378] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:07:27.378] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 03:07:30.982] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:seagull
+[21Jul2025 03:09:22.476] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 03:09:26.733] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 03:09:26.733] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
