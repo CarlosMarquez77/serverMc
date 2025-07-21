@@ -369,6 +369,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-18 02:10:59 +0000",
+      "cooked_mutton": "2025-07-21 00:23:54 +0000",
       "cooked_beef": "2025-07-16 01:02:44 +0000",
       "baked_potato": "2025-07-17 02:03:08 +0000",
       "spider_eye": "2025-07-17 01:26:31 +0000",
@@ -1822,15 +1823,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-21 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-07-21 00:19:36 +0000"
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-21 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-21 00:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-21 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-07-21 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_tag_c_furnaces": "2025-07-21 00:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-21 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-21 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-21 00:29:49 +0000"
     },
     "done": true
   },
@@ -1843,6 +1928,18 @@
   "blue_skies:recipes/building_blocks/food_prep_table": {
     "criteria": {
       "has_item": "2025-07-21 00:15:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-07-21 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
     },
     "done": true
   },
@@ -1864,9 +1961,213 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-21 00:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-21 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-07-21 00:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-21 00:29:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_stool": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-07-21 00:32:25 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2025-07-21 00:26:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-21 00:24:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-21 00:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-07-21 00:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-21 00:31:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_table": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-07-21 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-21 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-21 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-21 00:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_stool": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/torchberries_crate": {
+    "criteria": {
+      "has_torchberries": "2025-07-21 00:26:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_stool": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/cooking/torchberry_juice": {
+    "criteria": {
+      "has_torchberries": "2025-07-21 00:26:58 +0000"
     },
     "done": true
   },
@@ -1876,9 +2177,183 @@
     },
     "done": true
   },
+  "another_furniture:recipes/brown_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-21 00:24:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-07-21 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-21 00:31:15 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/twilight_ice_cream": {
+    "criteria": {
+      "has_torchberries": "2025-07-21 00:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-21 00:25:48 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:24 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_fence": {
     "criteria": {
       "has_item": "2025-07-21 00:11:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-07-21 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-21 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_stool": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/shield": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-21 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-07-21 00:26:58 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/torchberry_cookie": {
+    "criteria": {
+      "has_torchberries": "2025-07-21 00:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/berry_stick": {
+    "criteria": {
+      "has_torchberries": "2025-07-21 00:26:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/torchberry_pie": {
+    "criteria": {
+      "has_torchberries": "2025-07-21 00:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-07-21 00:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-21 00:29:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-21 00:24:08 +0000"
     },
     "done": true
   },
