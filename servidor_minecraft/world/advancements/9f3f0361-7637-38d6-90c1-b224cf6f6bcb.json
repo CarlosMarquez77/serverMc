@@ -4443,6 +4443,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-21 22:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 22:46:12 +0000"
@@ -4575,6 +4581,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-21 22:52:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 22:46:12 +0000"
@@ -4668,6 +4680,12 @@
   "crabbersdelight:recipes/tools/bucket_of_crab_chum": {
     "criteria": {
       "has_bonemeal": "2025-07-21 22:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-21 22:53:37 +0000"
     },
     "done": true
   },
