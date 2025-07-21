@@ -2988,3 +2988,61 @@ ModdedBiomeSource (62353f57)
 [21Jul2025 02:28:52.677] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
 [21Jul2025 02:28:52.678] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rhinoceros
 [21Jul2025 02:28:52.678] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rhinoceros
+[21Jul2025 02:28:58.655] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:crow
+[21Jul2025 02:28:58.655] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:28:58.655] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:crow
+[21Jul2025 02:28:58.682] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[21Jul2025 02:29:02.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Diamonds!]
+[21Jul2025 02:29:22.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 02:29:32.175] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:29:32.189] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 02:29:32.190] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 02:29:36.240] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rhinoceros
+[21Jul2025 02:29:44.182] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:29:44.189] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[21Jul2025 02:29:44.189] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[21Jul2025 02:29:44.190] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:29:53.582] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:29:53.628] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 02:29:53.629] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 02:30:03.187] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 02:30:03.187] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 02:30:09.732] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:crow
+[21Jul2025 02:30:11.584] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 02:30:20.026] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:30:38.625] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 02:30:38.626] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[21Jul2025 02:30:49.228] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 02:30:49.239] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:30:49.240] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption_resistance'
+[21Jul2025 02:30:49.240] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption'
+[21Jul2025 02:30:52.162] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[21Jul2025 02:30:52.182] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[21Jul2025 02:30:52.182] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 02:30:55.227] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[21Jul2025 02:30:55.228] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[21Jul2025 02:30:55.228] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:tarantula_hawk
+[21Jul2025 02:30:55.229] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 02:30:55.243] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[21Jul2025 02:30:56.078] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=187, y=-27, z=-675} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 02:30:56.078] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=187, y=-27, z=-675}
+[21Jul2025 02:30:56.078] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=185, y=-26, z=-676} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 02:30:56.078] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=185, y=-26, z=-676}
+[21Jul2025 02:30:58.451] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[21Jul2025 02:31:22.221] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 02:31:25.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:platypus
+[21Jul2025 02:31:25.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[21Jul2025 02:31:25.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[21Jul2025 02:31:25.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[21Jul2025 02:32:55.705] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=191, y=-8, z=-709} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 02:32:55.705] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=191, y=-8, z=-709}
+[21Jul2025 02:35:06.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> zzzzz
+[21Jul2025 02:35:18.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> zzzzzzzzzzzzzzzzz
+[21Jul2025 02:35:20.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> zzzzzzzzzzzzzz
+[21Jul2025 02:35:25.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> god
+[21Jul2025 02:38:16.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=195, y=1, z=-725} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 02:38:16.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=195, y=1, z=-725}
+[21Jul2025 02:38:16.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=182, y=-8, z=-734} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 02:38:16.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=182, y=-8, z=-734}
+[21Jul2025 02:38:16.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=183, y=-8, z=-736} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 02:38:16.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=183, y=-8, z=-736}

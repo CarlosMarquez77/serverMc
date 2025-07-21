@@ -4808,6 +4808,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_framed_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2025-07-21 02:11:23 +0000"
@@ -4820,9 +4826,63 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/iron_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/wall_mushroom_brown": {
     "criteria": {
       "has_brown_mushroom": "2025-07-21 01:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 02:30:19 +0000"
     },
     "done": true
   },
@@ -4832,9 +4892,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/hydralux_petal_block_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
     "criteria": {
       "has_item": "2025-07-21 02:11:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
     },
     "done": true
   },
@@ -4850,9 +4928,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-21 01:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 02:30:20 +0000"
     },
     "done": true
   },
@@ -4862,9 +4964,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
       "has_brown_mushroom": "2025-07-21 01:46:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 02:30:25 +0000"
     },
     "done": true
   },
@@ -4874,15 +4988,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-07-21 02:04:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
     "criteria": {
       "has_item": "2025-07-21 02:11:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
     },
     "done": true
   },
@@ -4898,9 +5048,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/thallasium_bulb_lantern_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-21 01:46:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
     },
     "done": true
   },
@@ -4916,9 +5084,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-07-21 02:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 02:30:25 +0000"
     },
     "done": true
   },
@@ -4946,6 +5186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/wall_red_brown": {
     "criteria": {
       "has_red_mushroom": "2025-07-21 01:46:57 +0000"
@@ -4956,6 +5202,12 @@
     "criteria": {
       "trophy": "2025-07-21 02:11:23 +0000",
       "stroganoff": "2025-07-21 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
     },
     "done": true
   },
@@ -4983,15 +5235,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-07-21 02:04:34 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_framed_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-21 02:30:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-21 01:47:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-07-21 02:30:19 +0000"
     },
     "done": true
   },
