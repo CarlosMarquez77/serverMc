@@ -2822,3 +2822,56 @@ ModdedBiomeSource (62353f57)
 [21Jul2025 00:12:32.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Suit Up]
 [21Jul2025 00:12:46.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Isn't It Iron Pick]
 [21Jul2025 00:16:19.593] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 00:17:58.931] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 00:17:58.932] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:crow
+[21Jul2025 00:18:11.931] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 00:19:34.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Monster Hunter]
+[21Jul2025 00:20:40.145] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption'
+[21Jul2025 00:20:40.145] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption_resistance'
+[21Jul2025 00:20:40.148] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption'
+[21Jul2025 00:20:40.148] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption_resistance'
+[21Jul2025 00:20:40.150] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption'
+[21Jul2025 00:20:40.150] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption_resistance'
+[21Jul2025 00:20:41.047] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[21Jul2025 00:20:41.078] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 31ms
+[21Jul2025 00:20:42.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[21Jul2025 00:20:42.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! 4107.713154920163,-67.67647087614428,-2794.925906102131
+[21Jul2025 00:20:44.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 4107.736386800108,-67.57969854367613,-2795.793371630138
+[21Jul2025 00:20:45.492] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption'
+[21Jul2025 00:20:45.492] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption_resistance'
+[21Jul2025 00:20:47.086] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 00:20:47.089] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 00:20:47.134] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[21Jul2025 00:20:47.355] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:pumpkin_ruins
+[21Jul2025 00:20:47.646] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[21Jul2025 00:20:47.671] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[21Jul2025 00:20:47.741] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[21Jul2025 00:20:48.796] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[21Jul2025 00:20:48.993] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id easyanvils:anvil
+[21Jul2025 00:20:49.078] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 282ms
+[21Jul2025 00:20:51.356] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id easyanvils:anvil
+[21Jul2025 00:20:54.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4662, y=-13, z=-3166} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 00:20:54.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=4662, y=-13, z=-3166}
+[21Jul2025 00:20:54.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4659, y=-15, z=-3163} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 00:20:54.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=4659, y=-15, z=-3163}
+[21Jul2025 00:20:54.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4663, y=-14, z=-3164} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 00:20:54.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=4663, y=-14, z=-3164}
+[21Jul2025 00:20:54.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4662, y=-14, z=-3164} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 00:20:54.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=4662, y=-14, z=-3164}
+[21Jul2025 00:20:54.804] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4664, y=-14, z=-3164} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 00:20:54.804] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=4664, y=-14, z=-3164}
+[21Jul2025 00:20:54.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4722, y=-21, z=-3159} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 00:20:54.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=4722, y=-21, z=-3159}
+[21Jul2025 00:20:54.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4735, y=-47, z=-3161} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 00:20:54.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=4735, y=-47, z=-3161}
+[21Jul2025 00:20:54.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4731, y=-46, z=-3153} but found not block entity block Block{minecraft:air} at location
+[21Jul2025 00:20:54.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=4731, y=-46, z=-3153}
+[21Jul2025 00:21:00.780] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id easyanvils:anvil
+[21Jul2025 00:21:20.474] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id easyanvils:anvil
+[21Jul2025 00:21:38.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [The Silence of the Forest]
+[21Jul2025 00:21:59.577] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id easyanvils:anvil
+[21Jul2025 00:22:12.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[21Jul2025 00:23:04.300] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id easyanvils:anvil
+[21Jul2025 00:24:37.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Sweet Dreams]
+[21Jul2025 00:25:45.431] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption'
+[21Jul2025 00:25:45.431] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption_resistance'
