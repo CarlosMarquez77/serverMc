@@ -541,9 +541,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
-      "kill_naga": "2025-07-19 02:11:46 +0000"
+      "kill_naga": "2025-07-19 02:11:46 +0000",
+      "was_in_fight": "2025-07-21 01:04:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:hill1": {
     "criteria": {
@@ -2063,6 +2064,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-21 01:05:15 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_chair": {
     "criteria": {
       "has_stick": "2025-07-21 00:35:48 +0000"
@@ -2177,6 +2184,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-21 01:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-07-21 00:35:12 +0000"
@@ -2261,6 +2274,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-07-21 01:05:21 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_ladder": {
     "criteria": {
       "has_stick": "2025-07-21 00:35:48 +0000"
@@ -2282,6 +2301,12 @@
   "betterend:recipes/misc/frost_walker_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-21 00:49:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-21 01:05:15 +0000"
     },
     "done": true
   },
@@ -2447,6 +2472,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-21 01:05:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-07-21 00:29:49 +0000"
@@ -2588,6 +2619,12 @@
   "betternether:recipes/decorations/anchor_tree_chair": {
     "criteria": {
       "has_stick": "2025-07-21 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-21 01:04:48 +0000"
     },
     "done": true
   },
@@ -3221,6 +3258,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-07-21 01:04:48 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/piercing_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-21 00:49:23 +0000"
@@ -3407,6 +3450,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-21 01:04:48 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_fence": {
     "criteria": {
       "has_stick": "2025-07-21 00:35:48 +0000"
@@ -3539,6 +3588,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-21 01:04:48 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/green_curtain": {
     "criteria": {
       "has_wool": "2025-07-21 00:24:09 +0000"
@@ -3590,6 +3645,12 @@
   "betterend:recipes/decorations/umbrella_tree_sign": {
     "criteria": {
       "has_stick": "2025-07-21 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-07-21 01:05:15 +0000"
     },
     "done": true
   },
@@ -3773,6 +3834,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-07-21 01:04:49 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/decorations/mossy_glowshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-07-21 00:35:48 +0000"
@@ -3802,6 +3869,12 @@
       "has_item.minecraft.book": "2025-07-21 00:49:23 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-07-21 01:04:49 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
@@ -3896,6 +3969,12 @@
   "betternether:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_stick": "2025-07-21 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-07-21 01:04:48 +0000"
     },
     "done": true
   },
@@ -4265,6 +4344,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-07-21 01:04:49 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/redstone/lucernia_gate": {
     "criteria": {
       "has_stick": "2025-07-21 00:35:48 +0000"
@@ -4322,6 +4407,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-07-21 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-07-21 01:04:48 +0000"
     },
     "done": true
   },

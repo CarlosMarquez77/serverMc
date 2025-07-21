@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-07-21 01:08:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
       "has_stick": "2025-07-21 00:12:41 +0000"
@@ -297,6 +303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-21 01:08:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-21 00:29:46 +0000"
@@ -437,9 +449,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2025-07-21 01:04:49 +0000",
       "kill_naga": "2025-07-21 00:45:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/decorations/wood/twilight_oak_hanging_sign": {
     "criteria": {
@@ -582,6 +595,12 @@
   "betternether:recipes/decorations/oak_chair": {
     "criteria": {
       "has_stick": "2025-07-21 00:12:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-07-21 01:05:47 +0000"
     },
     "done": true
   },
@@ -996,6 +1015,12 @@
   "betterend:recipes/misc/copy_plate_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-21 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-21 01:06:02 +0000"
     },
     "done": true
   },
@@ -1470,6 +1495,12 @@
   "backpacked:recipes/decorations/jungle_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-07-21 00:12:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-07-21 01:08:12 +0000"
     },
     "done": true
   },
@@ -1982,6 +2013,12 @@
   "betternether:recipes/decorations/crimson_bar_stool": {
     "criteria": {
       "has_stick": "2025-07-21 00:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-21 01:06:02 +0000"
     },
     "done": true
   },
@@ -2683,6 +2720,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-07-21 01:04:49 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/decorations/mossy_glowshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-07-21 00:12:41 +0000"
@@ -2718,6 +2761,12 @@
       "has_item.minecraft.book": "2025-07-21 00:49:48 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-07-21 01:04:49 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
@@ -2980,6 +3029,12 @@
   "betternether:recipes/decorations/rubeus_ladder": {
     "criteria": {
       "has_stick": "2025-07-21 00:12:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-07-21 01:08:12 +0000"
     },
     "done": true
   },
@@ -3258,6 +3313,12 @@
       "has_stick": "2025-07-21 00:12:41 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-07-21 01:04:49 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/redstone/lucernia_gate": {
     "criteria": {
