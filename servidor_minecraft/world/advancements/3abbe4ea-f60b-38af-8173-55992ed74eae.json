@@ -6539,6 +6539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-21 23:45:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_rich_soil": {
     "criteria": {
       "get_rich_soil": "2025-07-21 23:00:33 +0000"
@@ -6566,6 +6572,12 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-07-21 23:21:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2025-07-21 23:45:53 +0000"
     },
     "done": true
   },
@@ -6632,6 +6644,12 @@
   "another_furniture:recipes/yellow_curtain": {
     "criteria": {
       "has_wool": "2025-07-21 22:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-21 23:45:50 +0000"
     },
     "done": true
   },
@@ -6896,6 +6914,12 @@
   "crabbersdelight:recipes/food/crab_from_barrel": {
     "criteria": {
       "has_crab_barrel": "2025-07-21 21:51:48 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-07-21 23:45:50 +0000"
     },
     "done": true
   },
