@@ -4898,6 +4898,12 @@
     },
     "done": true
   },
+  "delightful:recipes/campfire/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-07-21 03:31:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_bulb_lantern_red": {
     "criteria": {
       "has_red_dye": "2025-07-21 02:30:20 +0000"
@@ -5018,6 +5024,12 @@
     },
     "done": true
   },
+  "delightful:recipes/smelting/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-07-21 03:31:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-21 02:48:45 +0000"
@@ -5111,6 +5123,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smoking/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-07-21 03:31:12 +0000"
     },
     "done": true
   },
@@ -5390,6 +5408,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-07-21 03:31:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/wall_red_brown": {
     "criteria": {
       "has_red_mushroom": "2025-07-21 01:46:57 +0000"
@@ -5502,6 +5526,12 @@
   "betterend:recipes/misc/terminite_bulb_lantern_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-21 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2025-07-21 03:31:12 +0000"
     },
     "done": true
   },

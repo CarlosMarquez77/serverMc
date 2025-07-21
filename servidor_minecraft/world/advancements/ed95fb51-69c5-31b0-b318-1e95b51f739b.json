@@ -4160,9 +4160,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bisque": {
     "criteria": {
       "has_any_ingredient": "2025-07-21 02:57:53 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
     },
     "done": true
   },
@@ -4181,6 +4193,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-07-21 03:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-21 03:29:27 +0000"
     },
     "done": true
   },
@@ -4205,6 +4223,12 @@
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-07-21 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-21 03:37:53 +0000"
     },
     "done": true
   },
@@ -4292,9 +4316,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/dead_flower_box": {
     "criteria": {
       "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-21 03:37:53 +0000"
     },
     "done": true
   },
@@ -4352,9 +4388,33 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-07-21 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
     },
     "done": true
   },
@@ -4436,6 +4496,18 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-07-21 03:37:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-07-21 02:59:38 +0000"
@@ -4448,9 +4520,33 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-21 03:37:53 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/nut_butter_bottle": {
     "criteria": {
       "has_nuts": "2025-07-21 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-07-21 03:37:53 +0000"
     },
     "done": true
   },
@@ -4487,6 +4583,12 @@
   "everycomp:recipes/decorations/faf/biomesoplenty/dead_beehive": {
     "criteria": {
       "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
     },
     "done": true
   },
@@ -4538,9 +4640,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-07-21 03:37:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/dead_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
     },
     "done": true
   },
