@@ -6537,6 +6537,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-07-21 23:00:33 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/yellow_lamp": {
     "criteria": {
       "has_wool": "2025-07-21 22:31:32 +0000"

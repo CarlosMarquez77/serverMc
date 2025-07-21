@@ -3067,3 +3067,7 @@ ModdedBiomeSource (3c8cd6df)
 [21Jul2025 22:34:50.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Larito moved too quickly! -2.9929254852872873,0.8156999805212024,9.680379362898293
 [21Jul2025 22:37:51.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito has made the advancement [Sweet Dreams]
 [21Jul2025 22:43:01.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=545, y=79, z=-453} BlockPos{x=546, y=77, z=-453}
+[21Jul2025 23:00:33.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Plant Food]
+[21Jul2025 23:03:29.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito has made the advancement [Monster Hunter]
+[21Jul2025 23:03:29.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito has made the advancement [Voluntary Exile]
+[21Jul2025 23:07:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 4878.500000, 0.500000, -3618.500000]
