@@ -2954,3 +2954,19 @@ ModdedBiomeSource (62353f57)
 [21Jul2025 02:07:18.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex's skin was ripped off by the Hydra
 [21Jul2025 02:08:07.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro's skin was ripped off by the Hydra
 [21Jul2025 02:08:12.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[21Jul2025 02:08:55.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro burned to death
+[21Jul2025 02:08:59.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[21Jul2025 02:10:14.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex's skin was ripped off by the Hydra
+[21Jul2025 02:10:22.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[21Jul2025 02:10:36.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was roasted alive by the Hydra
+[21Jul2025 02:10:40.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro burned to death
+[21Jul2025 02:10:45.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
+[21Jul2025 02:10:45.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! -6.880047220940469,1.0244240882136797,-7.310661926841021
+[21Jul2025 02:10:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[21Jul2025 02:11:01.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro's skin was ripped off by the Hydra
+[21Jul2025 02:11:01.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has reached the goal [Hydra Slayer]
+[21Jul2025 02:11:05.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[21Jul2025 02:11:23.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Hydra Slayer]
+[21Jul2025 02:16:28.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 4697.500000, 5.500000, -3228.500000]
+[21Jul2025 02:16:31.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[21Jul2025 02:18:21.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Hunt and Gather]
