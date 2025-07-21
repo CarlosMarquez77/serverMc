@@ -4898,6 +4898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 03:39:42 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/campfire/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-21 03:31:12 +0000"
@@ -4913,6 +4919,12 @@
   "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
     "criteria": {
       "has_purple_dye": "2025-07-21 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-07-21 03:48:13 +0000"
     },
     "done": true
   },
@@ -4985,6 +4997,18 @@
   "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
     "criteria": {
       "has_item": "2025-07-21 02:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-07-21 03:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 03:39:42 +0000"
     },
     "done": true
   },
@@ -5186,6 +5210,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-07-21 03:48:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
     "criteria": {
       "has_item": "2025-07-21 02:11:26 +0000"
@@ -5195,6 +5225,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-07-21 01:46:57 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-07-21 03:48:13 +0000"
     },
     "done": true
   },
@@ -5423,6 +5459,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-07-21 03:48:13 +0000"
     },
     "done": true
   },

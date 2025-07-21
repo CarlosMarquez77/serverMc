@@ -4286,9 +4286,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/smelting/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-21 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-07-21 03:41:30 +0000"
     },
     "done": true
   },
@@ -4334,6 +4346,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/misc/backpack": {
     "criteria": {
       "has_hide": "2025-07-21 03:20:47 +0000"
@@ -4364,6 +4388,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_slab_from_smooth_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/dead_planks": {
     "criteria": {
       "has_logs": "2025-07-21 03:17:39 +0000"
@@ -4379,6 +4415,12 @@
   "biomesoplenty:recipes/building_blocks/dead_slab": {
     "criteria": {
       "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
     },
     "done": true
   },
@@ -4448,6 +4490,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_crab": {
     "criteria": {
       "has_any_ingredient": "2025-07-21 02:57:53 +0000"
@@ -4496,6 +4544,18 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_bench": {
     "criteria": {
       "has_slab": "2025-07-21 03:37:53 +0000"
@@ -4520,9 +4580,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_slab": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_flower_box": {
     "criteria": {
       "has_slab": "2025-07-21 03:37:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_stairs_from_smooth_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
     },
     "done": true
   },
@@ -4532,9 +4604,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_reed_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
     },
     "done": true
   },
@@ -4598,9 +4682,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-21 03:41:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-21 03:27:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-07-21 03:41:30 +0000"
     },
     "done": true
   },
@@ -4628,6 +4724,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-07-21 03:46:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/dead_wood": {
     "criteria": {
       "has_log": "2025-07-21 03:17:39 +0000"
@@ -4649,6 +4751,12 @@
   "biomesoplenty:recipes/redstone/dead_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-21 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-21 03:41:30 +0000"
     },
     "done": true
   },
