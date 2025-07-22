@@ -3026,3 +3026,4 @@ ModdedBiomeSource (5170f152)
 [22Jul2025 19:55:49.038] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [22Jul2025 19:58:28.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18090, l='ServerLevel[world]', x=-554.71, y=31.00, z=-2632.09] died, message: 'Unemployed was slain by Zombie'
 [22Jul2025 19:59:09.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18082, l='ServerLevel[world]', x=-538.62, y=32.04, z=-2662.69] died, message: 'Unemployed was slain by Zombie'
+[22Jul2025 20:02:46.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Birds of a Feather]

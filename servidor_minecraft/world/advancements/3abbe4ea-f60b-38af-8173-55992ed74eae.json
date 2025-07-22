@@ -286,6 +286,7 @@
       "minecraft:wooded_badlands": "2025-07-22 19:44:06 +0000",
       "minecraft:badlands": "2025-07-17 02:35:03 +0000",
       "minecraft:savanna_plateau": "2025-07-15 23:12:49 +0000",
+      "minecraft:beach": "2025-07-22 20:10:54 +0000",
       "minecraft:stony_peaks": "2025-07-22 19:54:45 +0000",
       "minecraft:sparse_jungle": "2025-07-22 19:46:33 +0000",
       "minecraft:river": "2025-07-16 01:10:24 +0000",
@@ -7089,6 +7090,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 20:04:07 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2025-07-22 20:02:46 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-07-22 19:40:20 +0000"
@@ -7158,6 +7171,12 @@
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-07-22 19:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-22 20:04:07 +0000"
     },
     "done": true
   },
