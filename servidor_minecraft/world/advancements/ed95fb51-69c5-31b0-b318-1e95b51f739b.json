@@ -6058,6 +6058,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-22 19:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
@@ -6628,6 +6634,12 @@
     },
     "done": true
   },
+  "galosphere:adventure/silver_bomb": {
+    "criteria": {
+      "silver_bomb": "2025-07-22 19:54:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-07-22 19:15:24 +0000"
@@ -6652,6 +6664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-22 19:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-22 19:29:00 +0000"
@@ -6667,6 +6685,12 @@
   "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-22 19:38:57 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-07-22 19:53:15 +0000"
     },
     "done": true
   },
