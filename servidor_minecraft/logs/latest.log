@@ -3152,3 +3152,35 @@ ModdedBiomeSource (5170f152)
 [22Jul2025 21:16:58.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
 [22Jul2025 21:20:42.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito has made the advancement [Spooky Scary Skeleton]
 [22Jul2025 21:22:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Crops of the Wild]
+[22Jul2025 21:27:55.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has completed the challenge [Breaking the Maze]
+[22Jul2025 21:32:21.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: You logged in from another location
+[22Jul2025 21:32:21.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
+[22Jul2025 21:32:21.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyoShiiro[/127.155.52.251:48665] logged in with entity id 49884 at (610.9552325724387, 73.0, -412.8196764756007)
+[22Jul2025 21:32:21.126] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KyoShiiro
+[22Jul2025 21:32:21.126] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KyoShiiro
+[22Jul2025 21:32:21.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KyoShiiro
+[22Jul2025 21:32:21.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KyoShiiro
+[22Jul2025 21:32:21.128] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KyoShiiro
+[22Jul2025 21:32:21.130] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KyoShiiro
+[22Jul2025 21:32:21.130] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KyoShiiro
+[22Jul2025 21:32:21.132] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22Jul2025 21:32:21.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro joined the game
+[22Jul2025 21:32:21.175] [Server thread/INFO] [Jade/]: Syncing config to KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae)
+[22Jul2025 21:32:23.034] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Jul2025 21:32:23.034] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Jul2025 21:32:23.035] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22Jul2025 21:32:23.035] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Jul2025 21:32:23.035] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22Jul2025 21:32:23.035] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22Jul2025 21:32:23.035] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22Jul2025 21:32:23.035] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22Jul2025 21:32:23.035] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22Jul2025 21:32:23.035] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22Jul2025 21:32:23.035] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Jul2025 21:32:23.036] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Jul2025 21:32:23.036] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Jul2025 21:32:23.036] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Jul2025 21:32:23.036] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Jul2025 21:32:23.037] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Jul2025 21:32:23.037] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Jul2025 21:32:23.037] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)

@@ -6135,6 +6135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-22 21:24:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-07-22 20:18:34 +0000"
@@ -6182,6 +6188,12 @@
       "carrot": "2025-07-22 19:18:02 +0000"
     },
     "done": false
+  },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2025-07-22 21:27:55 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
@@ -6381,6 +6393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-22 21:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
@@ -6402,6 +6420,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-22 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-07-22 21:24:32 +0000"
     },
     "done": true
   },
@@ -6465,6 +6489,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-07-22 21:26:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/mahogany_sign": {
     "criteria": {
       "has_planks": "2025-07-22 20:26:02 +0000"
@@ -6474,6 +6504,12 @@
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-07-22 21:24:50 +0000"
     },
     "done": true
   },
@@ -6561,6 +6597,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-22 21:22:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-07-22 21:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-07-22 19:32:00 +0000"
@@ -6582,6 +6630,18 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-07-22 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-22 21:26:01 +0000"
     },
     "done": true
   },
@@ -6615,9 +6675,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-22 21:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-22 19:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-22 21:22:42 +0000"
     },
     "done": true
   },
@@ -6681,6 +6753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-22 21:22:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
@@ -6696,6 +6774,12 @@
   "galosphere:recipes/misc/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-07-22 19:33:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-07-22 21:24:50 +0000"
     },
     "done": true
   },
@@ -6720,6 +6804,24 @@
   "biomesoplenty:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-07-22 21:24:52 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-07-22 21:24:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-07-22 21:22:41 +0000"
     },
     "done": true
   },
@@ -6783,6 +6885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-22 21:22:41 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sulphur_gunpowder": {
     "criteria": {
       "has_bone_meal": "2025-07-22 19:15:28 +0000"
@@ -6810,6 +6918,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-07-22 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-22 21:26:01 +0000"
     },
     "done": true
   },
@@ -6879,6 +6993,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-07-22 21:26:01 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
@@ -6906,6 +7026,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-22 21:26:04 +0000"
     },
     "done": true
   },
@@ -6981,6 +7107,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-07-22 21:24:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
@@ -7002,6 +7134,12 @@
   "another_furniture:recipes/green_stool": {
     "criteria": {
       "has_wool": "2025-07-22 19:45:37 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/torchberries_crate": {
+    "criteria": {
+      "has_torchberries": "2025-07-22 21:24:52 +0000"
     },
     "done": true
   },
@@ -7029,9 +7167,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-07-22 21:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-22 20:40:48 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/cooking/torchberry_juice": {
+    "criteria": {
+      "has_torchberries": "2025-07-22 21:24:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-07-22 21:24:50 +0000"
     },
     "done": true
   },
@@ -7074,6 +7230,18 @@
   "everycomp:recipes/decorations/bp/biomesoplenty/mahogany_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-07-22 20:26:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-07-22 21:24:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-22 21:26:04 +0000"
     },
     "done": true
   },
@@ -7131,6 +7299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-22 21:22:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
@@ -7146,6 +7320,12 @@
   "everycomp:recipes/decorations/tf/biomesoplenty/hollow_mahogany_log": {
     "criteria": {
       "has_planks": "2025-07-22 20:26:02 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/twilight_ice_cream": {
+    "criteria": {
+      "has_torchberries": "2025-07-22 21:24:52 +0000"
     },
     "done": true
   },
@@ -7188,6 +7368,12 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-22 21:22:42 +0000"
     },
     "done": true
   },
@@ -7251,6 +7437,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-07-22 21:22:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_nautilus_shell": {
     "criteria": {
       "has_any_ingredient": "2025-07-22 20:20:24 +0000"
@@ -7311,6 +7503,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-07-22 21:24:52 +0000"
+    },
+    "done": true
+  },
   "galosphere:adventure/silver_bomb": {
     "criteria": {
       "silver_bomb": "2025-07-22 19:54:51 +0000"
@@ -7329,6 +7527,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/food/torchberry_cookie": {
+    "criteria": {
+      "has_torchberries": "2025-07-22 21:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-07-22 19:15:24 +0000"
@@ -7338,6 +7542,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_green_wool": "2025-07-22 19:45:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-07-22 21:24:50 +0000"
     },
     "done": true
   },
@@ -7353,9 +7563,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-07-22 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-07-22 21:22:41 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_shelf": {
     "criteria": {
       "has_planks": "2025-07-22 20:18:34 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/berry_stick": {
+    "criteria": {
+      "has_torchberries": "2025-07-22 21:24:52 +0000"
     },
     "done": true
   },
@@ -7374,6 +7602,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-22 19:53:13 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/torchberry_pie": {
+    "criteria": {
+      "has_torchberries": "2025-07-22 21:24:52 +0000"
     },
     "done": true
   },
@@ -7401,15 +7635,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-22 21:26:04 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_ingot_from_nuggets": {
     "criteria": {
       "has_silver_nugget": "2025-07-22 19:53:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-22 21:22:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-22 21:24:32 +0000"
+    },
+    "done": true
+  },
   "dtkupd:go_to_pale_garden": {
     "criteria": {
       "go_to_pale_garden_0": "2025-07-22 20:17:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-22 21:24:32 +0000"
     },
     "done": true
   },
