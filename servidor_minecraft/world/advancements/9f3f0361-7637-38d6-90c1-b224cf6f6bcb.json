@@ -86,6 +86,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-07-22 21:09:13 +0000",
       "mediterranean_forest": "2025-07-21 20:44:06 +0000",
       "rainforest": "2025-07-22 20:41:34 +0000"
     },
@@ -4722,6 +4723,7 @@
       "minecraft:pillager": "2025-07-21 23:03:29 +0000",
       "minecraft:hoglin": "2025-07-22 20:54:51 +0000",
       "minecraft:creeper": "2025-07-21 23:37:03 +0000",
+      "minecraft:slime": "2025-07-22 21:04:18 +0000",
       "minecraft:wither_skeleton": "2025-07-22 20:44:04 +0000",
       "minecraft:zombie": "2025-07-21 23:36:30 +0000"
     },
@@ -4847,9 +4849,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_table": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-22 21:00:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/mahogany_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
     },
     "done": true
   },
@@ -4889,6 +4909,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_chair": {
     "criteria": {
       "has_planks": "2025-07-22 21:00:49 +0000"
@@ -4907,9 +4939,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/mahogany_banister": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/biomesoplenty/mahogany_beehive": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2025-07-22 20:58:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/biomesoplenty/mahogany_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
     },
     "done": true
   },
@@ -4919,15 +4987,57 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_chair": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_shelf": {
     "criteria": {
       "has_planks": "2025-07-22 21:00:49 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_flower_box": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-22 21:00:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/biomesoplenty/mahogany_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
     },
     "done": true
   },
@@ -4949,9 +5059,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_mahogany_log": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-07-22 21:00:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_bench": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
     },
     "done": true
   },
@@ -4964,6 +5086,18 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-07-22 21:00:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shutter": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:02:44 +0000"
     },
     "done": true
   },

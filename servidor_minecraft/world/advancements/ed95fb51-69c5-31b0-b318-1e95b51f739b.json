@@ -1982,6 +1982,7 @@
       "minecraft:hoglin": "2025-07-21 04:06:07 +0000",
       "minecraft:spider": "2025-07-21 03:01:56 +0000",
       "minecraft:creeper": "2025-07-21 03:02:28 +0000",
+      "minecraft:slime": "2025-07-22 21:02:22 +0000",
       "minecraft:zombified_piglin": "2025-07-21 04:45:40 +0000",
       "minecraft:wither_skeleton": "2025-07-21 04:10:13 +0000",
       "minecraft:cave_spider": "2025-07-21 01:41:28 +0000",
@@ -6109,6 +6110,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2025-07-22 21:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
@@ -6184,6 +6191,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-07-22 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-22 21:08:19 +0000"
     },
     "done": true
   },
@@ -6301,6 +6314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-22 21:08:19 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:sneak_grove": {
     "criteria": {
       "steal_crystal": "2025-07-22 20:14:18 +0000"
@@ -6397,6 +6416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-22 21:08:19 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-07-22 19:33:29 +0000"
@@ -6412,6 +6437,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-07-22 21:01:20 +0000"
     },
     "done": true
   },
@@ -7186,6 +7217,12 @@
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-22 21:08:19 +0000"
     },
     "done": true
   },

@@ -7375,6 +7375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-07-22 21:08:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/mahogany_sign": {
     "criteria": {
       "has_planks": "2025-07-22 20:25:32 +0000"
@@ -8009,6 +8015,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-07-22 19:47:46 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_bomb": {
+    "criteria": {
+      "silver_bomb": "2025-07-22 21:07:53 +0000"
     },
     "done": true
   },
