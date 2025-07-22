@@ -1980,7 +1980,8 @@
       "minecraft:wither_skeleton": "2025-07-21 04:10:13 +0000",
       "minecraft:cave_spider": "2025-07-21 01:41:28 +0000",
       "minecraft:enderman": "2025-07-21 00:19:34 +0000",
-      "minecraft:zombie": "2025-07-21 00:29:27 +0000"
+      "minecraft:zombie": "2025-07-21 00:29:27 +0000",
+      "minecraft:zombie_villager": "2025-07-22 19:37:02 +0000"
     },
     "done": false
   },
@@ -2079,6 +2080,7 @@
       "cooked_porkchop": "2025-07-21 00:56:07 +0000",
       "cooked_mutton": "2025-07-21 00:23:04 +0000",
       "rotten_flesh": "2025-07-21 00:52:32 +0000",
+      "cooked_rabbit": "2025-07-22 19:38:59 +0000",
       "cooked_chicken": "2025-07-21 02:00:56 +0000"
     },
     "done": false
@@ -5990,6 +5992,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-22 19:44:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-07-22 19:28:28 +0000"
@@ -6014,6 +6022,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-22 19:44:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 19:28:52 +0000"
@@ -6029,6 +6043,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-07-22 19:28:52 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-07-22 19:37:19 +0000"
     },
     "done": true
   },
@@ -6062,9 +6082,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-22 19:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-07-22 19:45:37 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_green_wool": "2025-07-22 19:45:37 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/ancient_sandstone": {
+    "criteria": {
+      "has_ancient_sand": "2025-07-22 19:45:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-22 19:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 19:28:52 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2025-07-22 19:44:31 +0000"
     },
     "done": true
   },
@@ -6089,6 +6145,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-22 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/redstone/silver_balance": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-22 19:44:31 +0000"
     },
     "done": true
   },
@@ -6140,6 +6202,18 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/silver_knife": {
+    "criteria": {
+      "has_ingots/silver": "2025-07-22 19:44:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-22 19:44:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
@@ -6149,6 +6223,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-22 19:45:37 +0000"
     },
     "done": true
   },
@@ -6194,6 +6274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-22 19:38:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-22 19:15:24 +0000"
@@ -6221,6 +6307,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-22 19:45:37 +0000"
     },
     "done": true
   },
@@ -6263,6 +6355,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-07-22 19:45:37 +0000"
     },
     "done": true
   },
@@ -6350,6 +6448,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/green_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-22 19:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-22 19:29:00 +0000"
@@ -6365,6 +6469,18 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-22 19:44:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_stool": {
+    "criteria": {
+      "has_wool": "2025-07-22 19:45:37 +0000"
     },
     "done": true
   },
@@ -6386,6 +6502,12 @@
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/brittle_ancient_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-22 19:45:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-07-22 19:15:28 +0000"
@@ -6395,6 +6517,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-07-22 19:14:28 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-22 19:44:31 +0000"
     },
     "done": true
   },
@@ -6425,6 +6553,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-22 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-07-22 19:45:37 +0000"
     },
     "done": true
   },
@@ -6500,6 +6634,12 @@
     },
     "done": true
   },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_green_wool": "2025-07-22 19:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
@@ -6521,6 +6661,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-22 19:38:57 +0000"
     },
     "done": true
   },

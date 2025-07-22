@@ -2917,3 +2917,99 @@ ModdedBiomeSource (5170f152)
 [22Jul2025 19:40:20.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Ice Bucket Challenge]
 [22Jul2025 19:40:24.633] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=905, y=-24, z=-619} but found not block entity block Block{minecraft:air} at location
 [22Jul2025 19:40:24.634] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=905, y=-24, z=-619}
+[22Jul2025 19:43:35.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Larito lost connection: Disconnected
+[22Jul2025 19:43:35.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito left the game
+[22Jul2025 19:43:35.194] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jul2025 19:44:31.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Multi-Disciplined]
+[22Jul2025 19:45:06.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Larito[/127.231.224.106:33339] logged in with entity id 13444 at (647.2884661940976, 72.0, -400.5283060923063)
+[22Jul2025 19:45:06.605] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Larito
+[22Jul2025 19:45:06.606] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Larito
+[22Jul2025 19:45:06.607] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Larito
+[22Jul2025 19:45:06.607] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Larito
+[22Jul2025 19:45:06.609] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Larito
+[22Jul2025 19:45:06.612] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Larito
+[22Jul2025 19:45:06.612] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Larito
+[22Jul2025 19:45:06.615] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22Jul2025 19:45:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito joined the game
+[22Jul2025 19:45:06.701] [Server thread/INFO] [Jade/]: Syncing config to Larito (9f3f0361-7637-38d6-90c1-b224cf6f6bcb)
+[22Jul2025 19:45:07.654] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Jul2025 19:45:07.654] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Jul2025 19:45:07.654] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22Jul2025 19:45:07.656] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Jul2025 19:45:07.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22Jul2025 19:45:07.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22Jul2025 19:45:07.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22Jul2025 19:45:07.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22Jul2025 19:45:07.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22Jul2025 19:45:07.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22Jul2025 19:45:07.660] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Jul2025 19:45:07.660] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Jul2025 19:45:07.661] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Jul2025 19:45:07.663] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Jul2025 19:45:07.663] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Jul2025 19:45:07.663] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Jul2025 19:45:07.663] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Jul2025 19:45:07.663] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Jul2025 19:46:54.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Larito lost connection: Disconnected
+[22Jul2025 19:46:54.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito left the game
+[22Jul2025 19:47:43.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Larito[/127.231.224.106:47487] logged in with entity id 14531 at (647.2884661940976, 72.0, -400.5283060923063)
+[22Jul2025 19:47:43.007] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Larito
+[22Jul2025 19:47:43.007] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Larito
+[22Jul2025 19:47:43.008] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Larito
+[22Jul2025 19:47:43.008] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Larito
+[22Jul2025 19:47:43.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Larito
+[22Jul2025 19:47:43.012] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Larito
+[22Jul2025 19:47:43.012] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Larito
+[22Jul2025 19:47:43.014] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22Jul2025 19:47:43.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito joined the game
+[22Jul2025 19:47:43.075] [Server thread/INFO] [Jade/]: Syncing config to Larito (9f3f0361-7637-38d6-90c1-b224cf6f6bcb)
+[22Jul2025 19:47:44.368] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Jul2025 19:47:44.368] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Jul2025 19:47:44.369] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22Jul2025 19:47:44.369] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Jul2025 19:47:44.369] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22Jul2025 19:47:44.369] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22Jul2025 19:47:44.369] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22Jul2025 19:47:44.369] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22Jul2025 19:47:44.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22Jul2025 19:47:44.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22Jul2025 19:47:44.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Jul2025 19:47:44.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Jul2025 19:47:44.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Jul2025 19:47:44.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Jul2025 19:47:44.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Jul2025 19:47:44.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Jul2025 19:47:44.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Jul2025 19:47:44.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Jul2025 19:49:43.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Larito lost connection: Timed out
+[22Jul2025 19:49:43.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito left the game
+[22Jul2025 19:50:12.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 24.500000, 118.500000, -2015.500000]
+[22Jul2025 19:50:41.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Larito[/127.231.224.106:36947] logged in with entity id 15940 at (647.2884661940976, 72.0, -400.5283060923063)
+[22Jul2025 19:50:41.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Larito
+[22Jul2025 19:50:41.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Larito
+[22Jul2025 19:50:41.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Larito
+[22Jul2025 19:50:41.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Larito
+[22Jul2025 19:50:41.909] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Larito
+[22Jul2025 19:50:41.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Larito
+[22Jul2025 19:50:41.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Larito
+[22Jul2025 19:50:41.914] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22Jul2025 19:50:41.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito joined the game
+[22Jul2025 19:50:41.976] [Server thread/INFO] [Jade/]: Syncing config to Larito (9f3f0361-7637-38d6-90c1-b224cf6f6bcb)
+[22Jul2025 19:50:42.939] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Jul2025 19:50:42.939] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Jul2025 19:50:42.939] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22Jul2025 19:50:42.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Jul2025 19:50:42.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22Jul2025 19:50:42.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22Jul2025 19:50:42.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22Jul2025 19:50:42.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22Jul2025 19:50:42.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22Jul2025 19:50:42.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22Jul2025 19:50:42.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Jul2025 19:50:42.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Jul2025 19:50:42.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Jul2025 19:50:42.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Jul2025 19:50:42.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Jul2025 19:50:42.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Jul2025 19:50:42.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Jul2025 19:50:42.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
