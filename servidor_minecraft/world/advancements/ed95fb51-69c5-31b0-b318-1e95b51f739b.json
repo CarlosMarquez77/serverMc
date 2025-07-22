@@ -4847,7 +4847,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-07-21 03:58:15 +0000"
+      "minecraft:nether_wastes": "2025-07-21 03:58:15 +0000",
+      "minecraft:warped_forest": "2025-07-22 21:45:50 +0000"
     },
     "done": false
   },
@@ -5997,6 +5998,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-07-22 21:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
@@ -6018,6 +6025,18 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-07-22 20:24:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_green": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-22 21:42:11 +0000"
     },
     "done": true
   },
@@ -6075,9 +6094,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/blue_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-22 21:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-07-22 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-07-22 21:38:34 +0000"
     },
     "done": true
   },
@@ -6090,6 +6121,12 @@
   "everycomp:recipes/decorations/fd/biomesoplenty/mahogany_cabinet": {
     "criteria": {
       "has_planks": "2025-07-22 20:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
     },
     "done": true
   },
@@ -6165,6 +6202,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-22 20:40:48 +0000"
@@ -6195,6 +6238,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 21:38:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
       "has_logs": "2025-07-22 20:25:32 +0000"
@@ -6222,6 +6271,24 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-07-22 20:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 21:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 21:38:41 +0000"
     },
     "done": true
   },
@@ -6267,6 +6334,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_pane_green": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-22 19:38:57 +0000"
@@ -6282,6 +6355,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-22 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
     },
     "done": true
   },
@@ -6315,6 +6394,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/blue_stool": {
+    "criteria": {
+      "has_wool": "2025-07-22 21:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-07-22 20:37:25 +0000"
@@ -6324,6 +6409,30 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-07-22 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_green": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-22 21:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-07-22 21:42:11 +0000"
     },
     "done": true
   },
@@ -6375,6 +6484,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/warped_barrel": {
+    "criteria": {
+      "has_warped_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/building_blocks/nautilus_shell_block": {
     "criteria": {
       "has_nautilus_shell": "2025-07-22 20:20:24 +0000"
@@ -6387,15 +6508,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-07-22 19:21:30 +0000"
     },
     "done": true
   },
+  "netherexp:recipes/ivy/twisting_ivy": {
+    "criteria": {
+      "has_item": "2025-07-22 21:50:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-07-22 21:22:41 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
     },
     "done": true
   },
@@ -6408,6 +6547,12 @@
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_chest": {
+    "criteria": {
+      "has_warped_planks": "2025-07-22 21:46:19 +0000"
     },
     "done": true
   },
@@ -6459,6 +6604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
@@ -6489,9 +6640,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_tomato": "2025-07-22 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_chair": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 21:42:51 +0000"
     },
     "done": true
   },
@@ -6519,6 +6688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_chair": {
     "criteria": {
       "has_planks": "2025-07-22 20:40:48 +0000"
@@ -6531,9 +6706,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
     },
     "done": true
   },
@@ -6543,9 +6730,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-07-22 20:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
     },
     "done": true
   },
@@ -6567,6 +6766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
@@ -6579,9 +6784,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_green": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_green": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/green_tall_stool": {
     "criteria": {
       "has_wool": "2025-07-22 19:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
     },
     "done": true
   },
@@ -6633,6 +6856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-07-22 21:42:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-07-22 21:26:01 +0000"
@@ -6657,9 +6886,21 @@
     },
     "done": true
   },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-07-22 21:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-22 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 21:38:41 +0000"
     },
     "done": true
   },
@@ -6672,6 +6913,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
     },
     "done": true
   },
@@ -6729,9 +6976,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-07-22 21:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-07-22 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
     },
     "done": true
   },
@@ -6801,6 +7066,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
@@ -6813,9 +7084,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/hydralux_petal_block_green": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_cortical": {
     "criteria": {
       "has_item": "2025-07-22 21:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
     },
     "done": true
   },
@@ -6855,15 +7144,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 21:38:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-07-22 20:18:28 +0000"
     },
     "done": true
   },
+  "another_furniture:recipes/blue_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-22 21:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-22 20:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
     },
     "done": true
   },
@@ -6876,6 +7183,12 @@
   "biomesoplenty:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
     },
     "done": true
   },
@@ -6939,9 +7252,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_warped": "2025-07-22 21:46:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-07-22 20:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
     },
     "done": true
   },
@@ -6954,6 +7285,18 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-07-22 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-07-22 21:38:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_crafting_table": {
+    "criteria": {
+      "has_warped_planks": "2025-07-22 21:46:19 +0000"
     },
     "done": true
   },
@@ -7020,6 +7363,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-07-22 21:42:11 +0000"
     },
     "done": true
   },
@@ -7125,6 +7474,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 21:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/tools/spectre_flare": {
     "criteria": {
       "has_silver_ingot": "2025-07-22 19:44:31 +0000"
@@ -7152,6 +7513,24 @@
   "biomesoplenty:recipes/redstone/mahogany_door": {
     "criteria": {
       "has_planks": "2025-07-22 20:26:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_green": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_table": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 21:42:51 +0000"
     },
     "done": true
   },
@@ -7197,6 +7576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 21:42:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-07-22 20:24:34 +0000"
@@ -7212,6 +7597,12 @@
   "yungscavebiomes:recipes/building_blocks/brittle_ancient_sandstone": {
     "criteria": {
       "has_sand": "2025-07-22 19:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-22 21:49:09 +0000"
     },
     "done": true
   },
@@ -7251,6 +7642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-07-22 19:44:31 +0000"
@@ -7266,6 +7663,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
     },
     "done": true
   },
@@ -7371,15 +7774,39 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_boat": {
+    "criteria": {
+      "has_warped_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-07-22 21:22:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/mahogany_bench": {
     "criteria": {
       "has_planks": "2025-07-22 20:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-22 21:46:16 +0000"
     },
     "done": true
   },
@@ -7437,6 +7864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-07-22 21:22:41 +0000"
@@ -7458,6 +7891,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-22 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
     },
     "done": true
   },
@@ -7497,6 +7936,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-22 19:15:24 +0000"
@@ -7512,6 +7957,18 @@
   "galosphere:adventure/silver_bomb": {
     "criteria": {
       "silver_bomb": "2025-07-22 19:54:51 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-22 21:42:11 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
     },
     "done": true
   },
@@ -7545,9 +8002,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2025-07-22 21:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-22 21:32:49 +0000"
     },
     "done": true
   },
@@ -7593,6 +8062,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
@@ -7602,6 +8077,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-22 19:53:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_green": {
+    "criteria": {
+      "has_green_dye": "2025-07-22 21:42:51 +0000"
     },
     "done": true
   },
@@ -7626,6 +8107,18 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-07-22 21:42:11 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-22 21:38:38 +0000"
     },
     "done": true
   },

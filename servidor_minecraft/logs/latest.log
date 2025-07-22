@@ -3184,3 +3184,84 @@ ModdedBiomeSource (5170f152)
 [22Jul2025 21:32:23.037] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [22Jul2025 21:32:23.037] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [22Jul2025 21:32:23.037] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Jul2025 21:35:20.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Larito was kicked for floating too long!
+[22Jul2025 21:35:20.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Larito lost connection: Flying is not enabled on this server
+[22Jul2025 21:35:20.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito left the game
+[22Jul2025 21:35:58.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Larito[/127.231.224.106:42463] logged in with entity id 51263 at (646.7905073755301, 73.92159999847412, -409.4910645490268)
+[22Jul2025 21:35:58.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Larito
+[22Jul2025 21:35:58.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Larito
+[22Jul2025 21:35:58.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Larito
+[22Jul2025 21:35:58.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Larito
+[22Jul2025 21:35:58.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Larito
+[22Jul2025 21:35:58.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Larito
+[22Jul2025 21:35:58.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Larito
+[22Jul2025 21:35:58.809] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22Jul2025 21:35:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito joined the game
+[22Jul2025 21:35:58.860] [Server thread/INFO] [Jade/]: Syncing config to Larito (9f3f0361-7637-38d6-90c1-b224cf6f6bcb)
+[22Jul2025 21:35:59.205] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Jul2025 21:35:59.205] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Jul2025 21:35:59.205] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22Jul2025 21:35:59.205] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Jul2025 21:35:59.205] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22Jul2025 21:35:59.205] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22Jul2025 21:35:59.205] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22Jul2025 21:35:59.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22Jul2025 21:35:59.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22Jul2025 21:35:59.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22Jul2025 21:35:59.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Jul2025 21:35:59.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Jul2025 21:35:59.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Jul2025 21:35:59.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Jul2025 21:35:59.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Jul2025 21:35:59.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Jul2025 21:35:59.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Jul2025 21:35:59.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Jul2025 21:36:39.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Larito lost connection: You logged in from another location
+[22Jul2025 21:36:39.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito left the game
+[22Jul2025 21:36:39.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Larito[/127.231.224.106:40225] logged in with entity id 51355 at (646.7905073755301, 73.92159999847412, -409.4910645490268)
+[22Jul2025 21:36:39.345] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Larito
+[22Jul2025 21:36:39.345] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Larito
+[22Jul2025 21:36:39.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Larito
+[22Jul2025 21:36:39.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Larito
+[22Jul2025 21:36:39.347] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Larito
+[22Jul2025 21:36:39.349] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Larito
+[22Jul2025 21:36:39.349] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Larito
+[22Jul2025 21:36:39.352] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22Jul2025 21:36:39.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito joined the game
+[22Jul2025 21:36:39.391] [Server thread/INFO] [Jade/]: Syncing config to Larito (9f3f0361-7637-38d6-90c1-b224cf6f6bcb)
+[22Jul2025 21:36:39.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Jul2025 21:36:39.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Jul2025 21:36:39.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22Jul2025 21:36:39.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Jul2025 21:36:39.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22Jul2025 21:36:39.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Jul2025 21:36:39.659] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Jul2025 21:39:29.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[22Jul2025 21:44:51.069] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[22Jul2025 21:44:51.069] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22Jul2025 21:44:51.070] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[22Jul2025 21:44:51.070] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22Jul2025 21:44:51.071] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[22Jul2025 21:44:51.071] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22Jul2025 21:44:51.072] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[22Jul2025 21:44:51.072] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22Jul2025 21:44:52.016] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[22Jul2025 21:44:52.017] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22Jul2025 21:44:52.017] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[22Jul2025 21:44:52.018] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22Jul2025 21:45:14.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=73, y=32, z=-54} BlockPos{x=72, y=31, z=-53}
+[22Jul2025 21:45:49.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 4.500000, 47.500000, -119.500000]
+[22Jul2025 21:45:50.505] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[22Jul2025 21:45:50.519] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 14ms
+[22Jul2025 21:46:06.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
