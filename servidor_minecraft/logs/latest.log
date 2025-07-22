@@ -3038,3 +3038,50 @@ ModdedBiomeSource (5170f152)
 [22Jul2025 20:24:04.443] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [22Jul2025 20:27:51.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The Imperial March]
 [22Jul2025 20:28:10.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [The Imperial March]
+[22Jul2025 20:32:12.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[22Jul2025 20:35:04.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Hoglin
+[22Jul2025 20:35:28.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was doomed to fall
+[22Jul2025 20:35:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 41.500000, 219.500000, -3745.500000]
+[22Jul2025 20:35:36.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 27.500000, 208.500000, -3742.500000]
+[22Jul2025 20:36:00.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Hoglin
+[22Jul2025 20:36:05.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 25.500000, 215.500000, -3738.500000]
+[22Jul2025 20:36:44.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex withered away whilst fighting Wither Skeleton
+[22Jul2025 20:36:49.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 34.500000, 221.500000, -3786.500000]
+[22Jul2025 20:37:11.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[22Jul2025 20:37:28.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Larito[/127.231.224.106:53507] logged in with entity id 36813 at (647.2884661940976, 72.0, -400.5283060923063)
+[22Jul2025 20:37:28.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Larito
+[22Jul2025 20:37:28.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Larito
+[22Jul2025 20:37:28.029] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Larito
+[22Jul2025 20:37:28.029] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Larito
+[22Jul2025 20:37:28.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Larito
+[22Jul2025 20:37:28.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Larito
+[22Jul2025 20:37:28.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Larito
+[22Jul2025 20:37:28.036] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22Jul2025 20:37:28.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito joined the game
+[22Jul2025 20:37:28.064] [Server thread/INFO] [Jade/]: Syncing config to Larito (9f3f0361-7637-38d6-90c1-b224cf6f6bcb)
+[22Jul2025 20:37:29.006] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Jul2025 20:37:29.006] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Jul2025 20:37:29.007] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22Jul2025 20:37:29.007] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Jul2025 20:37:29.007] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22Jul2025 20:37:29.007] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22Jul2025 20:37:29.007] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22Jul2025 20:37:29.007] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22Jul2025 20:37:29.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22Jul2025 20:37:29.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22Jul2025 20:37:29.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Jul2025 20:37:29.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Jul2025 20:37:29.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Jul2025 20:37:29.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Jul2025 20:37:29.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Jul2025 20:37:29.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Jul2025 20:37:29.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Jul2025 20:37:29.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Jul2025 20:38:58.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Cover Me with Diamonds]
+[22Jul2025 20:39:28.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Hoglin
+[22Jul2025 20:39:34.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 30.500000, 214.500000, -3741.500000]
+[22Jul2025 20:40:59.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito has made the advancement [Isn't It Iron Pick]
+[22Jul2025 20:41:06.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Hoglin
+[22Jul2025 20:41:12.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 30.500000, 215.500000, -3743.500000]
+[22Jul2025 20:41:34.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Larito to KyoShiiro]
+[22Jul2025 20:41:34.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito has made the advancement [The Imperial March]

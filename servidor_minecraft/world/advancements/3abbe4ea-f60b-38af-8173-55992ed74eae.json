@@ -388,6 +388,7 @@
       "baked_potato": "2025-07-17 02:03:08 +0000",
       "spider_eye": "2025-07-17 01:26:31 +0000",
       "bread": "2025-07-17 01:51:15 +0000",
+      "golden_apple": "2025-07-22 20:33:55 +0000",
       "rotten_flesh": "2025-07-16 00:52:38 +0000",
       "glow_berries": "2025-07-18 00:51:45 +0000",
       "cooked_chicken": "2025-07-16 00:37:39 +0000",
@@ -7196,6 +7197,12 @@
   "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-07-22 19:40:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-07-22 20:40:39 +0000"
     },
     "done": true
   },
