@@ -2867,3 +2867,35 @@ ModdedBiomeSource (5170f152)
 [22Jul2025 19:12:20.488] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [22Jul2025 19:12:20.488] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
 [22Jul2025 19:14:28.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Hunt and Gather]
+[22Jul2025 19:20:34.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Larito[/127.231.224.106:49857] logged in with entity id 1307 at (605.5816628804819, 73.0, -417.7846312864286)
+[22Jul2025 19:20:34.511] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Larito
+[22Jul2025 19:20:34.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Larito
+[22Jul2025 19:20:34.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Larito
+[22Jul2025 19:20:34.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Larito
+[22Jul2025 19:20:34.514] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Larito
+[22Jul2025 19:20:34.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Larito
+[22Jul2025 19:20:34.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Larito
+[22Jul2025 19:20:34.524] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22Jul2025 19:20:34.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito joined the game
+[22Jul2025 19:20:34.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito has reached the goal [Plant Food]
+[22Jul2025 19:20:34.608] [Server thread/INFO] [Jade/]: Syncing config to Larito (9f3f0361-7637-38d6-90c1-b224cf6f6bcb)
+[22Jul2025 19:20:35.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Jul2025 19:20:35.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Jul2025 19:20:35.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22Jul2025 19:20:35.969] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Jul2025 19:20:35.969] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22Jul2025 19:20:35.969] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22Jul2025 19:20:35.969] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22Jul2025 19:20:35.969] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22Jul2025 19:20:35.969] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22Jul2025 19:20:35.969] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22Jul2025 19:20:35.970] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Jul2025 19:20:35.970] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Jul2025 19:20:35.970] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Jul2025 19:20:35.970] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Jul2025 19:20:35.970] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Jul2025 19:20:35.970] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Jul2025 19:20:35.971] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Jul2025 19:20:35.971] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Jul2025 19:26:35.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=653, y=74, z=-395} BlockPos{x=654, y=73, z=-395}
+[22Jul2025 19:28:28.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Local Brewery]

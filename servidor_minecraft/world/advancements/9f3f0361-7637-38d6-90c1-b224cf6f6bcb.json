@@ -4733,5 +4733,17 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-07-22 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-22 19:25:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
