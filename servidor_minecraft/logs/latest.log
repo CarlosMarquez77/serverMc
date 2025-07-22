@@ -3607,3 +3607,25 @@ ModdedBiomeSource (5170f152)
 [22Jul2025 23:04:15.903] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [22Jul2025 23:04:15.903] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
 [22Jul2025 23:04:23.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to Larito]
+[22Jul2025 23:05:46.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Larito: Teleported Larito to Sebasrex]
+[22Jul2025 23:08:55.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[22Jul2025 23:09:02.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=-48, z=-2773} BlockPos{x=285, y=-48, z=-2771}
+[22Jul2025 23:09:02.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=-48, z=-2772} BlockPos{x=285, y=-49, z=-2773}
+[22Jul2025 23:09:02.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=-48, z=-2772} BlockPos{x=285, y=-49, z=-2772}
+[22Jul2025 23:09:03.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=283, y=-49, z=-2776} BlockPos{x=285, y=-50, z=-2775}
+[22Jul2025 23:09:04.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=287, y=-26, z=-2667} BlockPos{x=287, y=-26, z=-2668}
+[22Jul2025 23:09:32.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=-43, z=-2773} BlockPos{x=297, y=-44, z=-2774}
+[22Jul2025 23:09:32.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=-43, z=-2773} BlockPos{x=297, y=-44, z=-2774}
+[22Jul2025 23:09:32.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=-43, z=-2773} BlockPos{x=297, y=-44, z=-2774}
+[22Jul2025 23:09:32.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=-43, z=-2773} BlockPos{x=297, y=-44, z=-2774}
+[22Jul2025 23:09:32.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=-42, z=-2773} BlockPos{x=298, y=-41, z=-2772}
+[22Jul2025 23:09:32.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=-43, z=-2774} BlockPos{x=298, y=-41, z=-2772}
+[22Jul2025 23:10:16.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=-26, z=-2634} BlockPos{x=290, y=-26, z=-2633}
+[22Jul2025 23:10:20.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Larito lost connection: Disconnected
+[22Jul2025 23:10:20.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito left the game
+[22Jul2025 23:10:21.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 231.500000, -38.500000, -2421.500000]
+[22Jul2025 23:13:40.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[22Jul2025 23:13:57.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 30.500000, 209.500000, -3767.500000]
+[22Jul2025 23:14:18.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to -28.500000, 102.500000, 25.500000]
+[22Jul2025 23:14:23.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Timed out
+[22Jul2025 23:14:23.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game
