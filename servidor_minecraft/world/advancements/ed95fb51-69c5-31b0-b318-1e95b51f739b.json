@@ -4841,6 +4841,7 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:upside_down_forest_cleared": "2025-07-22 21:54:49 +0000",
       "betternether:old_warped_woods": "2025-07-21 03:57:56 +0000"
     },
     "done": false
@@ -6004,6 +6005,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tf/betternether/anchor_tree_banister": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
@@ -6052,6 +6059,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/anchor_tree_door": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
@@ -6073,6 +6086,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-07-22 20:18:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_chest": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
@@ -6103,6 +6122,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-07-22 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/betternether/anchor_tree_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/betternether/anchor_tree_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
@@ -6316,9 +6347,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/betternether/anchor_tree_bench": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
@@ -6460,6 +6503,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/bn_glowstone_dust": {
+    "criteria": {
+      "has_glowstone_pile": "2025-07-22 21:56:42 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
@@ -6520,6 +6569,18 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/anchor_tree_button": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/anchor_tree_table": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/ivy/twisting_ivy": {
     "criteria": {
       "has_item": "2025-07-22 21:50:47 +0000"
@@ -6541,6 +6602,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/anchor_tree_shutter": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
@@ -6571,6 +6638,12 @@
   "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
     "criteria": {
       "has_item": "2025-07-22 21:24:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/betternether/hollow_anchor_tree_log": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
@@ -6607,6 +6680,12 @@
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-22 21:46:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_slab": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
@@ -6808,6 +6887,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/faf/betternether/anchor_tree_beehive": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-22 19:29:00 +0000"
@@ -7000,6 +7085,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/anchor_tree_trapdoor": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
@@ -7009,6 +7100,12 @@
   "another_furniture:recipes/green_lamp": {
     "criteria": {
       "has_wool": "2025-07-22 19:45:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_log": {
+    "criteria": {
+      "has_anchor_tree_bark": "2025-07-22 21:56:21 +0000"
     },
     "done": true
   },
@@ -7260,7 +7357,8 @@
   },
   "betternether:nether_wood": {
     "criteria": {
-      "got_warped": "2025-07-22 21:46:16 +0000"
+      "got_warped": "2025-07-22 21:46:16 +0000",
+      "got_anchor_tree": "2025-07-22 21:56:21 +0000"
     },
     "done": false
   },
@@ -7303,6 +7401,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-07-22 20:18:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_boat": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
@@ -7360,9 +7464,21 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/anchor_tree_wall": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/anchor_tree_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
@@ -7606,6 +7722,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/anchor_tree_crafting_table": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-07-22 19:15:28 +0000"
@@ -7621,6 +7743,12 @@
   "everycomp:recipes/decorations/bp/biomesoplenty/mahogany_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-07-22 20:26:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_barrel": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
@@ -7771,6 +7899,18 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/anchor_tree_plate": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/anchor_tree_chair": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
@@ -7948,6 +8088,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/vp/betternether/anchor_tree_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
       "has_item": "2025-07-22 21:24:52 +0000"
@@ -7969,6 +8115,12 @@
   "galosphere:recipes/building_blocks/amethyst_stairs": {
     "criteria": {
       "has_amethyst_block": "2025-07-22 21:38:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_stairs": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
@@ -8104,6 +8256,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/betternether/anchor_tree_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
@@ -8155,6 +8313,12 @@
   "dtkupd:go_to_pale_garden": {
     "criteria": {
       "go_to_pale_garden_0": "2025-07-22 20:17:05 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/anchor_tree_flower_box": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:56:24 +0000"
     },
     "done": true
   },
