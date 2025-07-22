@@ -82,6 +82,7 @@
       "minecraft:jungle": "2025-07-22 20:17:32 +0000",
       "minecraft:warm_ocean": "2025-07-21 03:21:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-22 20:23:39 +0000",
+      "minecraft:deep_dark": "2025-07-22 22:25:54 +0000",
       "minecraft:savanna": "2025-07-21 00:09:18 +0000",
       "minecraft:plains": "2025-07-22 22:19:17 +0000"
     },
@@ -6746,6 +6747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-22 22:25:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-22 21:46:19 +0000"
@@ -7025,6 +7032,12 @@
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2025-07-22 21:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-22 22:27:18 +0000"
     },
     "done": true
   },
@@ -7863,6 +7876,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-07-22 22:25:54 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/bp/biomesoplenty/mahogany_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-07-22 20:26:02 +0000"
@@ -8043,6 +8062,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-07-22 22:26:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/anchor_tree_plate": {
     "criteria": {
       "has_anchor_tree_planks": "2025-07-22 21:56:24 +0000"
@@ -8070,6 +8095,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-07-22 21:22:42 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-07-22 22:25:11 +0000"
     },
     "done": true
   },
@@ -8400,6 +8431,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-22 19:53:13 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/stayin_frosty": {
+    "criteria": {
+      "c1": "2025-07-22 22:31:06 +0000"
     },
     "done": true
   },
