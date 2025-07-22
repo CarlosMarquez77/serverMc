@@ -3491,3 +3491,119 @@ ModdedBiomeSource (5170f152)
 [22Jul2025 22:53:43.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=-34, z=-2585} BlockPos{x=222, y=-35, z=-2584}
 [22Jul2025 22:53:43.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=-34, z=-2585} BlockPos{x=222, y=-35, z=-2584}
 [22Jul2025 22:54:03.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=-31, z=-2724} BlockPos{x=286, y=-31, z=-2722}
+[22Jul2025 22:54:53.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=239, y=-31, z=-2599} BlockPos{x=239, y=-31, z=-2600}
+[22Jul2025 22:54:53.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=239, y=-31, z=-2599} BlockPos{x=239, y=-31, z=-2600}
+[22Jul2025 22:54:53.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=239, y=-31, z=-2599} BlockPos{x=239, y=-31, z=-2600}
+[22Jul2025 22:55:41.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=206, y=-32, z=-2634} BlockPos{x=206, y=-33, z=-2633}
+[22Jul2025 22:55:41.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=206, y=-32, z=-2635} BlockPos{x=205, y=-32, z=-2635}
+[22Jul2025 22:55:41.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=206, y=-32, z=-2635} BlockPos{x=205, y=-32, z=-2635}
+[22Jul2025 22:55:41.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=206, y=-32, z=-2635} BlockPos{x=205, y=-32, z=-2635}
+[22Jul2025 22:55:41.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=206, y=-32, z=-2635} BlockPos{x=205, y=-32, z=-2635}
+[22Jul2025 22:55:41.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=206, y=-32, z=-2635} BlockPos{x=205, y=-32, z=-2635}
+[22Jul2025 22:55:50.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=208, y=-32, z=-2638} BlockPos{x=207, y=-32, z=-2638}
+[22Jul2025 22:55:51.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=206, y=-31, z=-2637} BlockPos{x=206, y=-31, z=-2638}
+[22Jul2025 22:55:51.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=206, y=-31, z=-2637} BlockPos{x=206, y=-31, z=-2638}
+[22Jul2025 22:55:52.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=-28, z=-2625} BlockPos{x=197, y=-26, z=-2626}
+[22Jul2025 22:55:54.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=197, y=-25, z=-2622} BlockPos{x=197, y=-24, z=-2623}
+[22Jul2025 22:55:56.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=211, y=-30, z=-2640} BlockPos{x=210, y=-31, z=-2640}
+[22Jul2025 22:55:56.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=211, y=-30, z=-2640} BlockPos{x=210, y=-31, z=-2640}
+[22Jul2025 22:55:56.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=-31, z=-2640} BlockPos{x=210, y=-31, z=-2641}
+[22Jul2025 22:55:58.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=-31, z=-2690} BlockPos{x=278, y=-32, z=-2689}
+[22Jul2025 22:55:58.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=-31, z=-2690} BlockPos{x=279, y=-30, z=-2690}
+[22Jul2025 22:55:58.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=-31, z=-2690} BlockPos{x=279, y=-30, z=-2690}
+[22Jul2025 22:55:58.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=-31, z=-2690} BlockPos{x=279, y=-30, z=-2690}
+[22Jul2025 22:55:58.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=-31, z=-2690} BlockPos{x=279, y=-30, z=-2690}
+[22Jul2025 22:56:01.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=204, y=-26, z=-2641} BlockPos{x=204, y=-26, z=-2642}
+[22Jul2025 22:56:01.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=204, y=-26, z=-2642} BlockPos{x=205, y=-27, z=-2642}
+[22Jul2025 22:56:01.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=204, y=-26, z=-2642} BlockPos{x=205, y=-27, z=-2642}
+[22Jul2025 22:56:01.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=-26, z=-2642} BlockPos{x=204, y=-26, z=-2643}
+[22Jul2025 22:56:12.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=-29, z=-2649} BlockPos{x=212, y=-29, z=-2647}
+[22Jul2025 22:56:14.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=215, y=-30, z=-2644} BlockPos{x=214, y=-31, z=-2644}
+[22Jul2025 22:56:14.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=214, y=-30, z=-2643} BlockPos{x=213, y=-29, z=-2643}
+[22Jul2025 22:56:21.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=211, y=-29, z=-2655} BlockPos{x=213, y=-30, z=-2654}
+[22Jul2025 22:57:04.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=-30, z=-2638} BlockPos{x=301, y=-31, z=-2638}
+[22Jul2025 22:57:04.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=-30, z=-2638} BlockPos{x=301, y=-31, z=-2638}
+[22Jul2025 22:57:04.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=-30, z=-2638} BlockPos{x=301, y=-31, z=-2638}
+[22Jul2025 22:57:04.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=-30, z=-2638} BlockPos{x=301, y=-31, z=-2638}
+[22Jul2025 22:57:08.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=-30, z=-2632} BlockPos{x=303, y=-29, z=-2633}
+[22Jul2025 22:57:24.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=294, y=-38, z=-2633} BlockPos{x=292, y=-39, z=-2633}
+[22Jul2025 22:58:18.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=-39, z=-2625} BlockPos{x=307, y=-38, z=-2626}
+[22Jul2025 22:58:31.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=240, y=-20, z=-2732} BlockPos{x=241, y=-20, z=-2732}
+[22Jul2025 22:58:33.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=242, y=-18, z=-2724} BlockPos{x=242, y=-19, z=-2725}
+[22Jul2025 22:58:34.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=241, y=-19, z=-2724} BlockPos{x=242, y=-19, z=-2725}
+[22Jul2025 22:58:52.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [You Monster...]
+[22Jul2025 22:58:52.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Overkill]
+[22Jul2025 22:59:28.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=237, y=-26, z=-2589} BlockPos{x=237, y=-25, z=-2588}
+[22Jul2025 22:59:28.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=236, y=-26, z=-2589} BlockPos{x=237, y=-25, z=-2588}
+[22Jul2025 22:59:29.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=240, y=-26, z=-2589} BlockPos{x=239, y=-26, z=-2588}
+[22Jul2025 23:01:01.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=-40, z=-2422} BlockPos{x=226, y=-41, z=-2423}
+[22Jul2025 23:01:16.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=-38, z=-2422} BlockPos{x=223, y=-38, z=-2421}
+[22Jul2025 23:01:16.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=-38, z=-2422} BlockPos{x=223, y=-38, z=-2421}
+[22Jul2025 23:01:16.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=-38, z=-2421} BlockPos{x=222, y=-38, z=-2420}
+[22Jul2025 23:01:16.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=-38, z=-2421} BlockPos{x=222, y=-38, z=-2420}
+[22Jul2025 23:01:23.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito was slain by Zombie
+[22Jul2025 23:01:32.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[22Jul2025 23:01:38.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Larito lost connection: Disconnected
+[22Jul2025 23:01:38.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito left the game
+[22Jul2025 23:01:44.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Larito[/127.231.224.106:60845] logged in with entity id 85946 at (273.3010851673511, -29.0, -2581.699999988079)
+[22Jul2025 23:01:44.750] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Larito
+[22Jul2025 23:01:44.750] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Larito
+[22Jul2025 23:01:44.751] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Larito
+[22Jul2025 23:01:44.751] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Larito
+[22Jul2025 23:01:44.752] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Larito
+[22Jul2025 23:01:44.754] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Larito
+[22Jul2025 23:01:44.754] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Larito
+[22Jul2025 23:01:44.757] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22Jul2025 23:01:44.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito joined the game
+[22Jul2025 23:01:44.790] [Server thread/INFO] [Jade/]: Syncing config to Larito (9f3f0361-7637-38d6-90c1-b224cf6f6bcb)
+[22Jul2025 23:01:45.109] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Jul2025 23:01:45.109] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Jul2025 23:01:45.109] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22Jul2025 23:01:45.109] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Jul2025 23:01:45.110] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Jul2025 23:01:45.111] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Jul2025 23:01:56.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Larito: Teleported Larito to 273.500000, -28.500000, -2581.500000]
+[22Jul2025 23:03:44.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Larito lost connection: Timed out
+[22Jul2025 23:03:44.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito left the game
+[22Jul2025 23:04:15.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Larito[/127.231.224.106:59645] logged in with entity id 87099 at (272.5378897424773, -29.0, -2578.9668736316557)
+[22Jul2025 23:04:15.155] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Larito
+[22Jul2025 23:04:15.155] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Larito
+[22Jul2025 23:04:15.155] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Larito
+[22Jul2025 23:04:15.156] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Larito
+[22Jul2025 23:04:15.157] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Larito
+[22Jul2025 23:04:15.158] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Larito
+[22Jul2025 23:04:15.158] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Larito
+[22Jul2025 23:04:15.161] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22Jul2025 23:04:15.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito joined the game
+[22Jul2025 23:04:15.223] [Server thread/INFO] [Jade/]: Syncing config to Larito (9f3f0361-7637-38d6-90c1-b224cf6f6bcb)
+[22Jul2025 23:04:15.901] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Jul2025 23:04:15.901] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Jul2025 23:04:15.901] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22Jul2025 23:04:15.901] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Jul2025 23:04:15.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Jul2025 23:04:15.903] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Jul2025 23:04:15.903] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Jul2025 23:04:23.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to Larito]
