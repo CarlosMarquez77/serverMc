@@ -82,7 +82,8 @@
       "minecraft:jungle": "2025-07-22 20:17:32 +0000",
       "minecraft:warm_ocean": "2025-07-21 03:21:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-22 20:23:39 +0000",
-      "minecraft:savanna": "2025-07-21 00:09:18 +0000"
+      "minecraft:savanna": "2025-07-21 00:09:18 +0000",
+      "minecraft:plains": "2025-07-22 22:19:17 +0000"
     },
     "done": false
   },
@@ -127,6 +128,7 @@
       "woodland": "2025-07-22 20:16:14 +0000",
       "scrubland": "2025-07-21 02:30:53 +0000",
       "floodplain": "2025-07-22 20:24:01 +0000",
+      "old_growth_woodland": "2025-07-22 22:20:37 +0000",
       "mediterranean_forest": "2025-07-21 00:10:35 +0000",
       "dryland": "2025-07-21 02:30:54 +0000",
       "wasteland": "2025-07-21 03:17:07 +0000",
@@ -1982,6 +1984,7 @@
       "minecraft:hoglin": "2025-07-21 04:06:07 +0000",
       "minecraft:spider": "2025-07-21 03:01:56 +0000",
       "minecraft:creeper": "2025-07-21 03:02:28 +0000",
+      "minecraft:wither": "2025-07-22 22:13:54 +0000",
       "minecraft:slime": "2025-07-22 21:02:22 +0000",
       "minecraft:phantom": "2025-07-22 21:13:32 +0000",
       "minecraft:zombified_piglin": "2025-07-21 04:45:40 +0000",
@@ -6341,6 +6344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-22 22:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
@@ -6521,6 +6530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-22 22:11:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_framed_light_gray": {
     "criteria": {
       "has_light_gray_dye": "2025-07-22 22:06:58 +0000"
@@ -6530,6 +6545,12 @@
   "mowziesmobs:sneak_grove": {
     "criteria": {
       "steal_crystal": "2025-07-22 20:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-07-22 22:12:34 +0000"
     },
     "done": true
   },
@@ -6827,6 +6848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-07-22 22:13:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
@@ -6842,6 +6869,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-22 22:11:41 +0000"
     },
     "done": true
   },
@@ -7199,6 +7232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-22 22:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-07-22 19:32:00 +0000"
@@ -7506,6 +7545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-22 22:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-22 19:28:52 +0000"
@@ -7581,6 +7626,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 19:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-22 22:11:41 +0000"
     },
     "done": true
   },
@@ -7944,6 +7995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-22 22:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-22 19:29:29 +0000"
@@ -7971,6 +8028,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-22 22:11:41 +0000"
     },
     "done": true
   },
@@ -8136,6 +8199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-22 22:11:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-22 20:18:41 +0000"
@@ -8211,6 +8280,12 @@
   "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shutter": {
     "criteria": {
       "has_planks": "2025-07-22 20:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-22 22:11:41 +0000"
     },
     "done": true
   },
@@ -8310,6 +8385,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-22 22:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-22 22:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-22 19:53:13 +0000"
@@ -8403,6 +8490,12 @@
   "everycomp:recipes/decorations/af/betternether/anchor_tree_flower_box": {
     "criteria": {
       "has_planks": "2025-07-22 21:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-22 22:12:03 +0000"
     },
     "done": true
   },
