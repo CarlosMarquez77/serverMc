@@ -4727,5 +4727,11 @@
     },
     "done": true
   },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2025-07-22 00:02:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
