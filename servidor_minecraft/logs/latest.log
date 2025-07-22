@@ -3027,3 +3027,14 @@ ModdedBiomeSource (5170f152)
 [22Jul2025 19:58:28.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18090, l='ServerLevel[world]', x=-554.71, y=31.00, z=-2632.09] died, message: 'Unemployed was slain by Zombie'
 [22Jul2025 19:59:09.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18082, l='ServerLevel[world]', x=-538.62, y=32.04, z=-2662.69] died, message: 'Unemployed was slain by Zombie'
 [22Jul2025 20:02:46.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Birds of a Feather]
+[22Jul2025 20:11:39.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -365.500000, 112.500000, -2885.500000]
+[22Jul2025 20:11:54.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -548.500000, 74.500000, -2900.500000]
+[22Jul2025 20:12:22.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[22Jul2025 20:13:45.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Heliomancer]
+[22Jul2025 20:14:18.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Birds of a Feather]
+[22Jul2025 20:17:05.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [It's just a biome, right?]
+[22Jul2025 20:17:58.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has completed the challenge [Overkill]
+[22Jul2025 20:18:12.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Jennifer Dumped Me]
+[22Jul2025 20:24:04.443] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[22Jul2025 20:27:51.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The Imperial March]
+[22Jul2025 20:28:10.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [The Imperial March]
