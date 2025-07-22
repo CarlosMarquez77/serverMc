@@ -6989,5 +6989,11 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2025-07-22 00:08:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

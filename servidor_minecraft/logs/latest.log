@@ -30,3 +30,33 @@
 [22Jul2025 00:05:53.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [22Jul2025 00:05:53.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [22Jul2025 00:05:53.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Jul2025 00:15:32.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.187.227.239:37689] logged in with entity id 47228 at (608.053452319294, 73.0, -416.873171563555)
+[22Jul2025 00:15:32.976] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebasrex
+[22Jul2025 00:15:32.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebasrex
+[22Jul2025 00:15:32.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebasrex
+[22Jul2025 00:15:32.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebasrex
+[22Jul2025 00:15:32.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebasrex
+[22Jul2025 00:15:32.980] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebasrex
+[22Jul2025 00:15:32.980] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebasrex
+[22Jul2025 00:15:32.982] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22Jul2025 00:15:32.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[22Jul2025 00:15:33.030] [Server thread/INFO] [Jade/]: Syncing config to Sebasrex (ed95fb51-69c5-31b0-b318-1e95b51f739b)
+[22Jul2025 00:15:37.453] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Jul2025 00:15:37.453] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Jul2025 00:15:37.454] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22Jul2025 00:15:37.454] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Jul2025 00:15:37.454] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22Jul2025 00:15:37.454] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22Jul2025 00:15:37.454] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22Jul2025 00:15:37.454] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22Jul2025 00:15:37.454] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22Jul2025 00:15:37.454] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22Jul2025 00:15:37.454] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Jul2025 00:15:37.455] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Jul2025 00:15:37.455] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Jul2025 00:15:37.455] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Jul2025 00:15:37.455] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Jul2025 00:15:37.455] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Jul2025 00:15:37.455] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Jul2025 00:15:37.455] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Jul2025 00:16:33.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set the weather to clear]

@@ -4880,45 +4880,417 @@
     },
     "done": true
   },
-  "another_furniture:recipes/black_stool_dyeing": {
+  "netherexp:recipes/misc/cooked_hogham": {
     "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
+      "has_item": "2025-07-21 04:06:08 +0000"
     },
     "done": true
   },
-  "nethersdelight:recipes/tools/golden_machete": {
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+      "has_item.betternether.cincinnasite": "2025-07-21 04:06:17 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/quartz_glass_framed_purple": {
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
     "criteria": {
-      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+      "has_item.betternether.cincinnasite": "2025-07-21 04:06:17 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/iron_bulb_lantern_purple": {
+  "betternether:recipes/building_blocks/cincinnasite_block": {
     "criteria": {
-      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+      "has_cincinnasite": "2025-07-21 04:06:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_blaze_powder": "2025-07-21 05:11:37 +0000"
+      "in_better_fortress": "2025-07-21 04:09:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+      "has_bow": "2025-07-21 04:10:29 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2025-07-21 04:10:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_forge": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
+    "criteria": {
+      "has_item": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_anvil": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-07-21 04:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-21 04:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-21 04:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-21 04:12:17 +0000"
     },
     "done": true
   },
   "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_slab_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/basalt_furnace": {
+    "criteria": {
+      "has_basalt": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_basalt_slab": {
+    "criteria": {
+      "has_basalt": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-07-21 04:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-21 04:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-21 04:45:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-07-21 04:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-21 04:46:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-07-21 04:46:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-07-21 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
     },
     "done": true
   },
@@ -4940,13 +5312,91 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+  "minecraft:recipes/combat/golden_boots": {
     "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-07-21 05:12:46 +0000"
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/gilded_beads": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-07-21 04:46:48 +0000"
     },
@@ -4964,435 +5414,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_candle": {
-    "criteria": {
-      "has_purple_dye": "2025-07-21 05:24:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-07-21 04:12:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-07-21 04:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_purple_dye": "2025-07-21 05:24:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
-    "criteria": {
-      "has_item": "2025-07-21 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/green_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
-    "criteria": {
-      "has_item.betternether.cincinnasite": "2025-07-21 04:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-07-21 05:12:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/golden_knife": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/basalt/slab": {
-    "criteria": {
-      "has_item": "2025-07-21 04:38:01 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_perl_to_block": {
-    "criteria": {
-      "has_ender_pearl": "2025-07-21 05:30:03 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/magenta_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
-    "criteria": {
-      "has_purple_dye": "2025-07-21 05:24:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.basalt": "2025-07-21 04:38:01 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/red_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_white": {
-    "criteria": {
-      "has_white_wool": "2025-07-21 05:39:26 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_brick_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/orange_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_eye_amber": {
-    "criteria": {
-      "has_ender_pearl": "2025-07-21 05:30:03 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/nether_brick_smoker": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-07-21 04:53:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-07-21 04:10:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_blue_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/cooked_hogham": {
-    "criteria": {
-      "has_item": "2025-07-21 04:06:08 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.basalt": "2025-07-21 04:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-07-21 04:48:13 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/cyan_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/blue_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-07-21 05:12:06 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/purple_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/yellow_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/yellow_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/food/stalagnate_bowl_wart": {
-    "criteria": {
-      "has_nether_wart": "2025-07-21 04:46:39 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/pink_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_forge": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
     "criteria": {
       "has_item": "2025-07-21 04:47:15 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/basalt_slab_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.basalt": "2025-07-21 04:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/hydralux_petal_block_purple": {
-    "criteria": {
-      "has_purple_dye": "2025-07-21 05:24:40 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
-    "criteria": {
-      "has_item.betternether.cincinnasite": "2025-07-21 04:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-21 05:24:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-07-21 05:14:06 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/blue_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_sofa": {
-    "criteria": {
-      "has_wool": "2025-07-21 05:39:26 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/gilded_beads": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-21 05:24:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-07-21 04:48:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-07-21 04:45:20 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/purple_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-21 05:12:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "salmon_bucket": "2025-07-21 05:32:12 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-07-21 05:39:26 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/basalt/stairs": {
-    "criteria": {
-      "has_item": "2025-07-21 04:38:01 +0000"
     },
     "done": true
   },
@@ -5402,93 +5426,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_purple": {
-    "criteria": {
-      "has_purple_dye": "2025-07-21 05:24:40 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/frozen/cutting/ice_sword": {
-    "criteria": {
-      "has_diamond_sword": "2025-07-21 04:48:26 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/red_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/lime_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-07-21 04:53:55 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/cincinnasite_pot": {
     "criteria": {
       "has_soul_sand": "2025-07-21 04:47:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-07-21 04:45:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-07-21 04:12:17 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
     },
     "done": true
   },
@@ -5498,33 +5438,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/brick_pot": {
     "criteria": {
       "has_soul_sand": "2025-07-21 04:47:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.basalt": "2025-07-21 04:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-21 05:11:37 +0000"
     },
     "done": true
   },
@@ -5534,213 +5450,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/white_stool": {
-    "criteria": {
-      "has_wool": "2025-07-21 05:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/basalt_furnace": {
-    "criteria": {
-      "has_basalt": "2025-07-21 04:38:01 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/basalt_basalt_slab": {
-    "criteria": {
-      "has_basalt": "2025-07-21 04:38:01 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
     "criteria": {
       "has_soul_sand": "2025-07-21 04:47:15 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_curtain": {
-    "criteria": {
-      "has_wool": "2025-07-21 05:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-07-21 04:38:01 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
-    "criteria": {
-      "has_item": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_blue_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_gray_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_bulb_lantern_purple": {
-    "criteria": {
-      "has_purple_dye": "2025-07-21 05:24:40 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/pink_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
-    "criteria": {
-      "has_item": "2025-07-21 04:10:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-21 05:11:37 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/orange_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "netherchested:recipes/decorations/nether_chest": {
-    "criteria": {
-      "has_netherite_scrap": "2025-07-21 05:12:00 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_pearl_to_dust": {
-    "criteria": {
-      "has_item.minecraft.ender_pearl": "2025-07-21 05:30:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile": {
-    "criteria": {
-      "has_blue_obsidian": "2025-07-21 04:46:47 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/brown_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-07-21 05:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/cincinnasite_block": {
-    "criteria": {
-      "has_cincinnasite": "2025-07-21 04:06:17 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_bulb_lantern_purple": {
-    "criteria": {
-      "has_purple_dye": "2025-07-21 05:24:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-07-21 04:09:17 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/gold_chandelier": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-07-21 04:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-07-21 04:48:19 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_flower_box": {
-    "criteria": {
-      "has_slab": "2025-07-21 05:57:58 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
-    "criteria": {
-      "has_item": "2025-07-21 04:10:42 +0000"
     },
     "done": true
   },
@@ -5756,105 +5468,189 @@
     },
     "done": true
   },
-  "betternether:recipes/brewing/nether_brewing_stand": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/green_stool_dyeing": {
-    "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/lime_curtain_dyeing": {
-    "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/misc/soul_magma_block": {
     "criteria": {
       "has_item2": "2025-07-21 04:47:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+  "netherexp:recipes/misc/soul_candle": {
     "criteria": {
-      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
+      "has_planks": "2025-07-21 04:47:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
     "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+      "has_soul_sand": "2025-07-21 04:47:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+      "crying_obsidian": "2025-07-21 04:48:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "has_nether_wart": "2025-07-21 04:46:39 +0000"
+      "has_obsidian": "2025-07-21 04:48:13 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/cyan_stool_dyeing": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "has_white_stool": "2025-07-21 05:48:33 +0000"
+      "has_magma_cream": "2025-07-21 04:48:19 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/spruce_bench": {
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
     "criteria": {
-      "has_slab": "2025-07-21 05:57:58 +0000"
+      "has_diamond_sword": "2025-07-21 04:48:26 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/light_gray_curtain_dyeing": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
+      "shot_arrow": "2025-07-21 04:49:35 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-21 04:46:47 +0000"
+      "has_iron_block": "2025-07-21 04:53:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
+  "minecraft:recipes/decorations/anvil": {
     "criteria": {
-      "has_item": "2025-07-21 04:10:42 +0000"
+      "has_iron_block": "2025-07-21 04:53:55 +0000"
     },
     "done": true
   },
-  "betternether:recipes/decorations/cincinnasite_anvil": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_nether_bricks": "2025-07-21 04:10:42 +0000"
+      "has_blaze_powder": "2025-07-21 05:11:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_carpet": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "has_white_wool": "2025-07-21 05:39:26 +0000"
+      "has_blaze_powder": "2025-07-21 05:11:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
+      "has_blaze_powder": "2025-07-21 05:11:37 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/spruce_shutter": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_the_recipe": "2025-07-21 05:42:46 +0000"
+      "has_netherite_scrap": "2025-07-21 05:12:00 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-21 05:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-21 05:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-21 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-21 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-21 05:14:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 05:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 05:24:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 05:24:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 05:24:40 +0000"
     },
     "done": true
   },
@@ -5870,15 +5666,75 @@
     },
     "done": true
   },
-  "another_furniture:recipes/gray_curtain_dyeing": {
+  "comforts:hammock_white": {
     "criteria": {
-      "has_white_curtain": "2025-07-21 05:39:32 +0000"
+      "has_the_recipe": "2025-07-21 05:24:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+  "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
-      "has_red_nether_bricks": "2025-07-21 04:10:49 +0000"
+      "has_ender_pearl": "2025-07-21 05:30:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-21 05:30:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-07-21 05:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2025-07-21 05:32:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-21 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-21 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-21 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-07-21 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-21 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-21 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-21 05:39:26 +0000"
     },
     "done": true
   },
@@ -5894,45 +5750,87 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_candle": {
+  "another_furniture:recipes/green_curtain_dyeing": {
     "criteria": {
-      "has_planks": "2025-07-21 04:47:15 +0000"
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "another_furniture:recipes/red_curtain_dyeing": {
     "criteria": {
-      "has_basalt": "2025-07-21 04:38:01 +0000"
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
     },
     "done": true
   },
-  "comforts:hammock_white": {
+  "another_furniture:recipes/orange_curtain_dyeing": {
     "criteria": {
-      "has_the_recipe": "2025-07-21 05:24:54 +0000"
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "another_furniture:recipes/white_curtain_dyeing": {
     "criteria": {
-      "has_blaze_rod": "2025-07-21 04:12:17 +0000"
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
     },
     "done": true
   },
-  "betternether:recipes/food/herbal_medicine": {
+  "another_furniture:recipes/light_blue_curtain_dyeing": {
     "criteria": {
-      "has_nether_wart": "2025-07-21 04:46:39 +0000"
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
     },
     "done": true
   },
-  "shieldexp:recipes/golden_shield": {
+  "another_furniture:recipes/cyan_curtain_dyeing": {
     "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+  "another_furniture:recipes/purple_curtain_dyeing": {
     "criteria": {
-      "has_soul_sand": "2025-07-21 04:47:15 +0000"
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-07-21 05:39:32 +0000"
     },
     "done": true
   },
@@ -5942,27 +5840,129 @@
     },
     "done": true
   },
-  "twilightdelight:recipes/frozen/cutting/ice_bow": {
-    "criteria": {
-      "has_bow": "2025-07-21 04:10:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-21 04:46:48 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/basalt/wall": {
-    "criteria": {
-      "has_item": "2025-07-21 04:38:01 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/magenta_curtain_dyeing": {
     "criteria": {
       "has_white_curtain": "2025-07-21 05:39:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_the_recipe": "2025-07-21 05:42:46 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_stool_dyeing": {
+    "criteria": {
+      "has_white_stool": "2025-07-21 05:48:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-07-21 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-21 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2025-07-21 05:57:58 +0000"
     },
     "done": true
   },
