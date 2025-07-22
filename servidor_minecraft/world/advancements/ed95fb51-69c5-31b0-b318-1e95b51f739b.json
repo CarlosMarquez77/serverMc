@@ -6143,6 +6143,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/hydralux_petal_block_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-07-22 22:06:58 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/combustion_table": {
     "criteria": {
       "has_silver_ingot": "2025-07-22 19:44:31 +0000"
@@ -6170,6 +6176,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 19:28:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-07-22 22:06:58 +0000"
     },
     "done": true
   },
@@ -6371,6 +6383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 22:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:23:31 +0000"
@@ -6401,6 +6419,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/thallasium_bulb_lantern_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-07-22 22:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-22 21:46:19 +0000"
@@ -6422,6 +6446,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_green_wool": "2025-07-22 19:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-07-22 22:06:58 +0000"
     },
     "done": true
   },
@@ -6461,6 +6491,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-07-22 22:06:58 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/warped_shelf": {
     "criteria": {
       "has_planks": "2025-07-22 21:46:19 +0000"
@@ -6482,6 +6518,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-07-22 21:08:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-07-22 22:06:58 +0000"
     },
     "done": true
   },
@@ -6650,6 +6692,12 @@
   "galosphere:recipes/redstone/silver_balance": {
     "criteria": {
       "has_silver_ingot": "2025-07-22 19:44:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-07-22 22:06:58 +0000"
     },
     "done": true
   },
@@ -7031,6 +7079,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_bulb_lantern_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-07-22 22:06:58 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-07-22 21:13:32 +0000"
@@ -7193,6 +7247,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/iron_bulb_lantern_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-07-22 22:06:58 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_cortical": {
     "criteria": {
       "has_item": "2025-07-22 21:24:32 +0000"
@@ -7208,6 +7268,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2025-07-22 21:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2025-07-22 22:06:58 +0000"
     },
     "done": true
   },
@@ -7334,6 +7400,12 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-07-22 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2025-07-22 22:08:38 +0000"
     },
     "done": true
   },
@@ -7770,6 +7842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 22:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_green_dye": "2025-07-22 21:42:51 +0000"
@@ -8031,6 +8109,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-22 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 22:06:58 +0000"
     },
     "done": true
   },
