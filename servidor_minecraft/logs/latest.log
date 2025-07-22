@@ -2899,3 +2899,21 @@ ModdedBiomeSource (5170f152)
 [22Jul2025 19:20:35.971] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
 [22Jul2025 19:26:35.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=653, y=74, z=-395} BlockPos{x=654, y=73, z=-395}
 [22Jul2025 19:28:28.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Local Brewery]
+[22Jul2025 19:32:38.054] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[22Jul2025 19:32:38.138] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 84ms
+[22Jul2025 19:34:58.575] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=861, y=-12, z=-644} but found not block entity block Block{minecraft:air} at location
+[22Jul2025 19:34:58.575] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=861, y=-12, z=-644}
+[22Jul2025 19:35:05.122] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[22Jul2025 19:35:05.123] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[22Jul2025 19:35:05.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=888, y=-22, z=-621} but found not block entity block Block{minecraft:air} at location
+[22Jul2025 19:35:05.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=888, y=-22, z=-621}
+[22Jul2025 19:35:05.418] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=889, y=-22, z=-622} but found not block entity block Block{minecraft:air} at location
+[22Jul2025 19:35:05.418] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=889, y=-22, z=-622}
+[22Jul2025 19:35:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Made In Heaven]
+[22Jul2025 19:36:00.318] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[22Jul2025 19:36:34.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [It Bites]
+[22Jul2025 19:37:19.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [You Monster...]
+[22Jul2025 19:38:43.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 614.500000, 76.500000, -404.500000]
+[22Jul2025 19:40:20.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Ice Bucket Challenge]
+[22Jul2025 19:40:24.633] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=905, y=-24, z=-619} but found not block entity block Block{minecraft:air} at location
+[22Jul2025 19:40:24.634] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=905, y=-24, z=-619}
