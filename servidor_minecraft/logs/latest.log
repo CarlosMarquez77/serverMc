@@ -3138,3 +3138,17 @@ ModdedBiomeSource (5170f152)
 [22Jul2025 21:10:35.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 37.500000, 73.500000, -3783.500000]
 [22Jul2025 21:10:50.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to Larito]
 [22Jul2025 21:12:22.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[22Jul2025 21:12:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex fell from a high place
+[22Jul2025 21:12:49.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Larito]
+[22Jul2025 21:12:49.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was doomed to fall by Wither Skeleton
+[22Jul2025 21:12:55.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Larito]
+[22Jul2025 21:13:00.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 31.500000, 67.500000, -3700.500000]
+[22Jul2025 21:13:20.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[22Jul2025 21:13:33.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Larito]
+[22Jul2025 21:15:52.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex fell from a high place
+[22Jul2025 21:16:01.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 39.500000, 86.500000, -3794.500000]
+[22Jul2025 21:16:18.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 602.500000, 73.500000, -406.500000]
+[22Jul2025 21:16:35.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Larito: Teleported Larito to 611.500000, 73.500000, -402.500000]
+[22Jul2025 21:16:58.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[22Jul2025 21:20:42.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Larito has made the advancement [Spooky Scary Skeleton]
+[22Jul2025 21:22:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Crops of the Wild]
