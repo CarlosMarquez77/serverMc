@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "9f3f0361-7637-38d6-90c1-b224cf6f6bcb",
+    "name": "Larito",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "3abbe4ea-f60b-38af-8173-55992ed74eae",
     "name": "KyoShiiro",
     "level": 4,

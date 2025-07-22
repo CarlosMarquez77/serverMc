@@ -7080,6 +7080,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-07-22 19:50:28 +0000"
@@ -7095,6 +7101,12 @@
   "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
       "has_logs": "2025-07-22 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
     },
     "done": true
   },
@@ -7146,6 +7158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-22 19:40:10 +0000"
@@ -7155,6 +7173,12 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-07-22 19:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
     },
     "done": true
   },
@@ -7173,6 +7197,12 @@
   "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
       "location0": "2025-07-22 20:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
     },
     "done": true
   },
@@ -7209,6 +7239,12 @@
   "crabbersdelight:recipes/building_blocks/cod_barrel": {
     "criteria": {
       "has_cod": "2025-07-22 20:21:44 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
     },
     "done": true
   },
@@ -7320,6 +7356,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2025-07-22 20:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-07-22 20:29:50 +0000"
@@ -7341,6 +7383,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-07-22 20:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
     },
     "done": true
   },
@@ -7572,9 +7620,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-07-22 19:40:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
     },
     "done": true
   },
@@ -7594,6 +7654,12 @@
   "everycomp:recipes/decorations/af/biomesoplenty/mahogany_flower_box": {
     "criteria": {
       "has_planks": "2025-07-22 20:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
     },
     "done": true
   },
@@ -7705,6 +7771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-07-22 19:37:41 +0000"
@@ -7720,6 +7792,12 @@
   "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-07-22 19:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:45:52 +0000"
     },
     "done": true
   },
