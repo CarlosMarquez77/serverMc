@@ -667,6 +667,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/hydralux_petal_block_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-23 22:25:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/crimson_chair": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -757,9 +763,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-23 22:25:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_orange": {
+    "criteria": {
+      "has_orange_dye": "2025-07-23 22:25:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_fence": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-23 22:31:55 +0000"
     },
     "done": true
   },
@@ -925,6 +955,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/iron_bulb_lantern_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_sign": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -1015,6 +1051,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/hydralux_petal_block_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-23 21:00:33 +0000"
@@ -1051,6 +1093,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_bulb_lantern_orange": {
+    "criteria": {
+      "has_orange_dye": "2025-07-23 22:25:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_ladder": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -1060,6 +1114,18 @@
   "betterend:recipes/decorations/lacugrove_sign": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 22:25:51 +0000"
     },
     "done": true
   },
@@ -1078,6 +1144,12 @@
   "betternether:recipes/decorations/oak_chair": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-23 22:25:47 +0000"
     },
     "done": true
   },
@@ -1105,9 +1177,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 22:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-23 22:25:47 +0000"
     },
     "done": true
   },
@@ -1219,6 +1303,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_framed_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-23 22:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-23 20:37:52 +0000"
@@ -1309,6 +1399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-07-23 22:25:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2025-07-23 20:37:52 +0000"
@@ -1330,6 +1426,12 @@
   "netherexp:recipes/bone_blocks/bone_rod": {
     "criteria": {
       "has_item": "2025-07-23 22:16:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-23 22:25:47 +0000"
     },
     "done": true
   },
@@ -1426,6 +1528,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-23 22:25:47 +0000"
     },
     "done": true
   },
@@ -1531,6 +1639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-23 22:25:39 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/helix_tree_gate": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -1567,9 +1681,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 22:25:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2025-07-23 22:25:51 +0000"
     },
     "done": true
   },
@@ -1606,6 +1732,12 @@
   "betterend:recipes/misc/copy_handle_attachment": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
     },
     "done": true
   },
@@ -1717,6 +1849,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_orange": {
+    "criteria": {
+      "has_orange_dye": "2025-07-23 22:25:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_bar_stool": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -1744,6 +1882,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-07-23 20:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
     },
     "done": true
   },
@@ -1825,6 +1969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -1879,6 +2029,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_pane_orange": {
+    "criteria": {
+      "has_orange_dye": "2025-07-23 22:25:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-23 21:00:33 +0000"
@@ -1906,6 +2062,12 @@
   "betterend:recipes/decorations/lucernia_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 22:25:51 +0000"
     },
     "done": true
   },
@@ -1957,6 +2119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 20:37:52 +0000"
@@ -1972,6 +2140,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-07-23 21:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 22:25:47 +0000"
     },
     "done": true
   },
@@ -2077,6 +2251,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_bulb_lantern_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-23 22:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-07-23 21:07:55 +0000"
@@ -2092,6 +2272,18 @@
   "bclib:recipes/tools/tag_compass": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_orange": {
+    "criteria": {
+      "has_orange_dye": "2025-07-23 22:25:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_orange": {
+    "criteria": {
+      "has_orange_dye": "2025-07-23 22:25:51 +0000"
     },
     "done": true
   },
@@ -2200,6 +2392,12 @@
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2025-07-23 21:00:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
     },
     "done": true
   },
@@ -2314,6 +2512,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-07-23 20:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 22:25:47 +0000"
     },
     "done": true
   },
@@ -2515,9 +2719,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 22:25:45 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/combat/sterling_leggings_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-07-23 22:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 22:25:45 +0000"
     },
     "done": true
   },
@@ -2566,6 +2782,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-23 22:25:47 +0000"
     },
     "done": true
   },
@@ -2671,6 +2893,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-23 22:25:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_ladder": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -2680,6 +2908,12 @@
   "betternether:recipes/decorations/netherrack_furnace": {
     "criteria": {
       "has_netherrack": "2025-07-23 21:02:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
     },
     "done": true
   },
@@ -2722,6 +2956,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-07-23 21:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
     },
     "done": true
   },
@@ -2788,6 +3028,12 @@
   "betterend:recipes/decorations/pythadendron_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-07-23 22:25:45 +0000"
     },
     "done": true
   },
@@ -2959,6 +3205,12 @@
     },
     "done": false
   },
+  "betterend:recipes/misc/thallasium_bulb_lantern_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 20:37:52 +0000"
@@ -2974,6 +3226,12 @@
   "betternether:recipes/decorations/nether_sakura_chair": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 22:25:51 +0000"
     },
     "done": true
   },
@@ -3031,6 +3289,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_orange": {
+    "criteria": {
+      "has_orange_dye": "2025-07-23 22:25:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_bar_stool": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -3070,6 +3334,12 @@
   "betternether:recipes/decorations/stalagnate_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_orange": {
+    "criteria": {
+      "has_orange_dye": "2025-07-23 22:25:51 +0000"
     },
     "done": true
   },
@@ -3370,6 +3640,12 @@
   "backpacked:recipes/decorations/warped_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_red": {
+    "criteria": {
+      "has_red_dye": "2025-07-23 22:25:45 +0000"
     },
     "done": true
   },
