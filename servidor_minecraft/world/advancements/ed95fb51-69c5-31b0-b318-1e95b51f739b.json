@@ -130,6 +130,7 @@
       "scrubland": "2025-07-21 02:30:53 +0000",
       "floodplain": "2025-07-22 20:24:01 +0000",
       "old_growth_woodland": "2025-07-22 22:20:37 +0000",
+      "crystalline_chasm": "2025-07-23 21:46:57 +0000",
       "mediterranean_forest": "2025-07-21 00:10:35 +0000",
       "coniferous_forest": "2025-07-23 20:46:17 +0000",
       "dryland": "2025-07-21 02:30:54 +0000",
@@ -4849,12 +4850,15 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:upside_down_forest_cleared": "2025-07-22 21:54:49 +0000",
+      "betternether:crimson_pinewood": "2025-07-23 21:50:54 +0000",
+      "betternether:crimson_glowing_woods": "2025-07-23 21:47:28 +0000",
       "betternether:old_warped_woods": "2025-07-21 03:57:56 +0000"
     },
     "done": false
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-23 21:52:20 +0000",
       "minecraft:nether_wastes": "2025-07-21 03:58:15 +0000",
       "minecraft:warped_forest": "2025-07-22 21:45:50 +0000"
     },
@@ -9008,6 +9012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-23 21:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-23 21:16:02 +0000"
@@ -9041,6 +9051,12 @@
   "everycomp:recipes/decorations/af/biomesoplenty/fir_shelf": {
     "criteria": {
       "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-23 21:42:11 +0000"
     },
     "done": true
   },
@@ -9086,9 +9102,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-23 21:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-23 21:16:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-07-23 21:42:11 +0000"
     },
     "done": true
   },
@@ -9110,9 +9138,33 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-23 21:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-23 21:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-23 21:42:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_button": {
     "criteria": {
       "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-23 21:42:11 +0000"
     },
     "done": true
   },
@@ -9170,9 +9222,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-23 21:44:39 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/bp/biomesoplenty/fir_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-23 21:42:11 +0000"
     },
     "done": true
   },
