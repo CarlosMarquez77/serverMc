@@ -1997,6 +1997,7 @@
       "minecraft:zombified_piglin": "2025-07-21 04:45:40 +0000",
       "minecraft:wither_skeleton": "2025-07-21 04:10:13 +0000",
       "minecraft:cave_spider": "2025-07-21 01:41:28 +0000",
+      "minecraft:piglin": "2025-07-23 23:10:10 +0000",
       "minecraft:enderman": "2025-07-21 00:19:34 +0000",
       "minecraft:zombie": "2025-07-21 00:29:27 +0000",
       "minecraft:drowned": "2025-07-22 20:18:50 +0000",
@@ -4855,6 +4856,7 @@
     "criteria": {
       "betternether:bone_reef": "2025-07-23 22:40:27 +0000",
       "betternether:upside_down_forest_cleared": "2025-07-22 21:54:49 +0000",
+      "betternether:flooded_deltas": "2025-07-23 23:02:54 +0000",
       "betternether:gravel_desert": "2025-07-23 23:00:39 +0000",
       "betternether:poor_nether_grasslands": "2025-07-23 22:47:08 +0000",
       "betternether:crimson_pinewood": "2025-07-23 21:50:54 +0000",
@@ -4874,9 +4876,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-23 21:52:20 +0000",
       "minecraft:nether_wastes": "2025-07-21 03:58:15 +0000",
-      "minecraft:warped_forest": "2025-07-22 21:45:50 +0000"
+      "minecraft:soul_sand_valley": "2025-07-23 23:05:26 +0000",
+      "minecraft:warped_forest": "2025-07-22 21:45:50 +0000",
+      "minecraft:basalt_deltas": "2025-07-23 23:03:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
@@ -9060,6 +9064,12 @@
   "everycomp:recipes/decorations/af/biomesoplenty/fir_bench": {
     "criteria": {
       "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-07-23 23:05:26 +0000"
     },
     "done": true
   },

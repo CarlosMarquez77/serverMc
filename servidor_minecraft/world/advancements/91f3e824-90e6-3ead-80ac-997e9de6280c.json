@@ -526,6 +526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -620,11 +626,14 @@
     "criteria": {
       "betternether:bone_reef": "2025-07-23 22:40:31 +0000",
       "betternether:upside_down_forest_cleared": "2025-07-23 22:36:56 +0000",
+      "betternether:flooded_deltas": "2025-07-23 23:03:05 +0000",
       "betternether:gravel_desert": "2025-07-23 23:00:40 +0000",
       "betternether:poor_nether_grasslands": "2025-07-23 22:41:18 +0000",
+      "betternether:crimson_pinewood": "2025-07-23 23:08:43 +0000",
       "betternether:old_fungiwoods": "2025-07-23 22:40:13 +0000",
       "betternether:old_swampland": "2025-07-23 22:59:21 +0000",
       "betternether:nether_swampland": "2025-07-23 22:58:24 +0000",
+      "betternether:crimson_glowing_woods": "2025-07-23 23:09:45 +0000",
       "betternether:magma_land": "2025-07-23 22:51:44 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-07-23 22:39:41 +0000",
       "betternether:nether_mushroom_forest": "2025-07-23 22:39:43 +0000",
@@ -639,9 +648,17 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-23 23:09:03 +0000",
       "minecraft:nether_wastes": "2025-07-23 21:02:10 +0000",
+      "minecraft:basalt_deltas": "2025-07-23 23:03:16 +0000",
       "minecraft:warped_forest": "2025-07-23 21:21:52 +0000"
     },
     "done": false
@@ -934,6 +951,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-07-23 20:39:30 +0000"
@@ -1042,6 +1065,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-07-23 20:37:52 +0000"
@@ -1075,6 +1104,12 @@
   "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-23 22:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -1432,6 +1467,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-23 20:37:52 +0000"
@@ -1612,6 +1653,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-07-23 23:12:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -1690,6 +1737,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_slab_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -1747,6 +1800,18 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-07-23 22:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -1960,6 +2025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_orange": {
     "criteria": {
       "has_orange_dye": "2025-07-23 22:25:51 +0000"
@@ -2059,6 +2130,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -2164,6 +2241,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_sword": {
     "criteria": {
       "has_nether_reed_stem": "2025-07-23 22:42:01 +0000"
@@ -2257,6 +2340,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-23 22:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -2395,6 +2484,12 @@
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -2602,6 +2697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_fence": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -2643,6 +2744,12 @@
       "in_mineshaft_warped": "2025-07-23 21:24:39 +0000"
     },
     "done": false
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
   },
   "betternether:recipes/decorations/birch_chair": {
     "criteria": {
@@ -2806,6 +2913,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-07-23 22:42:26 +0000"
@@ -2833,6 +2946,18 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-23 21:03:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/basalt_furnace": {
+    "criteria": {
+      "has_basalt": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_basalt_slab": {
+    "criteria": {
+      "has_basalt": "2025-07-23 23:06:26 +0000"
     },
     "done": true
   },
@@ -2866,9 +2991,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_sign": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -2956,9 +3093,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/acacia_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -3184,6 +3333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_sign": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -3298,6 +3453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-07-23 20:37:52 +0000"
@@ -3403,6 +3564,12 @@
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -3556,6 +3723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-07-23 22:42:26 +0000"
@@ -3571,6 +3744,18 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-23 22:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-23 23:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -3688,6 +3873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_anvil": {
     "criteria": {
       "has_nether_bricks": "2025-07-23 22:42:26 +0000"
@@ -3697,6 +3888,12 @@
   "betterend:recipes/decorations/end_lotus_bar_stool": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -3817,6 +4014,12 @@
   "betternether:recipes/transportation/detector_rail": {
     "criteria": {
       "has_redstone": "2025-07-23 21:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -3946,6 +4149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_sign": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -3967,6 +4176,12 @@
   "betterend:recipes/decorations/umbrella_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-07-23 23:12:13 +0000"
     },
     "done": true
   },
@@ -4027,6 +4242,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-23 22:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
     },
     "done": true
   },
@@ -4117,6 +4338,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-07-23 21:40:01 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-07-23 23:06:26 +0000"
     },
     "done": true
   },
