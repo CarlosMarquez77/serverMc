@@ -407,6 +407,7 @@
     "criteria": {
       "woodland": "2025-07-18 01:01:09 +0000",
       "scrubland": "2025-07-17 02:09:06 +0000",
+      "erupting_inferno": "2025-07-23 22:36:11 +0000",
       "floodplain": "2025-07-18 01:13:55 +0000",
       "old_growth_woodland": "2025-07-18 01:03:36 +0000",
       "mediterranean_forest": "2025-07-17 02:42:05 +0000",
@@ -416,6 +417,7 @@
       "volcano": "2025-07-18 01:05:53 +0000",
       "rocky_rainforest": "2025-07-18 01:21:04 +0000",
       "volcanic_plains": "2025-07-18 01:05:54 +0000",
+      "undergrowth": "2025-07-23 22:33:08 +0000",
       "rainforest": "2025-07-18 01:14:10 +0000"
     },
     "done": false
@@ -489,6 +491,12 @@
   "betternether:recipes/decorations/wart_ladder": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-07-23 22:34:12 +0000"
     },
     "done": true
   },
@@ -570,11 +578,30 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:bone_reef": "2025-07-23 22:40:24 +0000",
+      "betternether:upside_down_forest_cleared": "2025-07-23 22:36:57 +0000",
+      "betternether:poor_nether_grasslands": "2025-07-23 22:41:15 +0000",
+      "betternether:old_fungiwoods": "2025-07-23 22:39:55 +0000",
+      "betternether:nether_mushroom_forest_edge": "2025-07-23 22:39:38 +0000",
+      "betternether:nether_mushroom_forest": "2025-07-23 22:39:39 +0000",
+      "betternether:old_warped_woods": "2025-07-23 22:33:28 +0000",
+      "betternether:sulfuric_bone_reef": "2025-07-23 22:40:48 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-07-23 22:34:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
@@ -876,6 +903,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-07-23 22:34:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/mushroom_fir_gate": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
@@ -996,6 +1029,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_ladder": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
@@ -1026,6 +1065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_tag_c_furnaces": "2025-07-23 22:16:28 +0000"
@@ -1035,6 +1080,12 @@
   "betterend:recipes/decorations/end_lotus_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
     },
     "done": true
   },
@@ -1140,6 +1191,12 @@
     },
     "done": true
   },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-07-23 22:33:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
@@ -1194,6 +1251,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_sign": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
@@ -1209,6 +1272,12 @@
   "netherexp:recipes/sanctum/skull_on_a_stick": {
     "criteria": {
       "item": "2025-07-23 22:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-23 22:34:12 +0000"
     },
     "done": true
   },
@@ -1239,6 +1308,12 @@
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-07-23 22:06:50 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ivy/twisting_ivy": {
+    "criteria": {
+      "has_item": "2025-07-23 22:33:31 +0000"
     },
     "done": true
   },
@@ -1290,6 +1365,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-07-23 22:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-07-23 22:00:36 +0000"
@@ -1338,6 +1419,12 @@
     },
     "done": true
   },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-07-23 22:34:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_chandelier": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 22:00:36 +0000"
@@ -1380,6 +1467,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-23 22:33:07 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-23 22:09:58 +0000"
@@ -1404,6 +1497,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_forge": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-07-23 22:00:36 +0000"
@@ -1425,6 +1524,12 @@
   "betternether:recipes/decorations/anchor_tree_chair": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-23 22:41:50 +0000"
     },
     "done": true
   },
@@ -1473,6 +1578,12 @@
   "betternether:recipes/decorations/acacia_chair": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
     },
     "done": true
   },
@@ -1590,6 +1701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-07-23 22:00:36 +0000"
@@ -1641,6 +1758,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-07-23 22:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
     },
     "done": true
   },
@@ -1836,6 +1959,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
@@ -1869,6 +1998,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 22:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
     },
     "done": true
   },
@@ -2061,6 +2196,12 @@
   "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-23 22:09:58 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:the_lethal_towers": {
+    "criteria": {
+      "nether_fortress_large_1": "2025-07-23 22:41:11 +0000"
     },
     "done": true
   },
@@ -2352,6 +2493,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_fence": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
@@ -2385,6 +2538,18 @@
   "betterend:recipes/decorations/lucernia_sign": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
+    "criteria": {
+      "has_item": "2025-07-23 22:41:50 +0000"
     },
     "done": true
   },
@@ -2454,6 +2619,12 @@
     },
     "done": true
   },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-23 22:33:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
@@ -2501,6 +2672,12 @@
       "has_log": "2025-07-23 22:07:44 +0000"
     },
     "done": true
+  },
+  "adorabuild_structures:fireproof": {
+    "criteria": {
+      "nether_fortress_large_1": "2025-07-23 22:41:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
@@ -2574,6 +2751,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-07-23 22:34:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_ladder": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
@@ -2601,6 +2784,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-23 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
     },
     "done": true
   },
@@ -2664,6 +2853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
@@ -2703,6 +2898,12 @@
   "betterend:recipes/misc/gold_chandelier": {
     "criteria": {
       "has_gold_ingot": "2025-07-23 22:00:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-07-23 22:34:12 +0000"
     },
     "done": true
   },
@@ -2775,6 +2976,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-07-23 22:41:50 +0000"
     },
     "done": true
   },
@@ -2862,6 +3069,12 @@
     },
     "done": true
   },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
@@ -2898,6 +3111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-07-23 22:27:43 +0000"
@@ -2913,6 +3132,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-07-23 22:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
     },
     "done": true
   },
@@ -2994,9 +3219,27 @@
     },
     "done": true
   },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-07-23 22:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-07-23 22:41:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-23 22:06:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_anvil": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 22:41:50 +0000"
     },
     "done": true
   },
@@ -3129,6 +3372,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-23 22:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-23 22:33:07 +0000"
     },
     "done": true
   },

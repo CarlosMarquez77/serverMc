@@ -353,6 +353,7 @@
     "criteria": {
       "woodland": "2025-07-18 01:01:08 +0000",
       "scrubland": "2025-07-16 00:25:47 +0000",
+      "erupting_inferno": "2025-07-23 22:36:02 +0000",
       "floodplain": "2025-07-18 01:12:30 +0000",
       "mystic_grove": "2025-07-22 20:11:10 +0000",
       "old_growth_woodland": "2025-07-18 01:03:16 +0000",
@@ -5693,7 +5694,14 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:old_warped_woods": "2025-07-21 03:58:17 +0000"
+      "betternether:bone_reef": "2025-07-23 22:40:21 +0000",
+      "betternether:upside_down_forest_cleared": "2025-07-23 22:36:51 +0000",
+      "betternether:poor_nether_grasslands": "2025-07-23 22:42:14 +0000",
+      "betternether:old_fungiwoods": "2025-07-23 22:39:55 +0000",
+      "betternether:nether_mushroom_forest_edge": "2025-07-23 22:39:38 +0000",
+      "betternether:nether_mushroom_forest": "2025-07-23 22:39:40 +0000",
+      "betternether:old_warped_woods": "2025-07-21 03:58:17 +0000",
+      "betternether:sulfuric_bone_reef": "2025-07-23 22:40:38 +0000"
     },
     "done": false
   },
@@ -9167,6 +9175,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_chestplate_smithing": {
     "criteria": {
       "has_ingredients": "2025-07-23 22:12:49 +0000"
@@ -9176,6 +9190,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-23 22:07:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
     },
     "done": true
   },
@@ -9215,15 +9235,33 @@
     },
     "done": true
   },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-07-23 22:39:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-23 21:50:45 +0000"
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-07-23 21:50:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_planks": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
     },
     "done": true
   },
@@ -9281,6 +9319,18 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:the_lethal_towers": {
+    "criteria": {
+      "nether_fortress_large_1": "2025-07-23 22:41:12 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_boots_smithing": {
     "criteria": {
       "has_ingredients": "2025-07-23 22:12:49 +0000"
@@ -9317,9 +9367,21 @@
     },
     "done": true
   },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_nether_reed": "2025-07-23 22:41:53 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2025-07-23 22:07:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/sugar": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
     },
     "done": true
   },
@@ -9328,6 +9390,12 @@
       "has_blackstone": "2025-07-23 22:07:59 +0000"
     },
     "done": true
+  },
+  "adorabuild_structures:fireproof": {
+    "criteria": {
+      "nether_fortress_large_1": "2025-07-23 22:41:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
@@ -9341,9 +9409,27 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-07-23 22:06:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/paper": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
     },
     "done": true
   },
@@ -9410,6 +9496,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-23 22:07:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/stick": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
     },
     "done": true
   },
