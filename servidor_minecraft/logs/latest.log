@@ -2,3 +2,6 @@
 [23Jul2025 00:01:31.267] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [23Jul2025 00:01:31.448] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 181ms
 [23Jul2025 00:08:02.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebasrex> Y+
+[23Jul2025 00:17:25.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set the weather to clear]
+[23Jul2025 00:19:30.859] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[23Jul2025 00:19:30.865] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 6ms
