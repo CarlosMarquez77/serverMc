@@ -9552,6 +9552,12 @@
     },
     "done": true
   },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-07-23 23:16:20 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-23 22:07:59 +0000"

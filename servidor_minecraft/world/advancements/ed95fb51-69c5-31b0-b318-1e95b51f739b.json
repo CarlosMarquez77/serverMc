@@ -9601,5 +9601,11 @@
     },
     "done": true
   },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-07-23 23:16:16 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
