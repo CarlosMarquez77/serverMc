@@ -135,6 +135,7 @@
       "dryland": "2025-07-21 02:30:54 +0000",
       "wasteland": "2025-07-21 03:17:07 +0000",
       "wasteland_steppe": "2025-07-21 02:32:55 +0000",
+      "fir_clearing": "2025-07-23 21:04:40 +0000",
       "undergrowth": "2025-07-21 03:57:45 +0000",
       "rainforest": "2025-07-22 20:17:52 +0000"
     },
@@ -9001,9 +9002,153 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_chair": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_bench": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-23 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_flower_box": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-07-23 21:04:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/fir_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_table": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/biomesoplenty/fir_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-07-23 21:04:20 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/fir_banister": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_shutter": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/biomesoplenty/fir_beehive": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/biomesoplenty/fir_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_fir_log": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:05:47 +0000"
     },
     "done": true
   },

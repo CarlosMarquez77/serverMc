@@ -8692,6 +8692,54 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_chair": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_bench": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_flower_box": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-07-23 21:01:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-07-23 20:44:42 +0000"
@@ -8704,9 +8752,63 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/fir_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-07-23 21:06:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_table": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-07-23 20:46:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
+    "criteria": {
+      "has_seagrass": "2025-07-23 21:02:58 +0000"
     },
     "done": true
   },
@@ -8716,9 +8818,75 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/vp/biomesoplenty/fir_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-07-23 21:01:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_from_bag": {
+    "criteria": {
+      "has_rice_bag": "2025-07-23 21:06:17 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/fir_banister": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/fir_shutter": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/biomesoplenty/fir_beehive": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-23 21:02:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_nautilus_shell": {
     "criteria": {
       "has_any_ingredient": "2025-07-23 20:46:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/biomesoplenty/fir_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_fir_log": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-23 21:01:54 +0000"
     },
     "done": true
   },
