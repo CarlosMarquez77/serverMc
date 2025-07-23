@@ -312,10 +312,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-17 02:07:27 +0000",
+      "minecraft:magma_cube": "2025-07-23 22:58:59 +0000",
       "minecraft:spider": "2025-07-17 02:53:17 +0000",
       "minecraft:creeper": "2025-07-17 02:20:56 +0000",
       "minecraft:witch": "2025-07-17 02:08:08 +0000",
       "minecraft:cave_spider": "2025-07-17 01:50:33 +0000",
+      "minecraft:piglin": "2025-07-23 22:58:11 +0000",
       "minecraft:enderman": "2025-07-23 22:31:41 +0000",
       "minecraft:zombie": "2025-07-17 01:26:07 +0000"
     },
@@ -589,8 +591,11 @@
     "criteria": {
       "betternether:bone_reef": "2025-07-23 22:40:24 +0000",
       "betternether:upside_down_forest_cleared": "2025-07-23 22:36:57 +0000",
+      "betternether:gravel_desert": "2025-07-23 23:00:38 +0000",
       "betternether:poor_nether_grasslands": "2025-07-23 22:41:15 +0000",
       "betternether:old_fungiwoods": "2025-07-23 22:39:55 +0000",
+      "betternether:old_swampland": "2025-07-23 22:59:34 +0000",
+      "betternether:nether_swampland": "2025-07-23 22:58:27 +0000",
       "betternether:magma_land": "2025-07-23 22:51:37 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-07-23 22:39:38 +0000",
       "betternether:nether_mushroom_forest": "2025-07-23 22:39:39 +0000",
@@ -607,6 +612,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-07-23 22:52:53 +0000",
       "minecraft:warped_forest": "2025-07-23 22:34:30 +0000"
     },
     "done": false
@@ -1322,6 +1328,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-07-23 22:06:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-23 22:59:52 +0000"
     },
     "done": true
   },

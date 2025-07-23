@@ -95,6 +95,7 @@
       "erupting_inferno": "2025-07-23 22:37:35 +0000",
       "old_growth_woodland": "2025-07-22 22:20:43 +0000",
       "mediterranean_forest": "2025-07-21 20:44:06 +0000",
+      "undergrowth": "2025-07-23 22:56:58 +0000",
       "rainforest": "2025-07-22 20:41:34 +0000"
     },
     "done": false
@@ -5889,6 +5890,7 @@
       "betternether:bone_reef": "2025-07-23 22:41:29 +0000",
       "betternether:upside_down_forest_cleared": "2025-07-23 22:40:16 +0000",
       "betternether:poor_nether_grasslands": "2025-07-23 22:46:01 +0000",
+      "betternether:old_swampland": "2025-07-23 22:59:38 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-07-23 22:40:23 +0000",
       "betternether:old_warped_woods": "2025-07-23 22:34:08 +0000"
     },
@@ -5966,6 +5968,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-07-23 22:45:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_large": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-07-23 22:45:46 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/bone_reed_door": {
     "criteria": {
       "has_bone_block": "2025-07-23 22:51:37 +0000"
@@ -5975,12 +5989,6 @@
   "betternether:recipes/redstone/bone_block_bone_plate": {
     "criteria": {
       "has_bone_block": "2025-07-23 22:51:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-07-23 22:52:18 +0000"
     },
     "done": true
   },
@@ -5996,12 +6004,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-07-23 22:45:46 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/bone_slab_stonecutting": {
     "criteria": {
       "has_block.betternether.bone_block": "2025-07-23 22:51:37 +0000"
@@ -6011,42 +6013,6 @@
   "betternether:recipes/building_blocks/bone_stairs_stonecutting": {
     "criteria": {
       "has_block.betternether.bone_block": "2025-07-23 22:51:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-07-23 22:52:18 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_smelting": {
-    "criteria": {
-      "has_item.minecraft.quartz": "2025-07-23 22:52:18 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_tile_large": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-07-23 22:45:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-07-23 22:52:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-07-23 22:52:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-07-23 22:52:18 +0000"
     },
     "done": true
   },
@@ -6065,6 +6031,42 @@
   "betternether:recipes/redstone/bone_cin_door": {
     "criteria": {
       "has_bone_block": "2025-07-23 22:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-23 22:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-23 22:52:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-07-23 22:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-23 22:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-23 22:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-23 22:52:18 +0000"
     },
     "done": true
   },

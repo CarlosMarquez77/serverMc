@@ -5697,9 +5697,11 @@
     "criteria": {
       "betternether:bone_reef": "2025-07-23 22:40:21 +0000",
       "betternether:upside_down_forest_cleared": "2025-07-23 22:36:51 +0000",
+      "betternether:gravel_desert": "2025-07-23 22:59:24 +0000",
       "betternether:poor_nether_grasslands": "2025-07-23 22:42:14 +0000",
       "betternether:nether_grasslands": "2025-07-23 22:46:02 +0000",
       "betternether:old_fungiwoods": "2025-07-23 22:39:55 +0000",
+      "betternether:old_swampland": "2025-07-23 22:58:57 +0000",
       "betternether:nether_swampland": "2025-07-23 22:46:23 +0000",
       "betternether:magma_land": "2025-07-23 22:51:35 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-07-23 22:39:38 +0000",
@@ -9356,6 +9358,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-07-23 22:06:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-07-23 22:54:40 +0000"
     },
     "done": true
   },
