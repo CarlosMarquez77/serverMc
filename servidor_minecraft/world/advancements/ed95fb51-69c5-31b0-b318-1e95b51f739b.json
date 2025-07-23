@@ -132,6 +132,7 @@
       "floodplain": "2025-07-22 20:24:01 +0000",
       "old_growth_woodland": "2025-07-22 22:20:37 +0000",
       "crystalline_chasm": "2025-07-23 21:46:57 +0000",
+      "withered_abyss": "2025-07-23 22:50:40 +0000",
       "mediterranean_forest": "2025-07-21 00:10:35 +0000",
       "coniferous_forest": "2025-07-23 20:46:17 +0000",
       "dryland": "2025-07-21 02:30:54 +0000",
@@ -4853,9 +4854,11 @@
     "criteria": {
       "betternether:bone_reef": "2025-07-23 22:40:27 +0000",
       "betternether:upside_down_forest_cleared": "2025-07-22 21:54:49 +0000",
+      "betternether:poor_nether_grasslands": "2025-07-23 22:47:08 +0000",
       "betternether:crimson_pinewood": "2025-07-23 21:50:54 +0000",
       "betternether:old_fungiwoods": "2025-07-23 22:39:57 +0000",
       "betternether:crimson_glowing_woods": "2025-07-23 21:47:28 +0000",
+      "betternether:magma_land": "2025-07-23 22:51:22 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-07-23 22:39:39 +0000",
       "betternether:nether_mushroom_forest": "2025-07-23 22:39:43 +0000",
       "betternether:old_warped_woods": "2025-07-21 03:57:56 +0000",
@@ -8066,6 +8069,7 @@
   },
   "betternether:nether_wood": {
     "criteria": {
+      "got_nether_reed": "2025-07-23 22:46:03 +0000",
       "got_warped": "2025-07-22 21:46:16 +0000",
       "got_anchor_tree": "2025-07-22 21:56:21 +0000"
     },
@@ -9037,6 +9041,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-23 21:16:02 +0000"
@@ -9175,6 +9185,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:46:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_lantern_small": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-07-23 21:57:14 +0000"
@@ -9184,6 +9200,18 @@
   "everycomp:recipes/decorations/fd/biomesoplenty/fir_cabinet": {
     "criteria": {
       "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/obsidian": {
+    "criteria": {
+      "has_magma_block": "2025-07-23 22:49:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_planks": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:46:03 +0000"
     },
     "done": true
   },
@@ -9271,6 +9299,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:46:03 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:the_lethal_towers": {
     "criteria": {
       "nether_fortress_large_1": "2025-07-23 22:41:14 +0000"
@@ -9355,6 +9389,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/sugar": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-23 21:58:23 +0000"
@@ -9391,9 +9431,27 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:46:03 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/vp/biomesoplenty/fir_horticulturist_table": {
     "criteria": {
       "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:46:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/paper": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:46:03 +0000"
     },
     "done": true
   },
@@ -9496,6 +9554,12 @@
   "everycomp:recipes/decorations/tf/biomesoplenty/hollow_fir_log": {
     "criteria": {
       "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/stick": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-07-23 22:46:03 +0000"
     },
     "done": true
   },

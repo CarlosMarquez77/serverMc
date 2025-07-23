@@ -357,6 +357,7 @@
       "floodplain": "2025-07-18 01:12:30 +0000",
       "mystic_grove": "2025-07-22 20:11:10 +0000",
       "old_growth_woodland": "2025-07-18 01:03:16 +0000",
+      "withered_abyss": "2025-07-23 22:46:13 +0000",
       "mediterranean_forest": "2025-07-17 02:42:16 +0000",
       "coniferous_forest": "2025-07-23 20:41:17 +0000",
       "spider_nest": "2025-07-18 01:23:33 +0000",
@@ -5697,7 +5698,10 @@
       "betternether:bone_reef": "2025-07-23 22:40:21 +0000",
       "betternether:upside_down_forest_cleared": "2025-07-23 22:36:51 +0000",
       "betternether:poor_nether_grasslands": "2025-07-23 22:42:14 +0000",
+      "betternether:nether_grasslands": "2025-07-23 22:46:02 +0000",
       "betternether:old_fungiwoods": "2025-07-23 22:39:55 +0000",
+      "betternether:nether_swampland": "2025-07-23 22:46:23 +0000",
+      "betternether:magma_land": "2025-07-23 22:51:35 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-07-23 22:39:38 +0000",
       "betternether:nether_mushroom_forest": "2025-07-23 22:39:40 +0000",
       "betternether:old_warped_woods": "2025-07-21 03:58:17 +0000",
@@ -9502,6 +9506,12 @@
   "betternether:recipes/misc/stick": {
     "criteria": {
       "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/stayin_frosty": {
+    "criteria": {
+      "c1": "2025-07-23 22:49:49 +0000"
     },
     "done": true
   },
