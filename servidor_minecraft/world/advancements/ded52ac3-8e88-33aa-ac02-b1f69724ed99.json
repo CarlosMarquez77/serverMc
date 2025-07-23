@@ -629,10 +629,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-23 23:09:04 +0000",
       "minecraft:nether_wastes": "2025-07-23 22:52:53 +0000",
+      "minecraft:soul_sand_valley": "2025-07-23 23:24:21 +0000",
       "minecraft:basalt_deltas": "2025-07-23 23:03:05 +0000",
       "minecraft:warped_forest": "2025-07-23 22:34:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
@@ -778,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-07-23 22:28:03 +0000"
@@ -787,6 +794,12 @@
   "betternether:recipes/decorations/cherry_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
     },
     "done": true
   },
@@ -805,6 +818,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-07-23 22:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
     },
     "done": true
   },
@@ -874,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/crab_cakes": {
     "criteria": {
       "has_any_ingredient": "2025-07-23 22:26:16 +0000"
@@ -883,6 +908,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-23 22:06:50 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-07-23 23:24:21 +0000"
     },
     "done": true
   },
@@ -925,6 +956,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-07-23 22:00:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/pillar": {
+    "criteria": {
+      "has_item": "2025-07-23 23:27:53 +0000"
     },
     "done": true
   },
@@ -1900,6 +1937,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-07-23 23:26:12 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2025-07-23 22:07:45 +0000"
@@ -1945,6 +1988,12 @@
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2025-07-23 22:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
     },
     "done": true
   },
@@ -1996,6 +2045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-23 22:06:50 +0000"
@@ -2017,6 +2072,12 @@
   "betterend:recipes/misc/blossom_berry_jelly": {
     "criteria": {
       "has_tag_c_water_bottles": "2025-07-23 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-07-23 23:25:11 +0000"
     },
     "done": true
   },
@@ -2059,6 +2120,12 @@
   "betternether:recipes/decorations/rubeus_bar_stool": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
     },
     "done": true
   },
@@ -2116,6 +2183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/mangrove_drawer": {
     "criteria": {
       "has_planks": "2025-07-23 22:07:45 +0000"
@@ -2137,6 +2210,12 @@
   "betternether:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
     },
     "done": true
   },
@@ -2305,6 +2384,12 @@
   "betternether:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-23 22:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
     },
     "done": true
   },
@@ -2980,6 +3065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/netherrack_furnace": {
     "criteria": {
       "has_netherrack": "2025-07-23 22:34:12 +0000"
@@ -3127,6 +3218,12 @@
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-23 22:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
     },
     "done": true
   },
@@ -3301,6 +3398,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 22:00:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/fence": {
+    "criteria": {
+      "has_item": "2025-07-23 23:27:53 +0000"
     },
     "done": true
   },
@@ -3808,6 +3911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-07-23 22:07:45 +0000"
@@ -3985,6 +4094,12 @@
   "betternether:recipes/building_blocks/bn_bone_block": {
     "criteria": {
       "has_bone_block": "2025-07-23 22:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-23 23:27:53 +0000"
     },
     "done": true
   },

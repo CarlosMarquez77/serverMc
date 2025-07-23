@@ -5718,10 +5718,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-23 23:08:59 +0000",
       "minecraft:nether_wastes": "2025-07-21 03:58:25 +0000",
+      "minecraft:soul_sand_valley": "2025-07-23 23:23:44 +0000",
       "minecraft:basalt_deltas": "2025-07-23 23:03:58 +0000",
       "minecraft:warped_forest": "2025-07-23 22:25:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
@@ -9210,6 +9211,12 @@
     },
     "done": true
   },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-07-23 23:23:44 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_hanging_sign": {
     "criteria": {
       "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
@@ -9288,9 +9295,21 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-07-23 23:26:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-23 21:50:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-07-23 23:23:46 +0000"
     },
     "done": true
   },
@@ -9459,6 +9478,12 @@
   "betternether:recipes/misc/paper": {
     "criteria": {
       "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-07-23 23:28:01 +0000"
     },
     "done": true
   },
