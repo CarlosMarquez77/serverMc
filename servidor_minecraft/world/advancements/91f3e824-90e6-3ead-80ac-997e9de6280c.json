@@ -283,6 +283,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-07-24 00:02:12 +0000",
       "minecraft:badlands": "2025-07-17 02:35:06 +0000",
       "minecraft:savanna_plateau": "2025-07-17 01:16:13 +0000",
       "minecraft:river": "2025-07-17 01:28:01 +0000",
@@ -473,7 +474,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "tomato": "2025-07-23 22:06:47 +0000",
-      "potato": "2025-07-18 03:33:11 +0000"
+      "potato": "2025-07-18 03:33:11 +0000",
+      "carrot": "2025-07-23 23:58:22 +0000"
     },
     "done": false
   },
@@ -811,6 +813,12 @@
   "betternether:recipes/decorations/oak_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 23:58:17 +0000"
     },
     "done": true
   },
@@ -1570,6 +1578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-24 00:02:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-07-23 23:06:26 +0000"
@@ -1936,6 +1950,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-07-23 23:58:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-07-23 20:39:30 +0000"
@@ -2020,6 +2040,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-24 00:02:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-07-23 20:39:30 +0000"
@@ -2047,6 +2073,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-07-23 22:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-24 00:02:37 +0000"
     },
     "done": true
   },
@@ -2452,9 +2484,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-07-23 23:58:02 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-07-23 20:54:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 23:58:02 +0000"
     },
     "done": true
   },
@@ -2569,6 +2613,12 @@
   "another_furniture:recipes/furniture_hammer": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 23:58:17 +0000"
     },
     "done": true
   },
@@ -2854,6 +2904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-24 00:02:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/smelted_meef": {
     "criteria": {
       "has_food": "2025-07-23 22:04:34 +0000"
@@ -3064,6 +3120,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 23:58:02 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_chair": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -3244,6 +3306,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-07-23 23:58:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-23 22:25:45 +0000"
@@ -3385,6 +3453,12 @@
   "betternether:recipes/decorations/nether_sakura_fence": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-24 00:02:38 +0000"
     },
     "done": true
   },
@@ -3549,6 +3623,12 @@
       "has_iron_ingot": "2025-07-23 20:37:52 +0000"
     },
     "done": true
+  },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "red_sand_house_medium_1": "2025-07-24 00:02:12 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/tools/cincinnasite_axe_diamond": {
     "criteria": {
@@ -3904,6 +3984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-24 00:02:37 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-07-23 20:37:52 +0000"
@@ -3937,6 +4023,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-07-23 22:42:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 23:58:17 +0000"
     },
     "done": true
   },
@@ -4156,6 +4248,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 23:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-07-23 21:00:33 +0000"
@@ -4201,6 +4299,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-24 00:02:38 +0000"
     },
     "done": true
   },
@@ -4324,6 +4428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-23 23:58:17 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_table": {
     "criteria": {
       "has_planks": "2025-07-23 21:00:33 +0000"
@@ -4390,6 +4500,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-07-23 23:58:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-07-23 23:06:26 +0000"
@@ -4441,6 +4557,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_helmet": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-24 00:02:37 +0000"
     },
     "done": true
   },

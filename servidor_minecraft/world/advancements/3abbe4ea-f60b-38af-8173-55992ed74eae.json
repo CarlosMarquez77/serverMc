@@ -331,6 +331,7 @@
       "minecraft:phantom": "2025-07-18 00:43:24 +0000",
       "minecraft:witch": "2025-07-17 02:04:56 +0000",
       "minecraft:wither_skeleton": "2025-07-21 04:17:10 +0000",
+      "minecraft:husk": "2025-07-23 23:52:41 +0000",
       "minecraft:cave_spider": "2025-07-18 01:14:24 +0000",
       "minecraft:piglin": "2025-07-21 04:06:05 +0000",
       "minecraft:enderman": "2025-07-18 00:55:32 +0000",
@@ -7095,7 +7096,8 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "sand_house_small_1": "2025-07-22 19:37:31 +0000",
-      "oak_house_medium_2": "2025-07-22 19:50:17 +0000"
+      "oak_house_medium_2": "2025-07-22 19:50:17 +0000",
+      "red_sand_house_medium_1": "2025-07-23 23:58:16 +0000"
     },
     "done": false
   },
