@@ -412,7 +412,8 @@
       "rotten_flesh": "2025-07-16 00:52:38 +0000",
       "glow_berries": "2025-07-18 00:51:45 +0000",
       "cooked_chicken": "2025-07-16 00:37:39 +0000",
-      "mushroom_stew": "2025-07-21 23:21:40 +0000"
+      "mushroom_stew": "2025-07-21 23:21:40 +0000",
+      "carrot": "2025-07-24 23:36:17 +0000"
     },
     "done": false
   },
@@ -536,7 +537,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-07-24 23:35:52 +0000",
       "tomato": "2025-07-24 23:31:28 +0000",
+      "rice": "2025-07-24 23:36:53 +0000",
       "brown_mushroom": "2025-07-21 22:46:31 +0000",
       "cocoa": "2025-07-24 23:24:02 +0000",
       "potato": "2025-07-19 01:32:56 +0000",
@@ -9678,6 +9681,30 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-07-24 00:34:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-07-24 23:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-24 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-24 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-07-24 23:36:53 +0000"
     },
     "done": true
   },
