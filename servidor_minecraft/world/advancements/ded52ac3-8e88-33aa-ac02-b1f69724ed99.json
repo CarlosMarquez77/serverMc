@@ -333,6 +333,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-18 01:05:11 +0000",
+      "cooked_mutton": "2025-07-24 23:31:40 +0000",
       "baked_potato": "2025-07-17 01:58:09 +0000",
       "bread": "2025-07-17 01:50:50 +0000",
       "rotten_flesh": "2025-07-17 01:26:40 +0000",
@@ -4291,6 +4292,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-24 23:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 23:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-24 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_stool": {
+    "criteria": {
+      "has_wool": "2025-07-24 23:32:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/end_lotus_bookshelf": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
@@ -4357,6 +4382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 23:32:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
@@ -4396,6 +4427,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-24 23:13:35 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 23:32:09 +0000"
     },
     "done": true
   },
@@ -4477,9 +4514,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/light_gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-24 23:32:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 23:29:38 +0000"
     },
     "done": true
   },
@@ -4501,6 +4550,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-24 23:29:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/lure_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -4519,9 +4574,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 23:32:09 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_bookshelf": {
     "criteria": {
       "has_item": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-24 23:29:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-24 23:32:09 +0000"
     },
     "done": true
   },
@@ -4579,6 +4652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-24 23:31:08 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2025-07-24 23:17:00 +0000"
@@ -4588,6 +4667,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-07-24 23:29:38 +0000"
     },
     "done": true
   },
@@ -4612,6 +4697,12 @@
   "biomesoplenty:recipes/building_blocks/fir_stairs": {
     "criteria": {
       "has_planks": "2025-07-24 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-24 23:29:38 +0000"
     },
     "done": true
   },
@@ -4645,6 +4736,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-24 23:29:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sharpness_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -4654,6 +4751,12 @@
   "betterend:recipes/misc/fortune_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-24 23:29:38 +0000"
     },
     "done": true
   },
@@ -4714,6 +4817,12 @@
   "everycomp:recipes/decorations/af/biomesoplenty/fir_shutter": {
     "criteria": {
       "has_planks": "2025-07-24 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-24 23:29:38 +0000"
     },
     "done": true
   },
@@ -4789,6 +4898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-24 23:29:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/soul_speed_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -4861,6 +4976,18 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-24 23:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-24 23:29:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/rubeus_bookshelf": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
@@ -4924,6 +5051,12 @@
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-24 23:32:09 +0000"
     },
     "done": true
   },
