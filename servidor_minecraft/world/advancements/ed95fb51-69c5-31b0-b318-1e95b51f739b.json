@@ -9789,5 +9789,11 @@
     },
     "done": true
   },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2025-07-24 23:22:08 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

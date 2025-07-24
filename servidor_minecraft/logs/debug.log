@@ -16316,3 +16316,277 @@ ModdedBiomeSource (b53a989)
 [24Jul2025 23:15:31.050] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
 [24Jul2025 23:15:31.050] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
 [24Jul2025 23:17:05.762] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[24Jul2025 23:17:27.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[24Jul2025 23:17:27.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[24Jul2025 23:17:28.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_occultist
+[24Jul2025 23:17:28.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_oceanographer
+[24Jul2025 23:17:28.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:statues/statue_1
+[24Jul2025 23:17:28.503] [Server thread/DEBUG] [mixin/]: Mixing VillagerGoalPackagesMixin from guardvillagers.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[24Jul2025 23:17:28.517] [Server thread/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[24Jul2025 23:17:28.519] [Server thread/DEBUG] [mixin/]: guardvillagers.mixins.json:VillagerGoalPackagesMixin from mod guardvillagers->@Inject::getMeetPackage(Lnet/minecraft/world/entity/npc/VillagerProfession;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[24Jul2025 23:17:28.519] [Server thread/DEBUG] [mixin/]: guardvillagers.mixins.json:VillagerGoalPackagesMixin from mod guardvillagers->@Inject::getIdlePackage(Lnet/minecraft/world/entity/npc/VillagerProfession;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[24Jul2025 23:17:28.522] [Server thread/DEBUG] [mixin/]: Mixing FarmerWorkTaskAccessor from fabric-content-registries-v0.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[24Jul2025 23:17:28.522] [Server thread/DEBUG] [mixin/]: fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[24Jul2025 23:17:28.522] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method fabric_setCompostables(Ljava/util/List;)V to fabric_setCompostables$fabric_content_registries_v0_$md$76125b$0 in fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0
+[24Jul2025 23:17:28.522] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method fabric_getCompostable()Ljava/util/List; to fabric_getCompostable$fabric_content_registries_v0_$md$76125b$1 in fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0
+[24Jul2025 23:17:28.628] [Server thread/DEBUG] [mixin/]: Mixing StayNearPointTaskMixin from blue_skies.mixins.json into net.minecraft.world.entity.ai.behavior.SetWalkTargetFromBlockMemory
+[24Jul2025 23:17:28.655] [Server thread/DEBUG] [mixin/]: Mixing optimizations.sync_loads.SleepInBedMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.SleepInBed
+[24Jul2025 23:17:28.656] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:optimizations.sync_loads.SleepInBedMixin from mod servercore: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[24Jul2025 23:17:28.656] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:optimizations.sync_loads.SleepInBedMixin from mod servercore->@Inject::servercore$onlyProcessIfLoaded(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/entity/ai/Brain;Lnet/minecraft/core/GlobalPos;)V does use it's CallbackInfoReturnable
+[24Jul2025 23:17:28.666] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.VillagerMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[24Jul2025 23:17:28.666] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.VillagerMakeLoveMixin from mod servercore: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[24Jul2025 23:17:28.666] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.VillagerMakeLoveMixin from mod servercore->@Inject::servercore$enforceBreedCap(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/npc/Villager;JLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/world/entity/npc/Villager;)V does use it's CallbackInfo
+[24Jul2025 23:17:28.676] [Server thread/DEBUG] [mixin/]: Mixing ai.poi.tasks.HideInHomeTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
+[24Jul2025 23:17:28.676] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.poi.tasks.HideInHomeTaskMixin from mod radium: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[24Jul2025 23:17:35.270] [Server thread/DEBUG] [mixin/]: Mixing PortalShapeMixin from betternether.mixins.common.json into net.minecraft.world.level.portal.PortalShape
+[24Jul2025 23:17:35.271] [Server thread/DEBUG] [mixin/]: Mixing PortalShapeMixin from bclib.mixins.common.json into net.minecraft.world.level.portal.PortalShape
+[24Jul2025 23:17:35.273] [Server thread/DEBUG] [mixin/]: betternether.mixins.common.json:PortalShapeMixin from mod betternether->@Inject::bn_init(Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction$Axis;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[24Jul2025 23:17:35.273] [Server thread/DEBUG] [mixin/]: betternether.mixins.common.json:PortalShapeMixin from mod betternether->@Inject::bn_init(Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction$Axis;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[24Jul2025 23:17:35.273] [Server thread/DEBUG] [mixin/]: betternether.mixins.common.json:PortalShapeMixin from mod betternether->@Inject::bn_init(Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction$Axis;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[24Jul2025 23:17:35.273] [Server thread/DEBUG] [mixin/]: betternether.mixins.common.json:PortalShapeMixin from mod betternether->@Inject::bn_calculateBottomLeft(Lnet/minecraft/core/BlockPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[24Jul2025 23:17:35.273] [Server thread/DEBUG] [mixin/]: betternether.mixins.common.json:PortalShapeMixin from mod betternether->@Inject::bn_calculateWidth(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[24Jul2025 23:17:35.273] [Server thread/DEBUG] [mixin/]: betternether.mixins.common.json:PortalShapeMixin from mod betternether->@Inject::bn_calculateHeight(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[24Jul2025 23:17:35.273] [Server thread/DEBUG] [mixin/]: betternether.mixins.common.json:PortalShapeMixin from mod betternether->@Inject::bn_createPortalBlocks(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[24Jul2025 23:17:35.273] [Server thread/DEBUG] [mixin/]: betternether.mixins.common.json:PortalShapeMixin from mod betternether->@Inject::bn_isComplete(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[24Jul2025 23:17:35.273] [Server thread/DEBUG] [mixin/]: betternether.mixins.common.json:PortalShapeMixin from mod betternether->@Inject::bn_isValid(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[24Jul2025 23:17:40.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/taiga/taiga_horticulturist
+[24Jul2025 23:17:40.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/taiga/taiga_oceanographer
+[24Jul2025 23:17:40.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/taiga/taiga_alchemist
+[24Jul2025 23:17:41.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 2530.500000, 67.500000, 547.500000]
+[24Jul2025 23:17:46.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:large_logs
+[24Jul2025 23:17:46.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[24Jul2025 23:17:58.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 2498.500000, 69.500000, 547.500000]
+[24Jul2025 23:18:18.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[24Jul2025 23:18:18.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[24Jul2025 23:18:18.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[24Jul2025 23:18:18.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[24Jul2025 23:18:18.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[24Jul2025 23:18:18.347] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_right_room
+[24Jul2025 23:18:18.347] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[24Jul2025 23:18:18.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[24Jul2025 23:18:18.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[24Jul2025 23:18:18.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_and_right
+[24Jul2025 23:18:18.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[24Jul2025 23:18:18.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[24Jul2025 23:18:18.354] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[24Jul2025 23:18:18.354] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[24Jul2025 23:18:18.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[24Jul2025 23:18:18.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[24Jul2025 23:18:18.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[24Jul2025 23:18:18.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[24Jul2025 23:18:18.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[24Jul2025 23:18:18.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[24Jul2025 23:18:18.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[24Jul2025 23:18:18.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_4
+[24Jul2025 23:18:18.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[24Jul2025 23:18:18.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_1
+[24Jul2025 23:18:18.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_0
+[24Jul2025 23:18:18.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_left_room
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[24Jul2025 23:18:26.839] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[24Jul2025 23:18:26.840] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[24Jul2025 23:18:26.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 23:18:26.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 23:18:37.170] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/mushroom_well
+[24Jul2025 23:18:37.195] [Worker-Main-3/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[24Jul2025 23:18:37.196] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[24Jul2025 23:18:46.077] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:18:58.945] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:19:02.914] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:19:03.654] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:19:05.016] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:19:15.650] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:19:20.423] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:19:53.361] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:small_logs
+[24Jul2025 23:19:55.346] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2430, y=74, z=535}) doesn't have enough leaves around top most log
+[24Jul2025 23:20:04.767] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in blue_skies:everdawn
+[24Jul2025 23:20:10.582] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:20:22.330] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:20:36.773] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_7
+[24Jul2025 23:20:41.251] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:20:43.766] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in deeperdarker:otherside
+[24Jul2025 23:21:01.609] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:21:04.704] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:shrine
+[24Jul2025 23:21:23.465] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2538, y=72, z=579}) doesn't have enough leaves around top most log
+[24Jul2025 23:21:57.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [What a Deal!]
+[24Jul2025 23:22:00.841] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/cells
+[24Jul2025 23:22:00.842] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/iron_bars
+[24Jul2025 23:22:00.845] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/dungeon
+[24Jul2025 23:22:00.846] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/enchanting
+[24Jul2025 23:22:00.852] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/large_hall_down
+[24Jul2025 23:22:01.000] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/large
+[24Jul2025 23:22:06.773] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2308, y=76, z=538}) reached max scan size of 500
+[24Jul2025 23:22:09.787] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2304, y=72, z=539}) reached max scan size of 500
+[24Jul2025 23:22:10.571] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2304, y=73, z=541}) doesn't have enough leaves around top most log
+[24Jul2025 23:22:11.241] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2304, y=72, z=541}) doesn't have enough leaves around top most log
+[24Jul2025 23:22:13.993] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_3
+[24Jul2025 23:22:22.303] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2306, y=68, z=541}) doesn't have enough leaves around top most log
+[24Jul2025 23:22:40.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[24Jul2025 23:22:51.428] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2563, y=72, z=569}) doesn't have enough leaves around top most log
+[24Jul2025 23:23:03.552] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:23:04.684] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:23:05.881] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:23:06.689] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:23:07.450] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:23:08.254] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:23:09.022] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2303, y=69, z=549}) reached max scan size of 500
+[24Jul2025 23:23:09.144] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:23:09.857] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2304, y=70, z=549}) reached max scan size of 500
+[24Jul2025 23:23:09.978] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:23:10.662] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2303, y=70, z=549}) reached max scan size of 500
+[24Jul2025 23:23:11.334] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2302, y=69, z=549}) reached max scan size of 500
+[24Jul2025 23:23:12.305] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2302, y=70, z=549}) reached max scan size of 500
+[24Jul2025 23:23:12.972] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2301, y=70, z=549}) reached max scan size of 500
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[24Jul2025 23:23:26.828] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[24Jul2025 23:23:26.829] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[24Jul2025 23:23:26.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 23:23:26.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 23:23:46.421] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:23:51.114] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:23:53.262] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[24Jul2025 23:24:52.263] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$092f18a58a0041c382d55e46bb269b06 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[24Jul2025 23:25:48.766] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in deeperdarker:otherside
+[24Jul2025 23:28:02.767] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in blue_skies:everdawn
