@@ -49,3 +49,10 @@
 [24Jul2025 00:14:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
 [24Jul2025 00:15:05.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was slain by Wadjet
 [24Jul2025 00:15:26.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[24Jul2025 00:18:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[24Jul2025 00:18:50.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[24Jul2025 00:19:41.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has completed the challenge [Death finds a Way]
+[24Jul2025 00:22:54.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_AizenZer0 lost connection: Disconnected
+[24Jul2025 00:22:54.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 left the game
+[24Jul2025 00:25:32.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Disconnected
+[24Jul2025 00:25:32.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game

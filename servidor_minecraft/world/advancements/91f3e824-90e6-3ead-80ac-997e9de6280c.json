@@ -2306,6 +2306,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-07-24 00:19:41 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/jungle_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
