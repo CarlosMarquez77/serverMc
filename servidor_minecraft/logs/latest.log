@@ -56,3 +56,16 @@
 [24Jul2025 00:22:54.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 left the game
 [24Jul2025 00:25:32.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Disconnected
 [24Jul2025 00:25:32.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
+[24Jul2025 00:26:32.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[24Jul2025 00:26:36.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[24Jul2025 00:28:09.678] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:frosted_prison took 27 ms
+[24Jul2025 00:28:13.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[24Jul2025 00:28:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -10191.500000, 80.000000, -9887.500000]
+[24Jul2025 00:28:21.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5923ms or 118 ticks behind
+[24Jul2025 00:28:21.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 moved too quickly! 6.193894379056246,-0.12129684053920187,8.021696228856115
+[24Jul2025 00:28:22.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Frosted Prison]
+[24Jul2025 00:30:23.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Atuesta18]
+[24Jul2025 00:30:26.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[24Jul2025 00:36:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set the time to 1000]
+[24Jul2025 00:39:31.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[24Jul2025 00:39:39.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]

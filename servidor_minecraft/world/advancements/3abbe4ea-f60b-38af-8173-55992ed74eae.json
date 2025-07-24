@@ -284,6 +284,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-07-23 23:50:14 +0000",
+      "minecraft:frozen_river": "2025-07-24 00:28:59 +0000",
       "minecraft:wooded_badlands": "2025-07-22 19:44:06 +0000",
       "minecraft:badlands": "2025-07-17 02:35:03 +0000",
       "minecraft:savanna_plateau": "2025-07-15 23:12:49 +0000",
@@ -293,7 +294,9 @@
       "minecraft:river": "2025-07-16 01:10:24 +0000",
       "minecraft:lukewarm_ocean": "2025-07-21 05:31:16 +0000",
       "minecraft:stony_shore": "2025-07-17 02:25:17 +0000",
+      "minecraft:snowy_plains": "2025-07-24 00:28:22 +0000",
       "minecraft:dripstone_caves": "2025-07-18 01:24:50 +0000",
+      "minecraft:snowy_taiga": "2025-07-24 00:29:42 +0000",
       "minecraft:forest": "2025-07-18 01:48:06 +0000",
       "minecraft:desert": "2025-07-22 19:32:47 +0000",
       "minecraft:jungle": "2025-07-18 01:23:00 +0000",
@@ -378,6 +381,7 @@
       "rocky_rainforest": "2025-07-18 01:21:09 +0000",
       "volcanic_plains": "2025-07-18 01:07:53 +0000",
       "pumpkin_patch": "2025-07-23 23:49:32 +0000",
+      "snowy_fir_clearing": "2025-07-24 00:29:43 +0000",
       "gravel_beach": "2025-07-23 23:50:46 +0000",
       "undergrowth": "2025-07-21 03:57:57 +0000",
       "rainforest": "2025-07-18 01:12:43 +0000"
@@ -9201,6 +9205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-24 00:33:56 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_axe_smithing": {
     "criteria": {
       "has_ingredients": "2025-07-23 22:12:49 +0000"
@@ -9267,6 +9277,12 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-07-24 00:28:22 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_leggings_smithing": {
     "criteria": {
       "has_ingredients": "2025-07-23 22:12:49 +0000"
@@ -9312,6 +9328,12 @@
   "betternether:recipes/building_blocks/nether_reed_planks": {
     "criteria": {
       "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-24 00:34:43 +0000"
     },
     "done": true
   },
@@ -9537,6 +9559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-24 00:33:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-07-23 22:15:48 +0000"
@@ -9582,6 +9610,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-23 22:07:59 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-07-24 00:33:56 +0000"
     },
     "done": true
   },
