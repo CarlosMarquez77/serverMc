@@ -289,6 +289,7 @@
       "minecraft:river": "2025-07-17 01:28:01 +0000",
       "minecraft:stony_shore": "2025-07-17 02:27:16 +0000",
       "minecraft:forest": "2025-07-18 01:46:58 +0000",
+      "minecraft:desert": "2025-07-24 00:04:33 +0000",
       "minecraft:jungle": "2025-07-18 01:26:19 +0000",
       "minecraft:deep_dark": "2025-07-17 01:51:11 +0000",
       "minecraft:savanna": "2025-07-17 01:12:54 +0000",
@@ -350,6 +351,7 @@
       "rotten_flesh": "2025-07-18 01:40:57 +0000",
       "glow_berries": "2025-07-18 00:59:51 +0000",
       "melon_slice": "2025-07-18 01:41:36 +0000",
+      "cooked_rabbit": "2025-07-24 00:10:09 +0000",
       "cooked_chicken": "2025-07-17 01:29:38 +0000",
       "carrot": "2025-07-18 01:02:49 +0000"
     },
@@ -708,6 +710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:07:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_taburet": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -954,6 +962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-24 00:09:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_sign": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
@@ -963,6 +977,12 @@
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-07-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:07:08 +0000"
     },
     "done": true
   },
@@ -1011,6 +1031,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-07-23 21:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-24 00:09:38 +0000"
     },
     "done": true
   },
@@ -1764,6 +1790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-24 00:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-23 21:01:35 +0000"
@@ -1845,6 +1877,12 @@
   "betternether:recipes/tools/nether_ruby_shovel": {
     "criteria": {
       "has_nether_reed_stem": "2025-07-23 22:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-24 00:05:15 +0000"
     },
     "done": true
   },
@@ -2121,6 +2159,12 @@
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-07-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:07:08 +0000"
     },
     "done": true
   },
@@ -2613,6 +2657,12 @@
   "another_furniture:recipes/furniture_hammer": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-07-24 00:04:02 +0000"
     },
     "done": true
   },
@@ -4044,6 +4094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-24 00:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-23 23:03:53 +0000"
@@ -4131,6 +4187,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-23 21:00:33 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2025-07-24 00:03:41 +0000"
     },
     "done": true
   },
@@ -4410,11 +4472,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:07:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_fence": {
     "criteria": {
       "has_stick": "2025-07-23 20:37:52 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-24 00:05:18 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/decorations/wart_chair": {
     "criteria": {
@@ -4509,6 +4583,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-07-23 23:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-24 00:09:38 +0000"
     },
     "done": true
   },
@@ -4659,6 +4739,12 @@
   "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-23 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-24 00:09:38 +0000"
     },
     "done": true
   },

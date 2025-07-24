@@ -9195,6 +9195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:06:53 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_axe_smithing": {
     "criteria": {
       "has_ingredients": "2025-07-23 22:12:49 +0000"
@@ -9222,6 +9228,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-23 22:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:06:53 +0000"
     },
     "done": true
   },
@@ -9300,6 +9312,12 @@
   "betternether:recipes/building_blocks/nether_reed_planks": {
     "criteria": {
       "has_nether_reed_stem": "2025-07-23 22:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:06:53 +0000"
     },
     "done": true
   },
@@ -9588,6 +9606,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-23 22:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:06:53 +0000"
     },
     "done": true
   },

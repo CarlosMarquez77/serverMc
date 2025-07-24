@@ -73,6 +73,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-07-24 00:03:31 +0000",
       "minecraft:savanna_plateau": "2025-07-21 00:10:20 +0000",
       "minecraft:river": "2025-07-21 02:29:53 +0000",
       "minecraft:lukewarm_ocean": "2025-07-21 03:07:33 +0000",
@@ -9062,6 +9063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:11:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_hoe": {
     "criteria": {
       "has_nether_reed_stem": "2025-07-23 22:46:03 +0000"
@@ -9095,6 +9102,12 @@
   "everycomp:recipes/decorations/af/biomesoplenty/fir_bench": {
     "criteria": {
       "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:11:49 +0000"
     },
     "done": true
   },
@@ -9218,6 +9231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-07-24 00:11:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/cincinnasite_frame": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-07-23 21:57:14 +0000"
@@ -9299,6 +9318,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-07-23 21:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:11:49 +0000"
     },
     "done": true
   },
@@ -9395,6 +9420,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-23 21:16:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-07-24 00:04:00 +0000"
     },
     "done": true
   },
@@ -9497,6 +9528,12 @@
   "biomesoplenty:recipes/building_blocks/fir_stairs": {
     "criteria": {
       "has_planks": "2025-07-23 21:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-07-24 00:11:49 +0000"
     },
     "done": true
   },
@@ -9703,6 +9740,18 @@
       "has_netherrack_stalactite": "2025-07-23 22:56:21 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-24 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-24 00:07:16 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/misc/stick": {
     "criteria": {

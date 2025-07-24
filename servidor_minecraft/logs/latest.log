@@ -8,3 +8,44 @@
 [24Jul2025 00:04:02.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Cursed Pyramid]
 [24Jul2025 00:04:28.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
 [24Jul2025 00:04:29.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Cursed Pyramid]
+[24Jul2025 00:09:41.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lu_AizenZer0[/127.155.52.251:42047] logged in with entity id 117738 at (604.5163003264746, 73.0, -417.32602672776164)
+[24Jul2025 00:09:41.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lu_AizenZer0
+[24Jul2025 00:09:41.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lu_AizenZer0
+[24Jul2025 00:09:41.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lu_AizenZer0
+[24Jul2025 00:09:41.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lu_AizenZer0
+[24Jul2025 00:09:41.400] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lu_AizenZer0
+[24Jul2025 00:09:41.401] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lu_AizenZer0
+[24Jul2025 00:09:41.402] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lu_AizenZer0
+[24Jul2025 00:09:41.404] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 00:09:41.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 joined the game
+[24Jul2025 00:09:41.427] [Server thread/INFO] [Jade/]: Syncing config to Lu_AizenZer0 (f8fb0bfc-89af-32f1-a3e2-0504b38cd984)
+[24Jul2025 00:09:41.647] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[24Jul2025 00:09:41.648] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[24Jul2025 00:09:41.648] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[24Jul2025 00:09:41.648] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[24Jul2025 00:09:41.648] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[24Jul2025 00:09:41.648] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[24Jul2025 00:09:41.648] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[24Jul2025 00:09:41.648] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[24Jul2025 00:09:41.648] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[24Jul2025 00:09:41.649] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[24Jul2025 00:09:41.649] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[24Jul2025 00:09:41.649] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[24Jul2025 00:09:41.649] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[24Jul2025 00:09:41.649] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[24Jul2025 00:09:41.649] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[24Jul2025 00:09:41.649] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[24Jul2025 00:09:41.649] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[24Jul2025 00:09:41.649] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[24Jul2025 00:13:01.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Lu_AizenZer0 to KyoShiiro]
+[24Jul2025 00:13:01.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 has made the advancement [Cursed Pyramid]
+[24Jul2025 00:13:13.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[24Jul2025 00:13:24.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Lu_AizenZer0 to KyoShiiro]
+[24Jul2025 00:13:28.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[24Jul2025 00:13:32.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[24Jul2025 00:14:16.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_AizenZer0 was slain by Koboleton
+[24Jul2025 00:14:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 fell from a high place
+[24Jul2025 00:14:22.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Lu_AizenZer0 to KyoShiiro]
+[24Jul2025 00:14:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[24Jul2025 00:15:05.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was slain by Wadjet
+[24Jul2025 00:15:26.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
