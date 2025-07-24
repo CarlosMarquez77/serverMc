@@ -9801,9 +9801,21 @@
     },
     "done": true
   },
+  "delightful:recipes/cooking/animal_oil_bottle": {
+    "criteria": {
+      "has_animal_fat": "2025-07-24 23:50:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-24 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/candle_from_animal_fat": {
+    "criteria": {
+      "has_fat": "2025-07-24 23:50:00 +0000"
     },
     "done": true
   },
@@ -9817,7 +9829,8 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "library_small_1": "2025-07-24 23:45:35 +0000"
+      "library_small_1": "2025-07-24 23:45:35 +0000",
+      "red_sand_house_medium_1": "2025-07-24 23:56:35 +0000"
     },
     "done": false
   },

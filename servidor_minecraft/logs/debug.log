@@ -17000,3 +17000,251 @@ ModdedBiomeSource (b53a989)
 [24Jul2025 23:48:26.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
 [24Jul2025 23:48:26.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jul2025 23:48:26.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 23:51:03.764] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[24Jul2025 23:51:16.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 15629.500000, 71.500000, -9719.500000]
+[24Jul2025 23:51:17.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[24Jul2025 23:51:18.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/base_2
+[24Jul2025 23:51:18.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/seats_1
+[24Jul2025 23:51:18.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/tent_1
+[24Jul2025 23:51:18.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/seats_2
+[24Jul2025 23:51:18.679] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[24Jul2025 23:51:18.679] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[24Jul2025 23:51:18.757] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower1
+[24Jul2025 23:51:18.772] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[24Jul2025 23:51:18.777] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/castle2 is being run through DFU (hash c22a69be890298d90427e6b65c635b9e5b24318ae77404c60d2cd7a6fe8d61d0), this will cause launch time delays
+[24Jul2025 23:51:27.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_2
+[24Jul2025 23:51:32.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[24Jul2025 23:51:46.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:floating_island_1
+[24Jul2025 23:52:41.766] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:jungle_temple/jungle_temple
+[24Jul2025 23:52:46.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> ya vengo
+[24Jul2025 23:52:57.345] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_5
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[24Jul2025 23:53:26.810] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[24Jul2025 23:53:26.813] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[24Jul2025 23:53:26.814] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[24Jul2025 23:53:26.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 23:53:26.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 23:53:29.765] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in deeperdarker:otherside
+[24Jul2025 23:53:51.060] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[24Jul2025 23:53:51.096] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/farm_ruin/main
+[24Jul2025 23:53:51.106] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[24Jul2025 23:53:51.114] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/medium2 is being run through DFU (hash 51c5ea36493fed3a51682b9d0aab0c9dbea766cf54f796386d2b10b761568251), this will cause launch time delays
+[24Jul2025 23:53:51.254] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[24Jul2025 23:53:51.262] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/bottom
+[24Jul2025 23:54:08.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was doomed to fall
+[24Jul2025 23:54:10.702] [Server thread/DEBUG] [twilightforest/]: Player Atuesta18 (ded52ac3-8e88-33aa-ac02-b1f69724ed99) respawned and received items held in storage
+[24Jul2025 23:57:00.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_1
+[24Jul2025 23:57:53.769] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in deeperdarker:otherside
+[24Jul2025 23:58:02.016] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illager_fort/illager_fort
+[24Jul2025 23:58:04.937] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[24Jul2025 23:58:26.808] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[24Jul2025 23:58:26.809] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[24Jul2025 23:58:26.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 23:58:26.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 23:58:28.613] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[24Jul2025 23:58:28.646] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[24Jul2025 23:58:28.651] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[24Jul2025 23:58:28.672] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[24Jul2025 23:58:28.684] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[24Jul2025 23:58:28.694] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[24Jul2025 23:58:28.700] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[24Jul2025 23:58:28.704] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[24Jul2025 23:58:28.711] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[24Jul2025 23:58:28.728] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[24Jul2025 23:58:28.736] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[24Jul2025 23:58:28.760] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[24Jul2025 23:58:28.776] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[24Jul2025 23:58:28.785] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[24Jul2025 23:58:28.793] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[24Jul2025 23:58:28.797] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[24Jul2025 23:58:28.804] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[24Jul2025 23:58:28.811] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[24Jul2025 23:58:28.826] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[24Jul2025 23:58:28.832] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[24Jul2025 23:58:28.841] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[24Jul2025 23:58:28.847] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/streets/straight_01 is being run through DFU (hash c6ae781f7eb3a6b6578b0ff6b94edda7b59f5c486831b40450e188c1e44f9713), this will cause launch time delays
+[24Jul2025 23:58:28.932] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/streets/crossroad_03 is being run through DFU (hash cfd0cc8b4b33c89865f7dc360340f20ab1230041c43947bf5ea22de4eae6c3dc), this will cause launch time delays
+[24Jul2025 23:58:28.949] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_1_l is being run through DFU (hash 9529946996b0da6490fea7f138d8c15de0aab92ed2a5855036ee70cca219578f), this will cause launch time delays
+[24Jul2025 23:58:28.965] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_1_r is being run through DFU (hash 0bf87c4bef77e595b7426f7c394d481bb1425f392a585262b4e978cd0c2747d5), this will cause launch time delays
+[24Jul2025 23:58:28.972] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_2_l is being run through DFU (hash d5fbfdcd8dc20c4fa8345180861e75aff628a7bee6a0d46e9ca88f62528cdc16), this will cause launch time delays
+[24Jul2025 23:58:28.980] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_2_r is being run through DFU (hash 3a00a03492ca1034e6cdd470e20e676f66f0bcceff72530a48e364ca03ed8f4b), this will cause launch time delays
+[24Jul2025 23:58:28.986] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_3_l is being run through DFU (hash 705b58f7be5a921c30f1123cbe34a6f96ff689a0dc04c20850a804c953a8c70f), this will cause launch time delays
+[24Jul2025 23:58:28.990] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_3_r is being run through DFU (hash 7c56e92dbc92cd7f53229e3f14e76d2400ea98e65f0c678e49d22f53755eca9e), this will cause launch time delays
+[24Jul2025 23:58:28.995] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_4_l is being run through DFU (hash a5c82eb186c6d12f4265f514e07e7d255aaa7f17299e06755267bd9e3ea55dd7), this will cause launch time delays
+[24Jul2025 23:58:29.039] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_4_r is being run through DFU (hash 0d1fa135fee02b962cecba51e29589e5e8f04f2ce5efdb49017b26ee593cef4d), this will cause launch time delays
+[24Jul2025 23:58:29.048] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_5_l is being run through DFU (hash 34560db5da7cf2804fa50b47b1a9d66bd89c41b615cb1f3673b4f484e17d2f7c), this will cause launch time delays
+[24Jul2025 23:58:29.052] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_5_r is being run through DFU (hash b276ebd2de7a49bc1b84bfeeaee7d652c6220c0ddb6641791c24cb48942b1242), this will cause launch time delays
+[24Jul2025 23:58:29.057] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_6_l is being run through DFU (hash 19412d98cd60e447f1960e3d83df7e64ce4cd1d32018347b949dc4e5deaefc55), this will cause launch time delays
+[24Jul2025 23:58:29.063] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_small_house_6_r is being run through DFU (hash 4f66eab2c4fe152321e985c66c6f84c5203f6e53e06088ba2bfbeb5ceaca803a), this will cause launch time delays
+[24Jul2025 23:58:29.067] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_misc_professions_1 is being run through DFU (hash 0cc58235fa9f4204878075fea1aadc29f1e981a1dc8f4778feb916f75fdda4d6), this will cause launch time delays
+[24Jul2025 23:58:29.073] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_medium_house_1_l is being run through DFU (hash 7beaa9ee1144645f6c92df7f298dc415be821d54995094da9250da56f56a97e1), this will cause launch time delays
+[24Jul2025 23:58:29.078] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_medium_house_1_r is being run through DFU (hash 9c84cc1ab0240519d5fbaa14577a1ddd235ed8b75f0cd98db94742dd6421f5f7), this will cause launch time delays
+[24Jul2025 23:58:29.083] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_medium_house_2_l is being run through DFU (hash 764f99888210bf7363d01a60e544fd0f3a2d7aa7d72f5cd5caa8b6f97bb59070), this will cause launch time delays
+[24Jul2025 23:58:29.089] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_large_house_1 is being run through DFU (hash 38dd2a109aafaeb75c343868376532f7e753fecbd0750c092ca92f17c09265d3), this will cause launch time delays
+[24Jul2025 23:58:29.098] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_large_house_2 is being run through DFU (hash 9311e2290b3870e3fd25da280b35b64a53fc36380444276a9dc005122bc41949), this will cause launch time delays
+[24Jul2025 23:58:29.107] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_large_house_3 is being run through DFU (hash 8e4be77b7043ba04422927a3eb4fad3b7d590d458f0035fba44fc4d3d88d15eb), this will cause launch time delays
+[24Jul2025 23:58:29.121] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_large_house_4 is being run through DFU (hash 500b245140d1ff44ecbd17db4e1082669e8157abb722bcd3fd7fb3af56209136), this will cause launch time delays
+[24Jul2025 23:58:29.130] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_armorer_1 is being run through DFU (hash 8cd017ca15f3a90cd1c45cd341d2f6071b997a8831b5a066af916d89bcaeb352), this will cause launch time delays
+[24Jul2025 23:58:29.133] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_cartographer_1 is being run through DFU (hash f514578a38095a83e37e22cba1d877e7b1ab774d7b06fdf8ce8205909359c768), this will cause launch time delays
+[24Jul2025 23:58:29.136] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_library_1 is being run through DFU (hash 5ddce4d1f796d805a187641b96fb68f80ae98ad9281d34df16fcbbfd89968bd8), this will cause launch time delays
+[24Jul2025 23:58:29.138] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_mason_1 is being run through DFU (hash a744b551e118e880a0374b59437e00c12c94f023f39a8a0a1d66897a04927d61), this will cause launch time delays
+[24Jul2025 23:58:29.141] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_temple_1 is being run through DFU (hash 4445e95e98b3df2cdde5ca3bcd10beda4cff8140fa2125787e01437a5d33a8da), this will cause launch time delays
+[24Jul2025 23:58:29.146] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/houses/badlands_toolsmith_and_weaponsmith_1 is being run through DFU (hash 5ce08bb698c936ee4997a69d84cc36b3420f71262d5835b58b1edf919bbc8f34), this will cause launch time delays
+[24Jul2025 23:58:29.153] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[24Jul2025 23:58:29.166] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_butcher_1 is being run through DFU (hash 4f44f89cf419e2479266ed3f4c11394367a4e374a8a2aef901faec495d91110f), this will cause launch time delays
+[24Jul2025 23:58:29.168] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_farmer_1 is being run through DFU (hash d62e7bb8cdd866ae4bcb48d2809fe0992a412cf805300915dbc364621474e5b3), this will cause launch time delays
+[24Jul2025 23:58:29.169] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_fisher_1 is being run through DFU (hash 40b8f314631bc9f251b3fb2aae293ad3dd03be4f073a419601e3ee7af53f7474), this will cause launch time delays
+[24Jul2025 23:58:29.170] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_fletcher_1 is being run through DFU (hash c107d243a7643174eeb216e077982c9b3fced7951abada635959d521c562720a), this will cause launch time delays
+[24Jul2025 23:58:29.172] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_leatherworker_1 is being run through DFU (hash e686e9b2fbfda17908df3872d7ae4ba080976824a80317768101e8e51a2b9570), this will cause launch time delays
+[24Jul2025 23:58:29.173] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/professions_misc/badlands_shepherd_1 is being run through DFU (hash ea37475f0cd1cf3226a487291d89b277747e095a0a3d3b3ded81c475a5826832), this will cause launch time delays
+[24Jul2025 23:58:29.265] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/streets/crossroad_02 is being run through DFU (hash a7c62aa0504599a0516da433df087c1a96a53f76348056c822e5d8526209f2b8), this will cause launch time delays
+[24Jul2025 23:58:29.268] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/streets/crossroad_01 is being run through DFU (hash 3dc823ad1b9121c0eb86dabe07786620ee6d8a80a90052a328eee352904e82b1), this will cause launch time delays
+[24Jul2025 23:58:29.271] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/badlands_lamp_1 is being run through DFU (hash 5729fcb7b73c6e9a1ae836e7423807ed54e069f3ba004fdf378b035c13296d7d), this will cause launch time delays
+[24Jul2025 23:58:29.272] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/badlands_lamp_2 is being run through DFU (hash eae75adb7c5c7f17c0b5cee6b3a2f07668c6b98276bfb221af8f81f3e0cacada), this will cause launch time delays
+[24Jul2025 23:58:29.273] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/badlands_lamp_3 is being run through DFU (hash dedfe96ab2eed52b70431d868ccb45b17f5d047f4c8085153ecff43f7c52c1af), this will cause launch time delays
+[24Jul2025 23:58:29.274] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/terminators/terminator_01 is being run through DFU (hash 4f33e0c3deaa3ba813f43c07c605ad0d70c4c43b7806b572d22a37f18c2fcd54), this will cause launch time delays
+[24Jul2025 23:58:29.275] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/terminators/terminator_02 is being run through DFU (hash 2729cf03347211e897b5cdea34c9c68ab5210ce62688f2df53faaccf048095de), this will cause launch time delays
+[24Jul2025 23:58:38.270] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[24Jul2025 23:58:45.763] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in blue_skies:everdawn
