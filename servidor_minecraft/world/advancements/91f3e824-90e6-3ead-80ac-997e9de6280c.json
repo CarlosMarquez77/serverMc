@@ -4887,6 +4887,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-07-25 03:35:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-07-25 03:06:54 +0000"
@@ -5124,6 +5130,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-07-25 03:35:03 +0000"
     },
     "done": true
   },

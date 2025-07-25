@@ -326,3 +326,34 @@
 [25Jul2025 03:31:46.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game
 [25Jul2025 03:32:15.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to PAIK_WS08]
 [25Jul2025 03:33:08.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to PAIK_WS08]
+[25Jul2025 03:33:34.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 03:33:59.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=69, y=-50, z=-4651} BlockPos{x=67, y=-50, z=-4651}
+[25Jul2025 03:34:03.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=-49, z=-4651} BlockPos{x=67, y=-50, z=-4652}
+[25Jul2025 03:34:34.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=-53, z=-4656} BlockPos{x=53, y=-54, z=-4656}
+[25Jul2025 03:35:03.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [You Monster...]
+[25Jul2025 03:35:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has completed the challenge [Overkill]
+[25Jul2025 03:35:28.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=-51, z=-4702} BlockPos{x=62, y=-52, z=-4701}
+[25Jul2025 03:35:33.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 03:35:57.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=99, y=-50, z=-4690} BlockPos{x=99, y=-50, z=-4689}
+[25Jul2025 03:36:17.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=99, y=-49, z=-4699} BlockPos{x=100, y=-49, z=-4699}
+[25Jul2025 03:36:30.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=-52, z=-4700} BlockPos{x=90, y=-53, z=-4699}
+[25Jul2025 03:36:38.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=87, y=-51, z=-4703} BlockPos{x=87, y=-52, z=-4703}
+[25Jul2025 03:37:06.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=-45, z=-4714} BlockPos{x=78, y=-48, z=-4712}
+[25Jul2025 03:37:06.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=-48, z=-4712} BlockPos{x=79, y=-47, z=-4713}
+[25Jul2025 03:37:06.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=-48, z=-4712} BlockPos{x=79, y=-47, z=-4713}
+[25Jul2025 03:37:08.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=-48, z=-4712} BlockPos{x=74, y=-49, z=-4712}
+[25Jul2025 03:37:08.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=-48, z=-4712} BlockPos{x=74, y=-49, z=-4712}
+[25Jul2025 03:37:23.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=-45, z=-4711} BlockPos{x=55, y=-46, z=-4711}
+[25Jul2025 03:37:24.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=-45, z=-4711} BlockPos{x=55, y=-46, z=-4711}
+[25Jul2025 03:37:28.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=-49, z=-4705} BlockPos{x=53, y=-49, z=-4706}
+[25Jul2025 03:37:40.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=-42, z=-4702} BlockPos{x=46, y=-42, z=-4703}
+[25Jul2025 03:37:50.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 79.500000, -48.500000, -4670.500000]
+[25Jul2025 03:37:52.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=-42, z=-4694} BlockPos{x=45, y=-42, z=-4696}
+[25Jul2025 03:38:33.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set the weather to clear]
+[25Jul2025 03:39:20.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=58, y=-50, z=-4664} BlockPos{x=59, y=-50, z=-4662}
+[25Jul2025 03:39:30.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 03:40:10.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=-41, z=-4710} BlockPos{x=90, y=-42, z=-4710}
+[25Jul2025 03:40:10.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=-41, z=-4710} BlockPos{x=90, y=-42, z=-4710}
+[25Jul2025 03:41:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to PAIK_WS08]
+[25Jul2025 03:42:09.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 03:43:00.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=-47, z=-4633} BlockPos{x=53, y=-48, z=-4633}

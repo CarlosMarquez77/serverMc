@@ -9710,6 +9710,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/polished_basalt/slab": {
+    "criteria": {
+      "has_item": "2025-07-25 03:31:31 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/combustion_table": {
     "criteria": {
       "has_silver_ingot": "2025-07-25 00:58:16 +0000"
@@ -9804,6 +9810,12 @@
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 00:20:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/polished_basalt_basalt_bricks": {
+    "criteria": {
+      "has_polished_basalt": "2025-07-25 03:31:31 +0000"
     },
     "done": true
   },
@@ -9939,6 +9951,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:31:31 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/tools/spectre_flare": {
     "criteria": {
       "has_silver_ingot": "2025-07-25 00:58:16 +0000"
@@ -9978,6 +9996,12 @@
   "farmersdelight:recipes/cooking/jar_of_pickles": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 01:26:43 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/wall": {
+    "criteria": {
+      "has_item": "2025-07-25 03:31:31 +0000"
     },
     "done": true
   },
@@ -10032,6 +10056,12 @@
   "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-07-25 03:31:31 +0000"
     },
     "done": true
   },
