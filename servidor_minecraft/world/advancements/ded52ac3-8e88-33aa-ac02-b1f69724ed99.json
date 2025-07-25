@@ -4238,15 +4238,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2025-07-24 23:44:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
     },
     "done": true
   },
@@ -4271,6 +4289,12 @@
   "delightful:recipes/campfire/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-24 23:22:55 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2025-07-25 02:02:35 +0000"
     },
     "done": true
   },
@@ -4364,6 +4388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-24 23:13:35 +0000"
@@ -4391,6 +4421,12 @@
   "another_furniture:recipes/light_gray_stool": {
     "criteria": {
       "has_wool": "2025-07-24 23:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
     },
     "done": true
   },
@@ -4532,6 +4568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_poison_stone": {
     "criteria": {
       "has_item": "2025-07-25 01:45:31 +0000"
@@ -4547,6 +4589,12 @@
   "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-25 01:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
     },
     "done": true
   },
@@ -4571,6 +4619,12 @@
   "blue_skies:recipes/building_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
     },
     "done": true
   },
@@ -4616,6 +4670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/fire_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -4634,9 +4694,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-07-25 00:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-25 02:02:35 +0000"
     },
     "done": true
   },
@@ -4646,15 +4718,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blast_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
     },
     "done": true
   },
@@ -4676,6 +4778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-25 02:04:26 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_shelf": {
     "criteria": {
       "has_planks": "2025-07-24 23:13:35 +0000"
@@ -4685,6 +4793,12 @@
   "delightful:recipes/smoking/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-24 23:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
     },
     "done": true
   },
@@ -4700,9 +4814,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-25 02:02:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/lure_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
     },
     "done": true
   },
@@ -4784,6 +4910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-25 02:02:35 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-25 01:30:57 +0000"
@@ -4793,6 +4925,12 @@
   "betterend:recipes/misc/luck_of_sea_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
     },
     "done": true
   },
@@ -4820,6 +4958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-25 02:02:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/piercing_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -4838,9 +4982,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/swift_sneak_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
     },
     "done": true
   },
@@ -4871,6 +5045,18 @@
   "blue_skies:recipes/building_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
     },
     "done": true
   },
@@ -4925,6 +5111,18 @@
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-25 02:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-25 02:02:35 +0000"
     },
     "done": true
   },
@@ -4988,9 +5186,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/vp/biomesoplenty/fir_horticulturist_table": {
     "criteria": {
       "has_planks": "2025-07-24 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-25 02:02:35 +0000"
     },
     "done": true
   },
@@ -5114,6 +5324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
     "criteria": {
       "has_bonemeal": "2025-07-25 00:08:14 +0000"
@@ -5135,6 +5351,12 @@
   "betterend:recipes/misc/fire_aspect_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-25 02:02:35 +0000"
     },
     "done": true
   },
@@ -5222,6 +5444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweeping_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -5243,6 +5471,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-24 23:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
     },
     "done": true
   },
@@ -5288,6 +5528,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/bane_of_arthropods_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -5315,6 +5561,12 @@
   "everycomp:recipes/decorations/tf/biomesoplenty/hollow_fir_log": {
     "criteria": {
       "has_planks": "2025-07-24 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-07-25 02:02:35 +0000"
     },
     "done": true
   },
@@ -5369,6 +5621,18 @@
   "another_furniture:recipes/oak_table": {
     "criteria": {
       "has_planks": "2025-07-24 23:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-25 02:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-25 02:11:53 +0000"
     },
     "done": true
   },

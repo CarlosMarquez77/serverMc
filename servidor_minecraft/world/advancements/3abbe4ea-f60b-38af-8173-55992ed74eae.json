@@ -334,6 +334,7 @@
       "minecraft:creeper": "2025-07-17 01:29:14 +0000",
       "minecraft:slime": "2025-07-22 20:55:54 +0000",
       "minecraft:phantom": "2025-07-18 00:43:24 +0000",
+      "minecraft:zombified_piglin": "2025-07-25 02:07:57 +0000",
       "minecraft:witch": "2025-07-17 02:04:56 +0000",
       "minecraft:wither_skeleton": "2025-07-21 04:17:10 +0000",
       "minecraft:husk": "2025-07-23 23:52:41 +0000",
@@ -5720,6 +5721,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2025-07-23 22:40:21 +0000",
+      "betternether:wart_forest_edge": "2025-07-25 02:02:10 +0000",
       "betternether:upside_down_forest_cleared": "2025-07-23 22:36:51 +0000",
       "betternether:flooded_deltas": "2025-07-23 23:03:01 +0000",
       "betternether:gravel_desert": "2025-07-23 22:59:24 +0000",
@@ -5732,8 +5734,10 @@
       "betternether:crimson_glowing_woods": "2025-07-23 23:09:44 +0000",
       "betternether:magma_land": "2025-07-23 22:51:35 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-07-23 22:39:38 +0000",
+      "betternether:nether_jungle": "2025-07-25 02:01:56 +0000",
       "betternether:nether_mushroom_forest": "2025-07-23 22:39:40 +0000",
       "betternether:nether_swampland_terraces": "2025-07-23 23:37:05 +0000",
+      "betternether:wart_forest": "2025-07-25 02:02:18 +0000",
       "betternether:old_warped_woods": "2025-07-21 03:58:17 +0000",
       "betternether:sulfuric_bone_reef": "2025-07-23 22:40:38 +0000"
     },
