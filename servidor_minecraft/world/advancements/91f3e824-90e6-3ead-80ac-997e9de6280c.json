@@ -4851,75 +4851,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/bisque": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-25 02:38:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-07-25 02:36:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-25 02:32:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-07-25 02:56:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/crab_cakes": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-25 02:38:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-25 03:06:54 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_grottol": {
-    "criteria": {
-      "grottol": "2025-07-25 03:35:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-07-25 03:06:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-07-25 02:37:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-07-25 02:36:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-07-25 02:56:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-07-25 02:37:51 +0000"
     },
     "done": true
   },
@@ -4935,39 +4869,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_chair": {
-    "criteria": {
-      "has_planks": "2025-07-25 03:06:54 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/find_ancient_city": {
-    "criteria": {
-      "ancient_city": "2025-07-25 02:52:44 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-07-25 02:56:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-25 03:06:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-25 02:32:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-07-25 03:06:54 +0000"
     },
     "done": true
   },
@@ -4989,21 +4893,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/gray_lamp": {
-    "criteria": {
-      "has_wool": "2025-07-25 02:56:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-07-25 02:32:18 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_stool": {
-    "criteria": {
-      "has_wool": "2025-07-25 02:56:31 +0000"
     },
     "done": true
   },
@@ -5031,51 +4923,27 @@
     },
     "done": true
   },
-  "another_furniture:recipes/gray_curtain": {
+  "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
-      "has_wool": "2025-07-25 02:56:31 +0000"
+      "has_stone": "2025-07-25 02:32:18 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cooked_crab": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
-      "has_any_ingredient": "2025-07-25 02:38:59 +0000"
+      "has_stone": "2025-07-25 02:32:18 +0000"
     },
     "done": true
   },
-  "crabbersdelight:recipes/building_blocks/crab_barrel": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_crab": "2025-07-25 02:38:59 +0000"
+      "has_chicken": "2025-07-25 02:36:15 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_shelf": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "has_planks": "2025-07-25 03:06:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-07-25 03:06:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-07-25 02:56:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-25 03:06:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-25 03:06:54 +0000"
+      "has_chicken": "2025-07-25 02:36:15 +0000"
     },
     "done": true
   },
@@ -5085,27 +4953,21 @@
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_table": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_planks": "2025-07-25 03:06:54 +0000"
+      "has_porkchop": "2025-07-25 02:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-25 02:37:51 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 02:37:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-07-25 02:56:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-07-25 03:06:54 +0000"
     },
     "done": true
   },
@@ -5121,9 +4983,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
+  "farmersdelight:recipes/cooking/bisque": {
     "criteria": {
-      "has_stone": "2025-07-25 02:32:18 +0000"
+      "has_any_ingredient": "2025-07-25 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/crab_cakes": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_crab": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/crab_barrel": {
+    "criteria": {
+      "has_crab": "2025-07-25 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-07-25 02:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
     },
     "done": true
   },
@@ -5133,21 +5139,33 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-07-25 03:35:03 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/overkill": {
     "criteria": {
       "overkill": "2025-07-25 03:35:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+  "farmersdelight:main/get_ham": {
     "criteria": {
-      "has_stone": "2025-07-25 02:32:18 +0000"
+      "ham": "2025-07-25 03:59:30 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/gray_sofa": {
+  "farmersdelight:recipes/food/smoked_ham": {
     "criteria": {
-      "has_wool": "2025-07-25 02:56:31 +0000"
+      "has_ham": "2025-07-25 03:59:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-07-25 04:00:33 +0000"
     },
     "done": true
   },

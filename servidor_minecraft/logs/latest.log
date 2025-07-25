@@ -368,3 +368,42 @@
 [25Jul2025 03:49:42.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 145.500000, -45.500000, -4556.500000]
 [25Jul2025 03:51:56.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
 [25Jul2025 03:52:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 03:54:11.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -117.500000, 46.500000, 1.500000]
+[25Jul2025 03:54:12.360] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[25Jul2025 03:54:12.360] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[25Jul2025 03:56:03.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 276.500000, 43.500000, 484.500000]
+[25Jul2025 03:56:06.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 lost connection: Disconnected
+[25Jul2025 03:56:06.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 left the game
+[25Jul2025 03:56:26.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAIK_WS08[/127.41.202.231:53903] logged in with entity id 153935 at (609.4234001802794, 73.0, -416.1854747792188)
+[25Jul2025 03:56:26.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PAIK_WS08
+[25Jul2025 03:56:26.196] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PAIK_WS08
+[25Jul2025 03:56:26.196] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PAIK_WS08
+[25Jul2025 03:56:26.196] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PAIK_WS08
+[25Jul2025 03:56:26.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PAIK_WS08
+[25Jul2025 03:56:26.200] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PAIK_WS08
+[25Jul2025 03:56:26.200] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PAIK_WS08
+[25Jul2025 03:56:26.204] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 03:56:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 joined the game
+[25Jul2025 03:56:26.260] [Server thread/INFO] [Jade/]: Syncing config to PAIK_WS08 (91f3e824-90e6-3ead-80ac-997e9de6280c)
+[25Jul2025 03:56:26.442] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[25Jul2025 03:56:26.443] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[25Jul2025 03:56:26.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[25Jul2025 03:56:26.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[25Jul2025 03:56:26.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[25Jul2025 03:58:15.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 63.500000, 35.500000, -51.500000]
+[25Jul2025 03:58:31.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 03:58:41.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[25Jul2025 03:58:50.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
