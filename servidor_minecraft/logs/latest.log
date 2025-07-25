@@ -261,3 +261,23 @@
 [25Jul2025 02:56:39.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
 [25Jul2025 02:56:51.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=-52, z=-4482} BlockPos{x=5, y=-52, z=-4483}
 [25Jul2025 02:57:03.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> donde ta mi body?
+[25Jul2025 03:04:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Atuesta18 to Sebasrex]
+[25Jul2025 03:04:32.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 03:05:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 03:07:30.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=-53, z=-4492} BlockPos{x=132, y=-52, z=-4491}
+[25Jul2025 03:07:30.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=-53, z=-4492} BlockPos{x=132, y=-52, z=-4491}
+[25Jul2025 03:08:01.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=-48, z=-4541} BlockPos{x=-30, y=-49, z=-4542}
+[25Jul2025 03:08:12.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 03:08:29.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=125, y=-52, z=-4501} BlockPos{x=124, y=-52, z=-4500}
+[25Jul2025 03:09:17.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=-52, z=-4582} BlockPos{x=0, y=-53, z=-4582}
+[25Jul2025 03:09:30.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=-51, z=-4533} BlockPos{x=141, y=-51, z=-4532}
+[25Jul2025 03:09:42.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=-52, z=-4587} BlockPos{x=20, y=-52, z=-4588}
+[25Jul2025 03:10:55.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=-49, z=-4578} BlockPos{x=-12, y=-48, z=-4577}
+[25Jul2025 03:10:55.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=-48, z=-4577} BlockPos{x=-11, y=-48, z=-4578}
+[25Jul2025 03:10:55.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=-48, z=-4577} BlockPos{x=-11, y=-48, z=-4578}
+[25Jul2025 03:11:20.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=147, y=-49, z=-4509} BlockPos{x=146, y=-50, z=-4508}
+[25Jul2025 03:11:24.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=142, y=-51, z=-4500} BlockPos{x=143, y=-52, z=-4500}
+[25Jul2025 03:11:50.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=-50, z=-4527} BlockPos{x=145, y=-51, z=-4525}
+[25Jul2025 03:12:01.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was obliterated by a sonically-charged shriek
+[25Jul2025 03:12:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Atuesta18 to Sebasrex]
+[25Jul2025 03:12:24.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]

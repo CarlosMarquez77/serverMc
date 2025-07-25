@@ -286,6 +286,7 @@
       "minecraft:wooded_badlands": "2025-07-24 00:02:12 +0000",
       "minecraft:badlands": "2025-07-17 02:35:06 +0000",
       "minecraft:savanna_plateau": "2025-07-17 01:16:13 +0000",
+      "minecraft:sparse_jungle": "2025-07-25 03:02:00 +0000",
       "minecraft:river": "2025-07-17 01:28:01 +0000",
       "minecraft:stony_shore": "2025-07-17 02:27:16 +0000",
       "minecraft:forest": "2025-07-18 01:46:58 +0000",
@@ -4880,6 +4881,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-07-25 02:37:51 +0000"
@@ -4916,6 +4929,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
       "ancient_city": "2025-07-25 02:52:44 +0000"
@@ -4928,9 +4947,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-25 02:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
     },
     "done": true
   },
@@ -5012,15 +5043,45 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-07-25 02:56:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-07-25 02:36:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
     },
     "done": true
   },
@@ -5033,6 +5094,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
     },
     "done": true
   },
@@ -5051,6 +5118,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-07-25 02:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:06:54 +0000"
     },
     "done": true
   },
