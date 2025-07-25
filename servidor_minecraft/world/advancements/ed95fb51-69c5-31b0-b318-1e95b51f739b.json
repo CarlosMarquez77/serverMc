@@ -9836,6 +9836,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/polished_basalt/slab": {
+    "criteria": {
+      "has_item": "2025-07-25 03:16:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-25 02:58:04 +0000"
@@ -10001,6 +10007,12 @@
   "delightful:recipes/cantaloupe_slice": {
     "criteria": {
       "has_cantaloupe": "2025-07-25 00:23:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/polished_basalt_basalt_bricks": {
+    "criteria": {
+      "has_polished_basalt": "2025-07-25 03:16:13 +0000"
     },
     "done": true
   },
@@ -10184,6 +10196,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
+    "criteria": {
+      "has_planks": "2025-07-25 03:16:13 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/candle_from_animal_fat": {
     "criteria": {
       "has_fat": "2025-07-24 23:50:00 +0000"
@@ -10301,6 +10319,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/polished_basalt/wall": {
+    "criteria": {
+      "has_item": "2025-07-25 03:16:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-07-25 00:19:49 +0000"
@@ -10376,6 +10400,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2025-07-25 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-07-25 03:16:13 +0000"
     },
     "done": true
   },
