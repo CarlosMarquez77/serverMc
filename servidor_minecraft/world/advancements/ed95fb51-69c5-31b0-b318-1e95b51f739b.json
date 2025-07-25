@@ -10098,6 +10098,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-25 01:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-07-25 00:19:49 +0000"
@@ -10123,6 +10129,12 @@
       "minecraft:cow": "2025-07-24 23:44:08 +0000"
     },
     "done": false
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-07-25 01:51:56 +0000"
+    },
+    "done": true
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
