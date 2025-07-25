@@ -10204,6 +10204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-07-25 02:42:14 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/building_blocks/salmon_barrel": {
     "criteria": {
       "has_salmon": "2025-07-25 00:01:08 +0000"

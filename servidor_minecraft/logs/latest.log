@@ -238,3 +238,18 @@
 [25Jul2025 02:39:51.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 137.500000, -50.500000, -4495.500000]
 [25Jul2025 02:40:56.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Atuesta18 to Sebasrex]
 [25Jul2025 02:41:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has reached the goal [A Metropolis of Restless Souls]
+[25Jul2025 02:42:47.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was obliterated by a sonically-charged shriek
+[25Jul2025 02:42:57.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 43.500000, -31.500000, -4553.500000]
+[25Jul2025 02:43:20.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Sneak 100]
+[25Jul2025 02:43:20.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to PAIK_WS08]
+[25Jul2025 02:43:40.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 02:44:30.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 02:44:33.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Atuesta18]
+[25Jul2025 02:45:50.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 02:47:11.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was obliterated by a sonically-charged shriek
+[25Jul2025 02:47:23.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 02:47:28.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 02:48:55.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Phantom Thief]
+[25Jul2025 02:49:15.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=-45, z=-4508} BlockPos{x=148, y=-45, z=-4509}
+[25Jul2025 02:49:15.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=-45, z=-4508} BlockPos{x=148, y=-45, z=-4509}
+[25Jul2025 02:49:15.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=-45, z=-4508} BlockPos{x=148, y=-45, z=-4509}
