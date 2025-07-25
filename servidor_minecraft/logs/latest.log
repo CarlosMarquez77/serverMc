@@ -225,3 +225,16 @@
 [25Jul2025 02:31:26.476] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [25Jul2025 02:31:26.476] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
 [25Jul2025 02:31:43.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 02:36:50.604] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[25Jul2025 02:36:50.604] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[25Jul2025 02:36:50.604] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[25Jul2025 02:36:50.604] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[25Jul2025 02:36:50.604] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[25Jul2025 02:36:50.606] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[25Jul2025 02:36:50.606] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[25Jul2025 02:37:34.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 02:39:00.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 02:39:19.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was obliterated by a sonically-charged shriek
+[25Jul2025 02:39:51.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 137.500000, -50.500000, -4495.500000]
+[25Jul2025 02:40:56.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Atuesta18 to Sebasrex]
+[25Jul2025 02:41:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has reached the goal [A Metropolis of Restless Souls]

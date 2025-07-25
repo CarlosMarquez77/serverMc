@@ -9829,9 +9829,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-25 02:29:52 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2025-07-25 01:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-25 02:29:52 +0000"
     },
     "done": true
   },
@@ -9979,6 +9991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-07-25 02:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-07-25 00:49:47 +0000"
@@ -9988,6 +10006,12 @@
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
       "ancient_city": "2025-07-25 02:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-25 02:29:52 +0000"
     },
     "done": true
   },
@@ -10039,6 +10063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-25 02:29:52 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_maledictus": {
     "criteria": {
       "ignis": "2025-07-25 00:48:19 +0000"
@@ -10063,9 +10093,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-25 02:31:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-07-25 00:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-25 02:29:52 +0000"
     },
     "done": true
   },
@@ -10249,6 +10291,18 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-25 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-25 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-25 02:29:52 +0000"
     },
     "done": true
   },

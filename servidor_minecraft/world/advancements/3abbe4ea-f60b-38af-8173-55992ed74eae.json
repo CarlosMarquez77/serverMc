@@ -10010,6 +10010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-25 02:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-07-25 00:22:24 +0000"
