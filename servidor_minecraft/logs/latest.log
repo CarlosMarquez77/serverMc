@@ -357,3 +357,14 @@
 [25Jul2025 03:41:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to PAIK_WS08]
 [25Jul2025 03:42:09.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
 [25Jul2025 03:43:00.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=-47, z=-4633} BlockPos{x=53, y=-48, z=-4633}
+[25Jul2025 03:43:34.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=-51, z=-4608} BlockPos{x=48, y=-52, z=-4608}
+[25Jul2025 03:45:04.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=-51, z=-4590} BlockPos{x=44, y=-50, z=-4591}
+[25Jul2025 03:45:04.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=-50, z=-4591} BlockPos{x=44, y=-51, z=-4591}
+[25Jul2025 03:45:04.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=-50, z=-4591} BlockPos{x=44, y=-51, z=-4591}
+[25Jul2025 03:45:44.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to PAIK_WS08]
+[25Jul2025 03:45:54.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 03:48:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to PAIK_WS08]
+[25Jul2025 03:49:19.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 03:49:42.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 145.500000, -45.500000, -4556.500000]
+[25Jul2025 03:51:56.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[25Jul2025 03:52:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
