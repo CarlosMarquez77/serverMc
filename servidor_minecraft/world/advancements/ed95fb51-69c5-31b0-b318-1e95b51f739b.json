@@ -78,6 +78,7 @@
       "minecraft:badlands": "2025-07-24 23:59:26 +0000",
       "minecraft:savanna_plateau": "2025-07-21 00:10:20 +0000",
       "minecraft:beach": "2025-07-25 00:22:32 +0000",
+      "minecraft:sparse_jungle": "2025-07-25 02:26:47 +0000",
       "minecraft:river": "2025-07-21 02:29:53 +0000",
       "minecraft:lukewarm_ocean": "2025-07-21 03:07:33 +0000",
       "minecraft:stony_shore": "2025-07-21 03:07:21 +0000",
@@ -9822,6 +9823,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-07-25 02:28:28 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2025-07-25 01:37:16 +0000"
@@ -9975,6 +9982,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-07-25 00:49:47 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-07-25 02:24:32 +0000"
     },
     "done": true
   },
@@ -10254,6 +10267,12 @@
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2025-07-24 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-25 02:28:27 +0000"
     },
     "done": true
   },

@@ -382,6 +382,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-07-25 02:19:10 +0000",
       "sugar_cane": "2025-07-23 22:27:25 +0000",
       "potato": "2025-07-17 01:52:14 +0000",
       "carrot": "2025-07-23 22:27:45 +0000"

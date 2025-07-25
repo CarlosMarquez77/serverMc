@@ -188,3 +188,40 @@
 [25Jul2025 02:13:00.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
 [25Jul2025 02:13:31.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 166.500000, 62.500000, 253.500000]
 [25Jul2025 02:17:58.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 02:22:47.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[25Jul2025 02:23:03.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[25Jul2025 02:24:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 8.500000, -19.500000, -4497.500000]
+[25Jul2025 02:24:15.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 02:24:32.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has reached the goal [A Metropolis of Restless Souls]
+[25Jul2025 02:28:05.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> hp
+[25Jul2025 02:28:47.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 02:31:25.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAIK_WS08[/127.41.202.231:57271] logged in with entity id 108802 at (610.8543533386096, 73.0, -415.58068404432754)
+[25Jul2025 02:31:25.420] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PAIK_WS08
+[25Jul2025 02:31:25.420] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PAIK_WS08
+[25Jul2025 02:31:25.421] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PAIK_WS08
+[25Jul2025 02:31:25.421] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PAIK_WS08
+[25Jul2025 02:31:25.422] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PAIK_WS08
+[25Jul2025 02:31:25.425] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PAIK_WS08
+[25Jul2025 02:31:25.425] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PAIK_WS08
+[25Jul2025 02:31:25.428] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 02:31:25.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 joined the game
+[25Jul2025 02:31:25.506] [Server thread/INFO] [Jade/]: Syncing config to PAIK_WS08 (91f3e824-90e6-3ead-80ac-997e9de6280c)
+[25Jul2025 02:31:26.471] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[25Jul2025 02:31:26.472] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[25Jul2025 02:31:26.472] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[25Jul2025 02:31:26.473] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[25Jul2025 02:31:26.473] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[25Jul2025 02:31:26.473] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[25Jul2025 02:31:26.473] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[25Jul2025 02:31:26.473] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[25Jul2025 02:31:26.473] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[25Jul2025 02:31:26.473] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[25Jul2025 02:31:26.473] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[25Jul2025 02:31:26.473] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[25Jul2025 02:31:26.474] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[25Jul2025 02:31:26.474] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[25Jul2025 02:31:26.474] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[25Jul2025 02:31:26.476] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[25Jul2025 02:31:26.476] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[25Jul2025 02:31:26.476] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[25Jul2025 02:31:43.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
