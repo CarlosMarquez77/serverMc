@@ -9715,6 +9715,13 @@
     },
     "done": false
   },
+  "betterend:all_the_templates": {
+    "criteria": {
+      "got_terminite": "2025-07-25 00:40:54 +0000",
+      "got_thallasium": "2025-07-25 00:44:23 +0000"
+    },
+    "done": false
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
