@@ -283,11 +283,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-07-25 00:35:08 +0000",
       "minecraft:wooded_badlands": "2025-07-24 00:04:29 +0000",
       "minecraft:badlands": "2025-07-17 02:35:02 +0000",
       "minecraft:savanna_plateau": "2025-07-17 01:23:27 +0000",
       "minecraft:river": "2025-07-17 01:29:15 +0000",
       "minecraft:stony_shore": "2025-07-17 02:27:12 +0000",
+      "minecraft:snowy_plains": "2025-07-25 00:30:52 +0000",
       "minecraft:forest": "2025-07-18 01:03:14 +0000",
       "minecraft:desert": "2025-07-17 02:35:03 +0000",
       "minecraft:jungle": "2025-07-18 01:26:16 +0000",
@@ -4431,6 +4433,12 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-07-25 00:31:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/lacugrove_bookshelf": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
@@ -4782,6 +4790,12 @@
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2025-07-25 00:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-25 00:37:34 +0000"
     },
     "done": true
   },
@@ -5226,6 +5240,12 @@
   "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-25 00:37:34 +0000"
     },
     "done": true
   },

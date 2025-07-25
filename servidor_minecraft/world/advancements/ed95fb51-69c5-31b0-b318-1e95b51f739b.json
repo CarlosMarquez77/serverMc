@@ -73,6 +73,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-07-25 00:35:06 +0000",
       "minecraft:wooded_badlands": "2025-07-24 00:03:31 +0000",
       "minecraft:badlands": "2025-07-24 23:59:26 +0000",
       "minecraft:savanna_plateau": "2025-07-21 00:10:20 +0000",
@@ -80,6 +81,7 @@
       "minecraft:river": "2025-07-21 02:29:53 +0000",
       "minecraft:lukewarm_ocean": "2025-07-21 03:07:33 +0000",
       "minecraft:stony_shore": "2025-07-21 03:07:21 +0000",
+      "minecraft:snowy_plains": "2025-07-25 00:30:49 +0000",
       "minecraft:forest": "2025-07-22 20:16:12 +0000",
       "minecraft:desert": "2025-07-21 03:19:03 +0000",
       "minecraft:jungle": "2025-07-22 20:17:32 +0000",
@@ -9823,6 +9825,12 @@
     },
     "done": false
   },
+  "betterend:all_the_templates": {
+    "criteria": {
+      "got_terminite": "2025-07-25 00:36:03 +0000"
+    },
+    "done": false
+  },
   "delightful:recipes/cooking/animal_oil_bottle": {
     "criteria": {
       "has_animal_fat": "2025-07-24 23:50:00 +0000"
@@ -9850,6 +9858,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-07-25 00:01:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-07-25 00:32:15 +0000"
     },
     "done": true
   },

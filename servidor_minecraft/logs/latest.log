@@ -26,3 +26,13 @@
 [25Jul2025 00:16:38.329] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
 [25Jul2025 00:19:11.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> zzz
 [25Jul2025 00:19:49.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has completed the challenge [Breaking the Maze]
+[25Jul2025 00:30:21.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -10134.500000, 67.500000, -9882.500000]
+[25Jul2025 00:30:26.108] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jul2025 00:30:26.115] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jul2025 00:30:26.115] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jul2025 00:30:26.115] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jul2025 00:30:49.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 00:30:52.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 00:31:38.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Frosted Prison]
+[25Jul2025 00:32:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Frosted Prison]
+[25Jul2025 00:39:01.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
