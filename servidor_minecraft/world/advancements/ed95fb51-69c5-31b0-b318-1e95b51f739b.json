@@ -9798,6 +9798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-25 01:40:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/egg_sandwich": {
     "criteria": {
       "has_fried_egg": "2025-07-24 23:40:37 +0000"
@@ -9819,6 +9825,18 @@
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2025-07-25 01:37:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2025-07-25 01:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-25 01:40:37 +0000"
     },
     "done": true
   },
@@ -9894,9 +9912,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-25 01:40:37 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_leviathan": {
     "criteria": {
       "ignis": "2025-07-25 01:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-25 01:40:37 +0000"
     },
     "done": true
   },
@@ -10056,6 +10086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-25 01:40:37 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/food/sea_pickle_juice": {
     "criteria": {
       "has_sea_pickle": "2025-07-25 01:26:00 +0000"
@@ -10107,6 +10143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-25 01:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-07-25 00:47:19 +0000"
@@ -10116,6 +10158,12 @@
   "delightful:recipes/food/cooking/stuffed_cantaloupe": {
     "criteria": {
       "has_cantaloupe": "2025-07-25 00:23:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2025-07-25 01:40:37 +0000"
     },
     "done": true
   },
@@ -10200,6 +10248,12 @@
   "another_furniture:recipes/black_lamp": {
     "criteria": {
       "has_wool": "2025-07-25 00:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-25 01:40:37 +0000"
     },
     "done": true
   },

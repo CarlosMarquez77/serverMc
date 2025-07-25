@@ -19056,3 +19056,253 @@ ModdedBiomeSource (b53a989)
 [25Jul2025 01:39:26.805] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
 [25Jul2025 01:39:26.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
 [25Jul2025 01:39:27.856] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[25Jul2025 01:41:22.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Stayin' Frosty]
+[25Jul2025 01:41:39.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has completed the challenge [The Extinguished Fire]
+[25Jul2025 01:42:41.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ignis
+[25Jul2025 01:42:44.882] [Server thread/DEBUG] [twilightforest/]: Player Sebasrex (ed95fb51-69c5-31b0-b318-1e95b51f739b) respawned and received items held in storage
+[25Jul2025 01:42:44.909] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I just spawned.
+[25Jul2025 01:42:44.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 01:42:59.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ignis
+[25Jul2025 01:43:01.585] [Server thread/DEBUG] [twilightforest/]: Player Atuesta18 (ded52ac3-8e88-33aa-ac02-b1f69724ed99) respawned and received items held in storage
+[25Jul2025 01:43:11.881] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-410} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:43:11.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 01:43:39.886] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[25Jul2025 01:43:39.886] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[25Jul2025 01:43:39.886] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[25Jul2025 01:43:39.886] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[25Jul2025 01:43:39.886] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[25Jul2025 01:43:39.886] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[25Jul2025 01:43:39.886] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[25Jul2025 01:43:39.886] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[25Jul2025 01:43:39.886] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[25Jul2025 01:43:39.886] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[25Jul2025 01:43:39.887] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[25Jul2025 01:43:39.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 01:43:39.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 01:43:58.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was killed by Ignis using magic
+[25Jul2025 01:44:01.083] [Server thread/DEBUG] [twilightforest/]: Player Sebasrex (ed95fb51-69c5-31b0-b318-1e95b51f739b) respawned and received items held in storage
+[25Jul2025 01:44:05.244] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:44:05.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to Atuesta18]
+[25Jul2025 01:44:11.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ignis
+[25Jul2025 01:44:13.800] [Server thread/DEBUG] [twilightforest/]: Player Sebasrex (ed95fb51-69c5-31b0-b318-1e95b51f739b) respawned and received items held in storage
+[25Jul2025 01:44:30.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ignis
+[25Jul2025 01:44:31.468] [Server thread/DEBUG] [twilightforest/]: Player KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae) respawned and received items held in storage
+[25Jul2025 01:44:35.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to KyoShiiro]
+[25Jul2025 01:44:39.162] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:44:39.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Atuesta18]
+[25Jul2025 01:44:47.767] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:44:47.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 01:44:58.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ignis
+[25Jul2025 01:45:01.595] [Server thread/DEBUG] [twilightforest/]: Player Atuesta18 (ded52ac3-8e88-33aa-ac02-b1f69724ed99) respawned and received items held in storage
+[25Jul2025 01:45:10.142] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:45:10.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 01:45:14.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ignis
+[25Jul2025 01:45:15.633] [Server thread/DEBUG] [twilightforest/]: Player KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae) respawned and received items held in storage
+[25Jul2025 01:45:20.525] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:45:20.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:45:28.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro tried to swim in lava
+[25Jul2025 01:45:30.403] [Server thread/DEBUG] [twilightforest/]: Player KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae) respawned and received items held in storage
+[25Jul2025 01:45:32.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ignis
+[25Jul2025 01:45:32.361] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in blue_skies:everbright
+[25Jul2025 01:45:33.943] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:45:33.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:45:35.855] [Server thread/DEBUG] [twilightforest/]: Player Atuesta18 (ded52ac3-8e88-33aa-ac02-b1f69724ed99) respawned and received items held in storage
+[25Jul2025 01:45:39.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:45:40.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ignis
+[25Jul2025 01:45:41.851] [Server thread/DEBUG] [twilightforest/]: Player KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae) respawned and received items held in storage
+[25Jul2025 01:45:45.446] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:45:45.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:45:48.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ignis
+[25Jul2025 01:45:49.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was burnt to a crisp whilst fighting Ignis
+[25Jul2025 01:45:50.550] [Server thread/DEBUG] [twilightforest/]: Player Sebasrex (ed95fb51-69c5-31b0-b318-1e95b51f739b) respawned and received items held in storage
+[25Jul2025 01:45:51.365] [Server thread/DEBUG] [twilightforest/]: Player KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae) respawned and received items held in storage
+[25Jul2025 01:46:07.624] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[25Jul2025 01:46:07.625] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:46:07.626] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:46:12.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 6032.500000, 35.500000, -7125.500000]
+[25Jul2025 01:46:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 5972.500000, 65.500000, -7158.500000]
+[25Jul2025 01:46:23.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was killed by Ignis using magic
+[25Jul2025 01:46:25.092] [Server thread/DEBUG] [twilightforest/]: Player KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae) respawned and received items held in storage
+[25Jul2025 01:46:39.325] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[25Jul2025 01:46:39.326] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:46:39.327] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:46:50.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 5969.500000, 32.500000, -7167.500000]
+[25Jul2025 01:46:52.980] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:46:52.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 01:46:54.734] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:46:54.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 01:47:26.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ignis
+[25Jul2025 01:47:28.282] [Server thread/DEBUG] [twilightforest/]: Player Atuesta18 (ded52ac3-8e88-33aa-ac02-b1f69724ed99) respawned and received items held in storage
+[25Jul2025 01:47:36.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ignis
+[25Jul2025 01:47:38.601] [Server thread/DEBUG] [twilightforest/]: Player KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae) respawned and received items held in storage
+[25Jul2025 01:47:42.368] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:47:42.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:48:28.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ignis
+[25Jul2025 01:48:30.467] [Server thread/DEBUG] [twilightforest/]: Player KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae) respawned and received items held in storage
+[25Jul2025 01:48:31.361] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in blue_skies:everbright
+[25Jul2025 01:48:33.928] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:48:33.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:48:36.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro tried to swim in lava
+[25Jul2025 01:48:37.669] [Server thread/DEBUG] [twilightforest/]: Player KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae) respawned and received items held in storage
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[25Jul2025 01:48:39.898] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[25Jul2025 01:48:39.899] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[25Jul2025 01:48:39.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 01:48:39.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 01:48:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Atuesta18]
+[25Jul2025 01:48:44.742] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:48:44.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:48:47.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro tried to swim in lava
+[25Jul2025 01:48:48.753] [Server thread/DEBUG] [twilightforest/]: Player KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae) respawned and received items held in storage
+[25Jul2025 01:48:52.551] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:48:52.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:48:53.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro tried to swim in lava to escape Ignis
+[25Jul2025 01:48:55.380] [Server thread/DEBUG] [twilightforest/]: Player KyoShiiro (3abbe4ea-f60b-38af-8173-55992ed74eae) respawned and received items held in storage
+[25Jul2025 01:49:09.028] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[25Jul2025 01:49:09.029] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:49:09.029] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:49:14.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ignis
+[25Jul2025 01:49:16.529] [Server thread/DEBUG] [twilightforest/]: Player Sebasrex (ed95fb51-69c5-31b0-b318-1e95b51f739b) respawned and received items held in storage
+[25Jul2025 01:49:18.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 5987.500000, 32.500000, -7164.500000]
+[25Jul2025 01:49:34.140] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-410} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:49:34.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 01:49:36.496] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-410} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:49:36.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 01:50:29.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex tried to swim in lava
+[25Jul2025 01:50:37.855] [Server thread/DEBUG] [twilightforest/]: Player Sebasrex (ed95fb51-69c5-31b0-b318-1e95b51f739b) respawned and received items held in storage
+[25Jul2025 01:50:46.955] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=582, y=73, z=-414} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Jul2025 01:50:46.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to Atuesta18]

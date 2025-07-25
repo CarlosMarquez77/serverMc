@@ -126,3 +126,51 @@
 [25Jul2025 01:39:18.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 moved too quickly! -10.035881205114492,0.0,0.3096469687870922
 [25Jul2025 01:39:18.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4425ms or 88 ticks behind
 [25Jul2025 01:39:26.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:41:22.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [Stayin' Frosty]
+[25Jul2025 01:41:39.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has completed the challenge [The Extinguished Fire]
+[25Jul2025 01:42:41.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ignis
+[25Jul2025 01:42:44.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 01:42:59.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ignis
+[25Jul2025 01:43:11.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 01:43:58.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was killed by Ignis using magic
+[25Jul2025 01:44:05.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to Atuesta18]
+[25Jul2025 01:44:11.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ignis
+[25Jul2025 01:44:30.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ignis
+[25Jul2025 01:44:35.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to KyoShiiro]
+[25Jul2025 01:44:39.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Atuesta18]
+[25Jul2025 01:44:47.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 01:44:58.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ignis
+[25Jul2025 01:45:10.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 01:45:14.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ignis
+[25Jul2025 01:45:20.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:45:28.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro tried to swim in lava
+[25Jul2025 01:45:32.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ignis
+[25Jul2025 01:45:33.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:45:39.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:45:40.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ignis
+[25Jul2025 01:45:45.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:45:48.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ignis
+[25Jul2025 01:45:49.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was burnt to a crisp whilst fighting Ignis
+[25Jul2025 01:46:12.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 6032.500000, 35.500000, -7125.500000]
+[25Jul2025 01:46:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 5972.500000, 65.500000, -7158.500000]
+[25Jul2025 01:46:23.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was killed by Ignis using magic
+[25Jul2025 01:46:50.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 5969.500000, 32.500000, -7167.500000]
+[25Jul2025 01:46:52.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 01:46:54.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 01:47:26.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was slain by Ignis
+[25Jul2025 01:47:36.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ignis
+[25Jul2025 01:47:42.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:48:28.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Ignis
+[25Jul2025 01:48:33.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:48:36.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro tried to swim in lava
+[25Jul2025 01:48:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Atuesta18]
+[25Jul2025 01:48:44.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:48:47.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro tried to swim in lava
+[25Jul2025 01:48:52.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 01:48:53.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro tried to swim in lava to escape Ignis
+[25Jul2025 01:49:14.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Ignis
+[25Jul2025 01:49:18.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 5987.500000, 32.500000, -7164.500000]
+[25Jul2025 01:49:34.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 01:49:36.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 01:50:29.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex tried to swim in lava
+[25Jul2025 01:50:46.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to Atuesta18]
