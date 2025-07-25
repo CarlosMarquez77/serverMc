@@ -297,7 +297,9 @@
       "minecraft:snowy_plains": "2025-07-24 00:28:22 +0000",
       "minecraft:dripstone_caves": "2025-07-18 01:24:50 +0000",
       "minecraft:snowy_taiga": "2025-07-24 00:29:42 +0000",
+      "minecraft:cold_ocean": "2025-07-25 01:22:25 +0000",
       "minecraft:forest": "2025-07-18 01:48:06 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-25 01:22:04 +0000",
       "minecraft:desert": "2025-07-22 19:32:47 +0000",
       "minecraft:jungle": "2025-07-18 01:23:00 +0000",
       "minecraft:ocean": "2025-07-23 23:46:40 +0000",
@@ -9740,6 +9742,12 @@
     },
     "done": false
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-07-25 01:22:04 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
@@ -9758,9 +9766,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-25 01:27:16 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-25 01:27:16 +0000"
     },
     "done": true
   },
@@ -9809,6 +9829,12 @@
   "galosphere:recipes/decorations/silver_lattice": {
     "criteria": {
       "has_silver_ingot": "2025-07-25 00:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-07-25 01:26:43 +0000"
     },
     "done": true
   },
@@ -9866,9 +9892,21 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/food/sea_pickle_juice": {
+    "criteria": {
+      "has_sea_pickle": "2025-07-25 01:26:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2025-07-25 00:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-25 01:27:16 +0000"
     },
     "done": true
   },
@@ -9905,6 +9943,12 @@
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-07-24 23:36:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/jar_of_pickles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 01:26:43 +0000"
     },
     "done": true
   },
@@ -9965,6 +10009,12 @@
   "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/kelp_shake": {
+    "criteria": {
+      "has_kelp": "2025-07-25 01:27:16 +0000"
     },
     "done": true
   },
