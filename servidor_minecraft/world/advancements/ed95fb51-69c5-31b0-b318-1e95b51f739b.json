@@ -9821,6 +9821,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-07-25 00:16:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-07-25 00:01:08 +0000"
@@ -9830,6 +9836,12 @@
   "crabbersdelight:recipes/building_blocks/cod_barrel": {
     "criteria": {
       "has_cod": "2025-07-25 00:01:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-07-25 00:16:54 +0000"
     },
     "done": true
   },
