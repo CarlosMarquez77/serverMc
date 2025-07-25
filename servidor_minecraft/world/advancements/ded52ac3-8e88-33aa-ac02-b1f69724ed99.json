@@ -4491,6 +4491,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/tools/bucket_of_clam_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-25 00:08:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/efficiency_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -4653,6 +4659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-25 00:08:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/piercing_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -4695,6 +4707,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-07-25 00:08:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
@@ -4710,6 +4728,12 @@
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-07-25 00:06:57 +0000"
     },
     "done": true
   },
@@ -4821,6 +4845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-25 00:08:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/tf/biomesoplenty/fir_banister": {
     "criteria": {
       "has_planks": "2025-07-24 23:21:21 +0000"
@@ -4845,6 +4875,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-25 00:08:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aqua_affinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -4860,6 +4896,12 @@
   "everycomp:recipes/decorations/af/biomesoplenty/fir_shutter": {
     "criteria": {
       "has_planks": "2025-07-24 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_clawster_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-25 00:08:14 +0000"
     },
     "done": true
   },
@@ -5070,6 +5112,12 @@
   "betterend:recipes/misc/smite_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_crab_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-25 00:08:14 +0000"
     },
     "done": true
   },

@@ -74,6 +74,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-07-24 00:03:31 +0000",
+      "minecraft:badlands": "2025-07-24 23:59:26 +0000",
       "minecraft:savanna_plateau": "2025-07-21 00:10:20 +0000",
       "minecraft:river": "2025-07-21 02:29:53 +0000",
       "minecraft:lukewarm_ocean": "2025-07-21 03:07:33 +0000",
@@ -138,6 +139,7 @@
       "coniferous_forest": "2025-07-23 20:46:17 +0000",
       "dryland": "2025-07-21 02:30:54 +0000",
       "wasteland": "2025-07-21 03:17:07 +0000",
+      "lush_desert": "2025-07-25 00:02:08 +0000",
       "wasteland_steppe": "2025-07-21 02:32:55 +0000",
       "fir_clearing": "2025-07-23 21:04:40 +0000",
       "undergrowth": "2025-07-21 03:57:45 +0000",
@@ -9795,11 +9797,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-25 00:01:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-07-24 23:44:08 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:jellie": "2025-07-25 00:01:51 +0000"
+    },
+    "done": false
   },
   "delightful:recipes/cooking/animal_oil_bottle": {
     "criteria": {
@@ -9807,9 +9821,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-25 00:01:08 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/cod_barrel": {
+    "criteria": {
+      "has_cod": "2025-07-25 00:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-25 00:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-25 00:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-25 00:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-24 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-25 00:01:07 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-07-25 00:01:07 +0000"
     },
     "done": true
   },
@@ -9834,11 +9890,23 @@
     },
     "done": false
   },
+  "crabbersdelight:recipes/building_blocks/salmon_barrel": {
+    "criteria": {
+      "has_salmon": "2025-07-25 00:01:08 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:temples": {
     "criteria": {
       "in_temple_taiga": "2025-07-24 23:22:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-25 00:01:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
