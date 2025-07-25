@@ -2112,6 +2112,7 @@
       "golden_apple": "2025-07-22 20:36:33 +0000",
       "bread": "2025-07-23 23:41:27 +0000",
       "rotten_flesh": "2025-07-21 00:52:32 +0000",
+      "glow_berries": "2025-07-25 01:36:47 +0000",
       "golden_carrot": "2025-07-23 22:36:18 +0000",
       "cooked_rabbit": "2025-07-22 19:38:59 +0000",
       "cooked_chicken": "2025-07-21 02:00:56 +0000"
@@ -9815,6 +9816,12 @@
     },
     "done": false
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-07-25 01:37:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-07-25 00:41:05 +0000"
@@ -9884,6 +9891,12 @@
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-07-25 01:22:31 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-07-25 01:34:35 +0000"
     },
     "done": true
   },
@@ -10058,6 +10071,12 @@
   "delightful:recipes/candle_from_animal_fat": {
     "criteria": {
       "has_fat": "2025-07-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/glow_jelly_bottle": {
+    "criteria": {
+      "has_glow_berries": "2025-07-25 01:34:21 +0000"
     },
     "done": true
   },

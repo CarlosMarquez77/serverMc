@@ -320,6 +320,7 @@
       "minecraft:magma_cube": "2025-07-23 22:58:59 +0000",
       "minecraft:spider": "2025-07-17 02:53:17 +0000",
       "minecraft:creeper": "2025-07-17 02:20:56 +0000",
+      "minecraft:zombified_piglin": "2025-07-25 01:37:26 +0000",
       "minecraft:witch": "2025-07-17 02:08:08 +0000",
       "minecraft:cave_spider": "2025-07-17 01:50:33 +0000",
       "minecraft:piglin": "2025-07-23 22:58:11 +0000",
@@ -4261,6 +4262,12 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-07-25 01:37:20 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/campfire/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-24 23:22:55 +0000"
@@ -4282,6 +4289,12 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-07-24 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
     },
     "done": true
   },
@@ -4315,6 +4328,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-25 01:31:01 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/fir_shelf": {
     "criteria": {
       "has_planks": "2025-07-24 23:21:21 +0000"
@@ -4330,6 +4349,18 @@
   "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-25 01:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-25 01:31:01 +0000"
     },
     "done": true
   },
@@ -4483,6 +4514,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -4498,6 +4535,12 @@
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
     },
     "done": true
   },
@@ -4681,6 +4724,18 @@
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-25 01:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-25 01:31:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-07-24 23:32:09 +0000"
@@ -4699,6 +4754,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/light_gray_curtain": {
     "criteria": {
       "has_wool": "2025-07-24 23:32:09 +0000"
@@ -4708,6 +4769,12 @@
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
     },
     "done": true
   },
@@ -4741,6 +4808,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -4762,6 +4835,12 @@
   "everycomp:recipes/decorations/af/biomesoplenty/fir_table": {
     "criteria": {
       "has_planks": "2025-07-24 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-25 01:31:01 +0000"
     },
     "done": true
   },
@@ -4999,6 +5078,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
     "criteria": {
       "has_bonemeal": "2025-07-25 00:08:14 +0000"
@@ -5080,6 +5165,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-24 23:13:35 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
     },
     "done": true
   },
@@ -5191,6 +5282,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thorns_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-24 23:17:00 +0000"
@@ -5212,6 +5309,12 @@
   "betternether:recipes/building_blocks/rubeus_bookshelf": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
     },
     "done": true
   },
@@ -5269,6 +5372,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
     "criteria": {
       "has_book": "2025-07-24 23:17:00 +0000"
@@ -5284,6 +5393,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-24 23:44:49 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-25 01:30:57 +0000"
     },
     "done": true
   },

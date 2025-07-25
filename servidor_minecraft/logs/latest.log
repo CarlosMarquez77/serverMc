@@ -110,3 +110,19 @@
 [25Jul2025 01:25:29.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
 [25Jul2025 01:30:08.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
 [25Jul2025 01:30:18.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 01:33:42.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro drowned whilst trying to escape The Leviathan
+[25Jul2025 01:33:47.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -2732.500000, 11.500000, 163.500000]
+[25Jul2025 01:34:21.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was exterminated by The Leviathan 's laser
+[25Jul2025 01:34:21.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! -1.149274568970668,-25.0,2.597934161693388
+[25Jul2025 01:34:23.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! 3.7995600358221964,-9.0,-3.8498167269777923
+[25Jul2025 01:34:32.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 01:34:35.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has completed the challenge [A Multidimensional Predator]
+[25Jul2025 01:37:10.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 6032.500000, 35.500000, -7125.500000]
+[25Jul2025 01:37:16.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[25Jul2025 01:37:16.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [A Burning Arena]
+[25Jul2025 01:37:19.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[25Jul2025 01:37:20.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [A Burning Arena]
+[25Jul2025 01:38:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Atuesta18 to Sebasrex]
+[25Jul2025 01:39:18.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 moved too quickly! -10.035881205114492,0.0,0.3096469687870922
+[25Jul2025 01:39:18.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4425ms or 88 ticks behind
+[25Jul2025 01:39:26.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
