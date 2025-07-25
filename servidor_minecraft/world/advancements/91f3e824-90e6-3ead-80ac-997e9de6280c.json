@@ -476,6 +476,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-07-25 04:08:07 +0000",
+      "onion": "2025-07-25 04:07:24 +0000",
       "tomato": "2025-07-23 22:06:47 +0000",
       "potato": "2025-07-18 03:33:11 +0000",
       "carrot": "2025-07-23 23:58:22 +0000"
@@ -5160,6 +5162,24 @@
   "farmersdelight:recipes/food/smoked_ham": {
     "criteria": {
       "has_ham": "2025-07-25 03:59:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 04:07:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 04:07:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-25 04:07:05 +0000"
     },
     "done": true
   },

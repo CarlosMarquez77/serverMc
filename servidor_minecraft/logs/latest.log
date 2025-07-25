@@ -407,3 +407,28 @@
 [25Jul2025 03:58:31.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
 [25Jul2025 03:58:41.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
 [25Jul2025 03:58:50.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[25Jul2025 04:05:50.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 2396.500000, 69.500000, 348.500000]
+[25Jul2025 04:05:57.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 2498.500000, 69.500000, 547.500000]
+[25Jul2025 04:07:15.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/156188, l='ServerLevel[world]', x=2485.62, y=70.56, z=569.65] was struck by lightning LightningBolt['Lightning Bolt'/156835, l='ServerLevel[world]', x=2485.50, y=69.00, z=572.50].
+[25Jul2025 04:07:35.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/156148, l='ServerLevel[world]', x=2487.35, y=70.00, z=567.70] died, message: 'Librarian was killed by Witch using magic'
+[25Jul2025 04:11:53.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set the weather to clear]
+[25Jul2025 04:12:05.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[25Jul2025 04:12:18.827] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[25Jul2025 04:12:20.341] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[25Jul2025 04:12:21.046] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[25Jul2025 04:12:23.265] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[25Jul2025 04:12:23.985] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[25Jul2025 04:12:24.745] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[25Jul2025 04:12:24.752] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:tarantula_hawk
+[25Jul2025 04:12:24.753] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[25Jul2025 04:12:24.753] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[25Jul2025 04:12:25.447] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[25Jul2025 04:12:26.218] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[25Jul2025 04:12:26.219] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[25Jul2025 04:12:26.219] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[25Jul2025 04:12:26.222] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[25Jul2025 04:12:26.226] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[25Jul2025 04:12:26.936] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[25Jul2025 04:12:26.942] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[25Jul2025 04:12:27.674] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[25Jul2025 04:12:32.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -2727.500000, 82.500000, 166.500000]
