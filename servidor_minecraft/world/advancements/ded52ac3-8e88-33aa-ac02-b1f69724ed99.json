@@ -4649,6 +4649,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-07-25 01:18:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 00:14:13 +0000"
@@ -4799,6 +4805,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 01:18:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_button": {
     "criteria": {
       "has_planks": "2025-07-24 23:21:21 +0000"
@@ -4832,6 +4844,12 @@
   "another_furniture:recipes/white_curtain": {
     "criteria": {
       "has_wool": "2025-07-24 23:29:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-07-25 01:18:08 +0000"
     },
     "done": true
   },
@@ -5204,6 +5222,12 @@
   "another_furniture:recipes/oak_table": {
     "criteria": {
       "has_planks": "2025-07-24 23:13:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-07-25 01:18:08 +0000"
     },
     "done": true
   },

@@ -9932,6 +9932,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-07-25 01:09:24 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_stairs": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
