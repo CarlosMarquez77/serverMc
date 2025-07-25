@@ -9691,6 +9691,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-07-25 00:22:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bale": {
     "criteria": {
       "has_rice_panicle": "2025-07-25 00:11:46 +0000"
@@ -9715,9 +9721,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-07-25 00:25:32 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 00:20:24 +0000"
     },
     "done": true
   },
@@ -9736,6 +9754,24 @@
   "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-07-25 00:22:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-07-25 00:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-25 00:22:24 +0000"
     },
     "done": true
   },
@@ -9781,6 +9817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-25 00:22:24 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
@@ -9790,6 +9832,12 @@
   "galosphere:recipes/building_blocks/amethyst_stairs": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-25 00:22:24 +0000"
     },
     "done": true
   },

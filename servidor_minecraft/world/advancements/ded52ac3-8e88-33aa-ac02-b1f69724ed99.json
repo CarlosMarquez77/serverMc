@@ -4305,6 +4305,12 @@
     },
     "done": true
   },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2025-07-25 00:19:49 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/fir_shelf": {
     "criteria": {
       "has_planks": "2025-07-24 23:21:21 +0000"
