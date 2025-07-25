@@ -9691,6 +9691,18 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-25 00:58:16 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-25 00:58:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
     "criteria": {
       "has_moss_block": "2025-07-25 00:22:24 +0000"
@@ -9728,6 +9740,12 @@
     },
     "done": true
   },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2025-07-25 00:58:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/smoked_ham": {
     "criteria": {
       "has_ham": "2025-07-25 00:25:32 +0000"
@@ -9740,15 +9758,39 @@
     },
     "done": true
   },
+  "galosphere:recipes/redstone/silver_balance": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-25 00:58:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 00:20:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-25 00:48:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-24 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/silver_knife": {
+    "criteria": {
+      "has_ingots/silver": "2025-07-25 00:58:16 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-25 00:58:16 +0000"
     },
     "done": true
   },
@@ -9788,6 +9830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-25 00:48:46 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
@@ -9797,6 +9845,18 @@
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2025-07-25 00:11:46 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-25 00:58:16 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-25 00:58:16 +0000"
     },
     "done": true
   },
@@ -9821,6 +9881,12 @@
   "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-25 00:48:46 +0000"
     },
     "done": true
   },
