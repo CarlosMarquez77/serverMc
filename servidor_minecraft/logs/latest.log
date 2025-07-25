@@ -432,3 +432,142 @@
 [25Jul2025 04:12:26.942] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
 [25Jul2025 04:12:27.674] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
 [25Jul2025 04:12:32.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -2727.500000, 82.500000, 166.500000]
+[25Jul2025 04:14:13.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -7013.500000, 98.238822, 162.500000]
+[25Jul2025 04:14:13.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4723ms or 94 ticks behind
+[25Jul2025 04:14:29.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -10.012106693104215,0.0,1.679624277928724
+[25Jul2025 04:14:29.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved too quickly! -8.642915892613019,0.0,5.3336560974530585
+[25Jul2025 04:14:31.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
+[25Jul2025 04:14:41.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -10.841060282577018,0.0,0.9241761896446405
+[25Jul2025 04:14:48.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[25Jul2025 04:15:04.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[25Jul2025 04:15:14.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.74018784373311,0.0,6.494081809060106
+[25Jul2025 04:15:14.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[25Jul2025 04:15:18.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.569003853821414,0.0,6.367949953990603
+[25Jul2025 04:15:18.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! -8.476665355163277,-0.9986640208878583,-5.282444105627803
+[25Jul2025 04:15:26.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.465672488569908,0.0,6.291160519206528
+[25Jul2025 04:15:26.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! -3.7930347149275576,-2.0013359791121417,-9.192793359610278
+[25Jul2025 04:15:26.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved too quickly! -4.906977518287249,1.0,-8.876803019386386
+[25Jul2025 04:15:30.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.569003853821414,0.0,6.367949953990603
+[25Jul2025 04:15:33.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.569003853821414,0.0,6.367949953990603
+[25Jul2025 04:15:33.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! -4.412841331128334,-0.17675927506424216,-9.279798416541496
+[25Jul2025 04:15:35.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.748604107406209,0.0,6.50141767626792
+[25Jul2025 04:15:35.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6307ms or 126 ticks behind
+[25Jul2025 04:15:38.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.227340283565354,0.0,6.11404686868417
+[25Jul2025 04:15:44.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.569003853821414,0.0,6.367949953990603
+[25Jul2025 04:15:44.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! -5.95990253054822,-0.9275721963195593,-8.231705690142178
+[25Jul2025 04:15:46.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Disconnected
+[25Jul2025 04:15:46.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
+[25Jul2025 04:15:58.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -9.25996259009753,0.0,5.7124589340436955
+[25Jul2025 04:15:58.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.187.227.239:58755] logged in with entity id 159919 at (550.3000000119209, 75.0, -412.4473300063445)
+[25Jul2025 04:15:58.970] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebasrex
+[25Jul2025 04:15:58.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebasrex
+[25Jul2025 04:15:58.974] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebasrex
+[25Jul2025 04:15:58.975] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebasrex
+[25Jul2025 04:15:58.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebasrex
+[25Jul2025 04:15:58.982] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebasrex
+[25Jul2025 04:15:58.983] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebasrex
+[25Jul2025 04:15:58.997] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 04:15:59.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[25Jul2025 04:15:59.085] [Server thread/INFO] [Jade/]: Syncing config to Sebasrex (ed95fb51-69c5-31b0-b318-1e95b51f739b)
+[25Jul2025 04:16:00.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.85646856254516,0.0,5.463054913068845
+[25Jul2025 04:16:04.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.976876340654599,0.0,5.537327666268936
+[25Jul2025 04:16:04.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[25Jul2025 04:16:06.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.85646856254516,0.0,5.463054913068845
+[25Jul2025 04:16:06.285] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[25Jul2025 04:16:06.285] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[25Jul2025 04:16:06.285] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[25Jul2025 04:16:06.285] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[25Jul2025 04:16:06.315] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[25Jul2025 04:16:06.315] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[25Jul2025 04:16:06.316] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[25Jul2025 04:16:06.316] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[25Jul2025 04:16:06.316] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[25Jul2025 04:16:06.316] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[25Jul2025 04:16:06.316] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[25Jul2025 04:16:06.316] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[25Jul2025 04:16:06.316] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[25Jul2025 04:16:06.316] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[25Jul2025 04:16:06.316] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[25Jul2025 04:16:06.317] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[25Jul2025 04:16:06.321] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[25Jul2025 04:16:06.322] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[25Jul2025 04:16:09.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.976876340654599,0.0,5.537327666268936
+[25Jul2025 04:16:11.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.976876340654599,0.0,5.537327666268936
+[25Jul2025 04:16:13.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.85646856254516,0.0,5.463054913068845
+[25Jul2025 04:16:15.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.998042742689904,0.0,5.502397975069698
+[25Jul2025 04:16:30.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -9.447716746234619,0.0,5.389696559696233
+[25Jul2025 04:16:43.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Spectator Mode]
+[25Jul2025 04:17:21.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.74576633568904,0.0,5.795540535261466
+[25Jul2025 04:17:22.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
+[25Jul2025 04:17:22.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved too quickly! -10.094261624316687,1.1767592750642422,-0.9465548492821654
+[25Jul2025 04:17:22.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! 10.055063131820589,0.0,0.06900545312106487
+[25Jul2025 04:17:24.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.843500336858597,0.0,6.073747239011595
+[25Jul2025 04:17:27.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! 9.865022313922282,0.0,-1.8573123484584357
+[25Jul2025 04:17:59.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8733ms or 174 ticks behind
+[25Jul2025 04:17:59.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.664969635152374,0.0,6.5866441068708355
+[25Jul2025 04:17:59.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! 6.140407661468998,8.047502985118541,2.8444437682082935
+[25Jul2025 04:18:00.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved too quickly! 4106.960515346653,-67.92159999847412,-2795.3358482271824
+[25Jul2025 04:18:03.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.455077921612428,0.0,6.065778478967218
+[25Jul2025 04:18:03.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! 10.37197942685816,0.019999320188588854,2.1490963493039885
+[25Jul2025 04:18:06.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.57002860868306,0.0,6.148245537253047
+[25Jul2025 04:18:09.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.674633736931355,0.0,6.2232905624558725
+[25Jul2025 04:18:13.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.674633736931355,0.0,6.2232905624558725
+[25Jul2025 04:18:32.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -21375.500000, 109.994325, 7472.500000]
+[25Jul2025 04:18:32.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9931ms or 198 ticks behind
+[25Jul2025 04:18:32.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! 6.170794040767305,2.609412391123911,7.663733692123401
+[25Jul2025 04:18:32.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 2498.500000, 69.500000, 547.500000]
+[25Jul2025 04:18:46.982] [Worker-Main-508/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[25Jul2025 04:18:46.986] [Worker-Main-508/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 3ms
+[25Jul2025 04:18:55.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[25Jul2025 04:19:04.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 15736.500000, 57.500000, -9726.500000]
+[25Jul2025 04:19:09.786] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-21344, y=64, z=7408} but found not block entity block Block{minecraft:air} at location
+[25Jul2025 04:19:09.786] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-21344, y=64, z=7408}
+[25Jul2025 04:19:16.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Spectator Mode]
+[25Jul2025 04:19:27.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[25Jul2025 04:19:39.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to -10245.500000, 145.500000, -9911.500000]
+[25Jul2025 04:19:55.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.386770532448281,0.0,-6.887221515906276
+[25Jul2025 04:19:58.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.784963340684044,0.0,-6.025146251226033
+[25Jul2025 04:19:58.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! -1.2155030051817448,0.0,-9.983843034438905
+[25Jul2025 04:19:58.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved too quickly! 6.390635500447388,-0.08307781780646728,7.812429003403395
+[25Jul2025 04:20:00.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.871791591700458,0.0,-5.704176753760294
+[25Jul2025 04:20:02.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.871791591700458,0.0,-5.704176753760294
+[25Jul2025 04:20:03.181] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[25Jul2025 04:20:04.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.67215058907459,0.0,-5.575816258080522
+[25Jul2025 04:20:06.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[25Jul2025 04:20:06.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.455802350024896,0.0,-5.43671373485995
+[25Jul2025 04:20:09.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.980080016350257,0.0,-5.773801508604265
+[25Jul2025 04:20:12.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.7527933262827,0.0,-5.627666036357368
+[25Jul2025 04:20:12.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 587.500000, 74.500000, -398.500000]
+[25Jul2025 04:20:14.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.871791591700458,0.0,-5.704176753760294
+[25Jul2025 04:20:14.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved too quickly! 7.772249062380979,0.3926045499513462,6.681130116970962
+[25Jul2025 04:20:17.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! -8.871791591700458,0.0,-5.704176753760294
+[25Jul2025 04:20:28.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -28311.500000, 102.753664, 4352.500000]
+[25Jul2025 04:20:28.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved too quickly! 9.58534016163776,-0.024424088213679696,3.427865091988224
+[25Jul2025 04:20:28.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6983ms or 139 ticks behind
+[25Jul2025 04:20:28.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Survival Mode]
+[25Jul2025 04:21:29.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[25Jul2025 04:22:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[25Jul2025 04:23:48.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[25Jul2025 04:24:04.632] [Worker-Main-509/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[25Jul2025 04:24:04.634] [Worker-Main-509/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 2ms
+[25Jul2025 04:24:04.733] [Worker-Main-509/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[25Jul2025 04:24:04.733] [Worker-Main-509/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[25Jul2025 04:24:04.778] [Worker-Main-2/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[25Jul2025 04:24:04.779] [Worker-Main-2/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[25Jul2025 04:24:04.832] [Worker-Main-3/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[25Jul2025 04:24:04.832] [Worker-Main-3/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[25Jul2025 04:24:04.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [The End?]
+[25Jul2025 04:24:04.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Face the Void]
+[25Jul2025 04:24:06.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [The End?]
+[25Jul2025 04:24:06.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Face the Void]
+[25Jul2025 04:24:06.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [The End?]
+[25Jul2025 04:24:06.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Face the Void]
+[25Jul2025 04:24:06.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2376ms or 47 ticks behind
+[25Jul2025 04:24:07.528] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[25Jul2025 04:24:07.534] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[25Jul2025 04:24:08.097] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[25Jul2025 04:24:08.098] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=59, z=0}
+[25Jul2025 04:24:08.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved too quickly! -509.598296111486,-23.535840625044557,350.8768365865051
+[25Jul2025 04:24:10.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro was kicked for floating too long!
+[25Jul2025 04:24:10.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro lost connection: Flying is not enabled on this server
+[25Jul2025 04:24:10.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro left the game

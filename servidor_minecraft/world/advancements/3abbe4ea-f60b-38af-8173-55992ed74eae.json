@@ -300,10 +300,13 @@
       "minecraft:cold_ocean": "2025-07-25 01:22:25 +0000",
       "minecraft:forest": "2025-07-18 01:48:06 +0000",
       "minecraft:deep_cold_ocean": "2025-07-25 01:22:04 +0000",
+      "minecraft:frozen_ocean": "2025-07-25 04:13:50 +0000",
       "minecraft:desert": "2025-07-22 19:32:47 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-25 04:12:59 +0000",
+      "minecraft:windswept_forest": "2025-07-25 04:15:06 +0000",
       "minecraft:jungle": "2025-07-18 01:23:00 +0000",
       "minecraft:ocean": "2025-07-23 23:46:40 +0000",
+      "minecraft:snowy_beach": "2025-07-25 04:18:33 +0000",
       "minecraft:warm_ocean": "2025-07-17 02:28:06 +0000",
       "minecraft:deep_dark": "2025-07-17 01:46:54 +0000",
       "minecraft:savanna": "2025-07-15 22:15:08 +0000",
@@ -366,6 +369,8 @@
       "scrubland": "2025-07-16 00:25:47 +0000",
       "erupting_inferno": "2025-07-23 22:36:02 +0000",
       "floodplain": "2025-07-18 01:12:30 +0000",
+      "highland": "2025-07-25 04:15:10 +0000",
+      "wetland": "2025-07-25 04:16:11 +0000",
       "mystic_grove": "2025-07-22 20:11:10 +0000",
       "old_growth_woodland": "2025-07-18 01:03:16 +0000",
       "maple_woods": "2025-07-23 23:47:48 +0000",
@@ -374,6 +379,7 @@
       "field": "2025-07-23 23:49:10 +0000",
       "orchard": "2025-07-23 23:47:34 +0000",
       "mediterranean_forest": "2025-07-17 02:42:16 +0000",
+      "bog": "2025-07-25 04:15:30 +0000",
       "coniferous_forest": "2025-07-23 20:41:17 +0000",
       "spider_nest": "2025-07-18 01:23:33 +0000",
       "forested_field": "2025-07-23 23:48:35 +0000",
@@ -387,6 +393,7 @@
       "volcanic_plains": "2025-07-18 01:07:53 +0000",
       "pumpkin_patch": "2025-07-23 23:49:32 +0000",
       "snowy_fir_clearing": "2025-07-24 00:29:43 +0000",
+      "tundra": "2025-07-25 04:18:42 +0000",
       "gravel_beach": "2025-07-23 23:50:46 +0000",
       "undergrowth": "2025-07-21 03:57:57 +0000",
       "rainforest": "2025-07-18 01:12:43 +0000"
@@ -9718,6 +9725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-25 04:21:56 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/combustion_table": {
     "criteria": {
       "has_silver_ingot": "2025-07-25 00:58:16 +0000"
@@ -9767,6 +9780,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
+    "criteria": {
+      "has_silence_armor_trim_smithing_template": "2025-07-25 04:21:56 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-07-25 01:22:04 +0000"
@@ -9788,6 +9807,12 @@
   "galosphere:adventure/silver_ingot": {
     "criteria": {
       "silver_ingot": "2025-07-25 00:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-25 04:24:06 +0000"
     },
     "done": true
   },
@@ -9848,6 +9873,12 @@
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-07-25 02:27:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:enter_end": {
+    "criteria": {
+      "entered_end": "2025-07-25 04:24:06 +0000"
     },
     "done": true
   },
@@ -9956,6 +9987,12 @@
   "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-24 23:54:48 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:end_structures": {
+    "criteria": {
+      "example": "2025-07-25 04:24:06 +0000"
     },
     "done": true
   },
@@ -10088,6 +10125,12 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-07-25 02:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-25 04:24:06 +0000"
     },
     "done": true
   },
