@@ -4868,6 +4868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/crab_cakes": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 02:38:59 +0000"
@@ -4886,6 +4892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-07-25 02:37:51 +0000"
@@ -4901,6 +4913,18 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-07-25 02:32:18 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-07-25 02:52:44 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
     },
     "done": true
   },
@@ -4928,9 +4952,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-07-25 02:32:18 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
     },
     "done": true
   },
@@ -4958,6 +4994,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_crab": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 02:38:59 +0000"
@@ -4970,6 +5012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-25 02:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-07-25 02:36:15 +0000"
@@ -4979,6 +5027,12 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 02:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
     },
     "done": true
   },
@@ -5003,6 +5057,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-25 02:32:18 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-25 02:56:31 +0000"
     },
     "done": true
   },

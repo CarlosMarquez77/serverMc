@@ -506,7 +506,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-07-18 00:43:24 +0000"
+      "phantom": "2025-07-18 00:43:24 +0000",
+      "warden": "2025-07-25 02:48:55 +0000"
     },
     "done": false
   },
@@ -9857,6 +9858,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-24 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-07-25 02:48:55 +0000"
     },
     "done": true
   },

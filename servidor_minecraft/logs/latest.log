@@ -253,3 +253,11 @@
 [25Jul2025 02:49:15.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=-45, z=-4508} BlockPos{x=148, y=-45, z=-4509}
 [25Jul2025 02:49:15.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=-45, z=-4508} BlockPos{x=148, y=-45, z=-4509}
 [25Jul2025 02:49:15.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=-45, z=-4508} BlockPos{x=148, y=-45, z=-4509}
+[25Jul2025 02:52:43.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[25Jul2025 02:52:44.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has reached the goal [A Metropolis of Restless Souls]
+[25Jul2025 02:54:34.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=-52, z=-4575} BlockPos{x=51, y=-52, z=-4575}
+[25Jul2025 02:55:15.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 02:56:29.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Warden
+[25Jul2025 02:56:39.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[25Jul2025 02:56:51.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=-52, z=-4482} BlockPos{x=5, y=-52, z=-4483}
+[25Jul2025 02:57:03.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Atuesta18> donde ta mi body?
