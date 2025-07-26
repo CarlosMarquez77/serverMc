@@ -11815,6 +11815,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/regen_brewberry": {
+    "criteria": {
+      "have_pink_brewberry": "2025-07-26 02:59:57 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/pyrope_boots": {
     "criteria": {
       "has_item": "2025-07-26 01:38:07 +0000"
