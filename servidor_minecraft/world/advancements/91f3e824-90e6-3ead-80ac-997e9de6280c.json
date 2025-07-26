@@ -6811,6 +6811,7 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
+      "kill_emberback": "2025-07-26 01:51:56 +0000",
       "kill_infested_swarmer": "2025-07-26 01:32:06 +0000",
       "kill_venom_spider": "2025-07-26 00:59:30 +0000"
     },
