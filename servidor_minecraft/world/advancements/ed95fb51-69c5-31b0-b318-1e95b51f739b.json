@@ -12474,6 +12474,12 @@
     },
     "done": true
   },
+  "blue_skies:progression/unlock_poison_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-07-26 04:17:11 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/blue_skies/crystallized_shelf": {
     "criteria": {
       "has_planks": "2025-07-26 03:44:55 +0000"

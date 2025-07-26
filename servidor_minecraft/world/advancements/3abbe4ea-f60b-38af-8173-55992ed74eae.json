@@ -427,6 +427,7 @@
       "rotten_flesh": "2025-07-16 00:52:38 +0000",
       "glow_berries": "2025-07-18 00:51:45 +0000",
       "cooked_chicken": "2025-07-16 00:37:39 +0000",
+      "enchanted_golden_apple": "2025-07-26 04:18:48 +0000",
       "mushroom_stew": "2025-07-21 23:21:40 +0000",
       "carrot": "2025-07-24 23:36:17 +0000"
     },
@@ -12040,6 +12041,12 @@
   "blue_skies:recipes/misc/horizonite_ingot_from_smelting_raw_horizonite": {
     "criteria": {
       "has_item": "2025-07-26 03:38:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_poison_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-07-26 04:20:36 +0000"
     },
     "done": true
   },

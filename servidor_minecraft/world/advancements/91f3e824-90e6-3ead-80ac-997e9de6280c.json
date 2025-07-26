@@ -7200,6 +7200,12 @@
     },
     "done": true
   },
+  "blue_skies:progression/unlock_poison_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-07-26 04:20:00 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_blinding_stairs_stonecutting_glowing_blinding_stone": {
     "criteria": {
       "has_item": "2025-07-26 02:34:10 +0000"

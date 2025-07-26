@@ -4024,3 +4024,36 @@ ModdedBiomeSource (6a0c8941)
 [26Jul2025 04:16:39.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> hitmarker
 [26Jul2025 04:17:11.637] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Arachnarch scaled to 3 player(s). The difficulty ID is SILVER. The position is BlockPos{x=-1722, y=6, z=-1707}
 [26Jul2025 04:17:40.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was fatally poisoned
+[26Jul2025 04:17:58.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was fatally poisoned whilst fighting Arachnarch
+[26Jul2025 04:18:10.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[26Jul2025 04:18:17.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was fatally poisoned
+[26Jul2025 04:18:55.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to -1730.500000, 6.500000, -1703.500000]
+[26Jul2025 04:19:21.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Spectator Mode]
+[26Jul2025 04:19:34.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[26Jul2025 04:19:43.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Survival Mode]
+[26Jul2025 04:19:49.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Spectator Mode]
+[26Jul2025 04:19:55.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was fatally poisoned whilst fighting Arachnarch
+[26Jul2025 04:19:59.270] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[26Jul2025 04:19:59.271] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[26Jul2025 04:19:59.271] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[26Jul2025 04:19:59.271] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[26Jul2025 04:19:59.273] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[26Jul2025 04:19:59.273] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[26Jul2025 04:20:00.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[26Jul2025 04:20:05.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -1705.500000, 6.500000, -1706.500000]
+[26Jul2025 04:20:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Survival Mode]
+[26Jul2025 04:21:16.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was fatally poisoned
+[26Jul2025 04:21:42.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Spectator Mode]
+[26Jul2025 04:21:46.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was fatally poisoned by Arachnarch
+[26Jul2025 04:21:46.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved wrongly!
+[26Jul2025 04:21:52.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[26Jul2025 04:22:00.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[26Jul2025 04:22:04.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Survival Mode]
+[26Jul2025 04:23:38.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was fatally poisoned
+[26Jul2025 04:24:51.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[26Jul2025 04:24:59.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was slain by Arachnarch
+[26Jul2025 04:24:59.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved too quickly! -24.145807309188285,-0.35568593567891327,1.81024444581044
+[26Jul2025 04:27:26.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Arachnarch
+[26Jul2025 04:27:40.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Spectator Mode]
+[26Jul2025 04:27:43.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[26Jul2025 04:27:52.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
