@@ -5659,6 +5659,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_table": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/flaming_ruby_shovel": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
@@ -5683,9 +5695,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/pyrope_helmet": {
+    "criteria": {
+      "has_item": "2025-07-26 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_pyrope": {
+    "criteria": {
+      "obtain_material": "2025-07-26 01:12:01 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs": {
     "criteria": {
       "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
     },
     "done": true
   },
@@ -5698,6 +5728,12 @@
   "betternether:recipes/tools/flaming_ruby_pickaxe": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/blue_skies/maple_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
     },
     "done": true
   },
@@ -5719,9 +5755,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/maple_stick": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/orange_dye_from_blaze_bud": {
     "criteria": {
       "has_item": "2025-07-26 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:13 +0000"
     },
     "done": true
   },
@@ -5755,6 +5815,42 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_crafting_table": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_sign": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
@@ -5764,6 +5860,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_bench": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
     },
     "done": true
   },
@@ -5791,6 +5893,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:13 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everdawn/get_wood": {
     "criteria": {
       "has_maple_log": "2025-07-26 01:01:47 +0000"
@@ -5803,9 +5911,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/smoking/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-26 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_sword": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_chair": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
     },
     "done": true
   },
@@ -5818,6 +5950,12 @@
   "blue_skies:recipes/building_blocks/furnace_compat": {
     "criteria": {
       "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_door": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:32 +0000"
     },
     "done": true
   },
@@ -5863,6 +6001,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/pyrope_block": {
+    "criteria": {
+      "has_item": "2025-07-26 01:12:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/crimson_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
@@ -5881,9 +6025,45 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_sword": {
     "criteria": {
       "has_resource": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/blue_skies/maple_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
     },
     "done": true
   },
@@ -5896,6 +6076,24 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:13 +0000"
     },
     "done": true
   },
@@ -5938,15 +6136,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:13 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_sculk_bone": "2025-07-26 00:40:23 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tf/blue_skies/maple_banister": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter_poison_dungeon": {
+    "criteria": {
+      "entered_dungeon": "2025-07-26 01:10:05 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
     "criteria": {
       "has_resource": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:12:01 +0000"
     },
     "done": true
   },
@@ -5980,6 +6202,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:13 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/nut_butter_bottle": {
     "criteria": {
       "has_nuts": "2025-07-26 00:21:52 +0000"
@@ -6010,9 +6244,21 @@
     },
     "done": true
   },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-07-26 01:14:13 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/blue_skies/hollow_maple_log": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
     },
     "done": true
   },
@@ -6025,6 +6271,24 @@
   "blue_skies:recipes/building_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/blue_skies/maple_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence_gate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_boots": {
+    "criteria": {
+      "has_item": "2025-07-26 01:12:01 +0000"
     },
     "done": true
   },
@@ -6058,6 +6322,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_axe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
@@ -6073,6 +6343,18 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-07-26 00:43:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_leggings": {
+    "criteria": {
+      "has_item": "2025-07-26 01:12:01 +0000"
     },
     "done": true
   },
@@ -6094,6 +6376,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/blue_skies/maple_flower_box": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
@@ -6106,9 +6394,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:12:01 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/food/cooked_monitor_tail_from_smelting_monitor_tail": {
     "criteria": {
       "has_item": "2025-07-26 01:04:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/maple_shutter": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/blue_skies/maple_beehive": {
+    "criteria": {
+      "has_planks": "2025-07-26 01:04:32 +0000"
     },
     "done": true
   },
@@ -6127,6 +6433,12 @@
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:12:01 +0000"
     },
     "done": true
   },
