@@ -11158,6 +11158,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/kill_arachnarch": {
+    "criteria": {
+      "kill_arachnarch": "2025-07-26 04:31:24 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-07-26 02:34:12 +0000"
@@ -12202,15 +12208,23 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
+      "kill_arachnarch": "2025-07-26 04:31:24 +0000",
       "kill_emberback": "2025-07-26 01:59:34 +0000",
       "kill_infested_swarmer": "2025-07-26 01:14:21 +0000",
-      "kill_venom_spider": "2025-07-26 01:18:14 +0000"
+      "kill_venom_spider": "2025-07-26 01:18:14 +0000",
+      "kill_nested_spider": "2025-07-26 04:26:50 +0000"
     },
     "done": false
   },
   "blue_skies:recipes/building_blocks/crystal_sandstone_pillar_stonecutting_crystal_sandstone": {
     "criteria": {
       "has_item": "2025-07-26 01:32:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/toxic_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 04:32:27 +0000"
     },
     "done": true
   },

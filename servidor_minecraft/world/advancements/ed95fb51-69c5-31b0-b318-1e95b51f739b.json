@@ -11046,9 +11046,11 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
+      "kill_arachnarch": "2025-07-26 04:31:24 +0000",
       "kill_emberback": "2025-07-26 01:01:38 +0000",
       "kill_infested_swarmer": "2025-07-26 00:57:52 +0000",
-      "kill_venom_spider": "2025-07-26 00:56:28 +0000"
+      "kill_venom_spider": "2025-07-26 00:56:28 +0000",
+      "kill_nested_spider": "2025-07-26 04:26:53 +0000"
     },
     "done": false
   },
@@ -12306,6 +12308,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/kill_arachnarch": {
+    "criteria": {
+      "kill_arachnarch": "2025-07-26 04:31:24 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/scalefruit_seeds": {
     "criteria": {
       "has_item": "2025-07-26 03:47:12 +0000"
@@ -12489,6 +12497,12 @@
   "blue_skies:recipes/building_blocks/ventium_block": {
     "criteria": {
       "has_item": "2025-07-26 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/toxic_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 04:31:41 +0000"
     },
     "done": true
   },

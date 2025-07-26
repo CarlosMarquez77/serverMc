@@ -6069,6 +6069,18 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/tools/bucket_of_clam_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-26 04:33:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_arachnarch": {
+    "criteria": {
+      "kill_arachnarch": "2025-07-26 04:31:24 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-07-26 02:34:36 +0000"
@@ -6459,6 +6471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-26 04:33:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs_stonecutting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2025-07-26 00:58:23 +0000"
@@ -6552,6 +6570,12 @@
   "everycomp:recipes/decorations/bp/blue_skies/maple_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-07-26 04:33:48 +0000"
     },
     "done": true
   },
@@ -6918,6 +6942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-26 04:33:48 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
@@ -6984,6 +7014,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-26 04:33:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/food/cooked_monitor_tail_from_smoking_monitor_tail": {
     "criteria": {
       "has_item": "2025-07-26 01:04:12 +0000"
@@ -6999,6 +7035,12 @@
   "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_slab": {
     "criteria": {
       "has_item": "2025-07-26 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_clawster_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-26 04:33:48 +0000"
     },
     "done": true
   },
@@ -7125,6 +7167,12 @@
   "blue_skies:recipes/building_blocks/lunar_cobblestone_wall_stonecutting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pine_fruit_seeds": {
+    "criteria": {
+      "has_item": "2025-07-26 04:34:38 +0000"
     },
     "done": true
   },
@@ -7338,6 +7386,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/tools/bucket_of_crab_chum": {
+    "criteria": {
+      "has_bonemeal": "2025-07-26 04:33:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-07-26 02:34:36 +0000"
@@ -7394,15 +7448,23 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
+      "kill_arachnarch": "2025-07-26 04:31:24 +0000",
       "kill_emberback": "2025-07-26 01:51:56 +0000",
       "kill_infested_swarmer": "2025-07-26 01:32:06 +0000",
-      "kill_venom_spider": "2025-07-26 00:59:30 +0000"
+      "kill_venom_spider": "2025-07-26 00:59:30 +0000",
+      "kill_nested_spider": "2025-07-26 04:28:26 +0000"
     },
     "done": false
   },
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/toxic_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 04:31:35 +0000"
     },
     "done": true
   },

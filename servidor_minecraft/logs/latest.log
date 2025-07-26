@@ -4057,3 +4057,20 @@ ModdedBiomeSource (6a0c8941)
 [26Jul2025 04:27:40.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Spectator Mode]
 [26Jul2025 04:27:43.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
 [26Jul2025 04:27:52.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[26Jul2025 04:27:56.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Survival Mode]
+[26Jul2025 04:29:33.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! -24.764316881052764,-1.0,-1.9112234361655283
+[26Jul2025 04:29:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex was slain by Arachnarch
+[26Jul2025 04:29:59.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Spectator Mode]
+[26Jul2025 04:30:03.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to PAIK_WS08]
+[26Jul2025 04:30:10.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Survival Mode]
+[26Jul2025 04:30:11.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was fatally poisoned whilst fighting Arachnarch
+[26Jul2025 04:30:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[26Jul2025 04:31:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has completed the challenge [Squashed!]
+[26Jul2025 04:31:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Squashed!]
+[26Jul2025 04:31:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has completed the challenge [Squashed!]
+[26Jul2025 04:32:50.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[26Jul2025 04:32:50.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6995ms or 139 ticks behind
+[26Jul2025 04:32:54.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[26Jul2025 04:32:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[26Jul2025 04:36:27.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Disconnected
+[26Jul2025 04:36:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
