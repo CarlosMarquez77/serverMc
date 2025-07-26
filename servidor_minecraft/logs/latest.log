@@ -3979,3 +3979,18 @@ ModdedBiomeSource (6a0c8941)
 [26Jul2025 03:24:48.230] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [26Jul2025 03:24:48.231] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
 [26Jul2025 03:25:27.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to PAIK_WS08]
+[26Jul2025 03:29:07.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[26Jul2025 03:30:38.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was burnt to a crisp whilst fighting Sebasrex
+[26Jul2025 03:30:51.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[26Jul2025 03:30:56.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was rooted into by Starlit Crusher
+[26Jul2025 03:30:56.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved too quickly! -13.199999988079071,-1.0,29.034947116967487
+[26Jul2025 03:31:42.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[26Jul2025 03:32:00.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was rooted into by Starlit Crusher
+[26Jul2025 03:32:00.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAIK_WS08 moved wrongly!
+[26Jul2025 03:33:09.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Defying Nature!]
+[26Jul2025 03:33:09.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has completed the challenge [Defying Nature!]
+[26Jul2025 03:33:14.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[26Jul2025 03:33:30.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Regrowth]
+[26Jul2025 03:33:30.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [A Bright Future!]
+[26Jul2025 03:33:50.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [A Bright Future!]
+[26Jul2025 03:33:50.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Regrowth]

@@ -11115,6 +11115,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/regrowth_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 03:33:30 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-07-26 02:34:12 +0000"
@@ -11274,6 +11280,12 @@
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/kill_starlit_crusher": {
+    "criteria": {
+      "kill_starlit_crusher": "2025-07-26 03:33:09 +0000"
     },
     "done": true
   },
@@ -11512,6 +11524,12 @@
     },
     "done": true
   },
+  "blue_skies:regrowth": {
+    "criteria": {
+      "have_sapling": "2025-07-26 03:33:30 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_grime_bricks": {
     "criteria": {
       "has_grime_brick": "2025-07-26 00:45:13 +0000"
@@ -11521,6 +11539,12 @@
   "blue_skies:recipes/blue_skies_tools/aquite_axe": {
     "criteria": {
       "has_resource": "2025-07-26 01:16:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_starlit_log": "2025-07-26 03:33:30 +0000"
     },
     "done": true
   },
@@ -11764,6 +11788,12 @@
   "blue_skies:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_item": "2025-07-26 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_planks": {
+    "criteria": {
+      "has_item": "2025-07-26 03:33:30 +0000"
     },
     "done": true
   },

@@ -6393,6 +6393,12 @@
     },
     "done": true
   },
+  "blue_skies:progression/unlock_nature_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-07-26 03:31:43 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/maple_spear": {
     "criteria": {
       "has_item": "2025-07-26 01:14:13 +0000"

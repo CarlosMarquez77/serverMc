@@ -12270,5 +12270,47 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/regrowth_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/kill_starlit_crusher": {
+    "criteria": {
+      "kill_starlit_crusher": "2025-07-26 03:33:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_nature_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-07-26 03:33:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/winter_leaf_seeds": {
+    "criteria": {
+      "has_item": "2025-07-26 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:regrowth": {
+    "criteria": {
+      "have_sapling": "2025-07-26 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_starlit_log": "2025-07-26 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_planks": {
+    "criteria": {
+      "has_item": "2025-07-26 03:33:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
