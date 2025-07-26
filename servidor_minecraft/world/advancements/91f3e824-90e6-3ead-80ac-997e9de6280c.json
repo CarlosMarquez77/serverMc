@@ -5697,6 +5697,12 @@
     },
     "done": true
   },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2025-07-26 03:40:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/flaming_ruby_shovel": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
@@ -5757,6 +5763,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_boots": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs": {
     "criteria": {
       "has_item": "2025-07-26 00:58:23 +0000"
@@ -5784,6 +5796,12 @@
   "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
     "criteria": {
       "has_resource": "2025-07-26 01:32:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_bars": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
     },
     "done": true
   },
@@ -5931,6 +5949,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_chestplate": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/aquite_boots": {
     "criteria": {
       "has_item": "2025-07-26 01:20:41 +0000"
@@ -6003,6 +6027,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_frame": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_sign": {
     "criteria": {
       "has_item": "2025-07-26 01:04:32 +0000"
@@ -6033,6 +6063,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_lantern_small": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
     "criteria": {
       "has_resource": "2025-07-26 01:57:07 +0000"
@@ -6048,6 +6084,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_chains": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
     },
     "done": true
   },
@@ -6243,6 +6285,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/stonecutter_compat": {
     "criteria": {
       "has_item": "2025-07-26 01:35:31 +0000"
@@ -6261,6 +6309,18 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_shears": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
@@ -6276,6 +6336,12 @@
   "betternether:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_button": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
     },
     "done": true
   },
@@ -6429,6 +6495,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_sword": {
     "criteria": {
       "has_resource": "2025-07-26 00:58:23 +0000"
@@ -6489,6 +6561,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/aquite_axe": {
     "criteria": {
       "has_resource": "2025-07-26 01:20:41 +0000"
@@ -6522,6 +6600,12 @@
   "blue_skies:recipes/building_blocks/nature_stonebrick": {
     "criteria": {
       "has_item": "2025-07-26 02:41:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_leggings": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
     },
     "done": true
   },
@@ -6588,6 +6672,12 @@
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
     },
     "done": true
   },
@@ -6690,6 +6780,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_helmet": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/nature_stonebrick_wall_stonecutting_nature_stone": {
     "criteria": {
       "has_item": "2025-07-26 02:41:29 +0000"
@@ -6783,6 +6879,12 @@
   "blue_skies:recipes/building_blocks/lunar_dripstone_stonecutting_lunar_stone": {
     "criteria": {
       "has_item": "2025-07-26 01:35:31 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2025-07-26 03:39:58 +0000"
     },
     "done": true
   },

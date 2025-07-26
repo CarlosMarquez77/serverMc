@@ -12312,5 +12312,11 @@
     },
     "done": true
   },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2025-07-26 03:39:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

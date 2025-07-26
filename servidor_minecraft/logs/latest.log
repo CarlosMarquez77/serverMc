@@ -3994,3 +3994,17 @@ ModdedBiomeSource (6a0c8941)
 [26Jul2025 03:33:30.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [A Bright Future!]
 [26Jul2025 03:33:50.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [A Bright Future!]
 [26Jul2025 03:33:50.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Regrowth]
+[26Jul2025 03:37:06.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[26Jul2025 03:39:23.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Diamond is Unbreakable]
+[26Jul2025 03:39:58.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Diamond is Unbreakable]
+[26Jul2025 03:40:26.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Cincinnasite Ore]
+[26Jul2025 03:41:28.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Spectator Mode]
+[26Jul2025 03:42:11.878] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:poison_dungeon took 0 ms
+[26Jul2025 03:42:19.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to -1743.500000, 109.614053, -1727.500000]
+[26Jul2025 03:43:14.589] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:everdawn_blinding_dungeon took 74 ms
+[26Jul2025 03:43:19.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to -3983.500000, 102.119721, -4015.500000]
+[26Jul2025 03:43:38.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Survival Mode]
+[26Jul2025 03:43:48.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[26Jul2025 03:44:02.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[26Jul2025 03:46:04.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Local Brewery]
+[26Jul2025 03:46:10.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [1 Down, 3 to go]
