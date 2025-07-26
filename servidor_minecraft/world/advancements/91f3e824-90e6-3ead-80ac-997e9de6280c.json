@@ -5782,6 +5782,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-07-26 00:35:15 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"

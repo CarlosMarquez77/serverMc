@@ -3744,3 +3744,21 @@ ModdedBiomeSource (6a0c8941)
 [26Jul2025 00:25:35.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! 0.060929245272227206,49.75081292125532,5.618028873792355
 [26Jul2025 00:27:31.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
 [26Jul2025 00:27:52.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[26Jul2025 00:34:18.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 180.500000, 87.500000, -4475.500000]
+[26Jul2025 00:36:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 345.500000, 62.500000, -4378.500000]
+[26Jul2025 00:36:11.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has completed the challenge [Echolocation]
+[26Jul2025 00:37:57.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Spectator Mode]
+[26Jul2025 00:39:02.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Survival Mode]
+[26Jul2025 00:39:35.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[26Jul2025 00:39:36.089] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element deeperdarker:ancient_temple took 72 ms
+[26Jul2025 00:39:40.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -335.500000, 86.000000, -3135.500000]
+[26Jul2025 00:39:40.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Echolocation]
+[26Jul2025 00:41:01.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Abyssal Descent]
+[26Jul2025 00:41:18.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[26Jul2025 00:41:19.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has reached the goal [Abyssal Descent]
+[26Jul2025 00:41:42.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[26Jul2025 00:41:43.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has completed the challenge [Echolocation]
+[26Jul2025 00:42:00.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has reached the goal [Abyssal Descent]
+[26Jul2025 00:43:41.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has completed the challenge [It Spreads]
+[26Jul2025 00:43:54.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was slain by Warden
+[26Jul2025 00:44:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]

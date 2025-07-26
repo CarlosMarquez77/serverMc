@@ -517,9 +517,11 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "shattered": "2025-07-26 00:33:12 +0000",
       "phantom": "2025-07-18 00:43:24 +0000",
       "shriek_worm": "2025-07-26 00:25:23 +0000",
-      "warden": "2025-07-25 02:48:55 +0000"
+      "warden": "2025-07-25 02:48:55 +0000",
+      "sculk_snapper": "2025-07-26 00:34:30 +0000"
     },
     "done": false
   },
@@ -10827,6 +10829,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-07-26 00:34:30 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:14 +0000"
@@ -10871,6 +10879,7 @@
   },
   "deeperdarker:main/explore_otherside": {
     "criteria": {
+      "overcast_columns": "2025-07-26 00:36:01 +0000",
       "blooming_caverns": "2025-07-26 00:25:08 +0000",
       "echoing_forest": "2025-07-26 00:27:28 +0000"
     },
