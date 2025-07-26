@@ -330,6 +330,7 @@
       "minecraft:creeper": "2025-07-18 01:53:04 +0000",
       "minecraft:phantom": "2025-07-18 00:43:10 +0000",
       "minecraft:zombified_piglin": "2025-07-23 21:41:57 +0000",
+      "minecraft:shulker": "2025-07-25 05:29:28 +0000",
       "minecraft:enderman": "2025-07-18 02:11:35 +0000",
       "minecraft:zombie": "2025-07-17 01:26:22 +0000",
       "minecraft:drowned": "2025-07-18 01:04:21 +0000"
@@ -5153,21 +5154,75 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-07-25 03:59:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-07-25 03:59:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-07-25 04:00:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 04:07:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 04:07:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-25 04:07:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-25 04:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-25 04:24:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:enter_end": {
+    "criteria": {
+      "entered_end": "2025-07-25 04:24:06 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:end_structures": {
+    "criteria": {
+      "example": "2025-07-25 04:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-25 04:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_end_stone_bricks": "2025-07-25 04:24:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-25 04:24:55 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_furnace": {
-    "criteria": {
-      "has_end_stone": "2025-07-25 04:24:55 +0000"
     },
     "done": true
   },
@@ -5189,39 +5244,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-07-25 04:14:38 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_perl_to_block": {
-    "criteria": {
-      "has_ender_pearl": "2025-07-25 04:25:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "ham": "2025-07-25 03:59:30 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_end_stone_bricks": "2025-07-25 04:24:25 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_eye_amber": {
-    "criteria": {
-      "has_ender_pearl": "2025-07-25 04:25:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-25 04:24:55 +0000"
     },
     "done": true
   },
@@ -5237,51 +5262,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-07-25 04:24:06 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/infusion_pedestal": {
-    "criteria": {
-      "has_ender_pearl": "2025-07-25 04:25:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/smoked_ham": {
-    "criteria": {
-      "has_ham": "2025-07-25 03:59:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-07-25 04:24:25 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_shard_to_dust": {
-    "criteria": {
-      "has_item.betterend.ender_shard": "2025-07-25 04:26:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-07-25 04:24:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-07-25 04:35:55 +0000"
-    },
-    "done": true
-  },
-  "betterend:enter_end": {
-    "criteria": {
-      "entered_end": "2025-07-25 04:24:06 +0000"
     },
     "done": true
   },
@@ -5291,45 +5274,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-25 04:24:55 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:end_structures": {
-    "criteria": {
-      "example": "2025-07-25 04:24:06 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_ingot_furnace_raw_blasting": {
-    "criteria": {
-      "has_item.betterend.thallasium_raw": "2025-07-25 04:27:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-25 04:07:05 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/endstone_flower_pot": {
     "criteria": {
       "has_end_stone_bricks": "2025-07-25 04:24:25 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_pearl_to_dust": {
-    "criteria": {
-      "has_item.minecraft.ender_pearl": "2025-07-25 04:25:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-25 04:07:05 +0000"
     },
     "done": true
   },
@@ -5351,15 +5298,33 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
-      "entered_end": "2025-07-25 04:24:06 +0000"
+      "has_end_stone": "2025-07-25 04:24:55 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "betterend:recipes/misc/end_stone_furnace": {
     "criteria": {
-      "has_onion": "2025-07-25 04:07:05 +0000"
+      "has_end_stone": "2025-07-25 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 04:24:55 +0000"
     },
     "done": true
   },
@@ -5369,21 +5334,313 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/dragon_bone_block": {
+  "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
-      "has_dragon_breath": "2025-07-25 04:35:55 +0000"
+      "has_ender_pearl": "2025-07-25 04:25:56 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+  "betterend:recipes/misc/ender_eye_amber": {
     "criteria": {
-      "has_smoked_ham": "2025-07-25 04:00:33 +0000"
+      "has_ender_pearl": "2025-07-25 04:25:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-25 04:25:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-07-25 04:25:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_shard_to_dust": {
+    "criteria": {
+      "has_item.betterend.ender_shard": "2025-07-25 04:26:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_ingot_furnace_raw_blasting": {
+    "criteria": {
+      "has_item.betterend.thallasium_raw": "2025-07-25 04:27:33 +0000"
     },
     "done": true
   },
   "betterend:recipes/misc/thallasium_ingot_furnace_raw_smelting": {
     "criteria": {
       "has_item.betterend.thallasium_raw": "2025-07-25 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-07-25 04:35:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_dragon_breath": "2025-07-25 04:35:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-07-25 04:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-25 04:47:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:all_the_biomes": {
+    "criteria": {
+      "betterend:dry_shrubland": "2025-07-25 05:03:33 +0000",
+      "betterend:shadow_forest": "2025-07-25 05:13:28 +0000",
+      "betterend:amber_land": "2025-07-25 04:48:25 +0000",
+      "betterend:sulphur_springs": "2025-07-25 05:27:48 +0000",
+      "betterend:painted_mountains": "2025-07-25 04:49:06 +0000",
+      "betterend:ice_starfield": "2025-07-25 04:47:17 +0000",
+      "betterend:foggy_mushroomland": "2025-07-25 05:23:03 +0000",
+      "betterend:glowing_grasslands": "2025-07-25 05:03:20 +0000",
+      "betterend:megalake_grove": "2025-07-25 05:01:53 +0000",
+      "betterend:umbra_valley": "2025-07-25 05:22:18 +0000",
+      "betterend:chorus_forest": "2025-07-25 05:08:24 +0000",
+      "betterend:lantern_woods": "2025-07-25 05:11:31 +0000",
+      "betterend:megalake": "2025-07-25 05:02:02 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-07-25 04:49:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:all_the_templates": {
+    "criteria": {
+      "got_leather": "2025-07-25 04:54:06 +0000",
+      "got_aeternium": "2025-07-25 04:54:02 +0000",
+      "got_handle": "2025-07-25 05:32:59 +0000",
+      "got_terminite": "2025-07-25 05:32:58 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-25 04:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-25 05:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-25 05:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-25 05:02:45 +0000"
+    },
+    "done": true
+  },
+  "betterend:portal": {
+    "criteria": {
+      "eternal_portal": "2025-07-25 05:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-07-25 05:29:17 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-07-25 05:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-07-25 05:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 05:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 05:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 05:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 05:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 05:32:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/missing_tile": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 05:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 05:32:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/armored_elytra": {
+    "criteria": {
+      "has_item.minecraft.elytra": "2025-07-25 05:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-07-25 05:35:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/crystalite_elytra": {
+    "criteria": {
+      "has_item.minecraft.elytra": "2025-07-25 05:35:48 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-07-25 05:35:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:all_elytras": {
+    "criteria": {
+      "vanilla": "2025-07-25 05:35:48 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2025-07-25 05:38:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2025-07-25 05:38:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2025-07-25 05:38:17 +0000",
+      "enter_everdawn": "2025-07-25 05:38:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2025-07-25 05:38:41 +0000"
     },
     "done": true
   },
