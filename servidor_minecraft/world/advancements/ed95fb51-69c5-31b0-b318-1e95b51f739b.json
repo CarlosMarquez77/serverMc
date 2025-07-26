@@ -7462,7 +7462,9 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "shattered": "2025-07-26 00:27:35 +0000",
       "phantom": "2025-07-22 21:13:32 +0000",
+      "sculk_leech": "2025-07-26 00:26:33 +0000",
       "warden": "2025-07-22 22:49:52 +0000"
     },
     "done": false
@@ -10725,6 +10727,7 @@
   },
   "betterend:all_elytras": {
     "criteria": {
+      "armored": "2025-07-26 00:23:17 +0000",
       "vanilla": "2025-07-25 05:09:37 +0000"
     },
     "done": false
@@ -10796,9 +10799,208 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-07-26 00:25:07 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-07-26 00:16:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_block": {
+    "criteria": {
+      "has_aeternium_ingot": "2025-07-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_pickaxe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_axe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tiles_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-07-26 00:26:33 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_hammer_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_shovel_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_hoe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "blooming_caverns": "2025-07-26 00:25:08 +0000",
+      "echoing_forest": "2025-07-26 00:28:17 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-07-26 00:27:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_forged_plate": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_sword_blade": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-26 00:23:09 +0000"
     },
     "done": true
   },
