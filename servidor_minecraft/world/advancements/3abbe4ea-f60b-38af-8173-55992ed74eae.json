@@ -11079,6 +11079,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/pink_dye_from_blush_blossom": {
+    "criteria": {
+      "has_item": "2025-07-26 02:54:11 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_item": "2025-07-26 01:12:49 +0000"
