@@ -5660,6 +5660,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_stairs_stonecutting_cracked_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:33 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/bluebright_spear": {
     "criteria": {
       "has_item": "2025-07-26 01:14:13 +0000"
@@ -5726,9 +5738,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/raw_horizonite_block_from_raw_horizonite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:31:01 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_item": "2025-07-26 01:01:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:32:19 +0000"
     },
     "done": true
   },
@@ -5780,6 +5804,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_slab_stonecutting_cracked_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:33 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/maple_button": {
     "criteria": {
       "has_item": "2025-07-26 01:04:32 +0000"
@@ -5810,6 +5840,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:30:11 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/smelting/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-26 00:21:52 +0000"
@@ -5819,6 +5855,12 @@
   "betternether:recipes/tools/flaming_ruby_hoe": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_leggings": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:19 +0000"
     },
     "done": true
   },
@@ -5837,6 +5879,12 @@
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-07-26 00:54:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:19 +0000"
     },
     "done": true
   },
@@ -5936,6 +5984,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_nugget_from_blasting_horizonite_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-26 01:28:06 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/tools/zeal_lighter": {
     "criteria": {
       "has_item": "2025-07-26 01:14:13 +0000"
@@ -5954,9 +6008,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_nugget_from_smelting_horizonite_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-26 01:28:06 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_slab": {
     "criteria": {
       "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_wall_stonecutting_cracked_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:33 +0000"
     },
     "done": true
   },
@@ -6056,6 +6122,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2025-07-26 01:25:01 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/pyrope_block": {
     "criteria": {
       "has_item": "2025-07-26 01:12:01 +0000"
@@ -6092,6 +6164,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/horizonite_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:32:19 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/maple_hoe": {
     "criteria": {
       "has_resource": "2025-07-26 01:04:32 +0000"
@@ -6104,9 +6182,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_block": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:19 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/maple_shovel": {
     "criteria": {
       "has_resource": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_sword": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:32:19 +0000"
     },
     "done": true
   },
@@ -6164,9 +6254,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_ingot_from_blasting_raw_horizonite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:31:01 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
     "criteria": {
       "has_resource": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/horizonite_forge": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:19 +0000"
     },
     "done": true
   },
@@ -6179,6 +6281,12 @@
   "blue_skies:recipes/building_blocks/maple_ladder": {
     "criteria": {
       "has_item": "2025-07-26 01:03:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:33 +0000"
     },
     "done": true
   },
@@ -6212,6 +6320,12 @@
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_sculk_bone": "2025-07-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/get_horizonite": {
+    "criteria": {
+      "obtain_material": "2025-07-26 01:32:19 +0000"
     },
     "done": true
   },
@@ -6263,6 +6377,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/horizonite_boots": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:19 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
     "criteria": {
       "has_item": "2025-07-26 01:16:10 +0000"
@@ -6272,6 +6392,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:33 +0000"
     },
     "done": true
   },
@@ -6308,6 +6434,12 @@
   "betternether:recipes/transportation/nether_reed_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:33 +0000"
     },
     "done": true
   },
@@ -6383,6 +6515,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/horizonite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:32:19 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
@@ -6425,6 +6563,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_ingot_from_smelting_raw_horizonite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:31:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-07-26 00:43:41 +0000"
@@ -6446,6 +6590,12 @@
   "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
     "criteria": {
       "has_item": "2025-07-26 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_helmet": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:19 +0000"
     },
     "done": true
   },
@@ -6509,6 +6659,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/horizonite_axe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:32:19 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/blue_skies/maple_shutter": {
     "criteria": {
       "has_planks": "2025-07-26 01:04:32 +0000"
@@ -6529,6 +6685,7 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
+      "kill_infested_swarmer": "2025-07-26 01:32:06 +0000",
       "kill_venom_spider": "2025-07-26 00:59:30 +0000"
     },
     "done": false

@@ -10820,6 +10820,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/crystal_sandstone_wall": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/smooth_crystal_sandstone_from_smelting_crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/polished_cinderstone": {
     "criteria": {
       "has_item": "2025-07-26 01:18:28 +0000"
@@ -10952,6 +10964,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/cut_crystal_sandstone_stonecutting_crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:30:15 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/cinderstone_stairs_stonecutting_cinderstone": {
     "criteria": {
       "has_item": "2025-07-26 01:18:28 +0000"
@@ -10997,6 +11021,12 @@
   "blue_skies:recipes/building_blocks/maple_crafting_table": {
     "criteria": {
       "has_item": "2025-07-26 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystal_sandstone_wall_stonecutting_crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
     },
     "done": true
   },
@@ -11330,6 +11360,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/crystal_sandstone_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/aquite_sword": {
     "criteria": {
       "has_resource": "2025-07-26 01:16:37 +0000"
@@ -11345,6 +11381,18 @@
   "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
     "criteria": {
       "has_resource": "2025-07-26 01:23:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cut_crystal_sandstone_slab_stonecutting_crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystal_sandstone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
     },
     "done": true
   },
@@ -11396,6 +11444,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystal_sandstone_stairs_stonecutting_crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
     },
     "done": true
   },
@@ -11591,6 +11645,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/chiseled_crystal_sandstone_stonecutting_crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
     "criteria": {
       "has_item": "2025-07-26 01:17:26 +0000"
@@ -11618,6 +11678,12 @@
   "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
     "criteria": {
       "has_resource": "2025-07-26 01:16:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cut_crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
     },
     "done": true
   },
@@ -11675,6 +11741,18 @@
       "kill_venom_spider": "2025-07-26 01:18:14 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/building_blocks/crystal_sandstone_pillar_stonecutting_crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystal_sandstone_slab_stonecutting_crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:32:27 +0000"
+    },
+    "done": true
   },
   "blue_skies:recipes/misc/aquite_block": {
     "criteria": {
