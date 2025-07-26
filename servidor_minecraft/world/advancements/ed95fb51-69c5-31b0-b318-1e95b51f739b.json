@@ -10837,9 +10837,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aeternium_block": {
     "criteria": {
       "has_aeternium_ingot": "2025-07-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:36:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/charoite_block": {
+    "criteria": {
+      "has_item": "2025-07-26 01:36:33 +0000"
     },
     "done": true
   },
@@ -10903,6 +10927,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stone_slab_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/vp/blue_skies/maple_horticulturist_table": {
     "criteria": {
       "has_planks": "2025-07-26 01:12:08 +0000"
@@ -10945,6 +10975,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/charoite_boots": {
+    "criteria": {
+      "has_item": "2025-07-26 01:36:33 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
     "criteria": {
       "has_resource": "2025-07-26 01:13:04 +0000"
@@ -10972,6 +11008,12 @@
   "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
     "criteria": {
       "has_resource": "2025-07-26 00:57:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_axe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:36:33 +0000"
     },
     "done": true
   },
@@ -11050,6 +11092,12 @@
   "blue_skies:recipes/combat/diopside_boots": {
     "criteria": {
       "has_item": "2025-07-26 01:22:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/enchanting_table_compat": {
+    "criteria": {
+      "has_item": "2025-07-26 01:36:33 +0000"
     },
     "done": true
   },
@@ -11185,6 +11233,24 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/raw_charoite_block_from_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:36:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/jukebox_compat": {
+    "criteria": {
+      "has_item": "2025-07-26 01:36:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/stonecutter_compat": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_shovel": {
     "criteria": {
       "has_resource": "2025-07-26 00:57:34 +0000"
@@ -11194,6 +11260,12 @@
   "betterend:recipes/misc/aeternium_hammer_head": {
     "criteria": {
       "has_item.betterend.aeternium_ingot": "2025-07-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_charoite": {
+    "criteria": {
+      "obtain_material": "2025-07-26 01:36:33 +0000"
     },
     "done": true
   },
@@ -11209,9 +11281,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_nugget_from_blasting_horizonite_sword": {
+    "criteria": {
+      "has_item": "2025-07-26 01:37:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_button": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_chest": {
     "criteria": {
       "has_item": "2025-07-26 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
     },
     "done": true
   },
@@ -11275,6 +11365,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/charoite_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:36:33 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/maple_shovel": {
     "criteria": {
       "has_resource": "2025-07-26 01:12:08 +0000"
@@ -11311,6 +11407,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/charoite_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:36:33 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/lunar_spear": {
     "criteria": {
       "has_item": "2025-07-26 00:58:07 +0000"
@@ -11326,6 +11428,12 @@
   "blue_skies:recipes/redstone/moonstone_pressure_plate": {
     "criteria": {
       "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
     },
     "done": true
   },
@@ -11353,6 +11461,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_nugget_from_smelting_horizonite_sword": {
+    "criteria": {
+      "has_item": "2025-07-26 01:37:08 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/moonstone_shield": {
     "criteria": {
       "has_item": "2025-07-26 01:33:50 +0000"
@@ -11368,6 +11482,12 @@
   "blue_skies:recipes/building_blocks/horizonite_forge": {
     "criteria": {
       "has_item": "2025-07-26 01:27:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
     },
     "done": true
   },
@@ -11392,6 +11512,12 @@
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_leggings": {
+    "criteria": {
+      "has_item": "2025-07-26 01:36:33 +0000"
     },
     "done": true
   },
@@ -11476,6 +11602,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/charoite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:36:33 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/horizonite_boots": {
     "criteria": {
       "has_item": "2025-07-26 01:27:15 +0000"
@@ -11485,6 +11617,18 @@
   "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
     "criteria": {
       "has_item": "2025-07-26 01:14:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/charoite_from_smelting_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:36:38 +0000"
     },
     "done": true
   },
@@ -11518,6 +11662,24 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_dripstone_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_helmet": {
+    "criteria": {
+      "has_item": "2025-07-26 01:36:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_stairs_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-07-26 00:43:03 +0000"
@@ -11542,6 +11704,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
+    },
+    "done": true
+  },
   "blue_skies:get_diopside": {
     "criteria": {
       "obtain_material": "2025-07-26 01:22:01 +0000"
@@ -11563,6 +11731,12 @@
   "blue_skies:recipes/building_blocks/maple_fence_gate": {
     "criteria": {
       "has_item": "2025-07-26 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
     },
     "done": true
   },
@@ -11623,6 +11797,12 @@
   "blue_skies:recipes/misc/horizonite_ingot_from_smelting_raw_horizonite": {
     "criteria": {
       "has_item": "2025-07-26 01:17:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/lunar_stone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:34:30 +0000"
     },
     "done": true
   },
@@ -11692,6 +11872,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/charoite_sword": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:36:33 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
     "criteria": {
       "has_resource": "2025-07-26 01:13:04 +0000"
@@ -11719,6 +11905,12 @@
   "everycomp:recipes/decorations/faf/blue_skies/maple_beehive": {
     "criteria": {
       "has_planks": "2025-07-26 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/charoite_from_blasting_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:36:38 +0000"
     },
     "done": true
   },

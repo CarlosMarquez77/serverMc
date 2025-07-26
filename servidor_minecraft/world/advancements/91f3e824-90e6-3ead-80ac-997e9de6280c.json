@@ -5696,6 +5696,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/dusk_planks": {
     "criteria": {
       "has_item": "2025-07-26 01:03:46 +0000"
@@ -5753,6 +5765,12 @@
   "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
     "criteria": {
       "has_resource": "2025-07-26 01:32:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_slab_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
     },
     "done": true
   },
@@ -5843,6 +5861,12 @@
   "blue_skies:recipes/building_blocks/lunar_stone": {
     "criteria": {
       "has_item": "2025-07-26 01:30:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/smooth_crystal_sandstone_slab_stonecutting_smooth_crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:39:25 +0000"
     },
     "done": true
   },
@@ -5990,6 +6014,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/smooth_crystal_sandstone_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 01:39:25 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/tools/zeal_lighter": {
     "criteria": {
       "has_item": "2025-07-26 01:14:13 +0000"
@@ -6086,6 +6116,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/stonecutter_compat": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_shovel": {
     "criteria": {
       "has_resource": "2025-07-26 00:58:23 +0000"
@@ -6110,9 +6146,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_nugget_from_blasting_horizonite_sword": {
+    "criteria": {
+      "has_item": "2025-07-26 01:37:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_button": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_chest": {
     "criteria": {
       "has_item": "2025-07-26 01:03:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystal_glass_pane": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:40 +0000"
     },
     "done": true
   },
@@ -6164,6 +6224,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/smooth_crystal_sandstone_stairs_stonecutting_smooth_crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:39:25 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/horizonite_shovel": {
     "criteria": {
       "has_resource": "2025-07-26 01:32:19 +0000"
@@ -6212,6 +6278,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/smooth_crystal_sandstone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 01:39:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/flaming_ruby_axe": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
@@ -6248,6 +6320,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/aquite_sword": {
     "criteria": {
       "has_resource": "2025-07-26 01:20:41 +0000"
@@ -6260,6 +6338,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_nugget_from_smelting_horizonite_sword": {
+    "criteria": {
+      "has_item": "2025-07-26 01:37:12 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
     "criteria": {
       "has_resource": "2025-07-26 00:58:23 +0000"
@@ -6269,6 +6353,12 @@
   "blue_skies:recipes/building_blocks/horizonite_forge": {
     "criteria": {
       "has_item": "2025-07-26 01:32:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
     },
     "done": true
   },
@@ -6389,6 +6479,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
@@ -6419,9 +6515,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_dripstone_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/nut_butter_bottle": {
     "criteria": {
       "has_nuts": "2025-07-26 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_stairs_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
     },
     "done": true
   },
@@ -6479,6 +6587,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2025-07-26 00:58:23 +0000"
@@ -6494,6 +6608,12 @@
   "blue_skies:recipes/building_blocks/maple_fence_gate": {
     "criteria": {
       "has_item": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
     },
     "done": true
   },
@@ -6566,6 +6686,12 @@
   "blue_skies:recipes/misc/horizonite_ingot_from_smelting_raw_horizonite": {
     "criteria": {
       "has_item": "2025-07-26 01:31:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/lunar_stone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:35:31 +0000"
     },
     "done": true
   },

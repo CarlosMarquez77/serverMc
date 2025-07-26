@@ -10862,6 +10862,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/pyrope_helmet": {
+    "criteria": {
+      "has_item": "2025-07-26 01:38:07 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/diopside_axe": {
     "criteria": {
       "has_resource": "2025-07-26 01:23:49 +0000"
@@ -10871,6 +10877,12 @@
   "blue_skies:recipes/combat/diopside_leggings": {
     "criteria": {
       "has_item": "2025-07-26 01:23:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_pyrope": {
+    "criteria": {
+      "obtain_material": "2025-07-26 01:38:07 +0000"
     },
     "done": true
   },
@@ -10931,6 +10943,12 @@
   "blue_skies:recipes/combat/charoite_boots": {
     "criteria": {
       "has_item": "2025-07-26 01:21:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:38:07 +0000"
     },
     "done": true
   },
@@ -11009,6 +11027,12 @@
   "blue_skies:recipes/building_blocks/maple_trapdoor": {
     "criteria": {
       "has_item": "2025-07-26 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:38:07 +0000"
     },
     "done": true
   },
@@ -11252,6 +11276,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/pyrope_block": {
+    "criteria": {
+      "has_item": "2025-07-26 01:38:07 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/find_ancient_temple": {
     "criteria": {
       "ancient_temple": "2025-07-26 00:41:01 +0000"
@@ -11483,6 +11513,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:38:07 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/cinderstone_wall": {
     "criteria": {
       "has_item": "2025-07-26 01:18:28 +0000"
@@ -11585,6 +11621,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/pyrope_boots": {
+    "criteria": {
+      "has_item": "2025-07-26 01:38:07 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:14 +0000"
@@ -11642,6 +11684,18 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:38:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_leggings": {
+    "criteria": {
+      "has_item": "2025-07-26 01:38:07 +0000"
     },
     "done": true
   },
@@ -11717,6 +11771,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:38:07 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/blue_skies/maple_shutter": {
     "criteria": {
       "has_planks": "2025-07-26 01:12:49 +0000"
@@ -11751,6 +11811,12 @@
   "blue_skies:recipes/building_blocks/crystal_sandstone_slab_stonecutting_crystal_sandstone": {
     "criteria": {
       "has_item": "2025-07-26 01:32:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:38:07 +0000"
     },
     "done": true
   },
