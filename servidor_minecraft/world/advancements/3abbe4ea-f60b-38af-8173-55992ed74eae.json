@@ -10947,6 +10947,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/nature_stone_stairs_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:41:10 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/maple_stick": {
     "criteria": {
       "has_item": "2025-07-26 01:12:49 +0000"
@@ -11127,6 +11133,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/nature_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 02:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-07-26 00:55:26 +0000"
@@ -11241,6 +11253,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/kill_summoner": {
+    "criteria": {
+      "kill_summoner": "2025-07-26 02:35:26 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/blue_skies/maple_chair": {
     "criteria": {
       "has_planks": "2025-07-26 01:12:49 +0000"
@@ -11274,6 +11292,12 @@
   "blue_skies:recipes/building_blocks/jukebox_compat": {
     "criteria": {
       "has_item": "2025-07-26 01:21:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stone_slab_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:41:10 +0000"
     },
     "done": true
   },
@@ -11332,6 +11356,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/nature_stonebrick_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:41:10 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/charcoal_block": {
     "criteria": {
       "has_charcoal": "2025-07-26 01:20:32 +0000"
@@ -11386,6 +11416,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/nature_stone_pillar_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:41:10 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/maple_hoe": {
     "criteria": {
       "has_resource": "2025-07-26 01:12:49 +0000"
@@ -11434,6 +11470,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/nature_stonebrick_stairs_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:41:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stonebrick_slab_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-07-26 02:19:40 +0000"
@@ -11473,6 +11521,12 @@
   "blue_skies:recipes/blue_skies_tools/aquite_sword": {
     "criteria": {
       "has_resource": "2025-07-26 01:16:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-26 02:41:10 +0000"
     },
     "done": true
   },
@@ -11641,6 +11695,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/nature_stonebrick_wall_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:41:10 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
     "criteria": {
       "has_item": "2025-07-26 01:17:26 +0000"
@@ -11662,6 +11722,12 @@
   "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-07-26 02:34:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stone_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 02:41:10 +0000"
     },
     "done": true
   },
@@ -11803,6 +11869,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/banished_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 02:35:52 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/cinderstone_slab_stonecutting_cinderstone": {
     "criteria": {
       "has_item": "2025-07-26 01:18:28 +0000"
@@ -11923,9 +11995,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/carved_nature_stonebrick_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:41:10 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
     "criteria": {
       "has_resource": "2025-07-26 01:38:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter_nature_dungeon": {
+    "criteria": {
+      "entered_dungeon": "2025-07-26 02:39:10 +0000"
     },
     "done": true
   },

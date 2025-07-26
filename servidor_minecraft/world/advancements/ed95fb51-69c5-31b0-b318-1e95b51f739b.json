@@ -12084,6 +12084,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/nature_stone_stairs_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:40:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_blinding_wall": {
     "criteria": {
       "has_item": "2025-07-26 02:34:15 +0000"
@@ -12108,15 +12114,69 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/nature_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 02:40:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/kill_summoner": {
+    "criteria": {
+      "kill_summoner": "2025-07-26 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stone_slab_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:40:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:keys": {
     "criteria": {
       "obtain_key": "2025-07-26 02:32:58 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/nature_stonebrick_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:40:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stone_pillar_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:40:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_blinding_slab_stonecutting_glowing_blinding_stone": {
     "criteria": {
       "has_item": "2025-07-26 02:34:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stonebrick_stairs_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:40:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stonebrick_slab_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:40:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-26 02:40:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stonebrick_wall_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:40:04 +0000"
     },
     "done": true
   },
@@ -12129,6 +12189,12 @@
   "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-07-26 02:34:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stone_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 02:40:04 +0000"
     },
     "done": true
   },
@@ -12156,9 +12222,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/banished_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 02:35:59 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_blinding_stairs_stonecutting_glowing_blinding_stone": {
     "criteria": {
       "has_item": "2025-07-26 02:34:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/carved_nature_stonebrick_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:40:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter_nature_dungeon": {
+    "criteria": {
+      "entered_dungeon": "2025-07-26 02:37:59 +0000"
     },
     "done": true
   },
