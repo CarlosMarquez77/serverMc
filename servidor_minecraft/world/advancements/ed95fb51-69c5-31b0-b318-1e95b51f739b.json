@@ -10825,6 +10825,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:21:22 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aeternium_block": {
     "criteria": {
       "has_aeternium_ingot": "2025-07-26 00:23:09 +0000"
@@ -10834,6 +10840,18 @@
   "blue_skies:recipes/combat/pyrope_helmet": {
     "criteria": {
       "has_item": "2025-07-26 01:13:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:22:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_leggings": {
+    "criteria": {
+      "has_item": "2025-07-26 01:22:01 +0000"
     },
     "done": true
   },
@@ -10852,6 +10870,12 @@
   "everycomp:recipes/decorations/af/blue_skies/maple_drawer": {
     "criteria": {
       "has_planks": "2025-07-26 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_horizonite_block_from_raw_horizonite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:17:30 +0000"
     },
     "done": true
   },
@@ -10927,9 +10951,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/sunstone_block": {
+    "criteria": {
+      "has_item": "2025-07-26 01:15:42 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
     "criteria": {
       "has_resource": "2025-07-26 00:57:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:21:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_boots": {
+    "criteria": {
+      "has_item": "2025-07-26 01:21:22 +0000"
     },
     "done": true
   },
@@ -10975,6 +11017,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/diopside_boots": {
+    "criteria": {
+      "has_item": "2025-07-26 01:22:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:22:01 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
@@ -11011,6 +11065,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/diopside_block": {
+    "criteria": {
+      "has_item": "2025-07-26 01:22:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_helmet": {
+    "criteria": {
+      "has_item": "2025-07-26 01:21:22 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/tools/zeal_lighter": {
     "criteria": {
       "has_item": "2025-07-26 00:58:07 +0000"
@@ -11044,6 +11110,12 @@
   "blue_skies:recipes/blue_skies_tools/maple_sword": {
     "criteria": {
       "has_resource": "2025-07-26 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:21:22 +0000"
     },
     "done": true
   },
@@ -11185,9 +11257,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:21:22 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/moonstone_pressure_plate": {
     "criteria": {
       "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:21:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:22:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/horizonite_ingot_from_blasting_raw_horizonite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:17:30 +0000"
     },
     "done": true
   },
@@ -11212,6 +11308,12 @@
   "blue_skies:recipes/building_blocks/maple_ladder": {
     "criteria": {
       "has_item": "2025-07-26 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:22:01 +0000"
     },
     "done": true
   },
@@ -11254,6 +11356,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/diopside_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:22:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:22:01 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
     "criteria": {
       "has_resource": "2025-07-26 00:57:34 +0000"
@@ -11278,9 +11392,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/aquite_leggings": {
+    "criteria": {
+      "has_item": "2025-07-26 01:21:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:37 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_helmet": {
+    "criteria": {
+      "has_item": "2025-07-26 01:22:01 +0000"
     },
     "done": true
   },
@@ -11326,6 +11458,12 @@
     },
     "done": true
   },
+  "blue_skies:get_diopside": {
+    "criteria": {
+      "obtain_material": "2025-07-26 01:22:01 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2025-07-26 00:57:34 +0000"
@@ -11353,6 +11491,12 @@
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_aquite": {
+    "criteria": {
+      "obtain_material": "2025-07-26 01:21:22 +0000"
     },
     "done": true
   },
@@ -11386,6 +11530,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_ingot_from_smelting_raw_horizonite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:17:30 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
     "criteria": {
       "has_resource": "2025-07-26 01:13:04 +0000"
@@ -11398,15 +11548,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:37 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_cobblestone_slab": {
     "criteria": {
       "has_item": "2025-07-26 00:57:34 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/misc/aquite_from_blasting_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:14:37 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/lunar_lever": {
     "criteria": {
       "has_item": "2025-07-26 00:57:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:21:22 +0000"
     },
     "done": true
   },
@@ -11469,6 +11637,12 @@
   "blue_skies:recipes/combat/pyrope_chestplate": {
     "criteria": {
       "has_item": "2025-07-26 01:13:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_block": {
+    "criteria": {
+      "has_item": "2025-07-26 01:21:22 +0000"
     },
     "done": true
   },

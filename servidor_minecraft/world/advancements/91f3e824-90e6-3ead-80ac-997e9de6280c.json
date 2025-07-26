@@ -331,6 +331,7 @@
       "minecraft:phantom": "2025-07-18 00:43:10 +0000",
       "minecraft:zombified_piglin": "2025-07-23 21:41:57 +0000",
       "minecraft:shulker": "2025-07-25 05:29:28 +0000",
+      "minecraft:cave_spider": "2025-07-26 01:21:40 +0000",
       "minecraft:enderman": "2025-07-18 02:11:35 +0000",
       "minecraft:zombie": "2025-07-17 01:26:22 +0000",
       "minecraft:drowned": "2025-07-18 01:04:21 +0000"
@@ -5671,6 +5672,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:20:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/flaming_ruby_shovel": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
@@ -5785,9 +5792,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/sunstone_block": {
+    "criteria": {
+      "has_item": "2025-07-26 01:16:35 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
     "criteria": {
       "has_resource": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:20:41 +0000"
     },
     "done": true
   },
@@ -5809,6 +5828,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/aquite_boots": {
+    "criteria": {
+      "has_item": "2025-07-26 01:20:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-07-26 00:54:08 +0000"
@@ -5824,6 +5849,12 @@
   "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
     "criteria": {
       "has_resource": "2025-07-26 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2025-07-26 01:19:45 +0000"
     },
     "done": true
   },
@@ -5854,6 +5885,12 @@
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-26 01:19:45 +0000"
     },
     "done": true
   },
@@ -5893,6 +5930,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/aquite_helmet": {
+    "criteria": {
+      "has_item": "2025-07-26 01:20:41 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/tools/zeal_lighter": {
     "criteria": {
       "has_item": "2025-07-26 01:14:13 +0000"
@@ -5917,6 +5960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-26 01:21:41 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/smoking/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-26 00:21:52 +0000"
@@ -5932,6 +5981,12 @@
   "blue_skies:recipes/blue_skies_tools/maple_sword": {
     "criteria": {
       "has_resource": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-26 01:20:41 +0000"
     },
     "done": true
   },
@@ -6091,9 +6146,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:20:41 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/moonstone_pressure_plate": {
     "criteria": {
       "has_item": "2025-07-26 01:14:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:20:41 +0000"
     },
     "done": true
   },
@@ -6184,9 +6251,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/aquite_leggings": {
+    "criteria": {
+      "has_item": "2025-07-26 01:20:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:16:10 +0000"
     },
     "done": true
   },
@@ -6298,6 +6377,12 @@
     },
     "done": true
   },
+  "blue_skies:get_aquite": {
+    "criteria": {
+      "obtain_material": "2025-07-26 01:20:41 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
@@ -6358,9 +6443,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:16:10 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_cobblestone_slab": {
     "criteria": {
       "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_blasting_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-07-26 01:16:10 +0000"
     },
     "done": true
   },
@@ -6373,6 +6470,12 @@
   "blue_skies:recipes/redstone/lunar_lever": {
     "criteria": {
       "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-26 01:20:41 +0000"
     },
     "done": true
   },
@@ -6439,6 +6542,12 @@
   "blue_skies:recipes/combat/pyrope_chestplate": {
     "criteria": {
       "has_item": "2025-07-26 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_block": {
+    "criteria": {
+      "has_item": "2025-07-26 01:20:41 +0000"
     },
     "done": true
   },
