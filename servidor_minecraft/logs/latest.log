@@ -3762,3 +3762,26 @@ ModdedBiomeSource (6a0c8941)
 [26Jul2025 00:43:41.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has completed the challenge [It Spreads]
 [26Jul2025 00:43:54.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 was slain by Warden
 [26Jul2025 00:44:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[26Jul2025 00:45:32.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-348, y=31, z=-3139} BlockPos{x=-348, y=30, z=-3140}
+[26Jul2025 00:45:39.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-340, y=31, z=-3148} BlockPos{x=-340, y=30, z=-3149}
+[26Jul2025 00:45:52.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-315, y=18, z=-3140} BlockPos{x=-314, y=18, z=-3141}
+[26Jul2025 00:49:42.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-358, y=19, z=-3157} BlockPos{x=-359, y=18, z=-3156}
+[26Jul2025 00:51:17.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Remote Storage]
+[26Jul2025 00:52:45.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Spectator Mode]
+[26Jul2025 00:52:59.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-321, y=19, z=-3124} BlockPos{x=-320, y=18, z=-3124}
+[26Jul2025 00:53:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro was slain by Stalker
+[26Jul2025 00:53:31.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[26Jul2025 00:54:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[26Jul2025 00:54:38.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[26Jul2025 00:54:44.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Survival Mode]
+[26Jul2025 00:56:06.682] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[26Jul2025 00:56:06.683] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 1ms
+[26Jul2025 00:56:34.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Forever Dawn?]
+[26Jul2025 00:58:07.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Light Up The World!]
+[26Jul2025 00:59:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [A New Dawn]
+[26Jul2025 01:00:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Bane of my Existence]
+[26Jul2025 01:01:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [A New Dawn]
+[26Jul2025 01:02:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 1109.500000, 212.500000, -420.500000]
+[26Jul2025 01:03:12.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 1362.500000, 176.500000, -510.500000]
+[26Jul2025 01:03:20.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 1347.500000, 172.500000, -1349.500000]
+[26Jul2025 01:03:23.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 1485.500000, 190.500000, -450.500000]

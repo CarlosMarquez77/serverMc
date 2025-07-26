@@ -10813,9 +10813,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aeternium_block": {
     "criteria": {
       "has_aeternium_ingot": "2025-07-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 00:57:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_item": "2025-07-26 00:59:25 +0000"
     },
     "done": true
   },
@@ -10849,9 +10867,57 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/maple_stick": {
+    "criteria": {
+      "has_the_recipe": "2025-07-26 00:59:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_sculk_transmitter": {
+    "criteria": {
+      "sculk_transmitter": "2025-07-26 00:51:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-26 00:57:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/echo_planks": {
+    "criteria": {
+      "has_logs": "2025-07-26 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2025-07-26 00:59:30 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2025-07-26 00:57:34 +0000"
     },
     "done": true
   },
@@ -10873,9 +10939,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/get_wood": {
+    "criteria": {
+      "has_maple_log": "2025-07-26 00:59:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_slab_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2025-07-26 00:57:34 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/furnace_compat": {
+    "criteria": {
+      "has_item": "2025-07-26 00:57:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-26 00:57:34 +0000"
     },
     "done": true
   },
@@ -10897,9 +10993,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_chest": {
+    "criteria": {
+      "has_item": "2025-07-26 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2025-07-26 00:41:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2025-07-26 00:57:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aeternium_hoe_head": {
     "criteria": {
       "has_item.betterend.aeternium_ingot": "2025-07-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_sword": {
+    "criteria": {
+      "has_resource": "2025-07-26 00:57:34 +0000"
     },
     "done": true
   },
@@ -10909,15 +11035,45 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye": {
     "criteria": {
       "has_gloomy_cactus": "2025-07-26 00:36:22 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
+    "criteria": {
+      "has_resource": "2025-07-26 00:57:34 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_ladder": {
+    "criteria": {
+      "has_item": "2025-07-26 00:59:52 +0000"
     },
     "done": true
   },
@@ -10939,6 +11095,18 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-26 00:57:34 +0000"
     },
     "done": true
   },
@@ -10966,9 +11134,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-26 00:43:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-07-26 00:58:07 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2025-07-26 00:57:34 +0000"
     },
     "done": true
   },
@@ -10984,6 +11176,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_wall_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2025-07-26 00:57:34 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
@@ -10993,6 +11191,18 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 00:57:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/lunar_lever": {
+    "criteria": {
+      "has_item": "2025-07-26 00:57:34 +0000"
     },
     "done": true
   },
@@ -11007,6 +11217,20 @@
       "has_cobbled_sculk_stone": "2025-07-26 00:25:55 +0000"
     },
     "done": true
+  },
+  "deeperdarker:recipes/building_blocks/echo_wood": {
+    "criteria": {
+      "has_log": "2025-07-26 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_bug": {
+    "criteria": {
+      "kill_emberback": "2025-07-26 01:01:38 +0000",
+      "kill_infested_swarmer": "2025-07-26 00:57:52 +0000",
+      "kill_venom_spider": "2025-07-26 00:56:28 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/misc/aeternium_sword_blade": {
     "criteria": {

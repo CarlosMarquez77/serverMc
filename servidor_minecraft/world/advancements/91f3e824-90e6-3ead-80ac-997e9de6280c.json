@@ -423,7 +423,10 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-07-18 00:43:10 +0000"
+      "shattered": "2025-07-26 00:40:22 +0000",
+      "phantom": "2025-07-18 00:43:10 +0000",
+      "sculk_centipede": "2025-07-26 00:43:41 +0000",
+      "sculk_snapper": "2025-07-26 00:54:11 +0000"
     },
     "done": false
   },
@@ -5656,9 +5659,45 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/flaming_ruby_shovel": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_planks": {
+    "criteria": {
+      "has_item": "2025-07-26 01:03:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_campfire_cooking_monitor_tail": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:12 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/campfire/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-26 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_item": "2025-07-26 01:01:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_pickaxe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
     },
     "done": true
   },
@@ -5680,9 +5719,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/orange_dye_from_blaze_bud": {
+    "criteria": {
+      "has_item": "2025-07-26 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/smelting/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-26 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_hoe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_chestplate": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-26 00:54:08 +0000"
     },
     "done": true
   },
@@ -5698,6 +5767,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-07-26 00:54:16 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
@@ -5710,6 +5791,18 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/get_wood": {
+    "criteria": {
+      "has_maple_log": "2025-07-26 01:01:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_slab_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/smoking/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-26 00:21:52 +0000"
@@ -5719,6 +5812,24 @@
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/furnace_compat": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-26 00:54:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-26 00:58:23 +0000"
     },
     "done": true
   },
@@ -5740,6 +5851,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_chest": {
+    "criteria": {
+      "has_item": "2025-07-26 01:03:14 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
@@ -5752,15 +5869,51 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2025-07-26 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_sword": {
+    "criteria": {
+      "has_resource": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_axe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
+    "criteria": {
+      "has_resource": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_ladder": {
+    "criteria": {
+      "has_item": "2025-07-26 01:03:14 +0000"
     },
     "done": true
   },
@@ -5772,13 +5925,34 @@
   },
   "deeperdarker:main/explore_otherside": {
     "criteria": {
-      "blooming_caverns": "2025-07-26 00:25:09 +0000"
+      "overcast_columns": "2025-07-26 00:39:36 +0000",
+      "deeplands": "2025-07-26 00:41:43 +0000",
+      "blooming_caverns": "2025-07-26 00:25:09 +0000",
+      "echoing_forest": "2025-07-26 00:40:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_sculk_bone": "2025-07-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_boots": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
     },
     "done": true
   },
@@ -5812,6 +5986,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_smoking_monitor_tail": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_reed_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
@@ -5824,9 +6004,27 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/flaming_ruby_sword": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-07-26 00:42:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:23 +0000"
     },
     "done": true
   },
@@ -5839,6 +6037,12 @@
   "deeperdarker:recipes/building_blocks/polished_sculk_stone": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_wall_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:23 +0000"
     },
     "done": true
   },
@@ -5860,9 +6064,33 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/flaming_ruby_leggings": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-26 00:43:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2025-07-26 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/lunar_lever": {
+    "criteria": {
+      "has_item": "2025-07-26 00:58:23 +0000"
     },
     "done": true
   },
@@ -5877,6 +6105,24 @@
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
     },
     "done": true
+  },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_smelting_monitor_tail": {
+    "criteria": {
+      "has_item": "2025-07-26 01:04:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_helmet": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_bug": {
+    "criteria": {
+      "kill_venom_spider": "2025-07-26 00:59:30 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
