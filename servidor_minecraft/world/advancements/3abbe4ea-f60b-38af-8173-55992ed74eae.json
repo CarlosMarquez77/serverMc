@@ -10808,6 +10808,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-07-26 02:19:40 +0000"
+    },
+    "done": false
+  },
   "everycomp:recipes/decorations/af/blue_skies/maple_table": {
     "criteria": {
       "has_planks": "2025-07-26 01:12:49 +0000"
@@ -11369,6 +11375,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-07-26 00:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-07-26 02:19:40 +0000"
     },
     "done": true
   },

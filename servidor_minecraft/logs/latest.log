@@ -3832,3 +3832,10 @@ ModdedBiomeSource (6a0c8941)
 [26Jul2025 02:10:28.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to -1032.500000, 12.500000, -2004.500000]
 [26Jul2025 02:11:20.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
 [26Jul2025 02:14:41.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[26Jul2025 02:19:40.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Crafting a New Look]
+[26Jul2025 02:21:32.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of PAIK_WS08) moved wrongly! 0.2959106262470641
+[26Jul2025 02:21:34.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of PAIK_WS08) moved wrongly! 0.2692659326056628
+[26Jul2025 02:21:34.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of PAIK_WS08) moved wrongly! 0.6838140530850296
+[26Jul2025 02:21:34.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of PAIK_WS08) moved wrongly! 1.10030221578063
+[26Jul2025 02:21:34.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of PAIK_WS08) moved wrongly! 1.3231567277608747
+[26Jul2025 02:21:34.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of PAIK_WS08) moved wrongly! 1.4424017338818658
