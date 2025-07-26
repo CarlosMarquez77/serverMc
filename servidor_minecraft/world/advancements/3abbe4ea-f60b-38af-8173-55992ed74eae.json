@@ -10821,6 +10821,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-26 03:46:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
     "criteria": {
       "has_resource": "2025-07-26 01:16:37 +0000"
@@ -10911,6 +10917,12 @@
     },
     "done": true
   },
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-07-26 03:51:25 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_item": "2025-07-26 01:12:39 +0000"
@@ -10983,6 +10995,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:13 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/maple_button": {
     "criteria": {
       "has_item": "2025-07-26 01:12:49 +0000"
@@ -10992,6 +11010,12 @@
   "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
     "criteria": {
       "has_resource": "2025-07-26 00:57:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:13 +0000"
     },
     "done": true
   },
@@ -11362,6 +11386,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-07-26 00:55:26 +0000"
@@ -11401,6 +11431,12 @@
   "deeperdarker:main/find_ancient_temple": {
     "criteria": {
       "ancient_temple": "2025-07-26 00:41:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_alchemist": {
+    "criteria": {
+      "kill_alchemist": "2025-07-26 03:53:56 +0000"
     },
     "done": true
   },
@@ -11533,6 +11569,12 @@
   "blue_skies:regrowth": {
     "criteria": {
       "have_sapling": "2025-07-26 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/thwarted_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 03:54:13 +0000"
     },
     "done": true
   },
@@ -11803,6 +11845,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:13 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_item": "2025-07-26 01:12:49 +0000"
@@ -11842,6 +11890,12 @@
   "everycomp:recipes/decorations/tf/blue_skies/hollow_maple_log": {
     "criteria": {
       "has_planks": "2025-07-26 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-07-26 03:54:13 +0000"
     },
     "done": true
   },
@@ -11968,6 +12022,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:13 +0000"
     },
     "done": true
   },
@@ -12106,6 +12166,12 @@
   "everycomp:recipes/decorations/faf/blue_skies/maple_beehive": {
     "criteria": {
       "has_planks": "2025-07-26 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:13 +0000"
     },
     "done": true
   },

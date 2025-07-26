@@ -12270,9 +12270,51 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/blue_skies/crystallized_table": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystallized_wood": {
+    "criteria": {
+      "has_item": "2025-07-26 03:44:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystallized_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:10 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/regrowth_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-26 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/scalefruit_seeds": {
+    "criteria": {
+      "has_item": "2025-07-26 03:47:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/crystallized_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:44:55 +0000"
     },
     "done": true
   },
@@ -12282,9 +12324,63 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/blue_skies/crystallized_shutter": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/blue_skies/crystallized_beehive": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/blue_skies/crystallized_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_alchemist": {
+    "criteria": {
+      "kill_alchemist": "2025-07-26 03:53:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystallized_door": {
+    "criteria": {
+      "has_item": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystallized_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/crystallized_flower_box": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:progression/unlock_nature_key_trade": {
     "criteria": {
       "click_keystone": "2025-07-26 03:33:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/crystallized_chair": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:44:55 +0000"
     },
     "done": true
   },
@@ -12294,15 +12390,45 @@
     },
     "done": true
   },
+  "blue_skies:recipes/redstone/crystallized_button": {
+    "criteria": {
+      "has_item": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:regrowth": {
     "criteria": {
       "have_sapling": "2025-07-26 03:33:50 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/misc/thwarted_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 03:54:10 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everbright/get_wood": {
     "criteria": {
       "has_starlit_log": "2025-07-26 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/crystallized_bench": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystallized_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:10 +0000"
     },
     "done": true
   },
@@ -12315,6 +12441,54 @@
   "shieldexp:get_diamond_shield": {
     "criteria": {
       "diamond_shield": "2025-07-26 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/blue_skies/crystallized_banister": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystallized_wall_from_log": {
+    "criteria": {
+      "has_item": "2025-07-26 03:44:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-07-26 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/crystallized_planks": {
+    "criteria": {
+      "has_item": "2025-07-26 03:44:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/crystallized_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/crystallized_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-26 03:44:55 +0000"
     },
     "done": true
   },

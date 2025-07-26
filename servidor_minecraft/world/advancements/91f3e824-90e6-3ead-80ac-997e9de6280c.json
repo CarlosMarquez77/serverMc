@@ -5787,6 +5787,12 @@
     },
     "done": true
   },
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-07-26 03:48:00 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_item": "2025-07-26 01:01:47 +0000"
@@ -5877,6 +5883,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:06 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_slab_stonecutting_cracked_lunar_stonebrick": {
     "criteria": {
       "has_item": "2025-07-26 01:32:33 +0000"
@@ -5904,6 +5916,12 @@
   "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
     "criteria": {
       "has_resource": "2025-07-26 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:06 +0000"
     },
     "done": true
   },
@@ -6060,6 +6078,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-07-26 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-26 03:54:06 +0000"
     },
     "done": true
   },
@@ -6309,6 +6333,12 @@
     },
     "done": true
   },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2025-07-26 03:46:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_shears": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
@@ -6324,6 +6354,12 @@
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:06 +0000"
     },
     "done": true
   },
@@ -6414,6 +6450,12 @@
   "deeperdarker:main/find_ancient_temple": {
     "criteria": {
       "ancient_temple": "2025-07-26 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_alchemist": {
+    "criteria": {
+      "kill_alchemist": "2025-07-26 03:53:57 +0000"
     },
     "done": true
   },
@@ -6561,6 +6603,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/thwarted_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 03:54:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
@@ -6627,6 +6675,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/moonstone_shield": {
+    "criteria": {
+      "has_item": "2025-07-26 03:44:47 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
     "criteria": {
       "has_resource": "2025-07-26 00:58:23 +0000"
@@ -6648,6 +6702,12 @@
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_planks": {
+    "criteria": {
+      "has_item": "2025-07-26 03:45:21 +0000"
     },
     "done": true
   },
@@ -6864,6 +6924,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:06 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_item": "2025-07-26 01:04:32 +0000"
@@ -6972,6 +7038,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-07-26 03:54:06 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_stonebrick_stonecutting_lunar_stone": {
     "criteria": {
       "has_item": "2025-07-26 01:35:31 +0000"
@@ -7011,6 +7083,12 @@
   "blue_skies:recipes/combat/pyrope_boots": {
     "criteria": {
       "has_item": "2025-07-26 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-07-26 03:54:06 +0000"
     },
     "done": true
   },
@@ -7095,6 +7173,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:06 +0000"
     },
     "done": true
   },
@@ -7230,6 +7314,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_ladder": {
+    "criteria": {
+      "has_item": "2025-07-26 03:45:27 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everbright/enter_nature_dungeon": {
     "criteria": {
       "entered_dungeon": "2025-07-26 02:39:37 +0000"
@@ -7263,6 +7353,18 @@
   "everycomp:recipes/decorations/faf/blue_skies/maple_beehive": {
     "criteria": {
       "has_planks": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-07-26 03:54:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_chest": {
+    "criteria": {
+      "has_item": "2025-07-26 03:45:27 +0000"
     },
     "done": true
   },
