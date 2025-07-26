@@ -11085,6 +11085,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2025-07-26 03:58:05 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/polished_cinderstone_stonecutting_cinderstone": {
     "criteria": {
       "has_item": "2025-07-26 01:18:28 +0000"
