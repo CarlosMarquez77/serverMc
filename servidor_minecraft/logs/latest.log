@@ -3839,3 +3839,57 @@ ModdedBiomeSource (6a0c8941)
 [26Jul2025 02:21:34.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of PAIK_WS08) moved wrongly! 1.10030221578063
 [26Jul2025 02:21:34.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of PAIK_WS08) moved wrongly! 1.3231567277608747
 [26Jul2025 02:21:34.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of PAIK_WS08) moved wrongly! 1.4424017338818658
+[26Jul2025 02:26:27.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Creative Mode]
+[26Jul2025 02:27:51.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Set own game mode to Survival Mode]
+[26Jul2025 02:30:15.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Now You're Thinking with Portals!]
+[26Jul2025 02:30:15.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [Forever Bright?]
+[26Jul2025 02:30:20.953] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[26Jul2025 02:30:20.954] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 1ms
+[26Jul2025 02:30:32.977] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:everbright_blinding_dungeon took 205 ms
+[26Jul2025 02:30:37.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to -1023.500000, 85.000000, -1375.500000]
+[26Jul2025 02:30:37.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyoShiiro moved too quickly! 16.616409218307922,-2.908893308797701,-5.466044561954391
+[26Jul2025 02:30:40.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex was kicked for floating too long!
+[26Jul2025 02:30:40.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Disconnected
+[26Jul2025 02:30:40.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
+[26Jul2025 02:30:40.426] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jul2025 02:30:53.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.187.227.239:39535] logged in with entity id 62690 at (-1023.5, 83.85489329934836, -1375.5)
+[26Jul2025 02:30:53.217] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebasrex
+[26Jul2025 02:30:53.218] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebasrex
+[26Jul2025 02:30:53.221] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebasrex
+[26Jul2025 02:30:53.221] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebasrex
+[26Jul2025 02:30:53.223] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebasrex
+[26Jul2025 02:30:53.225] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebasrex
+[26Jul2025 02:30:53.225] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebasrex
+[26Jul2025 02:30:53.228] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[26Jul2025 02:30:53.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[26Jul2025 02:30:53.290] [Server thread/INFO] [Jade/]: Syncing config to Sebasrex (ed95fb51-69c5-31b0-b318-1e95b51f739b)
+[26Jul2025 02:30:58.171] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[26Jul2025 02:30:58.171] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[26Jul2025 02:30:58.172] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[26Jul2025 02:30:58.172] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[26Jul2025 02:30:58.172] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[26Jul2025 02:30:58.172] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[26Jul2025 02:30:58.172] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[26Jul2025 02:30:58.172] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[26Jul2025 02:30:58.172] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[26Jul2025 02:30:58.172] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[26Jul2025 02:30:58.173] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[26Jul2025 02:30:58.173] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[26Jul2025 02:30:58.173] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[26Jul2025 02:30:58.173] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[26Jul2025 02:30:58.173] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[26Jul2025 02:30:58.175] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[26Jul2025 02:30:58.175] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[26Jul2025 02:30:58.175] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[26Jul2025 02:31:20.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[26Jul2025 02:31:46.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[26Jul2025 02:31:52.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has reached the goal [The Wizard's Tower]
+[26Jul2025 02:31:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [The Wizard's Tower]
+[26Jul2025 02:32:00.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has reached the goal [The Wizard's Tower]
+[26Jul2025 02:32:13.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has made the advancement [1 Down, 3 to go]
+[26Jul2025 02:32:58.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [1 Down, 3 to go]
+[26Jul2025 02:33:20.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Local Brewery]
+[26Jul2025 02:33:54.961] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Summoner scaled to 1 player(s). The difficulty ID is SILVER. The position is BlockPos{x=-1007, y=132, z=-1359}
+[26Jul2025 02:35:26.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has completed the challenge [Tragic Magic!]
+[26Jul2025 02:35:26.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has completed the challenge [Tragic Magic!]
+[26Jul2025 02:35:26.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has completed the challenge [Tragic Magic!]

@@ -334,6 +334,7 @@
       "minecraft:skeleton": "2025-07-16 01:25:40 +0000",
       "minecraft:ghast": "2025-07-21 04:30:06 +0000",
       "minecraft:hoglin": "2025-07-21 04:00:07 +0000",
+      "minecraft:vindicator": "2025-07-26 02:32:39 +0000",
       "minecraft:magma_cube": "2025-07-21 04:14:51 +0000",
       "minecraft:spider": "2025-07-16 01:01:52 +0000",
       "minecraft:creeper": "2025-07-17 01:29:14 +0000",
@@ -10910,6 +10911,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_blinding_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:13 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/vp/blue_skies/maple_horticulturist_table": {
     "criteria": {
       "has_planks": "2025-07-26 01:12:49 +0000"
@@ -10919,6 +10926,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_tiles_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/matcha_ice_cream_no_neapolitan": {
+    "criteria": {
+      "has_ice": "2025-07-26 02:31:42 +0000"
     },
     "done": true
   },
@@ -11024,6 +11037,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_blinding_wall": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:12 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/polished_cinderstone_stonecutting_cinderstone": {
     "criteria": {
       "has_item": "2025-07-26 01:18:28 +0000"
@@ -11033,6 +11058,12 @@
   "blue_skies:recipes/building_blocks/maple_trapdoor": {
     "criteria": {
       "has_item": "2025-07-26 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_wall_stonecutting_glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:13 +0000"
     },
     "done": true
   },
@@ -11069,6 +11100,18 @@
   "blue_skies:recipes/combat/diopside_boots": {
     "criteria": {
       "has_item": "2025-07-26 01:23:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2025-07-26 02:30:15 +0000"
     },
     "done": true
   },
@@ -11246,6 +11289,12 @@
     },
     "done": true
   },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2025-07-26 02:32:13 +0000"
+    },
+    "done": true
+  },
   "blue_skies:get_charoite": {
     "criteria": {
       "obtain_material": "2025-07-26 01:21:01 +0000"
@@ -11260,9 +11309,10 @@
   },
   "blue_skies:thinking_with_portals": {
     "criteria": {
+      "enter_everbright": "2025-07-26 02:30:15 +0000",
       "enter_everdawn": "2025-07-26 00:56:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
@@ -11351,6 +11401,12 @@
   "blue_skies:recipes/blue_skies_tools/maple_shovel": {
     "criteria": {
       "has_resource": "2025-07-26 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_slab_stonecutting_glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:13 +0000"
     },
     "done": true
   },
@@ -11531,9 +11587,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/bone_meal_from_azulfo": {
+    "criteria": {
+      "has_item": "2025-07-26 02:31:05 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
     "criteria": {
       "has_resource": "2025-07-26 00:57:21 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-07-26 02:31:42 +0000"
     },
     "done": true
   },
@@ -11567,15 +11635,33 @@
     },
     "done": true
   },
+  "delightful:recipes/food/salmonberry_ice_cream_no_neapolitan": {
+    "criteria": {
+      "has_ice": "2025-07-26 02:31:42 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
     "criteria": {
       "has_item": "2025-07-26 01:17:26 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/blinding_wall": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:12 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/charoite_from_smelting_raw_charoite": {
     "criteria": {
       "has_item": "2025-07-26 01:19:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:12 +0000"
     },
     "done": true
   },
@@ -11606,6 +11692,18 @@
   "blue_skies:recipes/combat/charoite_helmet": {
     "criteria": {
       "has_item": "2025-07-26 01:21:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_everbright_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-07-26 02:33:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everbright_blinding_dungeon": "2025-07-26 02:31:54 +0000"
     },
     "done": true
   },
@@ -11663,6 +11761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-07-26 02:31:42 +0000"
+    },
+    "done": true
+  },
   "blue_skies:get_aquite": {
     "criteria": {
       "obtain_material": "2025-07-26 01:16:37 +0000"
@@ -11678,6 +11782,24 @@
   "blue_skies:recipes/building_blocks/lunar_cobblestone_wall_stonecutting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2025-07-26 00:57:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pine_fruit_seeds": {
+    "criteria": {
+      "has_item": "2025-07-26 02:32:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stone_pillar_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:12 +0000"
     },
     "done": true
   },
@@ -11708,6 +11830,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stairs_stonecutting_glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:13 +0000"
     },
     "done": true
   },
@@ -11801,9 +11929,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:12 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/blue_skies/maple_shutter": {
     "criteria": {
       "has_planks": "2025-07-26 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:13 +0000"
     },
     "done": true
   },
@@ -11816,6 +11956,12 @@
   "blue_skies:recipes/misc/charoite_from_blasting_raw_charoite": {
     "criteria": {
       "has_item": "2025-07-26 01:19:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_wall_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-26 02:34:12 +0000"
     },
     "done": true
   },
