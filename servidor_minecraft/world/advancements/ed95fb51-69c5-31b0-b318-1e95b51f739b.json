@@ -10796,5 +10796,11 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-07-26 00:16:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -3649,3 +3649,81 @@ ModdedBiomeSource (6a0c8941)
 [26Jul2025 00:06:17.881] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [26Jul2025 00:06:17.881] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
 [26Jul2025 00:07:53.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[26Jul2025 00:13:09.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[26Jul2025 00:15:04.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 405.500000, 90.500000, -514.500000]
+[26Jul2025 00:15:40.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[26Jul2025 00:15:42.694] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[26Jul2025 00:15:42.694] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[26Jul2025 00:15:42.695] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[26Jul2025 00:15:42.695] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:gazelle
+[26Jul2025 00:15:42.696] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[26Jul2025 00:15:42.696] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[26Jul2025 00:15:42.697] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:stoneling
+[26Jul2025 00:15:42.698] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:stoneling
+[26Jul2025 00:15:45.391] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[26Jul2025 00:15:45.391] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[26Jul2025 00:15:45.391] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:stoneling
+[26Jul2025 00:15:54.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 297.500000, 93.500000, -217.500000]
+[26Jul2025 00:15:55.240] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:fly
+[26Jul2025 00:15:55.241] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:fly
+[26Jul2025 00:15:55.243] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:stoneling
+[26Jul2025 00:15:55.284] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:15:55.334] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:elephant
+[26Jul2025 00:15:55.376] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:15:58.587] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:16:48.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has made the advancement [Masquerade]
+[26Jul2025 00:17:04.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 46.500000, 119.500000, 108.500000]
+[26Jul2025 00:17:09.645] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:field_stone_ruins_rocks
+[26Jul2025 00:17:18.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to -83.500000, 112.500000, -95.500000]
+[26Jul2025 00:17:19.192] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[26Jul2025 00:17:19.205] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:17:19.244] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[26Jul2025 00:17:19.255] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:17:19.273] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[26Jul2025 00:17:19.273] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[26Jul2025 00:17:19.275] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:elephant
+[26Jul2025 00:17:19.290] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[26Jul2025 00:17:19.339] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[26Jul2025 00:17:19.404] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:penguin
+[26Jul2025 00:17:19.408] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[26Jul2025 00:17:19.439] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:17:19.442] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption_resistance'
+[26Jul2025 00:17:19.442] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eldritch_end:corruption'
+[26Jul2025 00:17:19.443] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:17:19.460] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[26Jul2025 00:17:19.463] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:17:19.556] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[26Jul2025 00:17:19.556] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[26Jul2025 00:17:19.556] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[26Jul2025 00:17:19.556] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[26Jul2025 00:17:19.563] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:maned_wolf
+[26Jul2025 00:17:19.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:kangaroo
+[26Jul2025 00:17:19.587] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:17:19.592] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: philipsruins:ancient_dungeon
+[26Jul2025 00:17:19.640] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:armadillo
+[26Jul2025 00:17:19.654] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:penguin
+[26Jul2025 00:17:19.654] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:penguin
+[26Jul2025 00:17:19.668] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:penguin
+[26Jul2025 00:17:19.680] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rhinoceros
+[26Jul2025 00:17:19.686] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:17:19.694] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[26Jul2025 00:17:19.695] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:17:19.695] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id quark:monster_box
+[26Jul2025 00:17:19.717] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[26Jul2025 00:17:19.718] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:penguin
+[26Jul2025 00:17:19.718] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id whatareyouvotingfor:penguin
+[26Jul2025 00:17:21.147] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[26Jul2025 00:17:21.147] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:roadrunner
+[26Jul2025 00:17:21.148] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rattlesnake
+[26Jul2025 00:17:22.440] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rhinoceros
+[26Jul2025 00:17:22.440] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:rhinoceros
+[26Jul2025 00:17:22.446] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:emu
+[26Jul2025 00:17:36.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to -225.500000, 93.500000, -2813.500000]
+[26Jul2025 00:17:47.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[26Jul2025 00:18:07.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[26Jul2025 00:18:15.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to 304.500000, 92.500000, -2879.500000]
+[26Jul2025 00:18:20.390] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[26Jul2025 00:18:20.494] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 104ms
+[26Jul2025 00:23:34.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 8.500000, -19.500000, -4497.500000]
+[26Jul2025 00:23:44.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[26Jul2025 00:23:46.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
