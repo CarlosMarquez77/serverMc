@@ -11434,6 +11434,12 @@
     },
     "done": true
   },
+  "blue_skies:progression/unlock_nature_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-07-26 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/charoite_hoe": {
     "criteria": {
       "has_resource": "2025-07-26 01:21:01 +0000"
