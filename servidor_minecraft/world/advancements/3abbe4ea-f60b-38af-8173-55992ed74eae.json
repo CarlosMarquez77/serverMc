@@ -11264,6 +11264,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_nugget_from_blasting_horizonite_sword": {
+    "criteria": {
+      "has_item": "2025-07-26 02:11:33 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_chest": {
     "criteria": {
       "has_item": "2025-07-26 01:12:39 +0000"
@@ -11423,6 +11429,12 @@
   "blue_skies:recipes/building_blocks/crystal_sandstone_stairs": {
     "criteria": {
       "has_item": "2025-07-26 01:32:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/horizonite_nugget_from_smelting_horizonite_sword": {
+    "criteria": {
+      "has_item": "2025-07-26 02:11:33 +0000"
     },
     "done": true
   },

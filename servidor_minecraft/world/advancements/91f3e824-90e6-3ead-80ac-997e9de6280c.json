@@ -6140,6 +6140,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/raw_charoite_block_from_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-07-26 02:07:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-07-26 00:54:08 +0000"
@@ -6539,6 +6545,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/charoite_from_smelting_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-07-26 02:07:33 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
@@ -6866,6 +6878,12 @@
   "everycomp:recipes/decorations/faf/blue_skies/maple_beehive": {
     "criteria": {
       "has_planks": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/charoite_from_blasting_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-07-26 02:07:33 +0000"
     },
     "done": true
   },
