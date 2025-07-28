@@ -3609,9 +3609,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-07-21 01:04:49 +0000"
+      "previous_progression": "2025-07-21 01:04:49 +0000",
+      "was_in_fight": "2025-07-28 00:45:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/combat/equipment/twilight_scepter": {
     "criteria": {
@@ -12511,6 +12512,42 @@
       "has_smithing_trim_template": "2025-07-26 04:31:41 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 00:44:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 00:44:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-07-28 00:44:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 00:44:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 00:44:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-07-28 00:45:06 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -4581,9 +4581,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-07-21 01:04:49 +0000"
+      "previous_progression": "2025-07-21 01:04:49 +0000",
+      "yeti": "2025-07-28 00:45:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
@@ -12246,9 +12247,27 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/food/glacier_ice_tea": {
+    "criteria": {
+      "has_ice_bomb": "2025-07-28 00:45:56 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/refreshing_ice_cream": {
+    "criteria": {
+      "has_ice_bomb": "2025-07-28 00:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-07-28 00:33:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 00:44:34 +0000"
     },
     "done": true
   },
@@ -12258,9 +12277,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2025-07-28 00:46:36 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_tall_stool": {
     "criteria": {
       "has_wool": "2025-07-28 00:33:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 00:44:34 +0000"
     },
     "done": true
   },
@@ -12276,6 +12307,24 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-07-28 00:44:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 00:44:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-07-28 00:45:06 +0000"
+    },
+    "done": false
+  },
   "another_furniture:recipes/gray_curtain": {
     "criteria": {
       "has_wool": "2025-07-28 00:33:08 +0000"
@@ -12288,9 +12337,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-07-28 00:46:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 00:45:58 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_sofa": {
     "criteria": {
       "has_wool": "2025-07-28 00:33:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 00:44:34 +0000"
     },
     "done": true
   },
