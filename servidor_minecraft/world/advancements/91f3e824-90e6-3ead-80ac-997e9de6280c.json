@@ -5661,6 +5661,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/vp/blue_skies/lunar_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/horizonite_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-07-26 01:32:19 +0000"
@@ -5706,6 +5712,12 @@
   "betternether:recipes/tools/flaming_ruby_shovel": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/blue_skies/lunar_beehive": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -5823,6 +5835,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/blue_skies/lunar_table": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/flaming_ruby_pickaxe": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-07-26 00:42:52 +0000"
@@ -5832,6 +5850,12 @@
   "everycomp:recipes/decorations/vp/blue_skies/maple_horticulturist_table": {
     "criteria": {
       "has_planks": "2025-07-26 01:04:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stairs": {
+    "criteria": {
+      "has_item": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -5901,9 +5925,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_fence_gate": {
+    "criteria": {
+      "has_item": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/dusk_spear": {
     "criteria": {
       "has_item": "2025-07-26 01:14:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -5922,6 +5958,12 @@
   "blue_skies:recipes/building_blocks/tool_box": {
     "criteria": {
       "has_item": "2025-07-26 03:54:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_sword": {
+    "criteria": {
+      "has_resource": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -6045,6 +6087,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/blue_skies/lunar_shutter": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/cincinnasite_frame": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
@@ -6057,6 +6105,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/lunar_stick": {
+    "criteria": {
+      "has_item": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
@@ -6066,6 +6120,18 @@
   "blue_skies:recipes/combat/diopside_boots": {
     "criteria": {
       "has_item": "2025-07-26 01:57:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_slab": {
+    "criteria": {
+      "has_item": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/regrowth_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-26 04:35:42 +0000"
     },
     "done": true
   },
@@ -6123,6 +6189,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/redstone/lunar_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_chains": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-07-26 03:40:26 +0000"
@@ -6174,6 +6246,12 @@
   "blue_skies:recipes/misc/diopside_block": {
     "criteria": {
       "has_item": "2025-07-26 01:57:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_door": {
+    "criteria": {
+      "has_item": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -6243,9 +6321,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tf/blue_skies/lunar_banister": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/smoking/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-26 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -6348,6 +6438,12 @@
   "blue_skies:keys": {
     "criteria": {
       "obtain_key": "2025-07-26 03:46:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -6489,6 +6585,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/blue_skies/lunar_bench": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/blue_skies/maple_shelf": {
     "criteria": {
       "has_planks": "2025-07-26 01:04:32 +0000"
@@ -6591,6 +6693,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/redstone/lunar_button": {
+    "criteria": {
+      "has_item": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/nature_stonebrick_slab_stonecutting_nature_stone": {
     "criteria": {
       "has_item": "2025-07-26 02:41:29 +0000"
@@ -6630,6 +6738,12 @@
   "blue_skies:recipes/misc/thwarted_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-26 03:54:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/lunar_chair": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -6690,6 +6804,12 @@
   "blue_skies:recipes/misc/horizonite_ingot_from_blasting_raw_horizonite": {
     "criteria": {
       "has_item": "2025-07-26 01:31:01 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/blue_skies/lunar_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -6846,15 +6966,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_sign": {
+    "criteria": {
+      "has_item": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/misc/resonarium_plate": {
     "criteria": {
       "has_resonarium": "2025-07-26 00:35:15 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/blue_skies/lunar_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/aquite_leggings": {
     "criteria": {
       "has_item": "2025-07-26 01:20:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/lunar_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -6933,6 +7077,12 @@
   "blue_skies:recipes/combat/diopside_helmet": {
     "criteria": {
       "has_item": "2025-07-26 01:57:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/blue_skies/hollow_lunar_log": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -7029,6 +7179,12 @@
   "betternether:recipes/transportation/nether_reed_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-26 00:11:38 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/blue_skies/lunar_flower_box": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
@@ -7152,6 +7308,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_fence": {
+    "criteria": {
+      "has_item": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 00:25:49 +0000"
@@ -7242,6 +7404,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/lunar_axe": {
+    "criteria": {
+      "has_resource": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/lunar_stone_pressure_plate": {
     "criteria": {
       "has_item": "2025-07-26 01:35:31 +0000"
@@ -7260,6 +7428,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_crafting_table": {
+    "criteria": {
+      "has_item": "2025-07-26 04:37:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-07-26 00:43:41 +0000"
@@ -7269,6 +7443,12 @@
   "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
     "criteria": {
       "has_resource": "2025-07-26 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/blue_skies/lunar_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-26 04:37:48 +0000"
     },
     "done": true
   },
