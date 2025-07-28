@@ -12564,6 +12564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-28 01:35:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/snow_queen_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-07-28 01:18:52 +0000"
@@ -12578,13 +12584,20 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
-      "previous_progression": "2025-07-28 01:19:20 +0000"
+      "previous_progression": "2025-07-28 01:19:20 +0000",
+      "was_in_fight": "2025-07-28 01:36:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-07-28 01:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-28 01:35:50 +0000"
     },
     "done": true
   },
@@ -12594,15 +12607,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-28 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-28 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-28 01:35:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/material/armor_shard_cluster": {
     "criteria": {
       "has_item": "2025-07-28 01:17:43 +0000"
     },
     "done": true
   },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-07-28 01:36:26 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-07-28 01:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-28 01:35:50 +0000"
     },
     "done": true
   },

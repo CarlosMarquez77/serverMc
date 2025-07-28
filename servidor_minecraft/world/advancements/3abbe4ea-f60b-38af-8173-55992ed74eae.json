@@ -12385,9 +12385,10 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
+      "all_knights": "2025-07-28 01:36:26 +0000",
       "previous_progression": "2025-07-28 01:19:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/building_blocks/mossy_underbrick": {
     "criteria": {
@@ -12407,6 +12408,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 01:36:31 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/food/rainbow_ice_cream": {
     "criteria": {
       "has_aurora_block": "2025-07-28 01:15:14 +0000"
@@ -12418,6 +12425,12 @@
       "has_item": "2025-07-28 01:17:04 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-07-28 01:36:26 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {

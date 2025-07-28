@@ -5973,9 +5973,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-07-28 01:22:01 +0000"
+      "kill_lich": "2025-07-28 01:22:01 +0000",
+      "trophy_pedestal": "2025-07-28 01:40:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -6020,6 +6021,14 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-07-28 01:40:14 +0000",
+      "trophy": "2025-07-28 01:38:17 +0000",
+      "was_in_fight": "2025-07-28 01:36:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-07-28 01:27:50 +0000"
@@ -6029,6 +6038,18 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-07-28 01:27:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-28 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-28 01:33:50 +0000"
     },
     "done": true
   },
@@ -6044,6 +6065,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 01:38:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-28 01:33:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/material/armor_shard_cluster": {
     "criteria": {
       "has_item": "2025-07-28 01:27:58 +0000"
@@ -6055,6 +6088,12 @@
       "has_wheat": "2025-07-28 01:27:50 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-07-28 01:40:14 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
