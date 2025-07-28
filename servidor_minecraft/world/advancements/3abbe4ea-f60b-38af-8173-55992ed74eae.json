@@ -4568,9 +4568,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-07-21 01:04:49 +0000"
+      "kill_lich": "2025-07-21 01:04:49 +0000",
+      "trophy_pedestal": "2025-07-28 01:19:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -4985,7 +4986,8 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
-      "hydra": "2025-07-21 02:11:23 +0000"
+      "hydra": "2025-07-21 02:11:23 +0000",
+      "snow_queen": "2025-07-28 01:14:32 +0000"
     },
     "done": false
   },
@@ -12327,9 +12329,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-07-28 00:45:06 +0000"
+      "previous_progression": "2025-07-28 00:45:06 +0000",
+      "was_in_fight": "2025-07-28 01:14:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightdelight:recipes/food/glacier_ice_tea": {
     "criteria": {
@@ -12361,9 +12364,45 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 01:14:39 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/aurora_pie": {
+    "criteria": {
+      "has_aurora_block": "2025-07-28 01:15:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-07-28 01:19:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-07-28 01:04:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2025-07-28 01:15:14 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/rainbow_ice_cream": {
+    "criteria": {
+      "has_aurora_block": "2025-07-28 01:15:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-07-28 01:17:04 +0000"
     },
     "done": true
   },

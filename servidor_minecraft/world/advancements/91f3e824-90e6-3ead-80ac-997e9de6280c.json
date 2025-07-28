@@ -7699,9 +7699,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-07-28 00:50:25 +0000"
+      "kill_lich": "2025-07-28 00:50:25 +0000",
+      "trophy_pedestal": "2025-07-28 01:19:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -7736,13 +7737,62 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-07-28 00:50:28 +0000"
+      "previous_progression": "2025-07-28 00:50:28 +0000",
+      "was_in_fight": "2025-07-28 01:14:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2025-07-28 01:14:32 +0000"
     },
     "done": false
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-07-28 01:19:20 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-28 01:20:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-07-28 01:20:50 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-07-28 01:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-28 01:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-28 01:20:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-07-28 01:17:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-07-28 01:20:50 +0000"
     },
     "done": true
   },
