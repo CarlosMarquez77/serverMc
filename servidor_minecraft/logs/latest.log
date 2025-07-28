@@ -3924,3 +3924,5 @@ ModdedBiomeSource (3682d6a3)
 [28Jul2025 00:28:10.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! 4108.1567686712715,-67.67647087614428,-2795.9007954689796
 [28Jul2025 00:28:11.167] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [28Jul2025 00:28:11.203] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 36ms
+[28Jul2025 00:31:55.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[28Jul2025 00:35:41.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
