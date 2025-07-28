@@ -5921,5 +5921,140 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 01:21:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "trophy": "2025-07-28 01:21:58 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 01:21:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-07-28 01:22:02 +0000",
+      "trophy": "2025-07-28 01:21:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "trophy": "2025-07-28 01:22:01 +0000",
+      "kill_naga": "2025-07-28 01:22:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "trophy": "2025-07-28 01:22:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 01:22:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 01:22:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-07-28 01:22:01 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-07-28 01:22:01 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-07-28 01:22:01 +0000",
+      "trophy": "2025-07-28 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2025-07-28 01:22:02 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "roast_chicken": "2025-07-28 01:22:24 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-07-28 01:22:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-07-28 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-28 01:27:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-07-28 01:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-28 01:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-28 01:27:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-07-28 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-07-28 01:27:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

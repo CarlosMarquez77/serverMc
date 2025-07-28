@@ -4057,3 +4057,36 @@ ModdedBiomeSource (49f868fe)
 [28Jul2025 01:22:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has reached the goal [Alpha Fur]
 [28Jul2025 01:22:02.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has reached the goal [Clear Skies]
 [28Jul2025 01:23:03.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has made the advancement [The Silence of the Forest]
+[28Jul2025 01:27:00.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Atuesta18 lost connection: Disconnected
+[28Jul2025 01:27:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 left the game
+[28Jul2025 01:27:06.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Atuesta18[/127.56.121.146:42409] logged in with entity id 28160 at (4885.316873101312, -5.0, -2774.3100687815777)
+[28Jul2025 01:27:06.781] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Atuesta18
+[28Jul2025 01:27:06.781] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Atuesta18
+[28Jul2025 01:27:06.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Atuesta18
+[28Jul2025 01:27:06.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Atuesta18
+[28Jul2025 01:27:06.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Atuesta18
+[28Jul2025 01:27:06.785] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Atuesta18
+[28Jul2025 01:27:06.785] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Atuesta18
+[28Jul2025 01:27:06.788] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jul2025 01:27:06.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 joined the game
+[28Jul2025 01:27:06.852] [Server thread/INFO] [Jade/]: Syncing config to Atuesta18 (ded52ac3-8e88-33aa-ac02-b1f69724ed99)
+[28Jul2025 01:27:07.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[28Jul2025 01:27:07.009] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[28Jul2025 01:27:07.009] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[28Jul2025 01:27:07.009] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[28Jul2025 01:27:07.009] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[28Jul2025 01:27:07.009] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[28Jul2025 01:27:07.009] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[28Jul2025 01:27:07.009] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[28Jul2025 01:27:07.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[28Jul2025 01:27:07.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[28Jul2025 01:27:07.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[28Jul2025 01:27:07.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[28Jul2025 01:27:07.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[28Jul2025 01:27:07.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[28Jul2025 01:27:07.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[28Jul2025 01:27:07.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[28Jul2025 01:27:07.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[28Jul2025 01:27:07.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[28Jul2025 01:34:33.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> torres
+[28Jul2025 01:34:35.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KyoShiiro> es aca
