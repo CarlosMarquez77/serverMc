@@ -353,6 +353,7 @@
       "baked_potato": "2025-07-17 02:07:20 +0000",
       "apple": "2025-07-18 00:59:29 +0000",
       "cooked_cod": "2025-07-28 01:21:44 +0000",
+      "bread": "2025-07-28 01:57:39 +0000",
       "rotten_flesh": "2025-07-18 01:40:57 +0000",
       "glow_berries": "2025-07-18 00:59:51 +0000",
       "melon_slice": "2025-07-18 01:41:36 +0000",
@@ -524,6 +525,7 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "meef_stroganoff": "2025-07-28 01:59:23 +0000",
       "cooked_meef": "2025-07-23 23:00:10 +0000",
       "cooked_venison": "2025-07-19 02:30:23 +0000"
     },
@@ -3597,9 +3599,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
-      "trophy": "2025-07-23 22:21:27 +0000"
+      "trophy": "2025-07-23 22:21:27 +0000",
+      "stroganoff": "2025-07-28 01:59:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
@@ -7707,9 +7710,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-07-28 01:59:23 +0000",
       "kill_lich": "2025-07-28 00:50:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
@@ -7743,11 +7747,19 @@
     },
     "done": true
   },
-  "twilightforest:progress_merge": {
+  "twilightforest:progress_troll": {
     "criteria": {
-      "snow_queen": "2025-07-28 01:14:32 +0000"
+      "previous_progression": "2025-07-28 01:59:23 +0000"
     },
     "done": false
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-07-28 01:59:23 +0000",
+      "snow_queen": "2025-07-28 01:14:32 +0000",
+      "ur_ghast": "2025-07-28 01:54:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
@@ -7914,9 +7926,22 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2025-07-28 01:36:26 +0000"
+      "previous_progression": "2025-07-28 01:36:26 +0000",
+      "was_in_fight": "2025-07-28 01:54:09 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-07-28 01:59:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-07-28 02:00:49 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {

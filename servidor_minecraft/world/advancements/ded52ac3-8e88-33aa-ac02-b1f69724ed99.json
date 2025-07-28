@@ -5929,9 +5929,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
-      "trophy": "2025-07-28 01:21:58 +0000"
+      "trophy": "2025-07-28 01:21:58 +0000",
+      "stroganoff": "2025-07-28 01:59:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/snow_queen_banner_pattern": {
     "criteria": {
@@ -5980,9 +5981,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-07-28 01:59:37 +0000",
       "kill_lich": "2025-07-28 01:22:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
@@ -5993,9 +5995,11 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
-      "snow_queen": "2025-07-28 01:22:02 +0000"
+      "hydra": "2025-07-28 01:59:37 +0000",
+      "snow_queen": "2025-07-28 01:22:02 +0000",
+      "ur_ghast": "2025-07-28 02:00:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
@@ -6020,6 +6024,18 @@
       "kobold": "2025-07-28 01:23:03 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 02:00:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-07-28 02:00:10 +0000"
+    },
+    "done": false
   },
   "twilightforest:progress_knights": {
     "criteria": {
@@ -6052,6 +6068,12 @@
       "has_bowl": "2025-07-28 01:33:50 +0000"
     },
     "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-07-28 01:59:37 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/bread": {
     "criteria": {
@@ -6091,9 +6113,10 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2025-07-28 01:40:14 +0000"
+      "previous_progression": "2025-07-28 01:40:14 +0000",
+      "trophy": "2025-07-28 02:00:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {

@@ -4989,9 +4989,10 @@
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2025-07-21 02:11:23 +0000",
-      "snow_queen": "2025-07-28 01:14:32 +0000"
+      "snow_queen": "2025-07-28 01:14:32 +0000",
+      "ur_ghast": "2025-07-28 01:54:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/hydra_banner_pattern": {
     "criteria": {
@@ -12366,6 +12367,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-07-28 01:54:10 +0000"
+    },
+    "done": false
+  },
   "twilightdelight:recipes/food/ghast_burger": {
     "criteria": {
       "has_experiment_115": "2025-07-28 01:45:45 +0000"
@@ -12427,6 +12440,24 @@
     },
     "done": true
   },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-07-28 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/cooking/tear_drink": {
+    "criteria": {
+      "has_fiery_tears": "2025-07-28 01:54:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "stuffed_pumpkin": "2025-07-28 01:52:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-07-28 01:04:03 +0000"
@@ -12483,9 +12514,10 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2025-07-28 01:36:26 +0000"
+      "previous_progression": "2025-07-28 01:36:26 +0000",
+      "was_in_fight": "2025-07-28 01:54:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:ghast_trap": {
     "criteria": {
