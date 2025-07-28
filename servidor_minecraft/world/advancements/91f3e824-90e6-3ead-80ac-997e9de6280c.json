@@ -510,9 +510,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "trophy": "2025-07-28 00:50:25 +0000",
       "kill_naga": "2025-07-19 02:11:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:hill1": {
     "criteria": {
@@ -7689,6 +7690,55 @@
       "has_item": "2025-07-28 00:44:37 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 00:50:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-07-28 00:50:25 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-07-28 00:50:25 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-07-28 00:50:25 +0000",
+      "trophy": "2025-07-28 00:50:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 00:50:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-28 00:50:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-07-28 00:50:28 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
