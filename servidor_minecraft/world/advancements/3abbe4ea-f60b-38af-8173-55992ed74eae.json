@@ -12455,6 +12455,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "shepherds_pie": "2025-07-28 02:18:33 +0000",
       "stuffed_pumpkin": "2025-07-28 01:52:05 +0000"
     },
     "done": false
@@ -12542,9 +12543,10 @@
   },
   "twilightforest:progression_end": {
     "criteria": {
-      "previous_progression": "2025-07-28 02:10:23 +0000"
+      "previous_progression": "2025-07-28 02:10:23 +0000",
+      "plateau": "2025-07-28 02:11:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {

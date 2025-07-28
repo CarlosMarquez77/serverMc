@@ -12698,9 +12698,10 @@
   },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2025-07-28 01:54:10 +0000"
+      "previous_progression": "2025-07-28 01:54:10 +0000",
+      "lamp": "2025-07-28 02:12:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightdelight:recipes/food/ghast_burger": {
     "criteria": {
@@ -12761,6 +12762,25 @@
       "giant": "2025-07-28 02:06:45 +0000"
     },
     "done": false
+  },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2025-07-28 02:13:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-07-28 02:13:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-07-28 02:12:37 +0000",
+      "plateau": "2025-07-28 02:12:19 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
