@@ -12375,9 +12375,10 @@
   },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2025-07-28 01:54:10 +0000"
+      "previous_progression": "2025-07-28 01:54:10 +0000",
+      "lamp": "2025-07-28 02:10:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightdelight:recipes/food/ghast_burger": {
     "criteria": {
@@ -12458,6 +12459,13 @@
     },
     "done": false
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-07-28 02:02:44 +0000",
+      "use_beans": "2025-07-28 02:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-07-28 01:04:03 +0000"
@@ -12519,11 +12527,24 @@
     },
     "done": true
   },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-07-28 02:02:44 +0000",
+      "giant": "2025-07-28 02:06:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2025-07-28 01:51:02 +0000"
     },
     "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-07-28 02:10:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {

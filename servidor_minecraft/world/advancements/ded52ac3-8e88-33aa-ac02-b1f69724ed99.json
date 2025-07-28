@@ -6057,6 +6057,12 @@
     },
     "done": true
   },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-07-28 02:01:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-07-28 01:33:50 +0000"
@@ -6117,6 +6123,12 @@
       "trophy": "2025-07-28 02:00:10 +0000"
     },
     "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "giant": "2025-07-28 02:07:32 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {

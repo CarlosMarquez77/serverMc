@@ -12708,6 +12708,30 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/cooking/grilled_ghast": {
+    "criteria": {
+      "has_experiment_115": "2025-07-28 01:55:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2025-07-28 01:55:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/carminite": {
+    "criteria": {
+      "has_item": "2025-07-28 01:57:10 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/borer_tear_soup": {
+    "criteria": {
+      "has_borer_essence": "2025-07-28 01:57:10 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/carminite_builder": {
     "criteria": {
       "has_item": "2025-07-28 01:57:25 +0000"
@@ -12726,29 +12750,17 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/material/carminite": {
+  "twilightforest:troll": {
     "criteria": {
-      "has_item": "2025-07-28 01:57:10 +0000"
+      "troll": "2025-07-28 02:01:22 +0000"
     },
     "done": true
   },
-  "twilightdelight:recipes/cooking/grilled_ghast": {
+  "twilightforest:giants": {
     "criteria": {
-      "has_experiment_115": "2025-07-28 01:55:36 +0000"
+      "giant": "2025-07-28 02:06:45 +0000"
     },
-    "done": true
-  },
-  "twilightdelight:recipes/food/borer_tear_soup": {
-    "criteria": {
-      "has_borer_essence": "2025-07-28 01:57:10 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:experiment_115": {
-    "criteria": {
-      "eat_experiment_115": "2025-07-28 01:55:56 +0000"
-    },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }

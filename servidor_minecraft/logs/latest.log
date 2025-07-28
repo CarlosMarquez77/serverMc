@@ -4181,3 +4181,66 @@ ModdedBiomeSource (49f868fe)
 [28Jul2025 02:03:50.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
 [28Jul2025 02:03:52.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
 [28Jul2025 02:04:08.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [Jack and the Beanstalk]
+[28Jul2025 02:06:17.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[28Jul2025 02:06:46.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [I'm on Cloud Nine]
+[28Jul2025 02:07:40.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 was doomed to fall by Giant Miner
+[28Jul2025 02:07:47.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[28Jul2025 02:08:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[28Jul2025 02:08:38.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has reached the goal [I'm on Cloud Nine]
+[28Jul2025 02:08:47.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex moved too quickly! 0.0,-16.44629721373387,-0.3168464913928801
+[28Jul2025 02:08:48.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex was kicked for floating too long!
+[28Jul2025 02:08:48.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebasrex lost connection: Flying is not enabled on this server
+[28Jul2025 02:08:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex left the game
+[28Jul2025 02:09:02.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebasrex[/127.187.227.239:55519] logged in with entity id 37134 at (5435.863292149044, 55.389493268610025, -3519.996195829876)
+[28Jul2025 02:09:02.270] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebasrex
+[28Jul2025 02:09:02.270] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebasrex
+[28Jul2025 02:09:02.271] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebasrex
+[28Jul2025 02:09:02.271] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebasrex
+[28Jul2025 02:09:02.272] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebasrex
+[28Jul2025 02:09:02.273] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebasrex
+[28Jul2025 02:09:02.273] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebasrex
+[28Jul2025 02:09:02.276] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jul2025 02:09:02.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex joined the game
+[28Jul2025 02:09:02.342] [Server thread/INFO] [Jade/]: Syncing config to Sebasrex (ed95fb51-69c5-31b0-b318-1e95b51f739b)
+[28Jul2025 02:09:04.047] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[28Jul2025 02:09:04.047] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[28Jul2025 02:09:04.048] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[28Jul2025 02:09:04.048] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[28Jul2025 02:09:04.048] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[28Jul2025 02:09:04.048] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[28Jul2025 02:09:04.048] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[28Jul2025 02:09:04.048] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[28Jul2025 02:09:04.048] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[28Jul2025 02:09:04.048] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[28Jul2025 02:09:04.048] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[28Jul2025 02:09:04.048] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[28Jul2025 02:09:04.049] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[28Jul2025 02:09:04.049] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[28Jul2025 02:09:04.049] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[28Jul2025 02:09:04.049] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[28Jul2025 02:09:04.049] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[28Jul2025 02:09:04.049] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/serverMc/servidor_minecraft/bclib-sync (allowDelete=true)
+[28Jul2025 02:09:16.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[28Jul2025 02:09:23.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[28Jul2025 02:09:23.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[28Jul2025 02:10:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyoShiiro has reached the goal [I Wish For More Burning]
+[28Jul2025 02:11:23.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has made the advancement [Mystery Meat?]
+[28Jul2025 02:12:03.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[28Jul2025 02:12:05.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[28Jul2025 02:12:18.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Sebasrex to KyoShiiro]
+[28Jul2025 02:12:19.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 went dancing in the acid rain
+[28Jul2025 02:12:21.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 went dancing in the acid rain
+[28Jul2025 02:12:37.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebasrex has reached the goal [I Wish For More Burning]
+[28Jul2025 02:12:51.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to 5237.500000, 6.500000, -3574.500000]
+[28Jul2025 02:12:54.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported PAIK_WS08 to KyoShiiro]
+[28Jul2025 02:12:58.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAIK_WS08 has reached the goal [I Wish For More Burning]
+[28Jul2025 02:13:07.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[28Jul2025 02:13:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported PAIK_WS08 to Sebasrex]
+[28Jul2025 02:13:11.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Atuesta18 has reached the goal [I Wish For More Burning]
+[28Jul2025 02:13:16.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported KyoShiiro to Sebasrex]
+[28Jul2025 02:13:18.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Atuesta18 to Sebasrex]
+[28Jul2025 02:13:19.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Teleported Atuesta18 to KyoShiiro]
+[28Jul2025 02:15:15.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
+[28Jul2025 02:15:17.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Creative Mode]
+[28Jul2025 02:15:30.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KyoShiiro: Set own game mode to Survival Mode]
+[28Jul2025 02:16:05.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebasrex: Teleported Sebasrex to KyoShiiro]
