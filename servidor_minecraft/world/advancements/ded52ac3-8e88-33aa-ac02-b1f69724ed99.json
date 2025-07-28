@@ -6095,5 +6095,11 @@
     },
     "done": false
   },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-07-28 01:46:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -552,6 +552,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "canopy_door": "2025-07-19 01:18:26 +0000",
+      "towerwood": "2025-07-28 01:46:32 +0000",
       "mangrove_log": "2025-07-23 00:16:22 +0000",
       "twilight_oak_log": "2025-07-19 02:00:30 +0000",
       "liveroot": "2025-07-19 02:23:36 +0000",
@@ -12365,6 +12366,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/food/ghast_burger": {
+    "criteria": {
+      "has_experiment_115": "2025-07-28 01:45:45 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
     "criteria": {
       "has_item": "2025-07-28 01:23:13 +0000"
@@ -12383,6 +12390,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-07-28 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2025-07-28 01:46:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_knights": {
     "criteria": {
       "all_knights": "2025-07-28 01:36:26 +0000",
@@ -12390,9 +12409,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-07-28 01:46:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/mossy_underbrick": {
     "criteria": {
       "has_item": "2025-07-28 01:23:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-07-28 01:49:10 +0000"
     },
     "done": true
   },
@@ -12420,9 +12451,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-07-28 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/carminite": {
+    "criteria": {
+      "has_item": "2025-07-28 01:49:12 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/cooking/grilled_ghast": {
+    "criteria": {
+      "has_experiment_115": "2025-07-28 01:45:45 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/material/armor_shard_cluster": {
     "criteria": {
       "has_item": "2025-07-28 01:17:04 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/borer_tear_soup": {
+    "criteria": {
+      "has_borer_essence": "2025-07-28 01:49:12 +0000"
     },
     "done": true
   },
@@ -12431,6 +12486,12 @@
       "previous_progression": "2025-07-28 01:36:26 +0000"
     },
     "done": false
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-07-28 01:51:02 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
